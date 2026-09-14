@@ -1,0 +1,23 @@
+# Netlify redirects — freytech.org legacy Joomla URLs → new site (301)
+/index.php                                   /                                                       301
+/about                                       /about/                                                 301
+/about/what-we-do                            /about/                                                 301
+/about/who-we-work-with                      /projects/                                              301
+/about/history-leadership                    /about/                                                 301
+/about/news                                  /resources/                                             301
+/about/news/20-have-you-checked-your-alkalinity-today  /resources/total-alkalinity-and-controllers/  301
+/about/resources                             /resources/                                             301
+/products                                    /water-chemistry-modernization/                         301
+/service-and-support                         /service-support/                                       301
+/service-and-support/capabilities            /service-support/                                       301
+/service-and-support/warranties              /service-support/#warranty                              301
+/service-and-support/request-a-quote         /contact/                                               301
+/project-showcase                            /projects/                                              301
+/project-showcase/*                          /projects/                                              301
+/contact-us                                  /contact/                                               301
+/component/*                                 /                                                       410
+/administrator/*                             /                                                       410
+/images/logo.png                             /images/brand/freytech-logo.png                         301
+/images/slider2.jpg                          /images/projects/ithaca-college-50m-pool.webp           301
+/images/UofR.jpg                             /images/projects/university-of-rochester-natatorium.webp 301
+/images/Fairport.jpg                         /images/projects/fairport-high-school-pool.webp         301

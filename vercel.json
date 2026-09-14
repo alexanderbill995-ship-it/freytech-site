@@ -1,0 +1,29 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/index.php", "destination": "/", "permanent": true },
+    { "source": "/about", "destination": "/about/", "permanent": true },
+    { "source": "/about/what-we-do", "destination": "/about/", "permanent": true },
+    { "source": "/about/who-we-work-with", "destination": "/projects/", "permanent": true },
+    { "source": "/about/history-leadership", "destination": "/about/", "permanent": true },
+    { "source": "/about/news", "destination": "/resources/", "permanent": true },
+    { "source": "/about/news/20-have-you-checked-your-alkalinity-today", "destination": "/resources/total-alkalinity-and-controllers/", "permanent": true },
+    { "source": "/about/resources", "destination": "/resources/", "permanent": true },
+    { "source": "/products", "destination": "/water-chemistry-modernization/", "permanent": true },
+    { "source": "/service-and-support", "destination": "/service-support/", "permanent": true },
+    { "source": "/service-and-support/capabilities", "destination": "/service-support/", "permanent": true },
+    { "source": "/service-and-support/warranties", "destination": "/service-support/#warranty", "permanent": true },
+    { "source": "/service-and-support/request-a-quote", "destination": "/contact/", "permanent": true },
+    { "source": "/project-showcase", "destination": "/projects/", "permanent": true },
+    { "source": "/project-showcase/:path*", "destination": "/projects/", "permanent": true },
+    { "source": "/contact-us", "destination": "/contact/", "permanent": true },
+    { "source": "/images/logo.png", "destination": "/images/brand/freytech-logo.png", "permanent": true }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [
+      { "key": "X-Content-Type-Options", "value": "nosniff" },
+      { "key": "X-Frame-Options", "value": "DENY" },
+      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+    ] }
+  ]
+}

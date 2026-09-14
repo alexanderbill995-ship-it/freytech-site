@@ -1,0 +1,138 @@
+/**
+ * Verified product facts. Every figure below traces to an official manufacturer
+ * document listed in research/products/claims-register.md (accessed 2026-09-14).
+ * Do not add capabilities here without a source.
+ */
+export const sources = {
+  becsys5Brochure: { label: "BECSys5 brochure (SLS-4333-H)", href: "https://www.becsys.com/wp-content/uploads/sites/2/2025/10/SLS-4333-H_BECSys5.pdf" },
+  becsysFamily: { label: "BECSys family brochure (SLS-4336-F)", href: "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf" },
+  becsysLive: { label: "BECSys Live brochure (SLS-6105-A)", href: "https://www.becsys.com/wp-content/uploads/2021/06/SLS-6105-A_BECSysLive.pdf" },
+  chemLock: { label: "BECSys ChemLock (SLS-6152-A)", href: "https://www.becsys.com/wp-content/uploads/2024/10/SLS-6152-A_BECSys_ChemLock.pdf" },
+  becsysProducts: { label: "BECS Technology products", href: "https://www.becsys.com/products/" },
+  becsDistributors: { label: "BECS distributor list", href: "https://www.becsys.com/distributors/" },
+  becsysLivePortal: { label: "BECSys Live portal", href: "https://www.becsys.live/" },
+  pulsarPrecision: { label: "Pulsar Precision product page", href: "https://pulsarpools.com/products/pulsar-precision/" },
+  pulsarPrecision30: { label: "Pulsar Precision 30 product page", href: "https://pulsarpools.com/products/pulsar-precision-30/" },
+  pulsarPrecision30Manual: { label: "Pulsar Precision 30 Operation & Installation Manual (Rev 1.1, 2023)", href: "https://pulsar-products.s3.amazonaws.com/Pulsar+Precision+30/Pulsar-Precision-30-Manual-EP.pdf" },
+  pulsarPrecision30Resources: { label: "Pulsar Precision 30 resources (bid spec, CAD, schematics)", href: "https://pulsarpools.com/resources-cat/pulsar-precision-30/" },
+  pulsarCalHypo: { label: "Pulsar cal hypo feed systems overview", href: "https://pulsarpools.com/products/cal-hypo-feeder-systems/" },
+  pulsarSupport: { label: "Pulsar support and manuals", href: "https://pulsarpools.com/support-and-manuals/" },
+  pulsarBriquetteSDS: { label: "Pulsar Plus briquettes safety data sheet", href: "https://pulsarpools.com/wp-content/uploads/2023/05/PULSAR-PLUS-CAL-HYPO-BRIQUETTES-FOR-COMMERCIAL-SWIMMING-POOL-USE-000000000000205064-United-States-English-1.pdf" },
+  nysSubpart61: { label: "10 NYCRR Subpart 6-1 (Swimming Pools)", href: "https://regs.health.ny.gov/volume-1a-title-10/content/subpart-6-1-swimming-pools" },
+  nysdohPools: { label: "NYSDOH swimming pool program", href: "https://www.health.ny.gov/environmental/outdoors/swimming/" },
+  mahc: { label: "CDC Model Aquatic Health Code (2023)", href: "https://www.cdc.gov/model-aquatic-health-code/php/about/index.html" },
+  nsf50: { label: "NSF/ANSI 50 pool and spa equipment certification", href: "https://www.nsf.org/consumer-resources/articles/pool-spa-equipment" },
+};
+
+export const becsys5 = {
+  name: "BECSys5",
+  manufacturer: "BECS Technology, Inc.",
+  positioning: "Advanced expandable water-chemistry controller",
+  standard: [
+    "pH, ORP, and temperature sensors with flow switch and machined flow cell",
+    "Four solid-state relay outputs (expandable to 19 with optional relay modules)",
+    "Gigabit Ethernet with email and text-message alarm notification",
+    "BECSys Live remote access at no additional fee, plus BECSys for Windows",
+    "One year (365 days) of 1-minute readings and one year of event history in non-volatile memory",
+    "Three-level access codes for operator, supervisor, and administrator functions",
+    "NEMA 4X (IP66) glass-reinforced polycarbonate enclosure; 115/230 VAC, 50/60 Hz",
+  ],
+  optional: [
+    "Free, total, and combined chlorine (true PPM) monitoring and control",
+    "Total alkalinity monitoring and control with the BECSys Alkalinity Meter",
+    "Conductivity/TDS, turbidity, system flow, pressures, vacuum, and total dynamic head",
+    "Chemical inventory and tank-level monitoring; surge-tank autofill and makeup-water control",
+    "Patented VFD recirculation-pump control (requires 4–20 mA output option)",
+    "Heater on/off with fireman cycle, UV (combined-chlorine) control, ozone feed control, TDS bleed",
+    "Building-management interfaces: Modbus TCP/IP, BACnet, Metasys N2, LonWorks",
+    "Digital test-kit upload from SpinTouch and Lumiso kits; Wi-Fi",
+  ],
+  safety: [
+    "No-flow alarm with feed lockout and flow-restored delay",
+    "Programmable failsafe overfeed timers (1-minute increments, up to 18 hours)",
+    "Sanitizer feed lockout on pH alarm",
+    "Emergency-off function",
+    "Optional BECSys ChemLock: an independent, UL 508A-approved chemical-feed interlock tied to the circulation pump",
+  ],
+  certifications: "NSF Certified and Listed to NSF/ANSI Standard 50; ETL Listed to ANSI/UL 61010-1 (per BECSys5 Technical Data Sheet TDS-4262).",
+  warranty: "Manufacturer warranty as published by BECS: 5 years electronics; 2 years pH, ORP, and temperature sensors; 1 year optional sensors and flow cell.",
+  family: [
+    { name: "BECSys3", fit: "Entry pH/ORP controller with a two-line display; optional PPM sensor and optional communications for BECSys Live." },
+    { name: "BECSys5", fit: "Expandable control, monitoring, and integration for most institutional pools. Ethernet, alarms, logging, and BECSys Live standard." },
+    { name: "BECSys7", fit: "Adds automatic filter backwash for up to 16 filters, five mechanical relays, and UV/heater interfaces for the largest mechanical rooms." },
+  ],
+  live: {
+    facts: [
+      "Included with BECSys5 and BECSys7 at no additional fee or subscription (BECSys3 requires the Communications option)",
+      "Two-factor authentication on all user accounts",
+      "End-to-end message encryption from browser to controller",
+      "EZConnect: no VPN, port forwarding, or public IP address required",
+      "Works from any current browser on PC, Mac, tablet, or phone",
+      "Dashboards, graphs, and reports covering alarm patterns, parameter changes, test-kit logs, and water-quality readings",
+      "Unlimited controllers and groups per account, so districts and campuses can see every body of water in one place",
+    ],
+  },
+  faqs: [
+    { q: "Do we need a separate controller for each pool?", a: "Yes. A BECSys5 controls one body of water. Facilities with a lap pool, therapy pool, and spa typically install one controller per pool and view them together in BECSys Live." },
+    { q: "Does BECSys5 replace daily testing and operating records in New York?", a: "No. Under 10 NYCRR 6-1.11 and 6-1.21, manual DPD testing and the State's daily operation record remain required. The controller's one-year log and BECSys Live reports supplement those records and make them easier to verify. The State code allows electronic monitoring 'in addition to the test kit' (6-1.29 item 11.8)." },
+    { q: "Is BECSys5 NSF/ANSI 50 certified?", a: "BECS Technology's technical data sheet states BECSys5 is NSF Certified and Listed to NSF/ANSI Standard 50 and ETL Listed to UL 61010-1. We can provide the listing documentation for your engineer or health department." },
+    { q: "Can it control free chlorine directly rather than by ORP?", a: "Yes, with the optional free-chlorine (PPM) sensor. Many facilities control on ORP with a PPM sensor for monitoring; others control directly on PPM. We recommend the approach based on your water, bather load, and operator preferences." },
+    { q: "What does remote access cost?", a: "BECS states that BECSys Live is included with BECSys5 with no additional fees or monthly subscription. Your facility's internet connection and network policy are the only requirements." },
+    { q: "Can alarms go to more than one person?", a: "Yes. The controller sends email and text-message alarm notifications through its Ethernet connection, and BECSys Live shows alarm status remotely. We set up the recipient list and escalation during commissioning." },
+    { q: "Can BECSys5 talk to our building management system?", a: "Optional Modbus TCP/IP, BACnet, Metasys N2, and LonWorks interfaces are available. Integration scope is defined with your controls contractor during design." },
+    { q: "How long does a replacement take?", a: "A like-for-like controller replacement on an existing flow cell and feed equipment is typically completed in one to two days of on-site work, followed by a stabilization period and operator training. Adding sensors, relays, or new feed equipment extends the scope." },
+    { q: "What happens if the internet goes down?", a: "The controller keeps controlling. Local control, interlocks, and logging run on the controller itself; remote visibility resumes when the connection returns." },
+    { q: "How does FreyTech support the system after installation?", a: "Commissioning documentation, operator training, phone support, preventive maintenance visits for calibration and probe replacement, and warranty coordination with BECS. FreyTech is listed by BECS Technology as its New York distributor." },
+  ],
+};
+
+export const pulsar = {
+  brand: "Pulsar",
+  manufacturer: "Pulsar Systems (Solenis); Pulsar is a trademark of Innovative Water Care, LLC or its affiliates",
+  precision: {
+    name: "Pulsar Precision",
+    model: "PS-1HCE",
+    positioning: "Patented high-capacity erosion (HCE) feed system for very large pools; manufacturer-rated for 500,000 to 1,000,000+ gallon pools.",
+    specs: [
+      { k: "Chlorine delivery (pools)", v: "5–189 lb available chlorine per day; maximum 7.8 lb/hr", src: "Pulsar Precision O&I Manual Rev 1.0 (2020), Table 8" },
+      { k: "Solution strength", v: "0.6–0.8% available chlorine at 84 °F inlet water", src: "O&I Manual, Table 8" },
+      { k: "Dry chemical capacity", v: "100 lb hopper plus 50 lb reserve of Pulsar Plus briquettes", src: "O&I Manual, Table 7" },
+      { k: "Footprint / weight", v: "29.8 in L × 25.3 in W × 40.9 in H; approximately 220 lb operating", src: "O&I Manual, Table 7" },
+      { k: "Water supply", v: "Booster-pump / Venturi loop; inlet 2.5–3.5 gpm at 30–40 psig", src: "O&I Manual, Table 5" },
+      { k: "Electrical", v: "120/240 VAC, single-phase, 50/60 Hz, 15–20 A", src: "O&I Manual, Table 5" },
+      { k: "Listing", v: "NSF Listed (Pulsar does not state the standard number)", src: "pulsarpools.com cal hypo feed systems page" },
+      { k: "Manufacturer warranty", v: "12 months from installation or 18 months from shipment, whichever is earlier", src: "O&I Manual" },
+    ],
+  },
+  precision30: {
+    name: "Pulsar Precision 30",
+    model: "PS-1HCE30",
+    positioning: "Compact flow-based calcium hypochlorite feeder for small and mid-size commercial pools.",
+    specs: [
+      { k: "Chlorine delivery (pools)", v: "2–36 lb available chlorine per day; maximum 1.5 lb/hr", src: "Pulsar Precision 30 O&I Manual Rev 1.1 (2023), Table 12" },
+      { k: "Manufacturer sizing guidance", v: "Indoor pools up to 200,000 gal; outdoor non-stabilized up to 90,000 gal; outdoor stabilized up to 150,000 gal; spas up to 15,000 gal (nominal bather loads)", src: "O&I Manual Rev 1.1, Table 12" },
+      { k: "Solution strength", v: "0.2–0.3% available chlorine", src: "O&I Manual Rev 1.1" },
+      { k: "Dry chemical capacity", v: "30 lb of Pulsar Plus briquettes", src: "O&I Manual Rev 1.1, Table 11" },
+      { k: "Footprint / weight", v: "19.5 in D × 15.5 in W × 34 in H; approximately 50 lb operating", src: "O&I Manual Rev 1.1, Table 11" },
+      { k: "Water supply", v: "Flow-based Venturi bypass; 1.25 gpm at 5 psi filter pressure in the standard installation (booster-pump variants exist)", src: "O&I Manual Rev 1.1, Fig. 1 and Table 12" },
+      { k: "Listing", v: "NSF Listed (standard number not stated by Pulsar)", src: "pulsarpools.com" },
+      { k: "Manufacturer warranty", v: "12 months from installation or 18 months from shipment, whichever is earlier", src: "O&I Manual Rev 1.1" },
+    ],
+    inconsistency: "Pulsar's Precision 30 web page states three different pool-size figures (10,000–300,000 gallons; up to 100,000 gallons; up to 300,000 gallons), and its category page describes the cal hypo line as intended for pools over 100,000 gallons. The installation manual's own guidance tops out at 200,000 gallons for indoor pools. FreyTech sizes by measured chlorine demand, not by any of these headline figures.",
+  },
+  shared: [
+    "Both feeders erode Pulsar Plus calcium hypochlorite briquettes into a chlorine solution that is delivered on demand; the manufacturer's warranty requires Pulsar Plus briquettes exclusively.",
+    "Both are switched by the chlorine-demand output of a chemistry controller such as BECSys5, or by Pulsar's own GuardTec pH/ORP controller.",
+    "Pulsar offers a customizable skid option for pre-plumbed installation.",
+  ],
+  faqs: [
+    { q: "How do we know whether our pool is a fit for a Pulsar Precision?", a: "By chlorine demand, not gallons. We look at pool volume, turnover, peak bather load, indoor or outdoor exposure, water temperature, current daily chlorine use, hydraulics, and chemical-storage space. Pulsar's own published sizing figures are inconsistent, so we treat them as a starting point only." },
+    { q: "Which model fits a typical high school or YMCA pool?", a: "Often neither is required; a properly controlled liquid or existing feed may be adequate. Where a switch to cal hypo makes sense, the Precision 30 is the usual candidate for pools in the low hundreds of thousands of gallons. The full-size Precision is intended by the manufacturer for very large pools and water parks." },
+    { q: "Does the 'outdoor stabilized' sizing apply in New York?", a: "Generally no. New York's Sanitary Code prohibits cyanuric acid (stabilizer) in public pools (10 NYCRR 6-1.11), so for outdoor pools in our territory the manufacturer's non-stabilized guidance is the relevant figure." },
+    { q: "What does the operator have to do?", a: "Keep the hopper stocked with briquettes, keep the feeder clean per the manual, and monitor the controller. Cal hypo is an oxidizer and must be stored and handled as the SDS and your local fire code require; we cover this in training." },
+    { q: "Can it run with our existing controller?", a: "The feeder's solenoid is driven by the chlorine-demand output of a chemistry controller. It is commonly paired with BECSys5, and it can be driven by other controllers with a suitable output. We confirm compatibility during the assessment." },
+    { q: "What are the alternatives?", a: "Liquid sodium hypochlorite with metering pumps, other calcium hypochlorite tablet feeders, trichlor feeders (not appropriate for most New York public pools because of stabilizer), gas chlorine where still permitted, and on-site salt chlorine generation. Each has trade-offs in capacity, handling, storage, and cost; the assessment compares them for your facility." },
+    { q: "Does FreyTech supply the briquettes?", a: "FreyTech has offered chemical delivery as part of its service programs. Cal hypo supply arrangements for your location should be confirmed with us." },
+    { q: "Is FreyTech an authorized Pulsar dealer?", a: "FreyTech installs and services Pulsar Precision systems in New York. Authorized-dealer status for your county should be confirmed with FreyTech directly." },
+  ],
+};

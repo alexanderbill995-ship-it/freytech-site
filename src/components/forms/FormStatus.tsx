@@ -1,0 +1,48 @@
+import type { SubmitResult } from "./submit";
+import { site } from "@/lib/site";
+import styles from "./Form.module.css";
+
+export function FormStatus({ result, formLabel }: { result: SubmitResult | null; formLabel: string }) {
+  if (!result) return null;
+  if (result.status === "sent") {
+    return (
+      <div className={[styles.status, styles.status_success].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">
+        <h3>Received. Thank you.</h3>
+        <p>Your {formLabel} was delivered (reference <code>{result.reference}</code>). A commercial aquatic specialist will review the details and follow up with you directly. If your need is urgent, please call{site.phone ? ` ${site.phone}` : " us"}.</p>
+      </div>
+    );
+  }
+  if (result.status === "error") {
+    return (
+      <div className={[styles.status, styles.status_error].join(" ")} role="alert" tabIndex={-1} id="form-status">
+        <h3>Your {formLabel} was not sent</h3>
+        <p>{result.message} Your entries are still in the form below, so you can try again.{site.email ? ` You can also email ${site.email}.` : ""}</p>
+      </div>
+    );
+  }
+  // unconfigured: honest development fallback
+  const mailBody = encodeURIComponent(Object.entries(result.payload).filter(([, v]) => v).map(([k, v]) => `${k}: ${v}`).join("\n"));
+  return (
+    <div className={[styles.status, styles.status_info].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">
+      <h3>Form delivery is not configured yet</h3>
+      <p>
+        This site has no form endpoint configured (<code>NEXT_PUBLIC_FORM_ENDPOINT</code> is empty), so <strong>your {formLabel} was not delivered</strong>. Nothing has been sent or stored.
+      </p>
+      {site.email ? (
+        <p>
+          You can send the same information by email instead: <a href={`mailto:${site.email}?subject=${encodeURIComponent(`Website ${formLabel}`)}&body=${mailBody}`}>open a pre-filled email to {site.email}</a>.
+        </p>
+      ) : (
+        <p>Set the endpoint in <code>.env.local</code> (see <code>docs/DEPLOYMENT.md</code>) to enable delivery.</p>
+      )}
+      <details>
+        <summary>Show the data that would have been sent</summary>
+        <ul>
+          {Object.entries(result.payload).filter(([, v]) => v).map(([k, v]) => (
+            <li key={k}><code>{k}</code>: {v}</li>
+          ))}
+        </ul>
+      </details>
+    </div>
+  );
+}

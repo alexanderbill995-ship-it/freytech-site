@@ -1,0 +1,17 @@
+.nav { display: none; }
+@media (min-width: 64rem) { .nav { display: block; } }
+.list { list-style: none; margin: 0; padding: 0; display: flex; gap: var(--sp-1); }
+.hasMenu { position: relative; }
+.link { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.6rem 0.75rem; font-size: var(--text-sm); font-weight: 600; color: var(--navy-900); text-decoration: none; border-radius: var(--radius); background: transparent; border: 0; }
+.link:hover { color: var(--blue-600); background: var(--steel-50); }
+.active { box-shadow: inset 0 -2px 0 var(--blue-600); border-radius: 0; }
+.button svg { transition: transform var(--dur) var(--ease); }
+.button[aria-expanded="true"] svg { transform: rotate(180deg); }
+.menu { position: absolute; top: calc(100% + 0.5rem); left: 0; min-width: 22rem; background: var(--white); border: 1px solid var(--border); border-top: 3px solid var(--blue-600); border-radius: var(--radius-lg); box-shadow: var(--shadow); padding: var(--sp-3); z-index: 200; }
+.menuList { list-style: none; margin: 0; padding: 0; display: grid; }
+.menuLink { display: grid; gap: 0.15rem; padding: var(--sp-3); border-radius: var(--radius); text-decoration: none; color: var(--navy-900); }
+.menuLink:hover { background: var(--blue-50); }
+.menuLink[aria-current="page"] .menuLabel { color: var(--blue-600); }
+.menuLabel { font-weight: 600; font-size: var(--text-sm); }
+.menuDesc { font-size: var(--text-xs); color: var(--fg-muted); }
+.menuAll { display: block; margin-top: var(--sp-2); padding: var(--sp-3); font-size: var(--text-sm); font-weight: 600; border-top: 1px solid var(--border); text-decoration: none; }

@@ -1,0 +1,118 @@
+# freytech.org — discovered internal URLs with HTTP status (crawled 2026-09-14 via curl)
+# Discovery: nav menu, footer, in-page links, robots.txt, sitemap.xml (404), Joomla article-ID enumeration (ids 1–30), Joomla archive view, gallery RSS feeds.
+# Note: sitemap.xml referenced in robots.txt does NOT exist (404).
+
+## Primary navigation pages (all 200)
+200  https://freytech.org/                                              Home
+200  https://freytech.org/about/what-we-do                              About Frey > What We Do
+200  https://freytech.org/about/who-we-work-with                        About Frey > Who We Work With
+200  https://freytech.org/about/history-leadership                      About Frey > History & Leadership
+200  https://freytech.org/about/news                                    About Frey > News (blog listing; only 1 published article)
+200  https://freytech.org/about/news/20-have-you-checked-your-alkalinity-today   News article (Jan 2015)
+200  https://freytech.org/about/resources                               About Frey > Resources
+200  https://freytech.org/products                                      Products
+200  https://freytech.org/service-and-support/capabilities              Service & Support > Capabilities
+200  https://freytech.org/service-and-support/warranties                Service & Support > Warranties
+200  https://freytech.org/service-and-support/request-a-quote           Service & Support > Request A Quote  ** BROKEN: renders Joomla warning "The form #3 does not exist or it is not published." No form is displayed. **
+200  https://freytech.org/project-showcase/photo-gallery                Project Showcase > Photo Gallery (Phoca Gallery, category "Installations")
+200  https://freytech.org/project-showcase/photo-gallery/category/1     same as above (linked from homepage)
+200  https://freytech.org/project-showcase/photo-gallery/category/1-installations   canonical gallery category URL
+200  https://freytech.org/project-showcase/photo-gallery/category/2-avatars         empty sub-category "avatars" (only an "up" folder icon)
+200  https://freytech.org/project-showcase/testimonials                 Project Showcase > Testimonials
+200  https://freytech.org/contact-us                                    Contact Us
+
+## Section landing URLs (parent menu items; duplicate the first child page's content — duplicate-content issue)
+200  https://freytech.org/about                                         duplicates "What We Do" (with double H1 "About Frey" + "What We Do")
+200  https://freytech.org/service-and-support                           duplicates "Capabilities" (double H1)
+200  https://freytech.org/project-showcase                              duplicates Photo Gallery ("Project Showcase - Installations")
+
+## Gallery photo detail / download links (all linked from gallery page — ALL BROKEN)
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/1-moosehillock-pool-new-pool-to-open-in-2014?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/1-moosehillock-pool-new-pool-to-open-in-2014?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/2-parkforestcommpoolpa?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/2-parkforestcommpoolpa?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/3-salemkrocor-1?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/3-salemkrocor-1?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/4-salemkrocor-2?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/4-salemkrocor-2?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/5-salemkrocor-3?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/5-salemkrocor-3?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/6-temple-of-huey-inner-tube-ride-4?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/6-temple-of-huey-inner-tube-ride-4?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/7-whitewater-world-queensland-australia-kiddie-slide?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/7-whitewater-world-queensland-australia-kiddie-slide?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/8-williamwelshcommunitypool-pa?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/8-williamwelshcommunitypool-pa?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/9-wwcp-pa?tmpl=component
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/9-wwcp-pa?tmpl=component&phocadownload=2
+500  https://freytech.org/project-showcase/photo-gallery/1-installations/detail/1-moosehillock-pool-new-pool-to-open-in-2014   (without tmpl param — also 500)
+
+## Feeds
+200  https://freytech.org/about/news?format=feed&type=rss
+200  https://freytech.org/about/news?format=feed&type=atom
+200  https://freytech.org/project-showcase/photo-gallery/category/1-installations?format=feed
+200  https://freytech.org/project-showcase/photo-gallery/category/1-installations?format=feed&type=rss
+200  https://freytech.org/project-showcase/photo-gallery/category/2-avatars?format=feed
+200  https://freytech.org/project-showcase/photo-gallery/category/2-avatars?format=feed&type=rss
+
+## Joomla system / non-SEF URLs found reachable (not linked in nav)
+200  https://freytech.org/index.php                                     = Home
+200  https://freytech.org/index.php?option=com_content&view=archive     Archive view — lists 3 archived (unpublished-from-nav) articles: "Dolphin Wave" (2014), "Retro-fit Kits for Lifts Also Available Now" (2012), "ADA Deadline for Pool Lifts Now In Effect" (2012)
+200  https://freytech.org/index.php?option=com_content&view=archive&year=2012&limit=0
+200  https://freytech.org/index.php?option=com_content&view=archive&year=2014&limit=0
+200  https://freytech.org/index.php?option=com_content&view=featured    empty featured blog
+200  https://freytech.org/component/content/?view=featured              empty featured blog
+200  https://freytech.org/index.php?option=com_content&view=article&id=1    Home article (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=2    Who We Work With (raw)
+404  https://freytech.org/index.php?option=com_content&view=article&id=3
+200  https://freytech.org/index.php?option=com_content&view=article&id=4    History & Leadership (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=5    News (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=6    Resources (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=7    Products (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=8    Capabilities (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=9    Warranties (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=10   Contact Information (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=11   ARCHIVED ARTICLE: "ADA Deadline for Pool Lifts Now In Effect" (2012)
+200  https://freytech.org/index.php?option=com_content&view=article&id=12   ARCHIVED ARTICLE: "Retro-fit Kits for Lifts Also Available Now" (2012)
+200  https://freytech.org/index.php?option=com_content&view=article&id=13   What We Do (raw)
+200  https://freytech.org/index.php?option=com_content&view=article&id=14   Testimonials (raw)
+404  https://freytech.org/index.php?option=com_content&view=article&id=15 … 18
+200  https://freytech.org/index.php?option=com_content&view=article&id=19   ARCHIVED ARTICLE: "Dolphin Wave" (2014)
+200  https://freytech.org/index.php?option=com_content&view=article&id=20   Have You Checked Your Alkalinity Today? (raw)
+404  https://freytech.org/index.php?option=com_content&view=article&id=21 … 30
+200  https://freytech.org/index.php?option=com_users&view=login          Joomla front-end login form (exposed, not linked)
+200  https://freytech.org/component/users/?view=login                    same
+200  https://freytech.org/administrator/                                 Joomla admin login (exposed; standard)
+200  https://freytech.org/administrator/manifests/files/joomla.xml       Exposes Joomla version 3.10.12 (July 2023)
+200  https://freytech.org/language/en-GB/en-GB.xml                       Exposes Joomla version 3.10.12
+200  https://freytech.org/README.txt                                     Joomla README (exposed)
+200  https://freytech.org/htaccess.txt                                   Joomla sample htaccess (exposed)
+200  https://freytech.org/web.config.txt                                 Joomla sample web.config (exposed)
+200  https://freytech.org/robots.txt                                     "User-agent: * / Allow: / / Crawl-delay:3 / Sitemap:https://freytech.org/sitemap.xml"
+404  https://freytech.org/sitemap.xml                                    Referenced by robots.txt but missing
+404  https://freytech.org/index.php?option=com_xmap&view=xml
+
+## Hostname / protocol variants
+200  http://freytech.org/           HTTP is served (NO redirect to HTTPS)
+200  https://www.freytech.org/      www resolves (same IP 64.141.147.182), serves 200; no canonical redirect either direction
+     (both hostnames serve identical content — duplicate-host issue; <base href="https://freytech.org/"> is set in HTML)
+
+## External links found on the site (not crawled)
+http://www.msmmarcom.com                          "Mason Digital" site-design credit (footer)
+http://aquacreekproducts.com/                     Products page
+http://becs.com/Aquatics_Products.aspx            Products page
+http://www.epdusa.net/products/                   Products page
+http://www.lonza.com/products-services/water-treatment/non-residential-water/commercial-aquatics.aspx
+http://dolphinpoolrobot.com/en/commercial-pool-cleaners
+http://www.neptunebenson.com/products/
+http://pentaircommercial.com/sections/deck-equipment-19.htm
+http://www.spectrumproducts.com/
+http://slipmd.com/
+http://www.starkbulkheads.com/
+https://www.taylortechnologies.com/home.asp
+http://www.ada.gov/pools_2010.htm                 Resources page + archived ADA article
+http://www.arda.org/arda/news-information/default.aspx?id=3583   Resources page (2013 ADA deadline extension)
+http://"http:/www.aquacreek.com/adaresources.html   Resources page — MALFORMED href (literal quote in URL); broken link
+http://www.health.ny.gov/regulations/nycrr/title_10/part_6/subpart_6-1.htm
+http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js   loaded over plain HTTP on HTTPS page (mixed content)
+http://openid.net/login-bg.gif                    referenced in template.css

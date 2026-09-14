@@ -1,0 +1,13 @@
+.section { padding-block: var(--section-y); }
+.tight { padding-block: calc(var(--section-y) * 0.6); }
+.default { background: var(--bg); }
+.alt { background: var(--bg-alt); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+.alt + .alt { border-top: 0; }
+.dark { background: var(--navy-900); color: var(--fg-on-dark); }
+.navy { background: var(--navy-950); color: var(--fg-on-dark); }
+.dark h1, .dark h2, .dark h3, .dark h4, .navy h1, .navy h2, .navy h3, .navy h4 { color: var(--white); }
+.dark a:not([class]), .navy a:not([class]) { color: var(--blue-400); }
+.header { display: grid; gap: var(--sp-3); margin-bottom: var(--sp-10); max-width: 46rem; }
+.header .lede { margin-top: var(--sp-1); }
+.center { margin-inline: auto; text-align: center; }
+.center .lede { margin-inline: auto; }

@@ -1,0 +1,26 @@
+.footer { background: var(--navy-950); color: var(--fg-on-dark-muted); font-size: var(--text-sm); padding-top: var(--sp-16); padding-bottom: calc(var(--sp-10) + 4rem); }
+@media (min-width: 64rem) { .footer { padding-bottom: var(--sp-10); } }
+.top { display: grid; grid-template-columns: 1.6fr repeat(3, 1fr); gap: var(--sp-10); padding-bottom: var(--sp-12); border-bottom: 1px solid rgba(255,255,255,0.12); }
+@media (max-width: 64rem) { .top { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 40rem) { .top { grid-template-columns: 1fr; gap: var(--sp-8); } }
+.brand { display: grid; gap: var(--sp-4); align-content: start; }
+.blurb { line-height: var(--leading-relaxed); max-width: 40ch; }
+.contact { display: grid; gap: var(--sp-2); }
+.contact a { color: var(--white); text-decoration: none; }
+.contact a:hover { text-decoration: underline; }
+.hours { color: var(--steel-400); }
+.heading { font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-400); margin-bottom: var(--sp-4); font-weight: 500; }
+.links { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--sp-2); }
+.links a { color: var(--fg-on-dark); text-decoration: none; }
+.links a:hover { color: var(--blue-400); text-decoration: underline; }
+.regions { padding-block: var(--sp-8); border-bottom: 1px solid rgba(255,255,255,0.12); display: grid; gap: var(--sp-3); }
+.regionsLabel { font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: 0.08em; text-transform: uppercase; color: var(--steel-400); }
+.regionList { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--sp-2) var(--sp-5); }
+.regionList a { color: var(--fg-on-dark); text-decoration: none; }
+.regionList a:hover { color: var(--blue-400); text-decoration: underline; }
+.bottom { padding-top: var(--sp-6); display: grid; grid-template-columns: auto auto; gap: var(--sp-3) var(--sp-8); align-items: center; font-size: var(--text-xs); color: var(--steel-400); }
+@media (max-width: 40rem) { .bottom { grid-template-columns: 1fr; } }
+.legal { list-style: none; margin: 0; padding: 0; display: flex; gap: var(--sp-4); justify-self: end; }
+@media (max-width: 40rem) { .legal { justify-self: start; } }
+.legal a { color: var(--fg-on-dark-muted); }
+.trademark { grid-column: 1 / -1; max-width: 80ch; }

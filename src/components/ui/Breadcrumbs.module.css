@@ -1,0 +1,7 @@
+.nav { font-size: var(--text-sm); }
+.list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; color: var(--fg-on-dark-muted); }
+.item { display: inline-flex; gap: 0.4rem; }
+.item a { color: var(--fg-on-dark-muted); text-decoration: none; }
+.item a:hover { color: var(--white); text-decoration: underline; }
+.item span[aria-current] { color: var(--white); }
+.sep { color: var(--steel-400); }

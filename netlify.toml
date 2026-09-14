@@ -1,0 +1,67 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[[redirects]]
+  from = "/index.php"
+  to = "/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "1" }
+[[redirects]]
+  from = "/index.php"
+  to = "/projects/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "2" }
+[[redirects]]
+  from = "/index.php"
+  to = "/about/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "4" }
+[[redirects]]
+  from = "/index.php"
+  to = "/water-chemistry-modernization/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "7" }
+[[redirects]]
+  from = "/index.php"
+  to = "/service-support/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "8" }
+[[redirects]]
+  from = "/index.php"
+  to = "/service-support/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "9" }
+[[redirects]]
+  from = "/index.php"
+  to = "/contact/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "10" }
+[[redirects]]
+  from = "/index.php"
+  to = "/about/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "13" }
+[[redirects]]
+  from = "/index.php"
+  to = "/projects/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "14" }
+[[redirects]]
+  from = "/index.php"
+  to = "/resources/total-alkalinity-and-controllers/"
+  status = 301
+  query = { option = "com_content", view = "article", id = "20" }
+[[redirects]]
+  from = "/index.php"
+  to = "/resources/"
+  status = 301
+  query = { option = "com_content" }
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"

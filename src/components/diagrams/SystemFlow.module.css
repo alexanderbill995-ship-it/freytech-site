@@ -1,0 +1,26 @@
+.flow { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0; counter-reset: step; border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden; background: var(--white); }
+@media (max-width: 64rem) { .flow { grid-template-columns: repeat(2, minmax(0, 1fr)); } .step:last-child { grid-column: 1 / -1; } }
+@media (max-width: 40rem) { .flow { grid-template-columns: minmax(0, 1fr); } .step:last-child { grid-column: auto; } }
+.step { position: relative; padding: var(--sp-5) var(--sp-5) var(--sp-6); border-right: 1px solid var(--border); display: grid; gap: var(--sp-2); align-content: start; }
+.step:last-child { border-right: 0; }
+@media (max-width: 64rem) { .step { border-bottom: 1px solid var(--border); } .step:nth-child(2n) { border-right: 0; } }
+@media (max-width: 40rem) { .step { border-right: 0; } }
+.step::after { content: ""; position: absolute; right: -7px; top: 1.75rem; width: 12px; height: 12px; border-top: 1.5px solid var(--blue-500); border-right: 1.5px solid var(--blue-500); transform: rotate(45deg); background: var(--white); z-index: 1; }
+.step:last-child::after { display: none; }
+@media (max-width: 64rem) { .step::after { display: none; } }
+.head { display: flex; align-items: baseline; gap: var(--sp-3); }
+.num { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--blue-600); letter-spacing: 0.08em; }
+.label { font-weight: 700; font-size: var(--text-lg); color: var(--navy-900); letter-spacing: -0.01em; }
+.who { font-family: var(--font-mono); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.1em; color: var(--steel-500); }
+.text { font-size: var(--text-sm); color: var(--steel-700); line-height: var(--leading-relaxed); }
+.link { font-size: var(--text-sm); font-weight: 600; text-decoration: none; margin-top: auto; }
+.link:hover { text-decoration: underline; }
+.compact .step { padding: var(--sp-4); }
+.compact .label { font-size: var(--text-base); }
+:global(.on-dark) .flow { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.15); }
+:global(.on-dark) .step { border-color: rgba(255,255,255,0.15); }
+:global(.on-dark) .step::after { background: var(--navy-900); border-color: var(--blue-400); }
+:global(.on-dark) .label { color: var(--white); }
+:global(.on-dark) .text { color: var(--fg-on-dark-muted); }
+:global(.on-dark) .who { color: var(--steel-400); }
+:global(.on-dark) .link { color: var(--blue-400); }

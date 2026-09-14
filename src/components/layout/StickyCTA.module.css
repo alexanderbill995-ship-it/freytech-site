@@ -1,0 +1,5 @@
+.bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 90; display: grid; grid-template-columns: 2fr 1fr; gap: 0.5rem; padding: 0.6rem var(--gutter) calc(0.6rem + env(safe-area-inset-bottom)); background: rgba(255,255,255,0.97); border-top: 1px solid var(--border); box-shadow: 0 -4px 16px rgba(11,31,58,0.08); }
+@media (min-width: 64rem) { .bar { display: none; } }
+.primary, .secondary { display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; min-height: 2.9rem; border-radius: var(--radius); font-weight: 600; font-size: var(--text-sm); text-decoration: none; }
+.primary { background: var(--blue-600); color: var(--white); }
+.secondary { border: 1.5px solid var(--navy-900); color: var(--navy-900); background: var(--white); }

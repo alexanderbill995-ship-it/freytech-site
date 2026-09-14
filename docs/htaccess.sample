@@ -1,0 +1,18 @@
+# Apache/cPanel sample for legacy Joomla query-string URLs (place in .htaccess at web root)
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=20 [NC]
+RewriteRule ^index\.php$ /resources/total-alkalinity-and-controllers/? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=(1)$ [NC]
+RewriteRule ^index\.php$ /? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=(2|14) [NC]
+RewriteRule ^index\.php$ /projects/? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=(4|13) [NC]
+RewriteRule ^index\.php$ /about/? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=(8|9) [NC]
+RewriteRule ^index\.php$ /service-support/? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content.*id=10 [NC]
+RewriteRule ^index\.php$ /contact/? [L,R=301]
+RewriteCond %{QUERY_STRING} option=com_content [NC]
+RewriteRule ^index\.php$ /resources/? [L,R=301]

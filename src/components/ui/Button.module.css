@@ -1,0 +1,21 @@
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+  font-weight: 600; text-decoration: none; border-radius: var(--radius);
+  border: 1.5px solid transparent; line-height: 1; white-space: nowrap;
+  transition: background-color var(--dur) var(--ease), color var(--dur) var(--ease), border-color var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+.btn svg { flex: none; transition: transform var(--dur) var(--ease); }
+.btn:hover svg { transform: translateX(2px); }
+.md { padding: 0.8rem 1.15rem; font-size: var(--text-sm); min-height: 2.75rem; }
+.lg { padding: 0.95rem 1.4rem; font-size: var(--text-base); min-height: 3.1rem; }
+.sm { padding: 0.55rem 0.85rem; font-size: var(--text-sm); min-height: 2.25rem; }
+.primary { background: var(--blue-600); color: var(--white); border-color: var(--blue-600); }
+.primary:hover { background: var(--navy-800); border-color: var(--navy-800); color: var(--white); }
+.secondary { background: var(--white); color: var(--navy-900); border-color: var(--navy-900); }
+.secondary:hover { background: var(--navy-900); color: var(--white); }
+.ghost { background: transparent; color: var(--navy-900); border-color: transparent; padding-inline: 0.5rem; }
+.ghost:hover { color: var(--blue-600); }
+.onDark { background: var(--white); color: var(--navy-900); border-color: var(--white); }
+.onDark:hover { background: var(--blue-400); border-color: var(--blue-400); color: var(--navy-950); }
+.onDarkGhost { background: transparent; color: var(--white); border-color: rgba(255,255,255,0.55); }
+.onDarkGhost:hover { border-color: var(--white); background: rgba(255,255,255,0.08); color: var(--white); }

@@ -1,0 +1,39 @@
+# Pulsar® — other lines, positioning notes, dealer locator
+
+Access date: 2026-09-14. Official site: https://pulsarpools.com (pulsarsystems.net redirects here). Company: Pulsar® Systems, part of Solenis; "Pulsar® and Pulsar® logos are trademarks of Innovative Water Care, LLC or its affiliates." HQ per About page: 2475 Pinnacle Drive, Wilmington, DE 19803. "For more than 45 years, Pulsar® products have been at the cutting edge of commercial swimming pool water treatment". Phone 800-4-PULSAR (800-478-5727).
+
+## Current product line (products index https://pulsarpools.com/products/)
+1. **Cal Hypo Feed Systems** — Pulsar® Precision and Pulsar® Precision 30 (https://pulsarpools.com/products/cal-hypo-feeder-systems/). Index blurb: "energy efficient and easy to maintain and service with a flexible design that allows for easy integration across commercial pools over 100000 gallons".
+2. **Acid Plus — Dry Acid pH Control Feed System** (https://pulsarpools.com/products/acid-plus/): "reliable pH balancing and a modular design feeder" with safer handling (dry acid). Manual: https://pulsar-products.s3.amazonaws.com/Pular+Acid+Plus/Pulsar-Acid-Plus-Manual-EP.pdf (URL typo "Pular" is Pulsar's).
+3. **Pulsar Chemical Solutions** (https://pulsarpools.com/products/chemicals/): "NSF-Certified commercial pool water treatment chemicals". SKUs with SDSs on the support page: Pulsar Plus Cal Hypo Briquettes; Pulsar Calcium Hypochlorite Granular; Pulsar Power Shock Cal Hypo Granular; Pulsar pH Down (+4); Pulsar Sunscreen 20 Stabilizer. Also "Pulsar® Acid Cleaner 50" referenced in manuals.
+4. **Customizable Chemical Feed Skid Systems** (https://pulsarpools.com/products/customizable-skid-system/): "easy to install, designed with forklift cutaways and feature skid pump mounting"; pre-assembled feeders + pumps + controls + containment.
+5. **GuardTec® Pool Chemistry Controller** (https://pulsarpools.com/products/guardtec/).
+6. **Spin Touch™ Water Testing System** (https://pulsarpools.com/products/spin-touch-water-testing-system/) — LaMotte WaterLink Spin Touch integration for probe auto-calibration and uploading wet-test results.
+
+## Pulsar 140 / 45 / 1 / 3 / 500 — legacy status
+- **Not present on pulsarpools.com** products index, cal-hypo page, or support/manuals page as of 2026-09-14. No "Pulsar 1" or "Pulsar 3" product pages exist on the official site.
+- Legacy manual found only on a dealer site (SECONDARY host): "Pulsar® System INSTALLATION MANUAL, Model # PS-45, Model # PS-500, Model # PS-140", Lonza, rev.6 (03/06/17) — https://www.streamlineaquatics.com/Customer-Content/www/CMS/files/Pulsar__45__140__500_Installation_Manual.pdf. It describes spray-nozzle erosion feeders (PS-45: 1 nozzle; PS-140: 3 nozzles; PS-500: spray tree, 4 nozzles) with a booster pump/Venturi loop and a touchscreen "Pulsar® Control Panel" (115 V, 15 A) that has a feed-rate dial, pool-size entry, and a "FEED TABLE" of lbs/day per model. Sizing example in that manual: "A typical indoor 100,000 gallon pool will use approximately 20 gallons of chlorinated solution from the Pulsar® System per day. A typical outdoors 100,000-gallon pool will use approximately 60 gallons".
+- Positioning guidance: describe 45/140/500 as **previous-generation Pulsar spray erosion feeders** (Lonza era) that the HCE Precision family supersedes; do not list lbs/day for them (the table is embedded in the control-panel screen and not in the extracted text). If a client has one installed, Frey can service/replace; don't market them as current.
+
+## GuardTec® controller (official brochure https://pulsarpools.com/wp-content/uploads/2023/10/Pulsar-GuardTec-2023-v5-1.pdf; manual Model GT-1.0 Rev 1.0 10/2023 https://pulsar-products.s3.amazonaws.com/Pulsar+GuardTec/Pulsar_GuardTec_Installation_Manual.pdf)
+- "GuardTec is an automated, IoT-enabled pool chemistry controller built with precision ORP and pH sensors as well as enhanced safety features to make commercial pool management seamless, highly reliable and accessible from anywhere."
+- Hardware: "a set of probes, modular relays, a lighted flow cell and 7” touchscreen that can be mounted to our feed system skid or to a nearby wall."
+- Readings: "pH, ORP, FAC (coming soon) displayed in real-time"; "Temperature, probe life and controller set points"; "Chemical usage and trends"; "Historical analysis by day/week/month/quarter".
+- Cloud: "web-based, mobile-friendly platform with a dedicated portal built using the Cumulocity® IoT Platform on Solenis Cloud®"; cellular option "with an agnostic SIM card managed by Solenis on the Webbing® platform"; "A local network option is available … with a one-way connection to prevent unauthorized remote control."
+- Alarms: "Customizable Notifications and Alarm Categories"; "Notifications via email to designated recipient(s)" (email only stated; no SMS claim).
+- Spec table: Feed Control Options "On/Off, Proportional, Manual"; Equipment I/O "(5) Total: (4) x Feeder & Pump Modules, (1) x Flow Cell"; 7" capacitive touchscreen 800x480; RJ45 10/100/1000; Power supply input "120/240 VAC, 1.2/0.55A, 50-/60Hz"; output 24 VDC 4A; Pump Module "120/240 V, 20A MAX (GFCI dedicated)". Controller "Designed to IP 65"; PCM "UL 508 listed", "IP 66/67".
+- Safety/NSF: manual warns "NSF 50 certification is void if dosing timeout is disabled." — implies NSF/ANSI 50 certification of GuardTec, but the brochure/page do not state it explicitly; phrase carefully ("manual references NSF 50 certification").
+- "Up to 2 chlorine feeders can be connected to the GuardTec for tandem operation." Flow cell needs 0.12–0.42 gpm; PCM includes flow-switch interlock for pool pump.
+- Commercial: brochure teaser "Learn how to get Pulsar® GuardTec included with your Pulsar® Feed System with no added CapEx investment*" (*restrictions; contact rep). No subscription pricing published.
+- Warranty: 12 months after installation or 18 months after shipping from Solenis.
+- Positioning vs BECSys5: GuardTec is Pulsar's bundled pH/ORP controller with Solenis cloud; BECSys5 is a third-party, NSF/ANSI 50-certified, multi-parameter equipment-room controller with far broader I/O (PPM, TA, flow, VFD, autofill, BMS). Both can drive Pulsar feeders via chlorine-demand outputs.
+
+## "Pulsar 360"
+Homepage (https://pulsarpools.com/): "At the center of it all is the Pulsar 360 Commercial Pool Solution, a complete water treatment system and services platform that can be adapted to a wide range of commercial pools, facilities and water features." Not a product; an umbrella program branding for feeders + chemicals + controller + testing + dealer services. No further program details published on the About page.
+
+## Dealer locator / Frey Technologies
+- Pulsar has a "Dealer/Distributor Info" page with a map: https://pulsarpools.com/support-and-manuals/distributor-map/ ("Want to locate your nearest dealer or distributor – click on the map!"). The map is a client-side widget; **no distributor names were retrievable from page HTML**, so Frey Technologies' presence in the Pulsar locator is **UNVERIFIED** (could not confirm or deny). Recommend checking manually in a browser and screenshotting for the record. The page also mentions dealer CPO training and an "ESA Portal" (request access).
+- **BECS Technology's distributor page DOES list Frey**: "Frey Technologies, Inc. – www.freytech.org (New York)" at https://www.becsys.com/distributors/ (accessed 2026-09-14). Also listed nearby: Streamline Aquatics (CT, MA, NH, VT, ME, NY), Mainline Commercial Pools (PA, NJ, DE, MD, DC), Fillion Associates (RI, MA, NH, VT, ME).
+
+## Support / literature index (https://pulsarpools.com/support-and-manuals/)
+Manuals: Pulsar® Precision (Salesforce link), Pulsar® Precision 30 (Salesforce link), Pulsar® Acid Plus (S3), GuardTec (S3). SDS: five chemical SDS PDFs on pulsarpools.com/wp-content/uploads/2023/05/. No warranty page on the website; warranties are in manuals only.

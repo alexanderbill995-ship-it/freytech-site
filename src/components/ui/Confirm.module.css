@@ -1,0 +1,4 @@
+.inline { position: relative; }
+.block { position: relative; display: block; }
+.flag { display: inline-block; vertical-align: middle; margin-left: 0.4rem; font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.1rem 0.4rem; border-radius: 2px; border: 1px solid var(--signal-amber); background: var(--signal-amber-bg); color: #7a4a00; font-weight: 500; line-height: 1.4; white-space: nowrap; }
+:global(.on-dark) .flag { background: rgba(199,119,0,0.25); color: #ffd28a; border-color: #d99a3c; }

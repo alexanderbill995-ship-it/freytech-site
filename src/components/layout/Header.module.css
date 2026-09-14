@@ -1,0 +1,13 @@
+.utility { background: var(--navy-950); color: var(--fg-on-dark-muted); font-size: var(--text-xs); }
+.utilityInner { display: flex; justify-content: space-between; align-items: center; gap: var(--sp-4); min-height: 2rem; }
+.territory { margin: 0; font-family: var(--font-mono); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.utilityLinks { list-style: none; margin: 0; padding: 0; display: flex; gap: var(--sp-5); flex: none; }
+.utilityLinks a { color: var(--fg-on-dark); text-decoration: none; }
+.utilityLinks a:hover { text-decoration: underline; }
+@media (max-width: 48rem) { .utilityLinks li:not(:last-child) { display: none; } }
+
+.header { position: sticky; top: 0; z-index: 100; background: rgba(255,255,255,0.96); backdrop-filter: saturate(1.2) blur(6px); border-bottom: 1px solid var(--border); }
+.inner { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-6); min-height: var(--header-h); }
+.actions { display: flex; align-items: center; gap: var(--sp-3); }
+.cta { white-space: nowrap; }
+@media (max-width: 72rem) { .cta { display: none; } }

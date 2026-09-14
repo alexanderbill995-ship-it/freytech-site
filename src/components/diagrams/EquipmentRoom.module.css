@@ -1,0 +1,20 @@
+.fig { margin: 0; background: var(--white); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: var(--sp-4); }
+.svg { width: 100%; height: auto; font-family: var(--font-mono); }
+.pool { fill: var(--blue-100); stroke: var(--blue-500); stroke-width: 1.5; }
+.pipe { fill: none; stroke: var(--steel-500); stroke-width: 4; }
+.pipeReturn { fill: none; stroke: var(--blue-500); stroke-width: 4; }
+.sample { fill: none; stroke: var(--blue-600); stroke-width: 1.5; stroke-dasharray: 4 3; }
+.signal { fill: none; stroke: var(--navy-900); stroke-width: 1.5; stroke-dasharray: 2 3; }
+.network { fill: none; stroke: var(--signal-green); stroke-width: 1.5; stroke-dasharray: 6 3; }
+.chem { fill: none; stroke: var(--signal-amber); stroke-width: 3; }
+.node { fill: var(--steel-50); stroke: var(--steel-500); stroke-width: 1.5; }
+.sensor { fill: var(--white); stroke: var(--blue-600); stroke-width: 1.5; }
+.controller { fill: var(--navy-900); }
+.feeder { fill: var(--signal-amber-bg); stroke: var(--signal-amber); stroke-width: 1.5; }
+.remote { fill: var(--signal-green-bg); stroke: var(--signal-green); stroke-width: 1.5; }
+.lbl { font-size: 14px; fill: var(--navy-900); font-weight: 600; }
+.lblSm { font-size: 11px; fill: var(--navy-900); }
+.lblXs { font-size: 9.5px; fill: var(--steel-700); }
+.lblOnDark { font-size: 13px; fill: var(--white); font-weight: 600; }
+.lblOnDarkXs { font-size: 9px; fill: var(--fg-on-dark-muted); }
+.cap { font-size: var(--text-xs); color: var(--fg-muted); margin-top: var(--sp-3); }

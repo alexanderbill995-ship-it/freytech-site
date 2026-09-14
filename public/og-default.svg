@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b1f3a"/>
+  <rect y="618" width="1200" height="12" fill="#0078c0"/>
+  <g fill="none" stroke-width="9" stroke-linecap="round" opacity="0.9">
+    <path d="M940 540c36-54 72-54 108 0s72 54 108 0" stroke="#4aa6e6"/>
+    <path d="M940 480c36-54 72-54 108 0s72 54 108 0" stroke="#0078c0"/>
+    <path d="M940 420c36-54 72-54 108 0s72 54 108 0" stroke="#ffffff" opacity="0.7"/>
+  </g>
+  <text x="80" y="130" font-family="Menlo, Courier New, monospace" font-size="19" letter-spacing="3" fill="#4aa6e6">FREY TECHNOLOGIES  ·  NEW YORK STATE OUTSIDE NYC</text>
+  <text x="80" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="60" font-weight="bold" fill="#ffffff">Commercial pool water chemistry,</text>
+  <text x="80" y="314" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="60" font-weight="bold" fill="#ffffff">engineered for New York.</text>
+  <text x="80" y="400" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" fill="#b9c7d8">BECSys5 automated controls  ·  Pulsar Precision feeders</text>
+  <text x="80" y="442" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" fill="#b9c7d8">Installation  ·  Commissioning  ·  Training  ·  Service</text>
+  <text x="80" y="560" font-family="Menlo, Courier New, monospace" font-size="18" fill="#7c8ea1">freytech.org</text>
+</svg>

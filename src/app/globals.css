@@ -76,6 +76,7 @@
   --container-narrow: 48rem;
   --gutter: clamp(1rem, 4vw, 2rem);
   --header-h: 4.25rem;
+  --banner-h: 0px;
 
   /* Shape & elevation — restrained radii for the technical-industrial look */
   --radius-sm: 2px;

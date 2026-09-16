@@ -21,7 +21,16 @@ export type AnalyticsEvent =
   | "case_study_view"
   | "becsys5_engagement"
   | "pulsar_engagement"
-  | "cta_click";
+  | "cta_click"
+  | "homepage_cta"
+  | "product_search"
+  | "search_result_select"
+  | "search_no_results"
+  | "filter_used"
+  | "manufacturer_view"
+  | "product_view"
+  | "availability_request"
+  | "resource_request";
 
 export type EventPayload = Record<string, string | number | boolean | undefined>;
 

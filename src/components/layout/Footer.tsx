@@ -4,6 +4,7 @@ import { TrackedLink } from "@/components/ui/TrackedLink";
 import { footerNav } from "@/lib/nav";
 import { site, telHref } from "@/lib/site";
 import { serviceRegions } from "@/lib/regions";
+import { GlobalSearch } from "@/components/search/GlobalSearch";
 import styles from "./Footer.module.css";
 
 export function Footer() {
@@ -36,6 +37,10 @@ export function Footer() {
             </ul>
           </nav>
         ))}
+      </div>
+      <div className={["container", styles.search].join(" ")}>
+        <p className={styles.regionsLabel}>Looking for something?</p>
+        <div className={styles.searchBox}><GlobalSearch variant="inline" label="Search products, manufacturers and solutions" placeholder="Search by product, manufacturer, model or problem…" /></div>
       </div>
       <div className={["container", styles.regions].join(" ")}>
         <p className={styles.regionsLabel}>Service area · New York State outside New York City</p>

@@ -10,6 +10,7 @@ import { TrackedLink } from "@/components/ui/TrackedLink";
 import { ProductEngagement } from "@/components/ui/ProductEngagement";
 import { EquipmentRoom } from "@/components/diagrams/EquipmentRoom";
 import { ProcessSteps } from "@/components/diagrams/ProcessSteps";
+import { RelatedProducts } from "@/components/catalog/RelatedProducts";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata, serviceLd, faqLd } from "@/lib/seo";
 import { becsys5, sources } from "@/content/products";
@@ -166,6 +167,11 @@ export default function Page() {
           <Button href="/contact/?product=BECSys5" variant="onDark" size="lg">Request a System Assessment</Button>
           <Button href="/service-support/" variant="onDarkGhost" size="lg">Service and maintenance plans</Button>
         </div>
+      </Section>
+
+      <Section tone="alt">
+        <RelatedProducts category="chemical-delivery-chlorination" title="Explore compatible chemical-delivery approaches" moreHref="/products/chemical-delivery-chlorination/" moreLabel="Chemical Delivery and Chlorination category" />
+        <div style={{ marginTop: "var(--sp-10)" }}><RelatedProducts manufacturer="becs" exclude={["becsys5"]} title="Other BECS Technology equipment" moreHref="/manufacturers/becs/" moreLabel="All BECS equipment in the catalog" /></div>
       </Section>
 
       <Section id="faq">

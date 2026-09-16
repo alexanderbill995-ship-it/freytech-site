@@ -1,0 +1,305 @@
+import type { Category, Facility, Manufacturer, Problem, ProjectType } from "./types";
+
+export const projectTypes: { value: ProjectType; label: string }[] = [
+  { value: "new-construction", label: "New construction" },
+  { value: "retrofit", label: "Retrofit / upgrade" },
+  { value: "replacement", label: "Replacement" },
+];
+
+export const manufacturers: Manufacturer[] = [
+  { slug: "becs", name: "BECS Technology", url: "https://www.becsys.com/", relationship: "Listed by BECS Technology as its distributor for New York.", relationshipStatus: "verified", sourceUrl: "https://www.becsys.com/distributors/" },
+  { slug: "pulsar", name: "Pulsar Systems", aka: ["Lonza water treatment", "Innovative Water Care", "Solenis"], url: "https://pulsarpools.com/", relationship: "FreyTech installs and services Pulsar Precision systems. Authorized-dealer status to be confirmed with Pulsar.", relationshipStatus: "pending-verification" },
+  { slug: "neptune-benson", name: "Neptune Benson (a Xylem brand)", aka: ["Neptune-Benson", "Evoqua Water Technologies", "Xylem", "Lawson Aquatics", "ETS-UV"], url: "https://www.xylem.com/en-us/brand/neptune-benson/", relationship: "FreyTech supplied and installed Defender filters at named New York facilities (current site). Xylem publishes no dealer roster; current relationship to be confirmed in writing.", relationshipStatus: "pending-verification", sourceUrl: "https://www.xylem.com/en-us/brand/neptune-benson/" },
+  { slug: "aqua-creek", name: "Aqua Creek Products", url: "https://aquacreekproducts.com/category/pool-lifts/", relationship: "Listed on FreyTech's current website as a represented brand. Current status to be confirmed.", relationshipStatus: "pending-verification" },
+  { slug: "stark", name: "Stark Bulkheads by S.R.Smith (Fluidra)", aka: ["Stark Bulkheads", "S.R.Smith", "Composite Aquatic Innovations"], url: "https://www.srsmith.com/en-us/products/swimwall-systems-and-pool-bulkheads/pool-bulkheads/", relationship: "FreyTech installed a Stark bulkhead at Ithaca College (current site). Stark assets were acquired by S.R.Smith in 2021; current relationship to be confirmed.", relationshipStatus: "pending-verification", sourceUrl: "https://www.srsmith.com/en-us/news/s-r-smith-acquires-assets-of-composite-aquatic-innovations-dba-stark-bulkheads/" },
+  { slug: "taylor", name: "Taylor Technologies (a Fluidra brand)", aka: ["Taylor"], url: "https://taylortechnologies.com/", relationship: "Listed on FreyTech's current website as a represented brand. Taylor's retail stockist locator does not list FreyTech; the commercial supply relationship is to be confirmed.", relationshipStatus: "pending-verification", sourceUrl: "https://taylortechnologies.com/" },
+  { slug: "spectrum", name: "Spectrum Aquatics (PlayCore)", url: "https://spectrumproducts.com/", relationship: "Listed on FreyTech's current website. Current status to be confirmed.", relationshipStatus: "pending-verification" },
+  { slug: "paragon", name: "Paragon deck equipment (Pentair)", aka: ["Paragon Aquatics"], url: "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html", relationship: "Listed on FreyTech's current website. Current status to be confirmed.", relationshipStatus: "pending-verification" },
+  { slug: "maytronics", name: "Maytronics", url: "https://maytronics.com/en-us/robots-commercial-pools.html", relationship: "Listed on FreyTech's current website (2014 Dolphin Wave dealer notice). Current status to be confirmed.", relationshipStatus: "pending-verification" },
+];
+
+export const facilities: Facility[] = [
+  { slug: "municipal-aquatic-centers", name: "Municipal Aquatic Centers", short: "Municipal", marketHref: "/markets/municipal-aquatic-centers/", blurb: "Town, village, city, and county pools, indoor and seasonal outdoor, including NY SWIMS-funded projects." },
+  { slug: "k12-schools", name: "K–12 Schools and School Districts", short: "K–12 Schools", marketHref: "/markets/schools-and-universities/", blurb: "District natatoriums and BOCES pools run by facilities staff with rotating operators." },
+  { slug: "colleges-universities", name: "Colleges and Universities", short: "Colleges", marketHref: "/markets/schools-and-universities/", blurb: "Campus natatoriums and competition venues with athletics, recreation, and engineering stakeholders." },
+  { slug: "ymca-community", name: "YMCAs and Community Facilities", short: "YMCA / Community", marketHref: "/markets/ymca-jcc-community/", blurb: "Multi-pool facilities with lap, therapy, and spa bodies of water under one small facilities team." },
+  { slug: "hotels-resorts-hospitality", name: "Hotels, Resorts and Hospitality", short: "Hospitality", marketHref: "/markets/hotels-resorts-hospitality/", blurb: "Guest-facing pools and spas where water clarity, comfort, and uptime protect the guest experience." },
+  { slug: "healthcare-rehabilitation", name: "Healthcare and Rehabilitation", short: "Healthcare", marketHref: "/markets/healthcare-therapy-pools/", blurb: "Warm-water therapy pools with vulnerable users, clinical schedules, and tight record expectations." },
+  { slug: "camps-seasonal", name: "Camps and Seasonal Facilities", short: "Camps / Seasonal", marketHref: "/markets/camps-seasonal-facilities/", blurb: "Seasonal pools that must start reliably each year with new staff and limited on-site expertise." },
+  { slug: "waterparks-high-load", name: "Waterparks and High-Load Facilities", short: "Waterparks", marketHref: "/markets/waterparks-high-load-facilities/", blurb: "Large volumes, sharp demand swings, and multiple features that need high-capacity feed and tight control." },
+  { slug: "architects-engineers-public", name: "Architects, Engineers and Public-Sector Projects", short: "Design teams", marketHref: "/markets/architects-engineers-consultants/", blurb: "Basis-of-design, schedules, submittals, and approved-equal review for funded New York projects." },
+];
+
+export const problems: Problem[] = [
+  { slug: "replace-liquid-chlorine", name: "Replace liquid chlorine", seoTitle: "Replacing Liquid Chlorine at a Commercial Pool in New York", seoDescription: "Options for moving a commercial pool off liquid sodium hypochlorite: calcium hypochlorite feeders, controls, storage, and conversion steps, evaluated by FreyTech in New York State outside NYC.", symptoms: ["Frequent bleach deliveries and bulk liquid storage", "Strength loss in storage, especially in summer", "Rising pH and TDS from sodium hypochlorite", "Handling and spill exposure for staff"], approach: ["Measure actual chlorine demand from records and bather load before choosing a feeder.", "Compare dry calcium hypochlorite feed against improved liquid feed on capacity, storage, handling, and cost using the facility's own numbers.", "Confirm dry-chemical storage, ventilation, and fire-code constraints before design.", "Pair the feeder with a controller that provides flow interlock and failsafe limits.", "Plan health-department plan review with the engineer where the change modifies treatment equipment."], products: ["pulsar-precision", "pulsar-precision-30", "becsys5", "pulsar-plus-briquettes"], categories: ["chemical-delivery-chlorination", "automated-controls"], cta: { label: "Request a Facility Assessment", intent: "assessment" } },
+  { slug: "improve-chemical-safety", name: "Improve chemical safety", seoTitle: "Improving Chemical Safety in a Commercial Pool Equipment Room", seoDescription: "Interlocks, failsafe feed limits, dry-chemical handling, storage, and operator training that reduce chemical risk at New York commercial pools.", symptoms: ["Feeders that can run when the recirculation pump is off", "No failsafe limit on how long a chemical feed can run", "Incompatible chemicals stored together", "Staff uncertain about handling and PPE"], approach: ["Interlock every chemical feed with recirculation flow, as New York's code requires (10 NYCRR 6-1.29 item 11.7); consider an independent interlock such as BECSys ChemLock.", "Set programmable failsafe overfeed timers and pH-alarm sanitizer lockout on the controller.", "Separate and label chemical storage; keep safety data sheets on site.", "Train operators on the actual equipment at commissioning and after turnover."], products: ["becsys5", "becsys-chemlock", "pulsar-precision-30"], categories: ["automated-controls", "chemical-delivery-chlorination"], cta: { label: "Request a Facility Assessment", intent: "assessment" } },
+  { slug: "stabilize-water-chemistry", name: "Stabilize water chemistry", seoTitle: "Stabilizing pH and Chlorine at a Commercial Pool", seoDescription: "Why commercial pool chemistry drifts and how continuous control, alkalinity management, and sound sample loops stabilize it. FreyTech, New York State outside NYC.", symptoms: ["pH swings after heavy use", "Chlorine high in the morning, low by afternoon", "Controller constantly feeding with little effect", "Frequent probe replacement without stable readings"], approach: ["Fix the sample loop first: flow, strainer, flow-cell condition, probe age.", "Check total alkalinity; low or high TA defeats any controller.", "Use continuous pH and ORP or free-chlorine control with appropriate setpoints and feed limits.", "Size feed equipment to real demand so the controller can keep up at peak."], products: ["becsys5", "becsys3", "taylor-test-kits", "becs-replacement-sensors"], categories: ["automated-controls", "water-testing-monitoring"], resources: ["/resources/total-alkalinity-and-controllers/"], cta: { label: "Talk to a Water-Quality Specialist", intent: "specialist" } },
+  { slug: "reduce-manual-testing", name: "Reduce manual testing and adjustment", seoTitle: "Reducing Manual Chemical Adjustment at Commercial Pools", seoDescription: "How automated controllers reduce hand dosing and reactive adjustment while manual testing and records remain required in New York.", symptoms: ["Operators hand-dosing several times a day", "Chemistry depends on one experienced person", "Test results drive constant setpoint changes"], approach: ["Automate the control loop so operators verify rather than chase.", "Keep required manual DPD tests and daily records; use controller logs to cross-check them (6-1.11, 6-1.21).", "Upload digital test-kit readings to the controller where supported.", "Document setpoints and procedures so the system survives staff turnover."], products: ["becsys5", "becsys3", "taylor-test-kits"], categories: ["automated-controls", "water-testing-monitoring"], cta: { label: "Get Help Selecting a System", intent: "selection" } },
+  { slug: "add-alarms-remote-visibility", name: "Add alarms and remote visibility", seoTitle: "Remote Monitoring and Alarms for Commercial Pools in New York", seoDescription: "Email and text alarms, dashboards, and one-year data logs for commercial pool chemistry, using BECSys5 and BECSys Live. Installed and supported by FreyTech.", symptoms: ["No one knows the water's condition after hours", "Alarms go to a person who left", "Health department asks for history you cannot produce"], approach: ["Replace or upgrade to an Ethernet-connected controller with email and text alarm notification.", "Use BECSys Live for dashboards, graphs, and reports without VPNs or port forwarding.", "Define the alarm recipient list and escalation at commissioning.", "Keep one year of one-minute readings on the controller for records review."], products: ["becsys5", "becsys7"], categories: ["automated-controls"], cta: { label: "Request a Facility Assessment", intent: "assessment" } },
+  { slug: "modernize-aging-equipment-room", name: "Modernize an aging equipment room", seoTitle: "Commercial Pool Equipment-Room Modernization in New York", seoDescription: "Assess, design, install, and commission a modern commercial pool equipment room: controls, chemical feed, filtration, and integration. FreyTech, New York State outside NYC.", symptoms: ["Equipment installed decades ago with mixed brands", "Undocumented changes and bypassed interlocks", "A capital project touching pumps, filters, or HVAC"], approach: ["Start with a documented assessment of the whole loop.", "Sequence work: stabilize, then control and visibility, then feed and filtration as demand data and budgets allow.", "Coordinate plan approval with the engineer (6-1.8).", "Commission with a settings record and train the operators."], products: ["becsys5", "pulsar-precision", "defender-regenerative-media-filter", "becsys7"], categories: ["automated-controls", "chemical-delivery-chlorination", "filtration"], resources: ["/water-chemistry-modernization/"], cta: { label: "Discuss an Equipment-Room Upgrade", intent: "modernization" } },
+  { slug: "reduce-waste", name: "Reduce water, chemical, energy or labor waste", seoTitle: "Reducing Water, Chemical, Energy and Labor Waste at Commercial Pools", seoDescription: "Where waste hides in a commercial pool equipment room and which equipment changes address it: control, VFD, regenerative filtration, and dry chemical feed.", symptoms: ["Backwash water and heat sent to drain", "Chemical overshoot and correction cycles", "Pumps running at full speed regardless of demand", "Staff hours spent on reactive adjustment"], approach: ["Consistent control reduces overshoot and the corrections that follow.", "Regenerative media filtration reduces backwash water compared with sand where a facility qualifies.", "VFD recirculation control (a BECSys5 option) matches pump speed to demand within code turnover requirements.", "Quantify savings from the facility's own utility, chemical, and labor data rather than generic percentages."], products: ["becsys5", "defender-regenerative-media-filter", "pulsar-precision"], categories: ["automated-controls", "filtration", "chemical-delivery-chlorination"], cta: { label: "Request Budgetary Guidance", intent: "budget" } },
+  { slug: "replace-obsolete-controller", name: "Replace an obsolete controller", seoTitle: "Replacing an Obsolete Commercial Pool Chemical Controller", seoDescription: "Signs a pool chemical controller should be replaced, what a like-for-like BECSys replacement involves, and how FreyTech handles commissioning and training in New York.", symptoms: ["Discontinued model; probes and parts hard to find", "No communications, alarms, or logging", "Repeated electronics or display failures"], approach: ["Assess the sample loop and feed equipment so the new controller inherits a sound installation.", "Choose BECSys3, 5, or 7 by the points you need to measure and control.", "Plan a one-to-two-day cutover around the pool calendar.", "Commission, document settings, and train."], products: ["becsys5", "becsys3", "becsys7", "becs-replacement-sensors"], categories: ["automated-controls"], resources: ["/resources/when-to-replace-a-pool-controller/"], cta: { label: "Ask About Replacement Equipment", intent: "replacement" } },
+  { slug: "improve-filtration-water-clarity", name: "Improve filtration and water clarity", seoTitle: "Improving Filtration and Water Clarity at Commercial Pools", seoDescription: "Clarity problems, filtration options including regenerative media, and how FreyTech evaluates filter replacement at New York commercial pools.", symptoms: ["Cloudy water despite acceptable chemistry", "Long backwash cycles and high water use", "Aging sand filters with channeling or media loss"], approach: ["Rule out chemistry and circulation problems first.", "Evaluate regenerative media filtration where footprint, water use, and clarity goals justify it.", "Confirm turnover and flow requirements under New York code with the engineer.", "Plan the mechanical-room changes and approvals together with any control upgrade."], products: ["defender-regenerative-media-filter", "becsys5"], categories: ["filtration", "automated-controls"], cta: { label: "Request a Facility Assessment", intent: "assessment" } },
+  { slug: "find-replacement-equipment", name: "Find replacement equipment", seoTitle: "Finding Replacement Commercial Pool Equipment and Parts in New York", seoDescription: "How FreyTech helps New York facilities identify and source replacement pumps, feeders, probes, controllers, lifts, and deck equipment, including obsolete models, outside NYC.", symptoms: ["A model number no one recognizes", "A part the original supplier no longer stocks", "Equipment past its service life with no obvious successor", "A photo of a nameplate and not much else"], approach: ["Send the make, model, serial number, and a nameplate photo; a specialist identifies the product and its current successor.", "Search the catalog by legacy names and model numbers; discontinued items stay listed so replacements can be matched.", "Confirm fit against the existing hydraulics, electrical, and controls before ordering.", "Where a like-for-like part is gone, we recommend the modernization path that avoids repeating the problem."], products: ["becs-replacement-sensors", "becsys5", "pulsar-plus-briquettes", "taylor-test-kits"], categories: ["parts-accessories-replacement", "automated-controls", "pumps-circulation-flow"], cta: { label: "Ask About Replacement Equipment", intent: "replacement" } },
+  { slug: "prepare-specifications-budgets", name: "Prepare specifications or capital-project budgets", seoTitle: "Specification and Budget Support for Commercial Pool Equipment Projects", seoDescription: "Basis-of-design help, equipment schedules, budgetary guidance, and submittal support for New York commercial pool projects outside NYC.", symptoms: ["A funded project with equipment decisions pending", "A bond or capital plan that needs realistic numbers", "Substitution requests that need technical review"], approach: ["Define the owner's operating model before selecting equipment.", "Request budgetary guidance early so the capital plan reflects real scope.", "Use equipment schedules, sequence-of-operation language, and submittals from FreyTech's engineering support.", "Plan commissioning and training into the closeout."], products: ["becsys5", "pulsar-precision", "defender-regenerative-media-filter", "stark-bulkheads"], categories: ["automated-controls", "chemical-delivery-chlorination", "filtration"], resources: ["/engineering-specification-support/"], cta: { label: "Request Budgetary Guidance", intent: "budget" } },
+];
+
+export const categories: Category[] = [
+  {
+    slug: "automated-controls", name: "Automated Controls", short: "Controls", status: "published",
+    seoTitle: "Commercial Pool Chemical Controllers and Automated Controls in New York",
+    seoDescription: "BECSys automated water-chemistry controllers, remote monitoring, and feed interlocks for commercial pools, installed and supported by FreyTech across New York State outside NYC.",
+    overview: [
+      "An automated controller is the decision-maker in the equipment room. It reads a sample stream from the recirculation loop, compares pH and sanitizer readings against setpoints, and switches chemical feed equipment on and off, within interlocks and time limits that keep the pool safe when something upstream goes wrong.",
+      "Modern controllers do more than chemistry. Depending on configuration they log a year of readings, send alarms by email and text, monitor flow, pressures, and chemical inventory, control VFDs, UV, heaters, and makeup water, and give facilities directors a remote view of every body of water. The controller is the natural place to start a modernization because everything else in the room reports to it.",
+    ],
+    problems: ["Chemistry drift, overshoot, and closures", "No visibility or alarms after hours", "Operating records that are hard to produce", "Feeders without flow interlocks or failsafe limits", "Dependence on one experienced operator", "Equipment-room functions with no central status"],
+    applications: ["Every commercial and institutional pool, spa, and therapy pool", "Multi-pool facilities that want one remote view", "Renovations that replace pumps, filters, UV, or heaters", "Facilities with staff turnover or after-hours risk"],
+    selection: [
+      { title: "Measured points", text: "pH and ORP are standard. Decide whether you need free-chlorine PPM, alkalinity, conductivity, flow, pressures, tank levels, or inventory." },
+      { title: "Bodies of water", text: "One controller per body of water. Plan the network and BECSys Live account for the portfolio." },
+      { title: "Outputs and integration", text: "Count feed relays, then add VFD, UV, heater, autofill, and BMS interfaces that the renovation scope actually needs." },
+      { title: "Safety functions", text: "No-flow lockout, failsafe timers, and pH-alarm lockout are built into BECSys controllers; consider an independent ChemLock interlock." },
+      { title: "Listings and approvals", text: "NSF/ANSI 50 listing and the permit-issuing official's acceptance; New York does not name controllers in code." },
+    ],
+    comparison: { title: "Which BECSys controller?", head: ["", "BECSys3", "BECSys5", "BECSys7"], rows: [
+      { label: "Typical fit", cells: ["Single pool needing pH/ORP control with optional PPM", "Most institutional pools; expandable monitoring and integration", "Largest mechanical rooms with automatic filter backwash"] },
+      { label: "Display", cells: ["Two-line backlit", "Full graphic", "Full graphic"] },
+      { label: "Communications", cells: ["Optional Communications module for BECSys Live", "Gigabit Ethernet and BECSys Live standard", "Gigabit Ethernet and BECSys Live standard"] },
+      { label: "Relays", cells: ["Per model", "4 solid-state, expandable to 19", "5 mechanical plus expansion"] },
+      { label: "Filter backwash", cells: ["No", "No (BECSysBW separate)", "Automatic backwash for up to 16 filters"] },
+    ] },
+    related: ["chemical-delivery-chlorination", "water-testing-monitoring", "parts-accessories-replacement"],
+    services: ["Assessment of the sample loop, feed equipment, and network before specifying", "Point-list and sequence-of-operation support for engineers", "Installation by FreyTech technicians, typically one to two days for a replacement", "Commissioning with calibration against manual tests, alarm delivery tests, and a settings record", "Operator and supervisor training, on site", "Preventive maintenance, probe replacement, remote diagnostics, and BECS warranty coordination"],
+    faqs: [
+      { q: "Does a controller satisfy New York's testing and record requirements?", a: "No. Manual DPD tests and the State daily operation record remain required (10 NYCRR 6-1.11 and 6-1.21). Controller logs supplement them and are accepted 'in addition to the test kit' (6-1.29 item 11.8)." },
+      { q: "Can one controller run two pools?", a: "No. Plan one controller per body of water; BECSys Live consolidates the remote view." },
+    ],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "We review your sample loop, feed equipment, and operating model, then recommend the controller configuration and a cutover plan." },
+  },
+  {
+    slug: "chemical-delivery-chlorination", name: "Chemical Delivery and Chlorination", short: "Chemical delivery", status: "published",
+    seoTitle: "Commercial Pool Chemical Feed and Chlorination Systems in New York",
+    seoDescription: "Calcium hypochlorite feeders, chemical-delivery approaches, storage and handling considerations, and conversion from liquid or gas chlorine for commercial pools in New York State outside NYC.",
+    overview: [
+      "Chemical delivery is how sanitizer and pH chemicals physically reach the water once the controller calls for them. The delivery method shapes daily operations: how chemicals are stored, how often they are delivered, how much staff handle, and how well the system keeps up at peak demand.",
+      "Commercial pools in New York mostly use liquid sodium hypochlorite through metering pumps, calcium hypochlorite through erosion feeders, or, less often now, gas chlorine or on-site salt generation. Trichlor tablets add cyanuric acid, which the State prohibits in public pools. FreyTech's role is to size delivery to measured demand and to install it with the interlocks, storage, and training the method requires.",
+    ],
+    problems: ["Liquid bleach logistics, storage, and strength loss", "Feeders that cannot keep up on meet days or hot weekends", "Chemical handling burden and spill exposure", "Aging feeders with worn parts and inconsistent output", "Gas chlorine risk and operator requirements"],
+    applications: ["Large competition and municipal pools moving off liquid or gas chlorine", "Waterparks and high-bather-load facilities", "Mid-size institutional pools where dry chemical suits storage and staffing", "Any facility replacing worn feed equipment during a renovation"],
+    selection: [
+      { title: "Chlorine demand, not gallons", text: "Daily chlorine use, peak bather load, temperature, and exposure determine capacity. Brochure gallonage is a starting point at best." },
+      { title: "Storage and handling", text: "Dry oxidizers need segregated, ventilated storage and a loading routine; liquids need containment and delivery access." },
+      { title: "Water chemistry effects", text: "Calcium hypochlorite adds calcium hardness; sodium hypochlorite raises pH and TDS. Plan pH control and water replacement accordingly." },
+      { title: "Controls and interlocks", text: "Every feeder should be switched by a controller with flow interlock and failsafe limits." },
+      { title: "Approvals", text: "Feed-equipment changes may need engineer-prepared plans and health-department approval (6-1.8)." },
+    ],
+    comparison: { title: "Delivery approaches at a glance", head: ["", "Calcium hypochlorite feeder", "Liquid sodium hypochlorite", "Gas chlorine", "Salt generation"], rows: [
+      { label: "Chemical form", cells: ["Dry briquettes", "Bulk liquid", "Compressed gas", "Salt + electricity"] },
+      { label: "Storage", cells: ["Segregated dry oxidizer storage", "Containment and delivery access", "Cylinder room and strict controls", "Salt storage; cell room"] },
+      { label: "Effect on water", cells: ["Adds calcium hardness", "Raises pH and TDS", "Lowers pH", "Adds salinity"] },
+      { label: "New York notes", cells: ["No stabilizer; storage per fire code", "Common; degrades in heat", "Qualified operator required (6-1.21)", "Capacity limits at large volume"] },
+    ] },
+    related: ["automated-controls", "parts-accessories-replacement", "water-testing-monitoring"],
+    services: ["Demand assessment from operating records and bather load", "Storage, ventilation, and fire-code review with the facility", "Hydraulic design of the feed loop and injection point", "Installation and commissioning with delivery verification and interlock tests", "Operator training on loading, cleaning, and alarms", "Scheduled feeder cleaning, wear parts, and warranty coordination"],
+    faqs: [
+      { q: "Is every large pool a candidate for a calcium hypochlorite feeder?", a: "No. Many pools are well served by properly controlled liquid feed. We compare approaches with the facility's own chemical use, labor, delivery, and storage facts." },
+      { q: "Why do you say trichlor is unsuitable in New York?", a: "Trichlor tablets add cyanuric acid, which 10 NYCRR 6-1.11 prohibits in public pools." },
+    ],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "Send pool volumes, current disinfection method, and daily chlorine use if you have it. We will tell you which delivery approach fits and what storage it needs." },
+  },
+  {
+    slug: "filtration", name: "Filtration", short: "Filtration", status: "published",
+    seoTitle: "Commercial Pool Filtration Systems in New York: Regenerative Media Filters",
+    seoDescription: "Regenerative media filtration for commercial pools, including Defender filters FreyTech has installed at New York colleges and school districts. Evaluation, installation, and service outside NYC.",
+    overview: [
+      "Filtration removes the particles that chemistry cannot. Clarity, water use, and the size of the mechanical room all follow from the filter type chosen. Sand filters are simple and common; regenerative media filters trade a more involved operating routine for very fine filtration, smaller footprint, and far less backwash water.",
+      "FreyTech has supplied and installed Defender regenerative media filters at New York facilities including Ithaca College's 50-meter pool and Fairport High School. Filtration changes are mechanical-room projects: they involve hydraulics, turnover requirements under New York code, plan approval, and coordination with controls.",
+    ],
+    problems: ["Cloudy water with acceptable chemistry", "High backwash water and heating loss", "Aging sand filters with channeling, media loss, or failing laterals", "Limited mechanical-room space during a renovation"],
+    applications: ["Competition and university natatoriums", "School district pools replacing original sand filters", "Municipal and community pools in renovation", "Facilities pursuing water and energy reduction"],
+    selection: [
+      { title: "Turnover and flow", text: "New York code sets turnover requirements by pool type; the filter must handle design flow with the engineer's sign-off." },
+      { title: "Operating routine", text: "Regenerative media filters need periodic media changes and a bump cycle; staff must be trained for them." },
+      { title: "Water and energy", text: "Quantify current backwash volume and heating loss before projecting savings." },
+      { title: "Footprint and approvals", text: "Filter changes typically require engineer-prepared plans and health-department approval (6-1.8)." },
+    ],
+    related: ["automated-controls", "parts-accessories-replacement"],
+    services: ["Evaluation of existing filtration, hydraulics, and clarity problems", "Coordination with the engineer of record on flow, turnover, and plan approval", "Supply, installation, and start-up", "Operator training on media handling and the operating cycle", "Service and parts"],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "Tell us about your filters, turnover, and clarity or water-use concerns. We will evaluate whether a filtration change is warranted and how it fits with your controls." },
+  },
+  {
+    slug: "deck-equipment", name: "Deck Equipment", short: "Deck", status: "published",
+    seoTitle: "Commercial Pool Deck Equipment in New York: Starting Blocks, Lane Lines, Bulkheads, Rails",
+    seoDescription: "Starting platforms, lane lines and reels, movable bulkheads, guard chairs, ladders and rails, water polo goals, diving equipment, LED lighting and covers for New York competition and community pools, with FreyTech support outside NYC.",
+    overview: [
+      "Deck equipment is what swimmers, coaches, and lifeguards touch every day: starting platforms, lane lines and reels, bulkheads that reconfigure a competition pool, guard chairs, ladders and rails, water polo goals, diving stands, lighting, and covers. Much of it is specified during renovation or new construction alongside the mechanical room, and all of it has a replacement cycle.",
+      "FreyTech helps New York facilities select deck equipment that fits the program, the pool's structure and gutter design, and the applicable competition and safety requirements, and coordinates supply and installation with the design team.",
+    ],
+    problems: ["Aging or non-compliant starting platforms and lane lines", "Reconfiguring a pool for multiple programs", "Replacing damaged rails, ladders, and guard chairs", "Heat loss from an uncovered pool"],
+    applications: ["Competition and university natatoriums", "School district pools", "Municipal and YMCA pools", "Hotel and club pools"],
+    selection: [
+      { title: "Program and sanction requirements", text: "Starting platforms, lane lines, and bulkheads must match the competition body's rules and the pool's depth and dimensions." },
+      { title: "Anchors and deck conditions", text: "Most deck equipment depends on existing anchors or new deck work; confirm before ordering." },
+      { title: "Materials and finish", text: "Stainless grade, composite construction, and finishes determine service life in a chlorinated environment." },
+      { title: "Lead time", text: "Custom bulkheads and covers are built to the pool; plan months ahead of a season or meet." },
+    ],
+    related: ["accessibility-safety", "filtration", "parts-accessories-replacement"],
+    services: ["Selection with the aquatics program and design team", "Supply and installation coordination", "Replacement matching for existing equipment", "Warranty coordination and parts"],
+    cta: { label: "Ask About Replacement Equipment", intent: "replacement", text: "Tell us what you need to replace or add, the pool dimensions, and the deadline. We will confirm fit, availability, and lead time." },
+  },
+  {
+    slug: "accessibility-safety", name: "Accessibility and Safety", short: "Accessibility", status: "published",
+    seoTitle: "ADA Pool Lifts and Pool Safety Equipment in New York | FreyTech",
+    seoDescription: "Battery-powered ADA pool and spa lifts, accessible entry equipment, and pool safety products for New York public pools, with selection help and installation coordination from FreyTech outside NYC.",
+    overview: [
+      "Every public pool and spa in New York needs an accessible means of entry, and most facilities also carry safety equipment and drain covers that have their own compliance dates. FreyTech helps facilities select lifts that meet the ADA Standards for Accessible Design for each body of water, confirm deck anchoring, and plan replacements for aging units.",
+    ],
+    problems: ["Accessible entry required for each body of water", "Aging, unreliable, or non-compliant lifts", "Portable lifts that must be fixed during operating hours", "Safety and slip concerns on deck"],
+    applications: ["Municipal, school, YMCA, hospitality, and healthcare pools and spas", "Therapy pools with frequent lift use"],
+    selection: [
+      { title: "Accessibility requirements", text: "Confirm the applicable ADA Standards for Accessible Design requirements for each body of water with the design team; manufacturers publish compliance statements for specific models." },
+      { title: "Capacity and reach", text: "Lift weight capacity, seat height, and setback determine which model fits the deck and the users." },
+      { title: "Anchoring and power", text: "Deck structure, anchor type, and battery charging location drive installation." },
+    ],
+    related: ["deck-equipment", "parts-accessories-replacement"],
+    services: ["Model selection with the design team", "Supply and installation coordination", "Battery, parts, and warranty coordination"],
+    cta: { label: "Ask About Replacement Equipment", intent: "replacement", text: "Tell us about the pool or spa, the current lift if any, and the deck conditions." },
+  },
+  {
+    slug: "pumps-circulation-flow", name: "Pumps, Circulation and Flow Control", short: "Pumps & flow", status: "published",
+    seoTitle: "Commercial Pool Pumps, Strainers, and Flow Control in New York | FreyTech",
+    seoDescription: "Recirculation pumps, pump controls and VFDs, strainers, and skid systems for commercial pools in New York State outside NYC, evaluated and supported by FreyTech.",
+    overview: [
+      "Circulation is the heartbeat of the equipment room: the recirculation pump moves water through filtration, treatment, and heating at the turnover rate the code requires. Pump selection, variable-speed control, strainers, and flow monitoring determine energy use, filter performance, and how well the chemistry controller can do its job.",
+      "FreyTech evaluates pumps and flow control as part of the whole loop, coordinating with the engineer of record on flow, head, and turnover, and integrating VFD control and flow monitoring with BECSys controllers where the facility wants them.",
+    ],
+    problems: ["Pumps running at full speed regardless of demand", "Inadequate or unverified turnover", "Clogged or undersized strainers", "Aging pumps with parts that are hard to find"],
+    applications: ["Natatoriums and aquatic centers", "Municipal and school pools in renovation", "Facilities pursuing energy reduction"],
+    selection: [
+      { title: "Flow and head", text: "Engineer-confirmed design flow and total dynamic head under New York turnover requirements." },
+      { title: "Variable speed", text: "VFD control can match speed to demand within code; BECSys5 offers patented VFD recirculation control as an option." },
+      { title: "Materials and serviceability", text: "Stainless, bronze, or composite wet ends; seal access; strainer basket size and clearance." },
+    ],
+    related: ["filtration", "automated-controls", "heating-energy"],
+    services: ["Evaluation with the engineer of record", "Supply and installation coordination", "Integration of VFD and flow monitoring with controls", "Replacement matching and parts"],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "Tell us about the pool volume, current pumps, and any flow or energy concerns." },
+  },
+  {
+    slug: "uv-supplemental-treatment", name: "UV and Supplemental Treatment", short: "UV & treatment", status: "published",
+    seoTitle: "Commercial Pool UV and Supplemental Treatment Systems in New York | FreyTech",
+    seoDescription: "Ultraviolet and other supplemental treatment systems that reduce combined chlorine and add a secondary disinfection barrier at commercial pools in New York State outside NYC.",
+    overview: [
+      "Supplemental treatment sits beside chlorine, not in place of it. Ultraviolet systems break down combined chlorine (chloramines) and add a secondary disinfection barrier; ozone and other technologies serve similar roles. They are common answers to natatorium air-quality complaints and to the CDC Model Aquatic Health Code's secondary-disinfection recommendations for high-risk venues.",
+      "FreyTech evaluates supplemental treatment in the context of the whole system: bather load, air handling, chemistry control, and the controller's ability to monitor or control the unit.",
+    ],
+    problems: ["Chloramine odor and air-quality complaints", "Persistent combined chlorine", "Secondary disinfection for high-risk venues", "Aging or unsupported UV units"],
+    applications: ["Indoor natatoriums", "Therapy pools and spas", "Waterparks and interactive features", "Facilities with recurring combined-chlorine problems"],
+    selection: [
+      { title: "Flow and dose", text: "UV units are sized to design flow and target dose; the engineer confirms the loop position." },
+      { title: "Lamp technology and maintenance", text: "Medium- versus low-pressure lamps differ in dose, energy, and replacement cycles." },
+      { title: "Controls integration", text: "BECSys5 offers optional UV (combined-chlorine) control; confirm interface with the specific unit." },
+    ],
+    related: ["automated-controls", "filtration", "pumps-circulation-flow"],
+    services: ["Evaluation of combined-chlorine and air-quality problems", "Coordination with the engineer and HVAC team", "Supply and installation coordination", "Lamp and parts planning"],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "Describe the combined-chlorine or air-quality problem, pool volumes, and current treatment." },
+  },
+  {
+    slug: "heating-energy", name: "Heating and Energy Management", short: "Heating", status: "published",
+    seoTitle: "Commercial Pool Heaters and Energy Management in New York | FreyTech",
+    seoDescription: "Commercial pool heaters, heater control, and energy-reduction measures such as covers and variable-speed pumping for New York aquatic facilities outside NYC.",
+    overview: [
+      "Heating is usually the largest operating cost in an indoor pool and one of the first places a modernization pays back. Heater selection, heater control from the chemistry controller, pool covers, and variable-speed pumping all reduce energy use without compromising comfort or code requirements.",
+      "FreyTech evaluates heating alongside circulation and controls so the equipment room is modernized as a system, and coordinates with mechanical engineers on boiler and heater replacements.",
+    ],
+    problems: ["High heating bills", "Aging heaters and boilers with poor reliability", "Heat lost to backwash and uncovered water", "Heater cycling that the controller cannot see"],
+    applications: ["Indoor natatoriums", "Therapy pools", "Hotel and club pools", "Seasonal outdoor pools extending the season"],
+    selection: [
+      { title: "Load and fuel", text: "Heater sizing follows pool volume, temperature, air conditions, and available fuel." },
+      { title: "Controls", text: "BECSys5 offers heater on/off control with fireman cycle; confirm interface with the specific heater." },
+      { title: "Energy measures", text: "Covers and variable-speed pumping often pay back faster than heater replacement alone." },
+    ],
+    related: ["pumps-circulation-flow", "automated-controls", "deck-equipment"],
+    services: ["Evaluation with the mechanical engineer", "Supply and installation coordination", "Integration with controls", "Service coordination"],
+    cta: { label: "Request Budgetary Guidance", intent: "budget", text: "Tell us about the pool, current heater, and energy concerns for a realistic budget range." },
+  },
+  {
+    slug: "vacuums-cleaning", name: "Vacuums and Cleaning", short: "Vacuums", status: "published",
+    seoTitle: "Commercial Pool Vacuums and Cleaning Equipment in New York | FreyTech",
+    seoDescription: "Robotic and manual commercial pool vacuums, vacuum carts, and cleaning equipment for New York aquatic facilities, with selection help from FreyTech outside NYC.",
+    overview: [
+      "Clean floors and walls are part of water quality: debris and biofilm consume sanitizer and cloud water. Commercial robotic cleaners cover large pools on a schedule; manual vacuum systems and carts handle spot work and smaller pools. FreyTech helps facilities match cleaning equipment to pool size, staffing, and floor type.",
+    ],
+    problems: ["Staff time spent on manual vacuuming", "Debris and sediment consuming sanitizer", "Cleaners that cannot climb walls or cover a 50-meter pool"],
+    applications: ["Competition and 50-meter pools", "Municipal and YMCA pools", "Hotel and camp pools"],
+    selection: [
+      { title: "Pool size and shape", text: "Cycle time, cable length, and wall-climbing capability differ by model." },
+      { title: "Filtration and debris", text: "Filter bag or cartridge type should match typical debris." },
+      { title: "Staffing", text: "Robotic scheduling versus manual systems depends on who is available and when." },
+    ],
+    related: ["filtration", "parts-accessories-replacement"],
+    services: ["Selection for pool size and staffing", "Supply and support", "Parts and warranty coordination"],
+    cta: { label: "Get Help Selecting a System", intent: "selection", text: "Tell us the pool dimensions, floor type, and how cleaning is staffed today." },
+  },
+  {
+    slug: "specialty-chemicals", name: "Specialty Chemicals and Site Disinfection", short: "Chemicals", status: "published",
+    seoTitle: "Commercial Pool Specialty Chemicals and Facility Disinfection in New York | FreyTech",
+    seoDescription: "Clarifiers, phosphate removers, enzymes, stain and scale products, electrode cleaners, and deck and site disinfection equipment for New York commercial pools, with guidance from FreyTech outside NYC.",
+    overview: [
+      "Beyond sanitizer and pH chemicals, facilities use specialty products to keep water clear and surfaces safe: clarifiers and enzymes, phosphate removers, metal and scale inhibitors, stain treatments, and cleaners for electrolytic cells. Site disinfection equipment addresses decks, locker rooms, and touch surfaces rather than the water itself.",
+      "FreyTech's approach is to fix the root cause first (filtration, circulation, control) and use specialty chemicals deliberately, with storage, compatibility, and safety data sheets handled properly.",
+    ],
+    problems: ["Cloudy water with balanced chemistry", "Phosphate-driven algae pressure at outdoor pools", "Staining and scale on surfaces", "Deck and locker-room sanitation"],
+    applications: ["Outdoor municipal and camp pools", "Natatoriums with clarity complaints", "Facilities with salt or electrolytic systems"],
+    selection: [
+      { title: "Compatibility", text: "Confirm compatibility with the sanitizer program, filter media, and any UV or ozone." },
+      { title: "Dosing method", text: "Manual, feeder, or metering-pump application changes handling and consistency." },
+      { title: "Storage and SDS", text: "Segregated storage and current safety data sheets for every product on site." },
+    ],
+    related: ["chemical-delivery-chlorination", "filtration", "water-testing-monitoring"],
+    services: ["Chemistry review on service visits", "Product selection and supply on request", "SDS and storage guidance"],
+    cta: { label: "Talk to a Water-Quality Specialist", intent: "specialist", text: "Describe the water or surface problem and what you have already tried." },
+  },
+  {
+    slug: "water-testing-monitoring", name: "Water Testing and Monitoring", short: "Testing", status: "published",
+    seoTitle: "Commercial Pool Water Testing Kits and Monitoring in New York",
+    seoDescription: "Manual test kits required alongside automated controllers in New York, digital test-kit integration, and monitoring practices for commercial pools. FreyTech, outside NYC.",
+    overview: [
+      "New York requires manual testing of pH and free and total chlorine at the beginning, during, and end of each swimming period with a DPD kit and fresh reagents (10 NYCRR 6-1.11). Automated controllers monitor continuously, but the test kit remains the reference the controller is calibrated against.",
+      "FreyTech supplies Taylor Technologies test kits and reagents and trains operators to compare manual results with the controller so probes are calibrated on schedule rather than on failure.",
+    ],
+    problems: ["Controller and test kit disagree", "Expired reagents producing misleading results", "Inconsistent testing across shifts"],
+    applications: ["Every New York public pool", "Facilities standardizing testing across several sites"],
+    selection: [
+      { title: "Method", text: "DPD colorimetric versus FAS-DPD titration; the latter reads high chlorine and combined chlorine more precisely." },
+      { title: "Reagent age", text: "New York requires reagents under one year old; plan replacement." },
+      { title: "Integration", text: "BECSys controllers can upload readings from SpinTouch and Lumiso digital kits." },
+    ],
+    related: ["automated-controls", "parts-accessories-replacement"],
+    services: ["Kit and reagent supply", "Operator training on testing and calibration comparison", "Chemistry review on service visits"],
+    cta: { label: "Talk to a Water-Quality Specialist", intent: "specialist", text: "Ask about test kits, reagents, or why your controller and kit disagree." },
+  },
+  {
+    slug: "parts-accessories-replacement", name: "Parts, Accessories and Replacement Equipment", short: "Parts", status: "published",
+    seoTitle: "Commercial Pool Controller and Feeder Replacement Parts in New York",
+    seoDescription: "Replacement probes, sensors, feeder wear parts, chemicals, and accessories for BECSys controllers and Pulsar feeders, supplied and installed by FreyTech in New York State outside NYC.",
+    overview: [
+      "Controllers and feeders are only as good as their consumables: probes, flow-cell parts, pump tubes, feeder nozzles, and the chemical itself. FreyTech supplies these for the systems it installs and services, and stocks common items for prompt replacement.",
+    ],
+    problems: ["Probe drift or failure", "Feeder wear parts and nozzles", "Chemical and reagent supply", "Parts for discontinued equipment"],
+    applications: ["Any facility running BECSys controllers or Pulsar feeders", "Facilities with service agreements"],
+    selection: [
+      { title: "Genuine parts", text: "Manufacturer parts and chemicals preserve warranty; Pulsar's warranty requires Pulsar Plus briquettes." },
+      { title: "Service life", text: "Track probe and pump-tube age so replacement is planned." },
+    ],
+    related: ["automated-controls", "chemical-delivery-chlorination", "water-testing-monitoring"],
+    services: ["Parts supply and installation", "Consumable planning within service agreements", "Warranty and RMA coordination"],
+    cta: { label: "Ask About Replacement Equipment", intent: "replacement", text: "Tell us the controller or feeder model and what you need." },
+  },
+];
+
+export const publishedCategories = categories.filter((c) => c.status === "published");
+export const getCategory = (slug: string) => categories.find((c) => c.slug === slug);
+export const getFacility = (slug: string) => facilities.find((f) => f.slug === slug);
+export const getProblem = (slug: string) => problems.find((p) => p.slug === slug);
+export const getManufacturer = (slug: string) => manufacturers.find((m) => m.slug === slug);

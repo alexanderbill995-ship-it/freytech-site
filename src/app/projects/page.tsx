@@ -6,7 +6,7 @@ import { Callout } from "@/components/ui/Card";
 import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { pageMetadata } from "@/lib/seo";
-import { installations, publishedCaseStudies, testimonial, customerReferences } from "@/content/projects";
+import { installations, publishedCaseStudies, customerReferences } from "@/content/projects";
 import p from "@/styles/page.module.css";
 import { asset } from "@/lib/paths";
 
@@ -58,11 +58,6 @@ export default function Page() {
 
       <Section>
         <div className={p.split}>
-          <blockquote className={p.quote}>
-            <p>&ldquo;{testimonial.quote}&rdquo;</p>
-            <p>&ldquo;{testimonial.quote2}&rdquo;</p>
-            <footer><Confirm note="Confirm permission">{testimonial.name}, {testimonial.title}</Confirm></footer>
-          </blockquote>
           <div>
             <h2 style={{ fontSize: "var(--text-xl)" }}>Customer facilities</h2>
             <p className={p.small} style={{ margin: "var(--sp-2) 0 var(--sp-4)" }}>Pools and aquatic centers named on FreyTech&apos;s current website. <Confirm note="Confirm each">Each is being reconfirmed before launch.</Confirm></p>

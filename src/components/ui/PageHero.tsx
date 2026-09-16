@@ -11,10 +11,12 @@ type Props = {
   actions?: ReactNode;
   aside?: ReactNode;
   compact?: boolean;
+  /** When true, `title` is rendered as-is (it must contain its own h1). */
+  rawTitle?: boolean;
 };
 
 /** Interior page hero: dark, compact, informative. No decorative empty space. */
-export function PageHero({ eyebrow, title, lede, crumbs, actions, aside, compact }: Props) {
+export function PageHero({ eyebrow, title, lede, crumbs, actions, aside, compact, rawTitle }: Props) {
   return (
     <header className={[styles.hero, "on-dark", compact ? styles.compact : ""].join(" ")}>
       <div className="container">
@@ -22,7 +24,7 @@ export function PageHero({ eyebrow, title, lede, crumbs, actions, aside, compact
         <div className={[styles.grid, aside ? styles.hasAside : ""].join(" ")}>
           <div className={styles.main}>
             {eyebrow && <p className="eyebrow">{eyebrow}</p>}
-            <h1 className={styles.title}>{title}</h1>
+            {rawTitle ? <div style={{ display: "grid", gap: "var(--sp-4)" }}>{title}</div> : <h1 className={styles.title}>{title}</h1>}
             {lede && <p className={styles.lede}>{lede}</p>}
             {actions && <div className={styles.actions}>{actions}</div>}
           </div>

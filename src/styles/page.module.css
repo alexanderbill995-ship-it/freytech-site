@@ -25,7 +25,9 @@
 
 .specTable { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
 .specTable th, .specTable td { text-align: left; padding: var(--sp-3) var(--sp-3); border-bottom: 1px solid var(--border); vertical-align: top; }
-.specTable th { width: 32%; font-weight: 600; color: var(--navy-900); background: var(--steel-50); }
+.specTable th { font-weight: 600; color: var(--navy-900); background: var(--steel-50); }
+.specTable tbody th { width: 32%; }
+.specTable thead + tbody th { width: auto; min-width: 9rem; }
 .specTable td small { display: block; color: var(--fg-muted); font-size: var(--text-xs); margin-top: 0.2rem; }
 
 .dl { display: grid; grid-template-columns: max-content 1fr; gap: var(--sp-2) var(--sp-5); font-size: var(--text-sm); margin: 0; }

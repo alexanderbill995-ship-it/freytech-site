@@ -1,0 +1,3085 @@
+[
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Apex I",
+        "fit": "Lowest output; aquatic-life and light-duty sanitation"
+      },
+      {
+        "name": "Apex II",
+        "fit": "Spas and small pools, air-fed with built-in dryer"
+      },
+      {
+        "name": "Apex III",
+        "fit": "Larger spas and small pools, air-fed with built-in dryer"
+      },
+      {
+        "name": "Apex IV",
+        "fit": "Small commercial pools and spas, oxygen-fed"
+      },
+      {
+        "name": "Apex VI",
+        "fit": "Small commercial pools and spas, oxygen-fed, highest output of the Aquafinity-listed models"
+      },
+      {
+        "name": "Apex VII",
+        "fit": "Commercial pools to about 75,000 gal (manufacturer sizing)"
+      },
+      {
+        "name": "Apex VIII",
+        "fit": "Commercial pools to about 130,000 gal (manufacturer sizing)"
+      },
+      {
+        "name": "Apex Ae",
+        "fit": "Fully integrated package with built-in oxygen concentrator and automatic controls (stainless or powder-coated)"
+      }
+    ],
+    "aliases": [
+      "CWT Apex",
+      "ClearWater Tech ozone",
+      "CD10/AD",
+      "CD12/AD",
+      "UV2800",
+      "CD15nx",
+      "CD30nx"
+    ],
+    "keywords": [
+      "ozone generator pool",
+      "corona discharge ozone",
+      "spa ozone system",
+      "supplemental oxidation",
+      "chloramine reduction ozone",
+      "ClearWater Tech"
+    ],
+    "notes": "Aquafinity lists Apex I, II, III, IV, VI plus an Apex Ae paragraph; ClearWater Tech's current page also lists Apex VII and VIII. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Aquafinity's per-model images are Aquafinity-hosted copies of CWT renders; the downloaded image is the manufacturer's own CDN copy.",
+    "uncertainties": "Apex Ae appears only as a menu item on cwtozone.com; its specifications were not confirmed on a manufacturer page. Dealer status for FreyTech unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex Series packaged ozone systems",
+    "proposedSlug": "clearwater-tech-apex-ozone-systems",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://irp.cdn-website.com/bb06ccb8/dms3rep/multi/opt/Apex-VI---CD12-1920w.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/clearwater-tech-apex-ozone-systems.webp",
+      "width": 1200,
+      "height": 2344,
+      "alt": "ClearWater Tech Apex VI wall-mounted corona-discharge ozone system with CD12 generator and oxygen concentrator"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      },
+      {
+        "title": "Apex Series specification sheet (APEX-SS-080720)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/APEX-SS-080720.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "Apex II / Apex III quick install guide (LIT1101)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/LIT1101-Apex-II-and-Apex-III-Quick-Install-Guide-100110.pdf",
+        "type": "Installation manual"
+      },
+      {
+        "title": "Apex IV / Apex VI quick install guide (LIT1102)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/LIT1102-Apex-IV-Apex-VI-Quick-Install-Guide-062911.pdf",
+        "type": "Installation manual"
+      },
+      {
+        "title": "Mini Series ozone generator manual (LIT221, covers CD10/CD12 based Apex units)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/LIT221+Miniseries+UL+120425.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "UV2800 ozone generator manual (LIT500, Apex I)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/LIT500-MZ250_S1200_CS1400_UV2800_051710.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "The Apex Series packages a ClearWater Tech corona-discharge (or UV-lamp, on the Apex I) ozone generator with the injector manifold, check valve, vacuum break, and flow-metering parts needed to dose ozone into a pool or spa recirculation line. Models step up from about 1 gram per hour of ozone on air to 8 grams per hour on concentrated oxygen, with wall-mounted enclosures that fit tight equipment rooms. It suits spas, therapy pools, small commercial pools, and water features where ozone is added as a supplemental oxidizer alongside the primary chlorine feed.",
+    "headline": "Wall-mounted ozone packages sized for spas, therapy pools, and small commercial pools",
+    "applications": [
+      "Commercial spas and therapy pools",
+      "Small commercial pools",
+      "Water features and fountains",
+      "Supplemental oxidation alongside chlorine feed"
+    ],
+    "features": [
+      "Complete pre-engineered package: generator, injector manifold, check valve assembly, vacuum break, flow meter/vacuum gauge with vacuum switch",
+      "Apex II and III include a built-in air dryer; Apex IV and VI include an oxygen concentrator",
+      "Wall-mounted, compact enclosures from about 9.5 lb to 34 lb",
+      "Quick-install guides and UL-listed generator manuals published by the manufacturer"
+    ],
+    "specs": [
+      {
+        "k": "Apex I ozone output",
+        "v": "1.0 g/h (UV2800 generator)",
+        "src": "cwtozone.com Apex Series page"
+      },
+      {
+        "k": "Apex II ozone output",
+        "v": "1.3 g/h at 4 SCFH dry air (CD10/AD)",
+        "src": "cwtozone.com Apex Series page"
+      },
+      {
+        "k": "Apex III ozone output",
+        "v": "2.6 g/h at 8 SCFH dry air (CD12/AD)",
+        "src": "cwtozone.com Apex Series page"
+      },
+      {
+        "k": "Apex IV ozone output",
+        "v": "4.0 g/h at 4 SCFH oxygen (CD10 + oxygen concentrator)",
+        "src": "cwtozone.com Apex Series page"
+      },
+      {
+        "k": "Apex VI ozone output",
+        "v": "8 g/h at 8 SCFH oxygen (CD12 + oxygen concentrator)",
+        "src": "cwtozone.com Apex Series page"
+      },
+      {
+        "k": "Apex VII / VIII ozone output",
+        "v": "15 g/h (CD15nx) / 30 g/h (CD30nx) on oxygen",
+        "src": "cwtozone.com Apex Series page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series Ae"
+    ],
+    "keywords": [
+      "apex ae"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "No manufacturer specification page located for Apex Ae.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex Ae",
+    "proposedSlug": "clearwater-tech-apex-ae",
+    "disposition": "family",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex Ae ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex Ae is one model in ClearWater Tech's Apex packaged ozone line. Integrated ozone package with built-in oxygen concentrator, backflow prevention and automatic controls; listed in CWT navigation but no manufacturer spec page was found. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex Ae: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series I"
+    ],
+    "keywords": [
+      "apex i"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex I",
+    "proposedSlug": "clearwater-tech-apex-i",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex I ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex I is one model in ClearWater Tech's Apex packaged ozone line. UV2800 ultraviolet ozone generator with venturi injector manifold; 1.0 g/h; 33 x 8.5 x 3.5 in, 25 lb. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex I: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series II"
+    ],
+    "keywords": [
+      "apex ii"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex II",
+    "proposedSlug": "clearwater-tech-apex-ii",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex II ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex II is one model in ClearWater Tech's Apex packaged ozone line. CD10/AD generator with built-in air dryer; 1.3 g/h at 4 SCFH dry air; 19.5 x 11.5 x 5 in, 15 lb. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex II: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series III"
+    ],
+    "keywords": [
+      "apex iii"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex III",
+    "proposedSlug": "clearwater-tech-apex-iii",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex III ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex III is one model in ClearWater Tech's Apex packaged ozone line. CD12/AD generator with built-in air dryer; 2.6 g/h at 8 SCFH dry air; 19.5 x 15.25 x 7.5 in, 34 lb. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex III: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series IV"
+    ],
+    "keywords": [
+      "apex iv"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex IV",
+    "proposedSlug": "clearwater-tech-apex-iv",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex IV ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex IV is one model in ClearWater Tech's Apex packaged ozone line. CD10 generator with oxygen concentrator; 4.0 g/h at 4 SCFH oxygen; 19 x 9 x 5 in, 9.5 lb. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex IV: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Apex Series VI"
+    ],
+    "keywords": [
+      "apex vi"
+    ],
+    "notes": "Represented in family entry clearwater-tech-apex-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Apex Series",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/apex-series",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "product": "Apex VI",
+    "proposedSlug": "clearwater-tech-apex-vi",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Apex VI ozone system"
+    },
+    "docs": [
+      {
+        "title": "Apex Series product page",
+        "url": "https://www.cwtozone.com/apex-series",
+        "type": "Product page"
+      }
+    ],
+    "description": "Apex VI is one model in ClearWater Tech's Apex packaged ozone line. CD12 generator with oxygen concentrator; 8 g/h at 8 SCFH oxygen; 21.5 x 11.5 x 5 in, 15 lb. It is represented inside the clearwater-tech-apex-ozone-systems family entry.",
+    "headline": "Apex VI: one size in the Apex ozone package range",
+    "applications": [
+      "Spas",
+      "Small commercial pools",
+      "Water features"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "PBF-3",
+        "fit": "Small saltwater systems with high solids"
+      },
+      {
+        "name": "PBF-5 / PBF-5S",
+        "fit": "Koi ponds and quarantine systems"
+      },
+      {
+        "name": "PBF-10 / PBF-10S",
+        "fit": "Exhibits and hatcheries"
+      },
+      {
+        "name": "PBF-25",
+        "fit": "Large exhibit systems"
+      },
+      {
+        "name": "PBF-50S",
+        "fit": "Large marine mammal and exhibit systems"
+      }
+    ],
+    "aliases": [
+      "AST bead filter",
+      "propeller-washed bead filter",
+      "PBF"
+    ],
+    "keywords": [
+      "bead filter",
+      "aquaculture filter",
+      "zoo exhibit filtration",
+      "biofilter",
+      "RAS filter",
+      "koi pond filter"
+    ],
+    "notes": "Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.",
+    "uncertainties": "No NSF/ANSI 50 listing for swimming pool use was found; per-model flow ratings were not published on the page fetched. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/aquaculture-systems-technology/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Aquaculture Systems Technology",
+    "product": "Propeller Bead filters",
+    "manufacturer": "Aquaculture Systems Technologies, LLC (AST)",
+    "manufacturerUrl": "https://astfilters.com/",
+    "officialProductUrl": "https://astfilters.com/aquatic-systems/products/propeller-bead-filters/",
+    "proposedCategory": "filtration",
+    "proposedSlug": "ast-propeller-bead-filters",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://astfilters.com/aquatic-systems/wp-content/uploads/sites/3/2016/01/propeller-bead-filter2-large-e1502230967617.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/ast-propeller-bead-filters.webp",
+      "width": 1200,
+      "height": 1933,
+      "alt": "AST Propeller Bead filter vessel with motorized propeller backwash"
+    },
+    "docs": [
+      {
+        "title": "Propeller Bead Filters product page",
+        "url": "https://astfilters.com/aquatic-systems/products/propeller-bead-filters/",
+        "type": "Product page"
+      },
+      {
+        "title": "Propeller Bead Filter specifications page",
+        "url": "https://astfilters.com/aquatic-systems/products/propeller-bead-filters/propeller-bead-filter-specifications/",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "AST's Propeller Bead filters are pressurized floating-bead filters that trap solids and host nitrifying bacteria in the same vessel, then clean the bead bed with a motorized propeller instead of a full backwash. They are built for recirculating aquaculture, zoo and aquarium exhibits, and large ornamental ponds where both solids capture and biological ammonia removal are needed. FreyTech would position them for animal-exhibit and life-support systems rather than for bather pools, which are governed by NSF/ANSI 50 pool filter requirements.",
+    "headline": "Combined mechanical and biological filtration for exhibits, hatcheries, and life-support systems",
+    "applications": [
+      "Zoo and aquarium exhibit life-support",
+      "Recirculating aquaculture and hatcheries",
+      "Large koi and display ponds",
+      "Quarantine systems"
+    ],
+    "facilities": [
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "reduce-waste"
+    ],
+    "features": [
+      "Floating bead media provides mechanical solids capture and a biofilter surface in one vessel",
+      "Motorized propeller agitates the bead bed for backwash with low water loss",
+      "Standard-flow and high-flow (pressurized) configurations; manufacturer cites up to 1,200 gpm",
+      "Manufacturer cites 400 sq ft of bacterial surface per cubic foot of media and 100 percent removal of particles above 50 microns per pass"
+    ],
+    "specs": [
+      {
+        "k": "Maximum flow (high-flow units)",
+        "v": "Up to 1,200 gpm",
+        "src": "astfilters.com aquaculture filters page"
+      },
+      {
+        "k": "Media surface area",
+        "v": "400 sq ft per cubic foot of beads",
+        "src": "astfilters.com Propeller Bead page"
+      },
+      {
+        "k": "Manufacturer location",
+        "v": "Baton Rouge, LA",
+        "src": "astfilters.com"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "SAG 120A / 240A / 480A",
+        "fit": "Smaller pools and spas; PVC or stainless chamber"
+      },
+      {
+        "name": "SAG 720A / 960A / 1200A",
+        "fit": "Larger pools; stainless chamber"
+      },
+      {
+        "name": "SAG APVC / SAG (secondary)",
+        "fit": "Splash pads and pools requiring validated Crypto inactivation"
+      }
+    ],
+    "aliases": [
+      "Sentry UV",
+      "Sentry Aqua Guard",
+      "SAG",
+      "ChlorKing UV"
+    ],
+    "keywords": [
+      "low pressure UV pool",
+      "amalgam UV",
+      "chloramine UV",
+      "splash pad UV",
+      "secondary disinfection UV",
+      "ChlorKing"
+    ],
+    "notes": "Aquafinity's flow (50-900 gpm) and lamp-life (13,000 h) claims were not confirmed on chlorking.com and are omitted. The only image on Aquafinity's page is hosted by knorrsystems.com (an Aquafinity company), so no image was downloaded.",
+    "uncertainties": "Per-model flow ratings and electrical data live in the owner's manuals (PDF not machine-readable here). No product image found on chlorking.com product page.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/chlorking-sentry-uv/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "ChlorKing Sentry UV",
+    "product": "Sentry Aqua Guard low-pressure UV systems",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "https://chlorking.com/products/sentry-ultraviolet-light-systems/",
+    "proposedCategory": "uv-supplemental-treatment",
+    "proposedSlug": "chlorking-sentry-uv-systems",
+    "disposition": "published",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing Sentry Aqua Guard low-pressure amalgam UV chamber"
+    },
+    "docs": [
+      {
+        "title": "Sentry UV product page",
+        "url": "https://chlorking.com/products/sentry-ultraviolet-light-systems/",
+        "type": "Product page"
+      },
+      {
+        "title": "Sentry Aqua Guard supplemental UV owner's manual (2024)",
+        "url": "https://chlorking.com/wp-content/uploads/2024/11/1-ChlorKing.SAG-Supplemental-UV-Owners-Manual.2024.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "Sentry Aqua Guard secondary (Crypto-certified) UV owner's manual (2024)",
+        "url": "https://chlorking.com/wp-content/uploads/2024/11/2-ChlorKing.SAG_.Secondary-UV-Owners-Manual.2024.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Sentry Aqua Guard is ChlorKing's low-pressure, high-output amalgam UV line for commercial pools, spas, and splash pads. Supplemental models reduce combined chlorine and are NSF/ANSI 50 certified; the secondary-disinfection models are additionally certified for 3-log Cryptosporidium inactivation. The line suits facilities that want UV with lower electrical draw than medium-pressure units and a simple LED status panel for operators.",
+    "headline": "Low-pressure amalgam UV for chloramine control and secondary disinfection",
+    "applications": [
+      "Indoor pools with chloramine complaints",
+      "Splash pads and interactive water features",
+      "Spas and therapy pools",
+      "Secondary disinfection where code requires Crypto inactivation"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "High-output amalgam lamps for chloramine control and inactivation of chlorine-resistant pathogens",
+      "Supplemental models NSF/ANSI 50 certified; secondary models certified for 3-log Cryptosporidium per NSF 50 and EPA UV DGM",
+      "Patent-pending quick-disconnect sleeve assembly for lamp and sleeve service",
+      "PVC or stainless steel chambers; horizontal or vertical installation"
+    ],
+    "specs": [
+      {
+        "k": "Supplemental models",
+        "v": "SAG 120A, 240A, 480A (PVC or stainless); SAG 720A, 960A, 1200A (stainless)",
+        "src": "chlorking.com Sentry UV page"
+      },
+      {
+        "k": "Secondary (Crypto) models",
+        "v": "SAG APVC (PVC) and SAG stainless",
+        "src": "chlorking.com Sentry UV page"
+      },
+      {
+        "k": "Certification",
+        "v": "NSF/ANSI 50; secondary line 3-log Cryptosporidium",
+        "src": "chlorking.com Sentry UV page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Eko3 filters",
+      "Eko3 Systems GEN2"
+    ],
+    "keywords": [],
+    "notes": "Excluded: Aquafinity/Knorr Systems (KSI) house brand. The EKO3 SYSTEMS trademark (USPTO reg. 5543947) is registered to Knorr Systems, Inc., Santa Ana CA, and eko3.com redirects to knorrsystems.com. Aquafinity page sub-headings 'Product Features', 'Filter Tanks', 'Internal Components of Filter Tanks', and 'Control Valves' are sections of this single product and are covered by this object.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/eko3-gen2-filters/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Eko3 GEN2 Filters",
+    "product": "Eko3 GEN2 hi-rate permanent media filter",
+    "manufacturer": "Knorr Systems, Inc. (Aquafinity / KSI house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/mechanical-room-equipment/filters/eko3-filters",
+    "proposedCategory": "filtration",
+    "proposedSlug": "eko3-gen2-filters",
+    "disposition": "excluded",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Eko3 GEN2 filter tank"
+    },
+    "docs": [
+      {
+        "title": "Eko3 GEN2 Filters (dealer page)",
+        "url": "https://knorrsystems.com/mechanical-room-equipment/filters/eko3-filters",
+        "type": "Product page"
+      }
+    ],
+    "description": "Eko3 GEN2 is a fiberglass hi-rate permanent media filter line sold under the EKO3 SYSTEMS trademark owned by Knorr Systems, Inc., which is one of the five distributors that formed Aquafinity. It is a competitor's in-house brand and is not a product FreyTech can source.",
+    "headline": "Competitor house-brand filter; excluded from FreyTech catalog",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Normblock Multi 80/200",
+        "fit": "Optimized around 60 ft of head for typical commercial duty points"
+      },
+      {
+        "name": "Normblock Multi 65/250",
+        "fit": "Lower flow, higher head"
+      },
+      {
+        "name": "Normblock Multi 100/250",
+        "fit": "Higher flow"
+      },
+      {
+        "name": "Normblock Multi 125/250",
+        "fit": "Highest flow in the series"
+      }
+    ],
+    "aliases": [
+      "Eko3 pump",
+      "Speck Normblock",
+      "Norm Block Multi"
+    ],
+    "keywords": [
+      "plastic commercial pool pump",
+      "salt water pool pump",
+      "Speck pump",
+      "1750 rpm pool pump",
+      "Normblock"
+    ],
+    "notes": "Aquafinity sells these under its Eko3 brand; the manufacturer is Speck Pumps. Aquafinity's 'Normblock Multi 80/200' tab is emitted as a family object under this slug.",
+    "uncertainties": "NSF/ANSI 50 listing not stated on the manufacturer page fetched; confirm in the 2025 brochure. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/eko3-pumps/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Eko3 Pumps",
+    "manufacturer": "Speck Pumps (Speck Pumps-Pool Products, Inc.)",
+    "manufacturerUrl": "https://usa.speck-pumps.com/",
+    "proposedCategory": "pumps-circulation-flow",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Normblock Multi Series (incl. 80/200)",
+    "officialProductUrl": "https://usa.speck-pumps.com/normblock-multi/",
+    "proposedSlug": "speck-normblock-multi-pumps",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://usa.speck-pumps.com/wp-content/uploads/Normblock-Multi-125-250_banner.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/speck-normblock-multi-pumps.webp",
+      "width": 1200,
+      "height": 426,
+      "alt": "Speck Normblock Multi 125/250 horizontal commercial pool pump in corrosion-resistant plastic"
+    },
+    "docs": [
+      {
+        "title": "Normblock Multi Series product page",
+        "url": "https://usa.speck-pumps.com/normblock-multi/",
+        "type": "Product page"
+      },
+      {
+        "title": "Normblock Multi Series flyer",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/Flyer-Normblock-Multi-Series.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BADU Block / Normblock commercial pump brochure (2025)",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/2025-BADU-Block-Normblock-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Normblock Multi / BADU Block Multi owner's manual (07-2024)",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/Manual-for-Normblock-Multi-BADU-Block-Multi-Normblock-Multi-FA_07-2024.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "The Normblock Multi is Speck's horizontal, single-stage commercial pool pump with a housing molded from high-performance plastic, so it runs in salt and high-chloride water without internal coatings. It turns at 1,750 rpm on a TEFC motor and uses a carbon/silicon-carbide mechanical seal with a coupling that lets the motor be changed without disturbing the seal. It fits aquatic centers, water parks, fountains, and saline pools that want a quieter, corrosion-proof alternative to bronze or cast-iron end-suction pumps.",
+    "headline": "Corrosion-proof plastic commercial pump for saline and high-load pools",
+    "applications": [
+      "Commercial pool recirculation",
+      "Saline and salt-chlorinated pools",
+      "Water parks and fountains",
+      "Aquaculture"
+    ],
+    "features": [
+      "7.5 to 30 HP models at 1,750 rpm",
+      "High-performance plastic (THK) housing rated for elevated salt concentrations without internal coating",
+      "TEFC motor, Class F insulation, IP55; sealed bearings need no lubrication",
+      "Carbon/SiC-EPDM mechanical seal; shaft coupling allows motor replacement without seal replacement",
+      "Optional all-plastic strainer tank for flooded-suction installations",
+      "Each pump factory tested"
+    ],
+    "specs": [
+      {
+        "k": "Horsepower",
+        "v": "7.5, 10, 15, 20, 25, 30 HP",
+        "src": "usa.speck-pumps.com Normblock Multi page"
+      },
+      {
+        "k": "Speed",
+        "v": "1,750 rpm",
+        "src": "usa.speck-pumps.com Normblock Multi page"
+      },
+      {
+        "k": "Sizes",
+        "v": "65/250, 80/200, 100/250, 125/250",
+        "src": "usa.speck-pumps.com parts lists"
+      },
+      {
+        "k": "Motor",
+        "v": "TEFC, Class F, IP55",
+        "src": "usa.speck-pumps.com Normblock Multi page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "80/200"
+    ],
+    "keywords": [
+      "Normblock Multi 80/200"
+    ],
+    "notes": "Represented in family entry speck-normblock-multi-pumps. Also available as a BADU Block Multi 80/200 vertical version.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/eko3-pumps/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Eko3 Pumps",
+    "manufacturer": "Speck Pumps (Speck Pumps-Pool Products, Inc.)",
+    "manufacturerUrl": "https://usa.speck-pumps.com/",
+    "proposedCategory": "pumps-circulation-flow",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Normblock Multi 80/200",
+    "officialProductUrl": "https://usa.speck-pumps.com/normblock-multi/",
+    "proposedSlug": "speck-normblock-multi-80-200",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Speck Normblock Multi 80/200 commercial pump"
+    },
+    "docs": [
+      {
+        "title": "Normblock Multi 80/200 parts list",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/Parts-Normblock-Multi-80-200.pdf",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "The 80/200 is the Normblock Multi size Speck optimized for duty points around 60 feet of head, a common commercial pool condition. It is represented inside the speck-normblock-multi-pumps family entry.",
+    "headline": "The 60-foot-head size in the Normblock Multi range",
+    "applications": [
+      "Commercial pool recirculation"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "BADU Block Multi 80/200",
+        "fit": "Compact, 60 ft head optimized"
+      },
+      {
+        "name": "BADU Block Multi 125/250",
+        "fit": "Highest flow; optional ceramic-coated cast iron strainer tank"
+      }
+    ],
+    "aliases": [
+      "Eko3 pump",
+      "BADU Block",
+      "Badu Block Multi"
+    ],
+    "keywords": [
+      "vertical commercial pool pump",
+      "space saving pool pump",
+      "Speck BADU",
+      "plastic pool pump VFD"
+    ],
+    "notes": "Aquafinity sells these under its Eko3 brand; the manufacturer is Speck Pumps.",
+    "uncertainties": "NSF/ANSI 50 listing not stated on the manufacturer page fetched. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/eko3-pumps/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Eko3 Pumps",
+    "manufacturer": "Speck Pumps (Speck Pumps-Pool Products, Inc.)",
+    "manufacturerUrl": "https://usa.speck-pumps.com/",
+    "proposedCategory": "pumps-circulation-flow",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "BADU Block Multi Series",
+    "officialProductUrl": "https://usa.speck-pumps.com/badu-block-multi/",
+    "proposedSlug": "speck-badu-block-multi-pumps",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://usa.speck-pumps.com/wp-content/uploads/BADU-Block-Multi-125-250_banner.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/speck-badu-block-multi-pumps.webp",
+      "width": 1200,
+      "height": 426,
+      "alt": "Speck BADU Block Multi 125/250 vertical commercial pool pump with strainer tank"
+    },
+    "docs": [
+      {
+        "title": "BADU Block Multi Series product page",
+        "url": "https://usa.speck-pumps.com/badu-block-multi/",
+        "type": "Product page"
+      },
+      {
+        "title": "BADU Block Multi flyer",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/Flyer-BADU-Block-Multi.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BADU Block / Normblock commercial pump brochure (2025)",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/2025-BADU-Block-Normblock-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Normblock Multi / BADU Block Multi owner's manual (07-2024)",
+        "url": "https://usa.speck-pumps.com/wp-content/uploads/Manual-for-Normblock-Multi-BADU-Block-Multi-Normblock-Multi-FA_07-2024.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "The BADU Block Multi is the vertical, space-saving version of Speck's plastic commercial pump: the motor sits above the wet end and the discharge can be rotated before installation, so it fits tight or retrofit equipment rooms. It shares the 1,750 rpm TEFC motor, carbon/SiC seal, and corrosion-resistant housing of the Normblock Multi and ships with an integral strainer tank. It suits aquatic centers and water parks replacing pumps in a constrained footprint, with an optional integrated VFD.",
+    "headline": "Vertical plastic commercial pump for tight equipment rooms",
+    "applications": [
+      "Commercial pool recirculation in limited floor space",
+      "Retrofit of existing pump pads",
+      "Saline pools and water parks"
+    ],
+    "features": [
+      "5.5 to 30 HP models at 1,750 rpm",
+      "Vertical design with rotatable discharge connection",
+      "Corrosion-resistant plastic housing; integral strainer tank with stainless basket (PVC basket optional)",
+      "Outside circulation and air-bleed line to extend mechanical seal life",
+      "Impeller trims available for exact duty points",
+      "Optional integrated NEMA 4X VFD; requires motor starter or VFD"
+    ],
+    "specs": [
+      {
+        "k": "Horsepower",
+        "v": "5.5, 7.5, 10, 15, 20, 25, 30 HP",
+        "src": "usa.speck-pumps.com BADU Block Multi page"
+      },
+      {
+        "k": "Speed",
+        "v": "1,750 rpm",
+        "src": "usa.speck-pumps.com BADU Block Multi page"
+      },
+      {
+        "k": "Sizes",
+        "v": "65/250, 80/200, 100/250, 125/250",
+        "src": "usa.speck-pumps.com BADU Block Multi page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Carbon steel / Primabond poly-lined",
+        "fit": "Standard commercial and municipal; NSF 50 and 61"
+      },
+      {
+        "name": "FRP (epoxy vinylester)",
+        "fit": "Corrosive or saline environments"
+      }
+    ],
+    "aliases": [
+      "EPD filters",
+      "Poly-Steel filter",
+      "EPD horizontal sand filter"
+    ],
+    "keywords": [
+      "horizontal sand filter",
+      "commercial pool sand filter",
+      "hi-rate permanent media filter",
+      "poly lined steel filter",
+      "FRP pool filter",
+      "EPD USA"
+    ],
+    "notes": "Aquafinity's images are hosted by knorrsystems.com; the downloaded image is EPD's own tank photo (300 px source, upscaled only by container).",
+    "uncertainties": "Pressure ratings and per-tank flow not stated on the pages fetched; EPD company location not shown on site. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/epd-filtration-systems/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "EPD Filtration Systems",
+    "product": "EPD hi-rate permanent media filtration systems (poly-lined steel and FRP)",
+    "manufacturer": "EPD USA, Inc.",
+    "manufacturerUrl": "https://epdusa.net/",
+    "officialProductUrl": "https://epdusa.net/products/filters/",
+    "proposedCategory": "filtration",
+    "proposedSlug": "epd-hi-rate-permanent-media-filters",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://epdusa.net/assets/Uploads/products-tanks-165-tank.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/epd-hi-rate-permanent-media-filters.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "EPD USA 16.5 sq ft polyethylene-lined steel hi-rate filter tank"
+    },
+    "docs": [
+      {
+        "title": "EPD filters product page",
+        "url": "https://epdusa.net/products/filters/",
+        "type": "Product page"
+      },
+      {
+        "title": "EPD polyethylene-lined steel filter brochure",
+        "url": "https://epdusa.net/assets/Brochures/Steel-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "EPD FRP filter brochure",
+        "url": "https://epdusa.net/assets/Brochures/FRP-Brochure.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "EPD USA builds horizontal hi-rate permanent media filter systems in two tank families: carbon steel lined with rotationally molded Primabond polyethylene, and fiberglass-reinforced plastic with epoxy vinylester resin. Systems are supplied as one- to multi-tank batteries with cast bronze backwash valves and manual, semi-automatic, or PLC-based automatic backwash controls. They suit municipal aquatic centers, water parks, and large natatoriums that need drinking-water-grade clarity in a low-height mechanical room.",
+    "headline": "Horizontal multi-tank sand filtration for large pools and water parks",
+    "applications": [
+      "Large natatoriums",
+      "Water parks and wave pools",
+      "Multi-pool aquatic centers",
+      "Renovations with door and ceiling constraints"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets",
+      "reduce-waste"
+    ],
+    "features": [
+      "Poly-lined steel filters NSF/ANSI 50 and 61 listed (manufacturer statement)",
+      "Rotationally molded monolithic polyethylene lining resistant to chemicals, abrasion, and impact",
+      "FRP tanks with proprietary epoxy vinylester resin for corrosive environments",
+      "Heavy-duty cast bronze backwash valves and PLC-based controls available",
+      "Limited warranty up to 20 years (manufacturer statement)"
+    ],
+    "specs": [
+      {
+        "k": "Poly-lined steel tank sizes",
+        "v": "8.2, 13.5, 16.5, 20 sq ft filter area per tank",
+        "src": "epdusa.net filters page"
+      },
+      {
+        "k": "FRP tank sizes",
+        "v": "13.5, 17 sq ft (20 and 25 sq ft listed as coming soon)",
+        "src": "epdusa.net filters page"
+      },
+      {
+        "k": "Listings",
+        "v": "NSF/ANSI 50 and 61 (poly-lined steel)",
+        "src": "epdusa.net"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "SX range",
+        "fit": "Current Xylem catalog model for aquatics and industrial flows"
+      },
+      {
+        "name": "ECF range",
+        "fit": "Multi-lamp (2 or 4) inline units for pools, legacy ETS range"
+      },
+      {
+        "name": "ECP range",
+        "fit": "Single-lamp compact units for spas, therapy pools and splash pads, legacy ETS range"
+      },
+      {
+        "name": "Wafer UV generator",
+        "fit": "Compact wafer-style chamber in the ETS-UV product family"
+      }
+    ],
+    "aliases": [
+      "ETS UV",
+      "ETS/ATG UV",
+      "Engineered Treatment Systems",
+      "Neptune Benson ETS-UV",
+      "Evoqua ETS-UV"
+    ],
+    "keywords": [
+      "medium pressure UV pool",
+      "chloramine destruction",
+      "cryptosporidium UV",
+      "water park UV",
+      "secondary disinfection",
+      "ETS UV"
+    ],
+    "notes": "Aquafinity's ECF, ECP, SX images and 'ETS lamp' photo are hosted by knorrsystems.com and were not used; 'ETS lamp' is a component photo, not a product, and is covered here. Xylem's current US catalog lists the SX model and Wafer generator under ETS-UV; ECF and ECP are emitted as family objects.",
+    "uncertainties": "ECF and ECP ranges were not found on Xylem's current US catalog pages (only on dealer sites and possibly in the aquatics brochure); confirm current availability with Xylem. NSF/ANSI 50 status for SX not stated on the page fetched.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/ets/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Engineered Treatment Systems",
+    "manufacturer": "ETS-UV (Xylem, formerly Evoqua / Neptune Benson)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/brand/ets-uv/",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "ETS-UV medium-pressure UV systems (SX, ECF, ECP ranges)",
+    "officialProductUrl": "https://www.xylem.com/en-us/catalog/products--services/disinfection-systems/uv-systems/ets-uv-disinfection-generators---sx-model/",
+    "proposedSlug": "ets-uv-medium-pressure-uv-systems",
+    "disposition": "published",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://www.xylem.com/siteassets/catalog-assets/images/products/folder-0001/atg-ets-sx-product.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/ets-uv-medium-pressure-uv-systems.webp",
+      "width": 1200,
+      "height": 667,
+      "alt": "ETS-UV SX medium-pressure UV disinfection chamber and control cabinet"
+    },
+    "docs": [
+      {
+        "title": "ETS-UV brand page (Xylem)",
+        "url": "https://www.xylem.com/en-us/brand/ets-uv/",
+        "type": "Product page"
+      },
+      {
+        "title": "ETS-UV Disinfection Generators - SX Model",
+        "url": "https://www.xylem.com/en-us/catalog/products--services/disinfection-systems/uv-systems/ets-uv-disinfection-generators---sx-model/",
+        "type": "Product page"
+      },
+      {
+        "title": "ETS-UV ultraviolet disinfection systems for aquatics brochure",
+        "url": "https://www.xylem.com/siteassets/catalog-assets/documents/products/folder-0004/aq-uv-en-br.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "ETS-UV, now a Xylem brand, makes medium-pressure UV systems that destroy chloramines and inactivate chlorine-resistant pathogens such as Cryptosporidium in pool, spa, splash pad, and water park recirculation loops. The SX range covers single systems from roughly 10 to more than 5,000 cubic meters per hour with one to eighteen lamps, automatic power stepping, and an automatic quartz wiper. It suits large natatoriums and water parks that need validated secondary disinfection sized by an engineer.",
+    "headline": "Validated medium-pressure UV for chloramine destruction and Crypto inactivation",
+    "applications": [
+      "Competition and municipal natatoriums",
+      "Water parks with high bather loads",
+      "Splash pads and spray features",
+      "Therapy pools and spas"
+    ],
+    "features": [
+      "Medium-pressure lamps in 1 to 18 lamp configurations (SX)",
+      "Automatic power stepping from 100 to 30 percent to match flow",
+      "Automatic wiper; lamps changeable without removing wiper motor",
+      "Manufacturer cites 9,000 hour lamp life and 5 year quartz life (SX)",
+      "Third-party bioassay validated performance (manufacturer statement)"
+    ],
+    "specs": [
+      {
+        "k": "SX flow range",
+        "v": "10 to over 5,000 m3/h in a single system",
+        "src": "xylem.com SX model page"
+      },
+      {
+        "k": "SX lamp configurations",
+        "v": "1 to 18 medium-pressure lamps",
+        "src": "xylem.com SX model page"
+      },
+      {
+        "k": "Lamp / quartz life",
+        "v": "9,000 h / 5 years",
+        "src": "xylem.com SX model page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "ECF"
+    ],
+    "keywords": [
+      "ETS ECF"
+    ],
+    "notes": "Represented in family entry ets-uv-medium-pressure-uv-systems.",
+    "uncertainties": "Not found on Xylem's current US catalog; flow figures come from dealer copies of ETS literature and need manufacturer confirmation.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/ets/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Engineered Treatment Systems",
+    "manufacturer": "ETS-UV (Xylem, formerly Evoqua / Neptune Benson)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/brand/ets-uv/",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "ECF range",
+    "officialProductUrl": "",
+    "proposedSlug": "ets-uv-ecf-range",
+    "disposition": "family",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ETS-UV ECF range chamber"
+    },
+    "docs": [
+      {
+        "title": "ETS-UV aquatics brochure",
+        "url": "https://www.xylem.com/siteassets/catalog-assets/documents/products/folder-0004/aq-uv-en-br.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "ECF range is one of the ETS medium-pressure UV ranges shown on Aquafinity's page. Medium-pressure, multi-lamp (typically 2 or 4) inline UV units historically offered for pool flows of roughly 350 to 3,350 gpm. It is represented inside the ets-uv-medium-pressure-uv-systems family entry.",
+    "headline": "ECF range: legacy ETS medium-pressure UV range",
+    "applications": [
+      "Commercial pools",
+      "Spas and splash pads"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "ECP"
+    ],
+    "keywords": [
+      "ETS ECP"
+    ],
+    "notes": "Represented in family entry ets-uv-medium-pressure-uv-systems.",
+    "uncertainties": "Not found on Xylem's current US catalog; flow figures come from dealer copies of ETS literature and need manufacturer confirmation.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/ets/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Engineered Treatment Systems",
+    "manufacturer": "ETS-UV (Xylem, formerly Evoqua / Neptune Benson)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/brand/ets-uv/",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "ECP range",
+    "officialProductUrl": "",
+    "proposedSlug": "ets-uv-ecp-range",
+    "disposition": "family",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ETS-UV ECP range chamber"
+    },
+    "docs": [
+      {
+        "title": "ETS-UV aquatics brochure",
+        "url": "https://www.xylem.com/siteassets/catalog-assets/documents/products/folder-0004/aq-uv-en-br.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "ECP range is one of the ETS medium-pressure UV ranges shown on Aquafinity's page. Single-lamp, ultra-compact medium-pressure units historically offered for spas, therapy pools and splash pads at roughly 114 to 176 gpm. It is represented inside the ets-uv-medium-pressure-uv-systems family entry.",
+    "headline": "ECP range: legacy ETS medium-pressure UV range",
+    "applications": [
+      "Commercial pools",
+      "Spas and splash pads"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "BF-Series multi-cartridge housings",
+        "fit": "Commercial pools up to 450 gpm per housing; manifold multiple housings for larger flows"
+      },
+      {
+        "name": "BF-SC single cartridge housings",
+        "fit": "Small pools and spas, roughly 20,000 to 56,000 gal"
+      },
+      {
+        "name": "BF510 Series",
+        "fit": "Pool and spa housing line also listed by Harmsco"
+      }
+    ],
+    "aliases": [
+      "Betterfilter",
+      "Harmsco pool filter",
+      "SuperTuf cartridge",
+      "ST/6",
+      "ST/105"
+    ],
+    "keywords": [
+      "stainless cartridge filter pool",
+      "commercial cartridge filter",
+      "no backwash pool filter",
+      "Harmsco",
+      "Betterfilter"
+    ],
+    "notes": "Aquafinity's page states T-316 stainless and a 10-year warranty; Harmsco's current pages state 304L stainless and do not list the warranty term, so the current manufacturer statement is used. Aquafinity's image comes from its own shop API and was not used.",
+    "uncertainties": "Per-model flow and cartridge counts are in the brochure; warranty term to confirm with Harmsco. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/harmsco-filters/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Harmsco Filters",
+    "product": "BetterFilter stainless steel cartridge filter housings (BF-Series and BF-SC)",
+    "manufacturer": "Harmsco, Inc.",
+    "manufacturerUrl": "https://harmsco.com/",
+    "officialProductUrl": "https://harmsco.com/product/betterfilter-housing-bf-series/",
+    "proposedCategory": "filtration",
+    "proposedSlug": "harmsco-betterfilter-cartridge-filters",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://harmsco.com/wp-content/uploads/2026/04/BF-PoolSpa-Housings.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/harmsco-betterfilter-cartridge-filters.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Harmsco BetterFilter stainless steel multi-cartridge pool filter housings"
+    },
+    "docs": [
+      {
+        "title": "BetterFilter BF-Series pool housings product page",
+        "url": "https://harmsco.com/product/betterfilter-housing-bf-series/",
+        "type": "Product page"
+      },
+      {
+        "title": "BetterFilter single cartridge pool housings product page",
+        "url": "https://harmsco.com/product/betterfilter-single-cartridge-pool-housings/",
+        "type": "Product page"
+      },
+      {
+        "title": "Harmsco BetterFilter swimming pool housings brochure",
+        "url": "https://harmsco.com/wp-content/uploads/2025/09/Harmsco-Housings-Brochure-BF-Swimming-Pool.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BetterFilter SC series product sheet",
+        "url": "https://harmsco.com/wp-content/uploads/2026/04/Harmsco-Housings-BFSC-Page-1-2.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Harmsco BetterFilters are electropolished stainless steel housings that hold reusable pleated cartridges, so a pool can be filtered without backwash water or a waste line. The BF-Series holds 7 to 50 cartridges and handles up to 450 gpm per housing at 50 psi in a footprint of roughly one to two square feet; the BF-SC single-cartridge housings serve smaller pools and spas. They fit hotel, therapy, and school pools where space, water use, or drain access rule out sand filtration.",
+    "headline": "Stainless cartridge filtration with no backwash water and a small footprint",
+    "applications": [
+      "Hotel and condominium pools",
+      "Therapy pools and spas",
+      "Pools without a backwash drain",
+      "Space-constrained retrofits"
+    ],
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "k12-schools",
+      "ymca-community",
+      "camps-seasonal"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "304L stainless steel housings, electropolished; fusion-bonded epoxy versions available",
+      "Up to 450 gpm per BF-Series housing; rated to 50 psi",
+      "7 to 50 reusable pleated cartridges per housing; no backwash water",
+      "NSF/ANSI 50 listed equipment (manufacturer statement)",
+      "Single-cartridge BF-SC line for pools of roughly 20,000 to 56,000 gallons"
+    ],
+    "specs": [
+      {
+        "k": "BF-Series models",
+        "v": "BF-42, 84, 96, 126, 144, 168, 252, 336, 450, 600, 600FL, 900FL, 1200FL",
+        "src": "harmsco.com BF-Series page"
+      },
+      {
+        "k": "BF-SC models",
+        "v": "BF55SC, BF75SC, BF105SC, BF155SC",
+        "src": "harmsco.com BF-SC page"
+      },
+      {
+        "k": "Pressure rating",
+        "v": "50 psi",
+        "src": "harmsco.com"
+      },
+      {
+        "k": "Manufacturer location",
+        "v": "Riviera Beach, FL",
+        "src": "harmsco.com"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "ERN252 / ERN302 / ERN402 (and -A ASME variants)",
+        "fit": "Natural gas; 250k, 300k, 399k Btu/hr"
+      },
+      {
+        "name": "ERL252 / ERL302 / ERL402 (and -A ASME variants)",
+        "fit": "Propane; 250k, 300k, 399k Btu/hr"
+      }
+    ],
+    "aliases": [
+      "EnergyRite 2",
+      "ERN",
+      "ERL",
+      "Lochinvar EnergyRite"
+    ],
+    "keywords": [
+      "Lochinvar pool heater",
+      "EnergyRite",
+      "gas pool heater 400000 btu",
+      "low NOx pool heater",
+      "spa heater commercial"
+    ],
+    "notes": "Aquafinity's page cites 88 percent efficiency and under 20 ppm NOx for 'EnergyRite 2'; those figures were not confirmed on Lochinvar's current pages and are omitted.",
+    "uncertainties": "Thermal efficiency figure not shown on the current ERN402 page fetched. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/lochinvar-heaters/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Lochinvar",
+    "manufacturer": "Lochinvar, LLC",
+    "manufacturerUrl": "https://www.lochinvar.com/",
+    "proposedCategory": "heating-energy",
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "EnergyRite pool and spa heater (ERN / ERL)",
+    "officialProductUrl": "https://www.lochinvar.com/en_US/products/residential-pool-heater-energyrite/ern402-100/100143240.html",
+    "proposedSlug": "lochinvar-energyrite-pool-heater",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.lochinvar.com/dw/image/v2/BDTV_PRD/on/demandware.static/-/Sites-lochinvar-master-catalog/default/dw39d88029/10014/Loch_Res_P_EnergyRite_ER152_F.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/lochinvar-energyrite-pool-heater.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Lochinvar EnergyRite gas pool and spa heater, front view"
+    },
+    "docs": [
+      {
+        "title": "EnergyRite ERN402 product page",
+        "url": "https://www.lochinvar.com/en_US/products/residential-pool-heater-energyrite/ern402-100/100143240.html",
+        "type": "Product page"
+      },
+      {
+        "title": "EnergyRite sales brochure (ERP-05)",
+        "url": "https://assets.lochinvar.com/damroot/Original/10014/ERP-05.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Commercial pool heaters listing (Lochinvar)",
+        "url": "https://www.lochinvar.com/en_US/commercial/pool-heaters/",
+        "type": "Product page"
+      }
+    ],
+    "description": "EnergyRite is Lochinvar's gas pool and spa heater for residential and light commercial pools, offered in 250,000, 300,000, and 399,000 Btu/hr inputs with natural gas or propane firing. It uses a commercial-grade heat exchanger with an ASME-stamped option and cupro-nickel variant, low-NOx combustion, soft-touch digital controls, and indoor or outdoor venting configurations. It suits hotel, camp, and small institutional pools and spas that need a compact, code-approved heater.",
+    "headline": "Compact low-NOx gas heater for light commercial pools and spas",
+    "applications": [
+      "Hotel and club pools and spas",
+      "Camp and seasonal pools",
+      "Therapy pools",
+      "Small school and community pools"
+    ],
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "ymca-community",
+      "healthcare-rehabilitation",
+      "k12-schools"
+    ],
+    "features": [
+      "250,000 to 399,000 Btu/hr input; natural gas or propane",
+      "Commercial-grade heat exchanger; ASME (HLW) and cupro-nickel options",
+      "Low-NOx emissions (manufacturer statement)",
+      "Digital display with soft-touch controls",
+      "Conventional, direct-air, sidewall, outdoor and power-assist venting options",
+      "3-year limited heat exchanger and 2-year parts warranty (ERN402 page)"
+    ],
+    "specs": [
+      {
+        "k": "Input range",
+        "v": "250,000 / 300,000 / 399,000 Btu/hr",
+        "src": "lochinvar.com commercial pool heaters listing"
+      },
+      {
+        "k": "ERN402 dimensions / weight",
+        "v": "26.5 in H x 46.25 in W; 288 lb shipping",
+        "src": "lochinvar.com ERN402 page"
+      },
+      {
+        "k": "Positioning",
+        "v": "Residential and light commercial",
+        "src": "lochinvar.com ERN402 page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "CPN0502 to CPN1442",
+        "fit": "Small to mid-size natatoriums; cupro-nickel optional"
+      },
+      {
+        "name": "CPN1802 and CPN2072",
+        "fit": "Large natatoriums; cupro-nickel standard"
+      }
+    ],
+    "aliases": [
+      "Copper-Fin II",
+      "CopperFin 2",
+      "CPN",
+      "Lochinvar Copper Fin"
+    ],
+    "keywords": [
+      "commercial pool heater",
+      "Copper-Fin 2",
+      "2 million btu pool heater",
+      "natatorium heater",
+      "Lochinvar CPN"
+    ],
+    "notes": "Aquafinity's page states 88 percent efficiency and 9.9 ppm NOx; Lochinvar's current page states up to 85 percent, so the current figure is used.",
+    "uncertainties": "Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/lochinvar-heaters/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Lochinvar",
+    "manufacturer": "Lochinvar, LLC",
+    "manufacturerUrl": "https://www.lochinvar.com/",
+    "proposedCategory": "heating-energy",
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Copper-Fin 2 commercial pool heater (CPN)",
+    "officialProductUrl": "https://www.lochinvar.com/en_US/products/copper-fin-2-commercial-pool-heater-product-line-sg0/cpn0502/cpn0502.html",
+    "proposedSlug": "lochinvar-copper-fin-2-pool-heater",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.lochinvar.com/dw/image/v2/BDTV_PRD/on/demandware.static/-/Sites-lochinvar-master-catalog/default/dw2a3b5214/10015/Loch_Comm_Gas_P_CopperFin_CPN502_F.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/lochinvar-copper-fin-2-pool-heater.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Lochinvar Copper-Fin 2 CPN0502 commercial gas pool heater, front view"
+    },
+    "docs": [
+      {
+        "title": "Copper-Fin 2 commercial pool heater product page",
+        "url": "https://www.lochinvar.com/en_US/products/copper-fin-2-commercial-pool-heater-product-line-sg0/cpn0502/cpn0502.html",
+        "type": "Product page"
+      },
+      {
+        "title": "Copper-Fin 2 pool heater product sheet (CPN-PS-06)",
+        "url": "https://assets.lochinvar.com/damroot/Original/10012/512426CPN-PS-06.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Commercial pool heater warranty (WAR7005)",
+        "url": "https://assets.lochinvar.com/damroot/Original/10013/290526WAR7005_100161806_2000019077_Rev D_Commercial Pool Heater (38872).pdf",
+        "type": "Warranty"
+      }
+    ],
+    "description": "Copper-Fin 2 is Lochinvar's non-condensing, fan-assisted commercial pool heater with a copper-finned tube heat exchanger, available from 500,000 to 2,070,000 Btu/hr in eight sizes. Proportional firing with up to 4:1 turndown holds pool temperature steadily, and cupro-nickel exchangers are standard on the two largest models and optional on the rest. It suits municipal, school, and university natatoriums that need a proven direct-fired heater with multiple venting options and a stackable, low-clearance footprint.",
+    "headline": "Direct-fired copper-fin heating from 500,000 to 2,070,000 Btu/hr",
+    "applications": [
+      "Natatoriums and competition pools",
+      "Municipal indoor pools",
+      "Multi-heater manifolded installations",
+      "Replacement of aging atmospheric heaters"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "features": [
+      "Eight models CPN0502 to CPN2072; 500,000 to 2,070,000 Btu/hr",
+      "Up to 85 percent thermal efficiency (manufacturer statement)",
+      "Proportional firing with up to 4:1 turndown",
+      "Optional cupro-nickel heat exchanger (standard on 1802 and 2072); bronze header options",
+      "Sealed combustion with multiple venting arrangements; ModBus manual and gateway guide available"
+    ],
+    "specs": [
+      {
+        "k": "Models",
+        "v": "CPN0502, 0652, 0752, 0992, 1262, 1442, 1802, 2072",
+        "src": "lochinvar.com Copper-Fin 2 page"
+      },
+      {
+        "k": "Input range",
+        "v": "500,000 to 2,070,000 Btu/hr",
+        "src": "lochinvar.com Copper-Fin 2 page"
+      },
+      {
+        "k": "Thermal efficiency",
+        "v": "Up to 85 percent",
+        "src": "lochinvar.com Copper-Fin 2 page"
+      },
+      {
+        "k": "Turndown",
+        "v": "Up to 4:1 proportional firing",
+        "src": "lochinvar.com Copper-Fin 2 page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "APO (Aquas commercial outdoor pool package)",
+        "fit": "750,000 to 2,000,000+ Btu/hr, outdoor-rated skid"
+      },
+      {
+        "name": "APX (Aquas high-efficiency pool package)",
+        "fit": "Up to 999,000 Btu/hr indoor package"
+      }
+    ],
+    "aliases": [
+      "Aquas",
+      "APO",
+      "APX",
+      "AP-285",
+      "Lochinvar Aquas pool package"
+    ],
+    "keywords": [
+      "condensing pool heater",
+      "indirect pool heating",
+      "boiler pool heat exchanger package",
+      "97 percent pool heater",
+      "Lochinvar Aquas"
+    ],
+    "notes": "Aquafinity's page describes a cupro-nickel exchanger and Smart System/Smart Touch controls with 5:1 and 10:1 turndown and links AP-285 through APO2000N documents; Lochinvar's current APO page cites a titanium exchanger and up to 25:1 turndown, so the current data is used.",
+    "uncertainties": "AP-285/AP-400-850 (older Aquas models on Aquafinity) were not found on Lochinvar's current listing; confirm whether they are superseded by APX. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/lochinvar-heaters/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Lochinvar",
+    "manufacturer": "Lochinvar, LLC",
+    "manufacturerUrl": "https://www.lochinvar.com/",
+    "proposedCategory": "heating-energy",
+    "problems": [
+      "modernize-aging-equipment-room",
+      "reduce-waste",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Aquas commercial pool heating package (APO / APX)",
+    "officialProductUrl": "https://www.lochinvar.com/en_US/products/aquas-commercial-outdoor-pool-package-product-line-sg200/apo1000n-200/apo1000n-200.html",
+    "proposedSlug": "lochinvar-aquas-pool-heating-package",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.lochinvar.com/dw/image/v2/BDTV_PRD/on/demandware.static/-/Sites-lochinvar-master-catalog/default/dwde93c11b/10015/LOC_APO_F.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/lochinvar-aquas-pool-heating-package.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Lochinvar Aquas APO skid-mounted condensing boiler and pool heat exchanger package"
+    },
+    "docs": [
+      {
+        "title": "Aquas commercial outdoor pool package (APO) product page",
+        "url": "https://www.lochinvar.com/en_US/products/aquas-commercial-outdoor-pool-package-product-line-sg200/apo1000n-200/apo1000n-200.html",
+        "type": "Product page"
+      },
+      {
+        "title": "Aquas high efficiency commercial pool package (APX) product page",
+        "url": "https://www.lochinvar.com/en_US/products/aquas-high-efficiency-commercial-pool-package-system-product-line-sg100/apx400n-100/apx400n-100.html",
+        "type": "Product page"
+      },
+      {
+        "title": "Aquas APO sales brochure (APO0750N-2000N)",
+        "url": "https://assets.lochinvar.com/damroot/Original/10014/LOC_C_APO_BR_1003_2022.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Aquas APO submittal sheet",
+        "url": "https://assets.lochinvar.com/damroot/Original/10014/APO-Sub-02..pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Aquas pairs a Lochinvar stainless steel condensing boiler with a plate-and-frame pool heat exchanger on a factory-built skid, so the pool water never enters the boiler. The APO outdoor packages run from 750,000 to 6,000,000 Btu/hr with up to 96.2 percent thermal efficiency and up to 25:1 turndown; the APX indoor packages run to 999,000 Btu/hr at up to 97 percent. It suits facilities that want condensing efficiency and long boiler life on saline or aggressive pool water.",
+    "headline": "Condensing boiler plus indirect exchanger for high-efficiency pool heating",
+    "applications": [
+      "Large natatoriums and aquatic centers",
+      "Saline and salt-chlorinated pools",
+      "Outdoor and rooftop mechanical installations",
+      "Energy-reduction retrofits"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "k12-schools",
+      "waterparks-high-load",
+      "hotels-resorts-hospitality",
+      "architects-engineers-public"
+    ],
+    "features": [
+      "Indirect heating: pool water isolated from the condensing boiler",
+      "APO: 750,000 to 6,000,000 Btu/hr, up to 96.2 percent thermal efficiency, up to 25:1 turndown",
+      "APX: up to 999,000 Btu/hr, up to 97 percent thermal efficiency",
+      "Titanium plate-and-frame pool heat exchanger (APO page)",
+      "Skid-mounted, factory assembled; indoor/outdoor capable",
+      "Modbus/BACnet manual available"
+    ],
+    "specs": [
+      {
+        "k": "APO models",
+        "v": "APO0750N to APO2000N standard; up to 6,000,000 Btu/hr on request",
+        "src": "lochinvar.com APO page"
+      },
+      {
+        "k": "APO thermal efficiency",
+        "v": "Up to 96.2 percent",
+        "src": "lochinvar.com APO page"
+      },
+      {
+        "k": "APX input / efficiency",
+        "v": "Up to 999,000 Btu/hr; up to 97 percent",
+        "src": "lochinvar.com commercial pool heaters listing"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Defender RMF (standard)",
+        "fit": "Full-size natatorium and aquatic center flows"
+      },
+      {
+        "name": "Defender Virtuo",
+        "fit": "Mechanical rooms with 8-foot ceilings"
+      },
+      {
+        "name": "Defender Assero",
+        "fit": "Compact; 60 to 420 gpm"
+      }
+    ],
+    "aliases": [
+      "Neptune-Benson Defender",
+      "Evoqua Defender",
+      "RMF",
+      "regenerative media filter"
+    ],
+    "keywords": [
+      "regenerative media filter",
+      "perlite pool filter",
+      "Defender filter",
+      "backwash water savings",
+      "Neptune Benson"
+    ],
+    "notes": "Duplicate of existing FreyTech slug defender-regenerative-media-filter. The official Xylem product image (siteassets/brand/neptune-benson/defender-rmf-square.png) was downloaded to public/images/products/defender-regenerative-media-filter.webp; the existing entry's docs placeholder can be replaced with the Xylem product page and Defender family brochure listed here. Aquafinity's brochure (NB-DEFENDER-BR-1016) is an Aquafinity-hosted copy and was not used.",
+    "uncertainties": "NSF/ANSI 50 listing not stated on the Xylem page fetched (expected; confirm in brochure). Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/neptune-benson-defender/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Neptune-Benson Defender Regenerative Media Filter",
+    "product": "Defender Regenerative Media Filter",
+    "manufacturer": "Neptune Benson (a Xylem brand)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/",
+    "officialProductUrl": "https://www.xylem.com/en-us/catalog/products--services/filtration-systems/defender-regenerative-media-filters/defender-regenerative-media-filter/",
+    "proposedCategory": "filtration",
+    "proposedSlug": "defender-regenerative-media-filter",
+    "disposition": "duplicate",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.xylem.com/siteassets/brand/neptune-benson/defender-rmf-square.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/defender-regenerative-media-filter.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Neptune Benson Defender regenerative media filter vessel with control panel"
+    },
+    "docs": [
+      {
+        "title": "Defender Regenerative Media Filter product page",
+        "url": "https://www.xylem.com/en-us/catalog/products--services/filtration-systems/defender-regenerative-media-filters/defender-regenerative-media-filter/",
+        "type": "Product page"
+      },
+      {
+        "title": "Defender regenerative media filters family brochure",
+        "url": "https://amp.xylem.com/asset/a51a75b5-081f-40a0-91c9-f79e1a93a32a/Defender-Family-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Defender RMF system controller",
+        "url": "https://www.xylem.com/en-us/Catalog/products--services/filtration-systems/defender-regenerative-media-filters/defender-rmf-system-controller/",
+        "type": "Product page"
+      },
+      {
+        "title": "Perlite media",
+        "url": "https://www.xylem.com/en-us/Catalog/products--services/filtration-systems/defender-regenerative-media-filters/perlite-media/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The Defender is Neptune Benson's regenerative media filter: perlite coats flexible tubes inside a compact vessel, filters to about 1 micron, and is regenerated by an automatic bump cycle instead of backwashing. Xylem cites up to 90 percent water savings, roughly one-quarter to one-sixth the floor space of equivalent sand filtration, and lower starting differential pressure. FreyTech already publishes this product at slug defender-regenerative-media-filter; this entry supplies the current manufacturer image and documents for that page.",
+    "headline": "Fine filtration with far less backwash water, in a smaller footprint than sand",
+    "applications": [
+      "Natatoriums",
+      "Municipal indoor pools",
+      "School district pools",
+      "Water parks"
+    ],
+    "facilities": [
+      "colleges-universities",
+      "k12-schools",
+      "municipal-aquatic-centers",
+      "ymca-community",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "reduce-waste",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "features": [
+      "Perlite regenerative media on flexible filter elements; about 1 micron particle removal",
+      "Automatic bump regeneration; no backwash",
+      "Manufacturer cites 90 percent water, 50 percent energy, 30 percent chemical and 75 percent space savings versus sand",
+      "Starting differential pressure about 1 psi versus 4 to 6 psi for sand",
+      "Variants: standard Defender RMF, Defender Virtuo for 8-foot ceilings, Defender Assero compact (60 to 420 gpm)"
+    ],
+    "specs": [
+      {
+        "k": "Particle removal",
+        "v": "About 1 micron",
+        "src": "xylem.com Defender page"
+      },
+      {
+        "k": "Assero flow range",
+        "v": "60 to 420 gpm (14 to 95 m3/h)",
+        "src": "xylem.com Defender page"
+      },
+      {
+        "k": "Media",
+        "v": "Perlite, replaced roughly every four weeks depending on load",
+        "src": "xylem.com Defender page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "LC",
+        "fit": "Horizontal close-coupled"
+      },
+      {
+        "name": "LCV",
+        "fit": "Vertical close-coupled for tight floor plans"
+      },
+      {
+        "name": "LF",
+        "fit": "Frame-mounted sibling for larger motors"
+      }
+    ],
+    "aliases": [
+      "PACO LC",
+      "PACO LCV",
+      "Grundfos PACO end suction",
+      "Paco pump"
+    ],
+    "keywords": [
+      "end suction pool pump",
+      "Grundfos PACO",
+      "double volute pump",
+      "NSF 50 pump",
+      "commercial pool circulation pump"
+    ],
+    "notes": "Grundfos' Product Center pages are script-rendered and blocked to non-browser fetches; facts were confirmed from Grundfos search snippets and the Aquafinity-hosted copy of Grundfos' L/LF/LCV brochure was not reused. No manufacturer-hosted product image could be retrieved.",
+    "uncertainties": "Flow/head ranges, official brochure URL on grundfos.com, and product image pending manual retrieval from Grundfos Product Center. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/paco-pumps/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "PACO Pumps",
+    "manufacturer": "Grundfos (PACO brand)",
+    "manufacturerUrl": "https://www.grundfos.com/us",
+    "proposedCategory": "pumps-circulation-flow",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets",
+      "reduce-waste"
+    ],
+    "product": "LC / LCV close-coupled end-suction pumps",
+    "officialProductUrl": "https://product-selection.grundfos.com/us/products/paco-lc",
+    "proposedSlug": "grundfos-paco-lc-lcv-end-suction-pumps",
+    "disposition": "published",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Grundfos PACO LC close-coupled end-suction pump"
+    },
+    "docs": [
+      {
+        "title": "PACO LC product page (Grundfos Product Center)",
+        "url": "https://product-selection.grundfos.com/us/products/paco-lc",
+        "type": "Product page"
+      },
+      {
+        "title": "PACO LF product page (frame-mounted sibling, NSF 61/50 noted)",
+        "url": "https://product-selection.grundfos.com/us/products/paco-lf",
+        "type": "Product page"
+      }
+    ],
+    "description": "PACO LC pumps are Grundfos' close-coupled, single-stage end-suction centrifugal pumps; the LCV is the same wet end mounted vertically to save floor space. The line spans 32 sizes with a compensated double-volute casing that balances radial load for longer bearing and seal life, and a back pull-out design for service without disturbing piping. It suits pool recirculation and feature pumps specified in iron or lead-free bronze with NSF/ANSI 50 or 61 labels.",
+    "headline": "Double-volute end-suction pumps for commercial pool recirculation",
+    "applications": [
+      "Main recirculation pumps",
+      "Feature and slide pumps",
+      "Replacement of existing end-suction pumps",
+      "Engineer-specified pump schedules"
+    ],
+    "features": [
+      "Close-coupled (LC) or vertical close-coupled (LCV) mounting",
+      "Compensated double-volute casing reduces radial load and shaft deflection",
+      "Back pull-out; short shaft design; standard motors",
+      "All-iron or all lead-free bronze construction; multiple seal options",
+      "NSF/ANSI 50 or NSF/ANSI 61 labels available (manufacturer literature)",
+      "32 sizes in the PACO end-suction range"
+    ],
+    "specs": [
+      {
+        "k": "Range",
+        "v": "32 sizes, single stage end suction",
+        "src": "Grundfos Product Center PACO LC"
+      },
+      {
+        "k": "Mounting",
+        "v": "Horizontal close-coupled (LC) or vertical (LCV)",
+        "src": "Grundfos Product Center PACO LC"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "KP",
+        "fit": "Horizontal split case"
+      },
+      {
+        "name": "KPV",
+        "fit": "Vertical split case for reduced footprint"
+      }
+    ],
+    "aliases": [
+      "PACO KP",
+      "PACO KPV",
+      "split case pool pump",
+      "Grundfos PACO split case"
+    ],
+    "keywords": [
+      "split case pump",
+      "double suction pump pool",
+      "Grundfos PACO KP",
+      "water park recirculation pump"
+    ],
+    "notes": "Aquafinity's KPV image is hosted by a third-party distributor (bbcpump.com) and was not used. Grundfos Product Center pages could not be fetched; performance range quoted from the Grundfos data booklet snippet.",
+    "uncertainties": "Official grundfos.com literature URL and product image pending manual retrieval. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/paco-pumps/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "PACO Pumps",
+    "manufacturer": "Grundfos (PACO brand)",
+    "manufacturerUrl": "https://www.grundfos.com/us",
+    "proposedCategory": "pumps-circulation-flow",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "find-replacement-equipment",
+      "prepare-specifications-budgets",
+      "reduce-waste"
+    ],
+    "product": "KP / KPV double-suction split-case pumps",
+    "officialProductUrl": "https://product-selection.grundfos.com/us/products/paco-kp",
+    "proposedSlug": "grundfos-paco-kp-kpv-split-case-pumps",
+    "disposition": "published",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Grundfos PACO KP horizontal split-case pump"
+    },
+    "docs": [
+      {
+        "title": "PACO KP product page (Grundfos Product Center)",
+        "url": "https://product-selection.grundfos.com/us/products/paco-kp",
+        "type": "Product page"
+      }
+    ],
+    "description": "PACO KP is Grundfos' horizontal axially split-case, double-suction centrifugal pump, and the KPV is the vertical version for smaller footprints. The top casing lifts off for access to the rotating assembly without disturbing the motor or piping, an independent bearing housing simplifies maintenance, and the dual-volute casing lowers radial load for quiet running. It suits large aquatic centers and water parks whose main recirculation flows exceed what end-suction pumps handle efficiently.",
+    "headline": "Split-case pumps for large recirculation flows and long service life",
+    "applications": [
+      "Large natatorium and water park recirculation",
+      "High-flow feature systems",
+      "Replacement of existing split-case pumps"
+    ],
+    "features": [
+      "Axially split casing; top half removable without disturbing motor or piping",
+      "Double suction, single stage; wide hydraulic range",
+      "Self-contained bearing housing; compensated dual-volute design",
+      "Horizontal (KP) or vertical (KPV) mounting",
+      "Multiple materials and seal arrangements; NSF/ANSI 50 or 61 labels available (manufacturer literature)"
+    ],
+    "specs": [
+      {
+        "k": "Performance range (KP/KPV data booklet)",
+        "v": "60 to 12,000 gpm; 15 to 700 ft head; 10 to 2,000 hp",
+        "src": "Grundfos PACO KP, KPV data booklet (search snippet)"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "CC100 (160316)",
+        "fit": "Spas and small pools"
+      },
+      {
+        "name": "CC150 (160317)",
+        "fit": "Mid-size residential pools; larger spas"
+      },
+      {
+        "name": "CC200 (160318)",
+        "fit": "Largest single-cartridge size; 150 gpm max"
+      }
+    ],
+    "aliases": [
+      "Pentair CC100",
+      "CC150",
+      "CC200",
+      "Clean and Clear",
+      "Pentair cartridge filter"
+    ],
+    "keywords": [
+      "cartridge filter spa",
+      "Pentair Clean & Clear",
+      "coreless cartridge filter",
+      "100 sq ft cartridge filter",
+      "200 sq ft cartridge filter"
+    ],
+    "notes": "Pentair lists Clean & Clear under residential pool products and states it is available only through dealers and retail; Aquafinity lists 100, 150, and 200 sq ft sizes. Aquafinity's image comes from its own shop API and was not used.",
+    "uncertainties": "Suitability for New York commercial permitting depends on the engineer of record and health department; not a commercial-series product. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/pentair-filter/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Clean & Clear Cartridge Filters",
+    "product": "Clean & Clear cartridge filters (CC100 / CC150 / CC200)",
+    "manufacturer": "Pentair",
+    "manufacturerUrl": "https://www.pentair.com/en-us/pool-spa.html",
+    "officialProductUrl": "https://www.pentair.com/en-us/pool-spa/products/filters/clean-and-clear-cartridge-filters.html",
+    "proposedCategory": "filtration",
+    "proposedSlug": "pentair-clean-and-clear-cartridge-filters",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.pentair.com/en-us/pool-spa/products/filters/clean-and-clear-cartridge-filters/_jcr_content/product-information/additional-media/media/mainImage.img.png/1756312438494.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pentair-clean-and-clear-cartridge-filters.webp",
+      "width": 1200,
+      "height": 767,
+      "alt": "Pentair Clean & Clear cartridge filter tank"
+    },
+    "docs": [
+      {
+        "title": "Clean & Clear cartridge filters product page",
+        "url": "https://www.pentair.com/en-us/pool-spa/products/filters/clean-and-clear-cartridge-filters.html",
+        "type": "Product page"
+      },
+      {
+        "title": "Clean & Clear cartridge filter brochure (2025)",
+        "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/residential/filters/filter-web-pages/support-pages/pentair-clean-and-clear-cartridge-filter-brochure-2025.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Clean & Clear installation and user guide",
+        "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/pool-manuals/filters/Clean_and_Clear_Owners_Manual_English.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Pentair's Clean & Clear is a single-cartridge filter in a fiberglass-reinforced polypropylene tank, offered from 50 to 200 square feet with a coreless cartridge that rinses clean with a hose. A manual high-flow air relief, continuous internal air relief, spin-on unions, and a click-confirm lock ring keep service simple. Pentair positions it as a residential product sold through dealers, so for FreyTech it fits small spas, therapy pools, and auxiliary features rather than main commercial recirculation.",
+    "headline": "Simple cartridge filtration for spas, small pools, and auxiliary features",
+    "applications": [
+      "Spas and hot tubs",
+      "Small therapy pools",
+      "Water features and auxiliary loops",
+      "Seasonal pools at camps"
+    ],
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "healthcare-rehabilitation"
+    ],
+    "problems": [
+      "find-replacement-equipment",
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Fiberglass-reinforced, chemical-resistant polypropylene tank",
+      "Coreless cartridge cleaned with a garden hose",
+      "High Flow manual air relief plus continuous internal air relief",
+      "Spin-on unions; lock ring with safety latches",
+      "NSF/ANSI 50 certified (manufacturer page); 50 psi maximum, 104 F water limit"
+    ],
+    "specs": [
+      {
+        "k": "Models / area / flow",
+        "v": "CC50 (50 sq ft, 50 gpm), CC75 (75, 75), CC100 (100, 100), CC150 (150, 150), CC200 (200, 150)",
+        "src": "pentair.com Clean & Clear page"
+      },
+      {
+        "k": "Design flow",
+        "v": "0.5 gpm per sq ft recommended",
+        "src": "pentair.com Clean & Clear page"
+      },
+      {
+        "k": "Max pressure / temperature",
+        "v": "50 psi / 104 F",
+        "src": "pentair.com Clean & Clear page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "Precision AMF",
+      "CES AMF filter",
+      "Advanced Media Filtration"
+    ],
+    "keywords": [],
+    "notes": "Excluded: Aquafinity/CES house brand (Aquafinity's own page says Aquafinity has provided these filters since 1985 and the data sheet is Aquafinity-branded; ceswaterquality.com published 'Precision AMF Filters: First 8 Years'). Aquafinity sub-tabs 'Valves', 'Lid', 'Internals', and 'Controls' are sections of this single product and are covered by this object.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/precision-control-amf/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Precision Control AMF",
+    "product": "Precision Control AMF advanced media filter",
+    "manufacturer": "Commercial Energy Specialists (CES), a division of Aquafinity",
+    "manufacturerUrl": "https://aquafinity.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "filtration",
+    "proposedSlug": "precision-control-amf-filters",
+    "disposition": "excluded",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control AMF filter"
+    },
+    "docs": [],
+    "description": "Precision Control AMF is a small-commercial hi-rate permanent media filter marketed under the Precision Control brand of Commercial Energy Specialists, one of the five distributors that formed Aquafinity. It is a competitor's in-house product line and is not available for FreyTech to source.",
+    "headline": "Competitor house-brand filter; excluded from FreyTech catalog",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Composite",
+        "fit": "Standard 1/8 in perforated basket (Aquafinity tab)"
+      },
+      {
+        "name": "Composite IWF",
+        "fit": "60-mesh basket for splash pads and UV protection (Aquafinity tab)"
+      },
+      {
+        "name": "Stainless Steel",
+        "fit": "Stainless housing variant (Aquafinity tab)"
+      }
+    ],
+    "aliases": [
+      "Precision AMF strainer",
+      "CES strainer"
+    ],
+    "keywords": [],
+    "notes": "Excluded: Aquafinity/CES house brand; images are served from Aquafinity's own shop API (CES FRP AMF Strainer). All three Aquafinity tabs are covered as models of this one object.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/precision-control-strainers/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Precision Control AMF Strainer",
+    "product": "Precision Control AMF strainers (Composite, Composite IWF, Stainless Steel)",
+    "manufacturer": "Commercial Energy Specialists (CES), a division of Aquafinity",
+    "manufacturerUrl": "https://aquafinity.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "filtration",
+    "proposedSlug": "precision-control-amf-strainers",
+    "disposition": "excluded",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control AMF composite strainer"
+    },
+    "docs": [],
+    "description": "The Precision Control AMF strainer is an inline basket strainer line (composite, fine-mesh composite for interactive water features, and stainless steel) sold under Aquafinity's CES Precision Control brand. It is a competitor's in-house product and is not available for FreyTech to source; comparable strainers are available from independent manufacturers.",
+    "headline": "Competitor house-brand strainer; excluded from FreyTech catalog",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "M-15/O2",
+        "fit": "7.6 g/h; ORP on/off control"
+      },
+      {
+        "name": "CD15/O2",
+        "fit": "10 g/h; dry-contact and 4-20 mA ORP control, variable output"
+      },
+      {
+        "name": "P-20/O2",
+        "fit": "14 g/h; ORP on/off control"
+      },
+      {
+        "name": "CD20/O2",
+        "fit": "20 g/h; dry-contact and 4-20 mA ORP control, variable output"
+      },
+      {
+        "name": "HDO3-I / II / III",
+        "fit": "Dissolved-ozone skids with integrated PPM controller (8, 20, 30 g/h) also on manufacturer page"
+      }
+    ],
+    "aliases": [
+      "CD15/02",
+      "CD20/02",
+      "M-15/02",
+      "P-20/02",
+      "ClearWater Tech skid",
+      "CWT skid mount ozone"
+    ],
+    "keywords": [
+      "skid mounted ozone",
+      "commercial pool ozone system",
+      "20 gram ozone generator",
+      "ORP controlled ozone",
+      "ClearWater Tech"
+    ],
+    "notes": "Aquafinity's CD15-02 and CD20-02 images are hosted by knorrsystems.com and were not used. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers.",
+    "uncertainties": "The current cwtozone.com skid page lists CD15/O2 and CD20/O2 (and HDO3); M-15/O2 and P-20/O2 appear in the spec sheet and manual title but not as separate page entries. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/skid-mount-cd/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Skid Mount CD",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/skid-mount",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "waterparks-high-load",
+      "colleges-universities",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Skid-mounted corona-discharge ozone systems (CD15/O2, CD20/O2, M-15/O2, P-20/O2)",
+    "proposedSlug": "clearwater-tech-skid-mount-ozone-systems",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://irp.cdn-website.com/bb06ccb8/dms3rep/multi/opt/M15-02-8d1224a9-1920w.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/clearwater-tech-skid-mount-ozone-systems.webp",
+      "width": 1200,
+      "height": 3130,
+      "alt": "ClearWater Tech skid-mounted ozone system with generator, oxygen concentrator and interlock box on a steel frame"
+    },
+    "docs": [
+      {
+        "title": "Skid Mount Systems product page",
+        "url": "https://www.cwtozone.com/skid-mount",
+        "type": "Product page"
+      },
+      {
+        "title": "Skid-mounted systems specification sheet",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/Skid-Mounted-SS_082918.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "M15/02, CD15/02, P20/02, CD20/02 installation and operation manual (LIT554)",
+        "url": "https://irp.cdn-website.com/bb06ccb8/files/uploaded/LIT554+M1502_CD1502_P2002_CD2002_110624.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "ClearWater Tech's skid systems put a corona-discharge ozone generator, PSA oxygen concentrator, and electrical interlock box on a pre-plumbed, pre-wired powder-coated steel frame, with an optional booster pump. The CD15/O2 and CD20/O2 produce 10 and 20 grams per hour on oxygen; the M-15/O2 and P-20/O2 are the lower-output, fixed-control versions at 7.6 and 14 grams per hour. They suit commercial pools and water features that want ozone as a supplemental oxidizer with ORP-based control and a single-point installation.",
+    "headline": "Pre-plumbed ozone skids from 7.6 to 20 grams per hour",
+    "applications": [
+      "Commercial pool supplemental oxidation",
+      "Water park and feature pools",
+      "Aquarium and exhibit systems",
+      "Storage tank treatment"
+    ],
+    "features": [
+      "Generator, oxygen concentrator and interlock box factory-mounted on a steel skid",
+      "PSA oxygen air preparation on all four models",
+      "High-temperature limit and vacuum-switch protection",
+      "CD models add dry-contact control, ORP 4-20 mA input and manual variable output",
+      "ETL listings (per model; see specification sheet)"
+    ],
+    "specs": [
+      {
+        "k": "CD15/O2 output",
+        "v": "10 g/h at 7 SCFH oxygen; 72 x 26 x 29 in, 210 lb",
+        "src": "cwtozone.com skid mount page"
+      },
+      {
+        "k": "CD20/O2 output",
+        "v": "20 g/h at 14 SCFH oxygen; 72 x 26 x 29 in, 225 lb",
+        "src": "cwtozone.com skid mount page"
+      },
+      {
+        "k": "M-15/O2 / P-20/O2 output",
+        "v": "7.6 g/h at 7 SCFH / 14 g/h at 14 SCFH oxygen",
+        "src": "Skid-mounted systems specification sheet"
+      },
+      {
+        "k": "Electrical",
+        "v": "208-240 V 60 Hz (also 220 V 50 Hz versions)",
+        "src": "Skid-mounted systems specification sheet"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "CD15/O2"
+    ],
+    "keywords": [
+      "CD15/02"
+    ],
+    "notes": "Represented in family entry clearwater-tech-skid-mount-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/skid-mount-cd/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Skid Mount CD",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/skid-mount",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "waterparks-high-load",
+      "colleges-universities",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "CD15/02",
+    "proposedSlug": "clearwater-tech-cd15-o2-skid",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ClearWater Tech CD15/02 skid-mounted ozone system"
+    },
+    "docs": [
+      {
+        "title": "Skid Mount Systems product page",
+        "url": "https://www.cwtozone.com/skid-mount",
+        "type": "Product page"
+      }
+    ],
+    "description": "CD15/02 is one of ClearWater Tech's skid-mounted ozone systems. 10 grams per hour at 7 SCFH on oxygen; 72 x 26 x 29 in, 210 lb; 240 V/60 Hz 4.8 A. It is represented inside the clearwater-tech-skid-mount-ozone-systems family entry.",
+    "headline": "CD15/02: skid-mounted ozone system",
+    "applications": [
+      "Commercial pools",
+      "Water storage and feature systems"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [],
+    "aliases": [
+      "CD20/O2"
+    ],
+    "keywords": [
+      "CD20/02"
+    ],
+    "notes": "Represented in family entry clearwater-tech-skid-mount-ozone-systems.",
+    "uncertainties": "",
+    "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/skid-mount-cd/",
+    "sourceCategory": "mechanical-room-equipment",
+    "family": "Skid Mount CD",
+    "manufacturer": "ClearWater Tech, LLC",
+    "manufacturerUrl": "https://www.cwtozone.com/",
+    "officialProductUrl": "https://www.cwtozone.com/skid-mount",
+    "proposedCategory": "uv-supplemental-treatment",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "waterparks-high-load",
+      "colleges-universities",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "reduce-waste",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "CD20/02",
+    "proposedSlug": "clearwater-tech-cd20-o2-skid",
+    "disposition": "family",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ClearWater Tech CD20/02 skid-mounted ozone system"
+    },
+    "docs": [
+      {
+        "title": "Skid Mount Systems product page",
+        "url": "https://www.cwtozone.com/skid-mount",
+        "type": "Product page"
+      }
+    ],
+    "description": "CD20/02 is one of ClearWater Tech's skid-mounted ozone systems. 20 grams per hour at 14 SCFH on oxygen; 72 x 26 x 29 in, 225 lb; 240 V/60 Hz 5.4 A. It is represented inside the clearwater-tech-skid-mount-ozone-systems family entry.",
+    "headline": "CD20/02: skid-mounted ozone system",
+    "applications": [
+      "Commercial pools",
+      "Water storage and feature systems"
+    ],
+    "features": [],
+    "specs": []
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "Traditional Safety Grip handrail cover",
+        "fit": "Solid colors; standard and ADA diameters"
+      },
+      {
+        "name": "Designer Series",
+        "fit": "Patterned covers listed on manufacturer site"
+      }
+    ],
+    "aliases": [
+      "railing cover",
+      "handrail sleeve",
+      "pool rail cover",
+      "Safety Grip rail cover"
+    ],
+    "keywords": [
+      "pool handrail cover",
+      "non slip rail cover",
+      "hot handrail pool",
+      "ADA rail grip",
+      "zippered rail cover"
+    ],
+    "notes": "Aquafinity's three images and its FAQ/Features/How-to-Measure PDFs are Aquafinity- or knorrsystems-hosted copies and were not used. Category set to parts-accessories-replacement per assignment; accessibility-safety is a reasonable alternate.",
+    "uncertainties": "Warranty term (Aquafinity says 1 year) to be confirmed on safetygrip.net/warranty. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/accessories-2/railing-covers/",
+    "sourceCategory": "accessories-2",
+    "family": "Safety Grip",
+    "product": "Safety Grip handrail covers",
+    "manufacturer": "Safety Grip",
+    "manufacturerUrl": "https://safetygrip.net/",
+    "officialProductUrl": "https://safetygrip.net/product/safety-grip-handrail-cover/",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "safety-grip-handrail-covers",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://safetygrip.net/wp-content/uploads/2021/03/Royal-Blue-1.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/safety-grip-handrail-covers.webp",
+      "width": 1200,
+      "height": 802,
+      "alt": "Safety Grip royal blue zippered handrail cover installed on a pool stair rail"
+    },
+    "docs": [
+      {
+        "title": "Safety Grip handrail cover product page",
+        "url": "https://safetygrip.net/product/safety-grip-handrail-cover/",
+        "type": "Product page"
+      },
+      {
+        "title": "Safety Grip warranty",
+        "url": "https://safetygrip.net/warranty/",
+        "type": "Warranty"
+      }
+    ],
+    "description": "Safety Grip is a zippered sleeve that wraps a pool or spa handrail in a UV-dyed polyester and neoprene composite, giving bathers a non-slip, cooler grip on sun-heated stainless rails. Covers are made in the USA in lengths from 1 to 12 feet for 1.50, 1.65 (ADA), and 1.90 inch rail diameters, in six colors including high-visibility yellow and lifeguard orange. It suits outdoor pools, therapy pools, and any facility responding to slip or hot-rail complaints without replacing rails.",
+    "headline": "Zip-on non-slip covers for existing pool and spa handrails",
+    "applications": [
+      "Outdoor pool stair and grab rails",
+      "Therapy pool entry rails",
+      "ADA rail grip improvement",
+      "Rail color-coding for lifeguard and accessibility"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "ymca-community",
+      "k12-schools"
+    ],
+    "problems": [
+      "find-replacement-equipment"
+    ],
+    "features": [
+      "Bicomponent UV-dyed polyester and neoprene material; non-slip when wet or oily",
+      "Zipper installation with no tools; US-made zippers with UV-bonded polyester thread",
+      "Fits 1.50, 1.65 (ADA) and 1.90 inch rails; lengths 1 to 12 feet",
+      "Six colors: Onyx, Royal Blue, Aqua Teal, Sand Beige, High Visibility Yellow, Lifeguard Orange",
+      "Made in the USA"
+    ],
+    "specs": [
+      {
+        "k": "Rail diameters",
+        "v": "1.50 in (4.7 in circumference), 1.65 in ADA (5.2 in), 1.90 in standard (6 in)",
+        "src": "safetygrip.net product page"
+      },
+      {
+        "k": "Lengths",
+        "v": "1 ft through 12 ft",
+        "src": "safetygrip.net product page"
+      },
+      {
+        "k": "Manufacturer location",
+        "v": "Elon, NC",
+        "src": "safetygrip.net"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "8AVWR (8 in anti-vortex round)",
+        "fit": "Round suction outlet cover (Aquafinity image alt)"
+      },
+      {
+        "name": "WAV18WR (18 in square anti-vortex)",
+        "fit": "Square suction outlet cover (Aquafinity image alt)"
+      },
+      {
+        "name": "32CDFL / 32CDFLV (32 in channel drain, flat)",
+        "fit": "Channel drain; AquaStar marks 32CDFL as discontinued, current anti-vortex 32CDAV succeeds it"
+      },
+      {
+        "name": "FC / Full Circle 20 in",
+        "fit": "Unblockable four-port drain for concrete pools and spas"
+      },
+      {
+        "name": "Retrofit line",
+        "fit": "Covers for existing sumps"
+      }
+    ],
+    "aliases": [
+      "AquaStar drain",
+      "Full Circle drain",
+      "Perfect Circle",
+      "32CDFL",
+      "channel drain",
+      "anti-entrapment cover"
+    ],
+    "keywords": [
+      "VGB drain cover",
+      "VGBA compliant grate",
+      "main drain cover replacement",
+      "channel drain pool",
+      "unblockable drain",
+      "AquaStar"
+    ],
+    "notes": "Aquafinity's four AquaStar images are hosted by knorrsystems.com and were not used; AquaStar's site is a Wix build whose product images are generic renders, so no image was downloaded. The 32CDFL shown on Aquafinity is marked discontinued on AquaStar's own specification page.",
+    "uncertainties": "Current model-by-model flow ratings require AquaStar's per-model certification sheets. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/accessories-2/vgba-grates/",
+    "sourceCategory": "accessories-2",
+    "family": "VGBA Grates",
+    "proposedCategory": "parts-accessories-replacement",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "AquaStar VGBA-compliant drain covers and channel drains",
+    "manufacturer": "AquaStar Pool Products",
+    "manufacturerUrl": "https://www.aquastarpoolproducts.com/",
+    "officialProductUrl": "https://www.aquastarpoolproducts.com/",
+    "proposedSlug": "aquastar-vgba-drain-covers",
+    "disposition": "published",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "AquaStar VGBA-compliant suction outlet cover"
+    },
+    "docs": [
+      {
+        "title": "AquaStar Pool Products (drain cover selector)",
+        "url": "https://www.aquastarpoolproducts.com/",
+        "type": "Product page"
+      },
+      {
+        "title": "32CDFL channel drain specifications page (discontinued model)",
+        "url": "https://www.aquastarpoolproducts.com/draincoverspecifications/32cdflxxx",
+        "type": "Product page"
+      }
+    ],
+    "description": "AquaStar manufactures VGBA 2017 (ANSI/APSP/ICC-16) certified suction outlet covers in round sizes from 6 to 20 inches, square sizes from 9 to 24 inches, 32-inch channel drains for gunite, vinyl and fiberglass pools, and the unblockable 20-inch Full Circle and Perfect Circle four-port drains. Covers come in white, black, light gray, dark gray and beige, with a retrofit line for existing sumps. They suit facilities replacing aged or non-compliant main drain grates during inspections or renovations.",
+    "headline": "Certified replacement drain covers, channel drains, and unblockable circle drains",
+    "applications": [
+      "Main drain cover replacement for VGBA compliance",
+      "Channel drains in new gunite pools",
+      "Unblockable single-drain designs for spas and small pools",
+      "Retrofit of existing sumps"
+    ],
+    "features": [
+      "VGBA 2017 / ANSI-APSP-16 certified suction outlet fitting assemblies",
+      "Round 6, 8, 10, 20 in; square 9, 12, 14, 16, 18, 24 in; 32 in channel drains",
+      "Full Circle / Perfect Circle 20 in unblockable four-port drains (up to 400 gpm per manufacturer news)",
+      "Colors: white, black, light gray, dark gray, beige",
+      "Online selector by pipe orientation, pipe size, sump depth and flow rate"
+    ],
+    "specs": [
+      {
+        "k": "Manufacturer location",
+        "v": "Ventura, CA",
+        "src": "aquastarpoolproducts.com"
+      },
+      {
+        "k": "Certification",
+        "v": "VGBA 2017 (ANSI/APSP/ICC-16); NSF certificates of conformity per model",
+        "src": "aquastarpoolproducts.com 32CDFL page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "SuperSump 18 x 18 in main drain system",
+        "fit": "Pre-certified one-piece sump and grate"
+      },
+      {
+        "name": "SuperFlow frame and grate",
+        "fit": "Retrofit grate for existing sumps; 1,040 gpm"
+      },
+      {
+        "name": "Large-area custom drains",
+        "fit": "18 x 36 in and larger arrays"
+      }
+    ],
+    "aliases": [
+      "SuperSump",
+      "SuperFlow",
+      "Lawson main drain",
+      "Neptune Benson main drain"
+    ],
+    "keywords": [
+      "SuperSump main drain",
+      "pre-certified pool sump",
+      "VGBA main drain",
+      "high flow drain grate",
+      "Lawson Aquatics"
+    ],
+    "notes": "Lawson Aquatics is now a Neptune Benson / Xylem brand. Aquafinity's SuperSump2 and SuperFlow2 images are hosted by knorrsystems.com and were not used; the downloaded image is Xylem's catalog product image. Dealer literature also references 9 x 9 and 12 x 12 in SuperSump sizes (not confirmed on the Xylem page).",
+    "uncertainties": "Xylem page did not link technical data sheets; confirm sizes beyond 18 x 18 in. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/accessories-2/vgba-grates/",
+    "sourceCategory": "accessories-2",
+    "family": "VGBA Grates",
+    "proposedCategory": "parts-accessories-replacement",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Lawson Aquatics SuperSump main drains and SuperFlow grates",
+    "manufacturer": "Lawson Aquatics (Neptune Benson, a Xylem brand)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/",
+    "officialProductUrl": "https://www.xylem.com/en-us/catalog/products--services/filtration-systems/recirculation-components/main-drains/",
+    "proposedSlug": "lawson-aquatics-supersump-main-drains",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.xylem.com/siteassets/catalog-assets/images/products/folder-0005/main-drain-sump.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/lawson-aquatics-supersump-main-drains.webp",
+      "width": 1200,
+      "height": 1000,
+      "alt": "Lawson Aquatics SuperSump injection-molded main drain sump with SuperFlow grate"
+    },
+    "docs": [
+      {
+        "title": "Lawson Aquatics Main Drains product page",
+        "url": "https://www.xylem.com/en-us/catalog/products--services/filtration-systems/recirculation-components/main-drains/",
+        "type": "Product page"
+      }
+    ],
+    "description": "Lawson Aquatics' SuperSump is a one-piece injection-molded 18 x 18 inch sump and main drain that arrives pre-certified, so the pool builder avoids field-formed concrete sumps and the engineer's field certification they require. SuperFlow 18 x 18 inch grate tiles offer 54 percent open area and up to 1,040 gpm per frame-and-grate, and the frames can be ganged into 18 x 36, 18 x 54, 18 x 72 inch and larger arrays. It suits new construction and renovations at municipal and institutional pools that need high-flow, VGBA-compliant main drains.",
+    "headline": "Pre-certified one-piece sumps and high-flow grates for compliant main drains",
+    "applications": [
+      "New pool construction main drains",
+      "Renovation of field-built sumps",
+      "High-flow competition and water park drains",
+      "Unblockable large-area drain arrays"
+    ],
+    "features": [
+      "One-piece injection-molded 18 x 18 in sump; ASME-2017 listed",
+      "SuperFlow grate tiles with 54 percent open area; up to 1,040 gpm per frame and grate",
+      "NSF and IAPMO R&T dual certified to current VGBA requirements",
+      "Large-area configurations 18 x 36, 18 x 54, 18 x 72 in and larger",
+      "Threaded, flanged, or coupling plumbing connections; fiberglass and stainless drains also offered"
+    ],
+    "specs": [
+      {
+        "k": "SuperFlow flow rating",
+        "v": "Up to 1,040 gpm per 18 x 18 in frame and grate",
+        "src": "xylem.com Lawson Aquatics main drains page"
+      },
+      {
+        "k": "Open area",
+        "v": "54 percent per grate tile",
+        "src": "xylem.com Lawson Aquatics main drains page"
+      },
+      {
+        "k": "Certifications",
+        "v": "ASME-2017 listed; NSF and IAPMO R&T certified",
+        "src": "xylem.com Lawson Aquatics main drains page"
+      }
+    ]
+  },
+  {
+    "availability": "request",
+    "models": [
+      {
+        "name": "1818 ESMD",
+        "fit": "18 x 18 in; 6 or 8 in connection"
+      },
+      {
+        "name": "2424 ESMD",
+        "fit": "24 x 24 in; 8 or 10 in connection"
+      },
+      {
+        "name": "2448 ESMD",
+        "fit": "24 x 48 in; 12 in single/dual or 14 in connection"
+      }
+    ],
+    "aliases": [
+      "Paddock main drain",
+      "ESMD",
+      "MD-304-2424FC",
+      "MD-304-2448FC",
+      "2020PCDC",
+      "stainless main drain grate"
+    ],
+    "keywords": [
+      "stainless steel main drain",
+      "VGBA stainless grate",
+      "entrapment safe main drain",
+      "Paddock Pool Equipment",
+      "natatorium main drain"
+    ],
+    "notes": "Aquafinity's '2020PCDC' and 'Flat' images are hosted by knorrsystems.com and were not used; the downloaded image is Paddock's own product render from its site. Aquafinity cites a lifetime frame and 10-year grate warranty; that was not confirmed on Paddock's current page and is omitted.",
+    "uncertainties": "Warranty terms and flow ratings to confirm from Paddock sell sheet. Dealer status unverified.",
+    "sourceUrl": "https://aquafinity.com/catalog/accessories-2/vgba-grates/",
+    "sourceCategory": "accessories-2",
+    "family": "VGBA Grates",
+    "proposedCategory": "parts-accessories-replacement",
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "product": "Paddock stainless steel entrapment-safe main drains",
+    "manufacturer": "Paddock Pool Equipment Company",
+    "manufacturerUrl": "https://www.paddockpoolequipment.com/",
+    "officialProductUrl": "https://www.paddockpoolequipment.com/main-drain",
+    "proposedSlug": "paddock-stainless-steel-main-drains",
+    "disposition": "published",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://static.wixstatic.com/media/aed481_89b295874e744bfe86345272b1145d7c~mv2.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/paddock-stainless-steel-main-drains.webp",
+      "width": 1200,
+      "height": 777,
+      "alt": "Paddock 316L stainless steel main drain sump with flanged outlet and slotted grate"
+    },
+    "docs": [
+      {
+        "title": "Paddock main drains product page",
+        "url": "https://www.paddockpoolequipment.com/main-drain",
+        "type": "Product page"
+      },
+      {
+        "title": "Paddock main drain sell sheet",
+        "url": "https://www.paddockpoolequipment.com/_files/ugd/b67d0d_ca20acc5f24e4e6195388494bc53617a.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "Paddock builds entrapment-safe main drains entirely in Type 316L stainless steel, with sumps of 18 x 18, 24 x 24 and 24 x 48 inches and flanged connections from 6 to 14 inches. The frames and grates are engineered to stay in service through future code updates rather than being replaced like plastic or fiberglass covers, and the assemblies are certified to ANSI/APSP/ICC-16 2017 (VGBA). They suit competition natatoriums, municipal pools and other facilities that specify stainless steel throughout the pool shell.",
+    "headline": "All-stainless main drain sumps and grates built for the life of the pool",
+    "applications": [
+      "Competition and municipal natatoriums",
+      "Stainless-steel gutter and shell pools",
+      "High-flow main drains 6 to 14 in connections",
+      "Permanent replacement of plastic grates"
+    ],
+    "features": [
+      "Type 316L stainless steel sumps, frames and grates",
+      "1818 ESMD (6 or 8 in), 2424 ESMD (8 or 10 in), 2448 ESMD (12 single/dual or 14 in) connections",
+      "ANSI/APSP/ICC-16 2017 (VGBA) compliant; IAPMO / USPC certification shown on product page",
+      "Standard relief valve (2424 PCFC or 2448 PCFC)",
+      "Engineered custom configurations available"
+    ],
+    "specs": [
+      {
+        "k": "Models",
+        "v": "1818 ESMD, 2424 ESMD, 2448 ESMD",
+        "src": "paddockpoolequipment.com main drain page"
+      },
+      {
+        "k": "Material",
+        "v": "Type 316L stainless steel",
+        "src": "paddockpoolequipment.com main drain page"
+      },
+      {
+        "k": "Manufacturer location",
+        "v": "Rock Hill, SC",
+        "src": "paddockpoolequipment.com"
+      }
+    ]
+  }
+]

@@ -21,3 +21,4 @@
 /images/slider2.jpg                          /images/projects/ithaca-college-50m-pool.webp           301
 /images/UofR.jpg                             /images/projects/university-of-rochester-natatorium.webp 301
 /images/Fairport.jpg                         /images/projects/fairport-high-school-pool.webp         301
+/products/deck-accessibility-safety/*  /products/deck-equipment/:splat  301

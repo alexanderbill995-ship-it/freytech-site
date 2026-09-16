@@ -26,7 +26,8 @@ export const site = {
     county: "Wayne",
   },
   hours: process.env.NEXT_PUBLIC_HOURS ?? "", // Not stated on current site; CONFIRM and set NEXT_PUBLIC_HOURS
-  /** Current site says Greg Frey purchased the company in 1987. CONFIRM before publishing a year. */
+  owner: { name: "Angelo DiCiaccio", title: "President" },
+  /** Current site says the company was purchased in 1987. CONFIRM before publishing a year. */
   since: "1987",
   /** Configured form endpoints (e.g. Formspree, Netlify, Workbooks web-to-lead). Empty = development fallback. */
   formEndpoint: process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? "",
@@ -34,6 +35,10 @@ export const site = {
   specEndpoint: process.env.NEXT_PUBLIC_SPEC_FORM_ENDPOINT ?? process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? "",
   /** Show amber "confirm before launch" markers next to unverified facts. Set NEXT_PUBLIC_SHOW_CONFIRM_FLAGS=false at launch. */
   showConfirmFlags: (process.env.NEXT_PUBLIC_SHOW_CONFIRM_FLAGS ?? "true") !== "false",
+  /** "generic" hides internal note text behind a neutral "Under review" marker (public previews). */
+  confirmStyle: process.env.NEXT_PUBLIC_CONFIRM_STYLE ?? "full",
+  /** Public review preview mode: noindex, review banner, disabled-form messaging. */
+  isPreview: process.env.NEXT_PUBLIC_PREVIEW === "true",
 };
 
 export function telHref(phone: string) {

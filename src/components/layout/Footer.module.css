@@ -24,3 +24,7 @@
 @media (max-width: 40rem) { .legal { justify-self: start; } }
 .legal a { color: var(--fg-on-dark-muted); }
 .trademark { grid-column: 1 / -1; max-width: 80ch; }
+
+.search { padding-block: var(--sp-6); border-bottom: 1px solid rgba(255,255,255,0.12); display: grid; gap: var(--sp-3); }
+.searchBox { max-width: 40rem; }
+.searchBox label { color: var(--fg-on-dark); }

@@ -1,0 +1,2835 @@
+[
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/becs-controllers/",
+    "sourceCategory": "automated-controls",
+    "family": "BECS Controllers",
+    "product": "BECSys2",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "becsys2",
+    "disposition": "published",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2022/07/BECSys2web.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becsys2.webp",
+      "width": 580,
+      "height": 555,
+      "alt": "BECSys2 water chemistry controller with flow cell and pH/ORP sensors"
+    },
+    "docs": [
+      {
+        "title": "BECSys2 brochure (SLS-4661-E1)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2022/07/SLS-4661-E1_BECSys2.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECSys family brochure (SLS-4336-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "BECSys2 is the smallest controller in the BECS line: a pre-assembled package with flow cell and pH and ORP sensors that is ready to wire to existing feed equipment. It holds pH and sanitizer set points on a single pool or spa without the expansion options of the larger models. It suits a small facility that wants dependable automatic control at the lowest entry cost.",
+    "headline": "Plug-and-play pH and ORP control for a single small pool or spa",
+    "applications": [
+      "Single spa or therapy pool control",
+      "Small hotel and apartment pools",
+      "Replacing a failed basic controller"
+    ],
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "ymca-community"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "replace-obsolete-controller",
+      "reduce-manual-testing"
+    ],
+    "features": [
+      "Complete package with flow cell, pH sensor and ORP sensor (BECS product page)",
+      "One-touch set point and calibration access (BECS product page)",
+      "Designed for ease of use on a single body of water"
+    ],
+    "specs": [
+      {
+        "k": "Control",
+        "v": "pH and ORP",
+        "src": "becsys.com products page"
+      },
+      {
+        "k": "Package",
+        "v": "Controller, flow cell, pH and ORP sensors",
+        "src": "becsys.com products page"
+      }
+    ],
+    "models": [
+      {
+        "name": "BECSys2",
+        "fit": "Single small pool or spa"
+      }
+    ],
+    "aliases": [
+      "BECSys 2",
+      "BECS 2"
+    ],
+    "keywords": [
+      "becs controller",
+      "small pool controller",
+      "spa chemical controller",
+      "pH ORP controller",
+      "becsys2"
+    ],
+    "notes": "Not yet in FreyTech's catalog; proposed as a new published product. BECS brochure PDF uses embedded fonts that could not be text-extracted, so detailed specs should be transcribed from SLS-4661-E1 by hand.",
+    "uncertainties": "Warranty term and enclosure rating not captured from a manufacturer source; confirm from SLS-4661-E1."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/becs-controllers/",
+    "sourceCategory": "automated-controls",
+    "family": "BECS Controllers",
+    "product": "BECSys3",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "becsys3",
+    "disposition": "duplicate",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys3USWeb-pfg0bxfuhcml1wvw59wj950snuupwyqz0c2rp2rg1s.jpeg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becsys3.webp",
+      "width": 254,
+      "height": 250,
+      "alt": "BECSys3 water chemistry controller"
+    },
+    "docs": [
+      {
+        "title": "BECSys3 brochure (SLS-4655-E)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2021/06/SLS-4655-E_BECSys3.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECSys family brochure (SLS-4336-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "BECSys 3"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of existing FreyTech catalog slug \"becsys3\". Manufacturer product render downloaded from becsys.com (the site only serves a 250 px thumbnail; no larger public original was found).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/becs-controllers/",
+    "sourceCategory": "automated-controls",
+    "family": "BECS Controllers",
+    "product": "BECSys5",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "becsys5",
+    "disposition": "duplicate",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys5USWeb-pfg0b74d5zmk0ty4eyizbbnw12gfxfuhkpt69bugw0.jpeg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becsys5.webp",
+      "width": 184,
+      "height": 250,
+      "alt": "BECSys5 water chemistry controller"
+    },
+    "docs": [
+      {
+        "title": "BECSys5 brochure (SLS-4333-H)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2025/10/SLS-4333-H_BECSys5.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECSys family brochure (SLS-4336-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "BECSys 5"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of existing FreyTech catalog slug \"becsys5\". Manufacturer product render downloaded from becsys.com (the site only serves a 250 px thumbnail; no larger public original was found).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/becs-controllers/",
+    "sourceCategory": "automated-controls",
+    "family": "BECS Controllers",
+    "product": "BECSys7",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "becsys7",
+    "disposition": "duplicate",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys7USWeb-pfg0andr6gvj90qsm7ztcyn7jz5qfso4i03z6inqio.jpeg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becsys7.webp",
+      "width": 316,
+      "height": 250,
+      "alt": "BECSys7 water chemistry controller"
+    },
+    "docs": [
+      {
+        "title": "BECSys7 brochure (SLS-4335-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2025/10/SLS-4335-F_BECSys7.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECSys family brochure (SLS-4336-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "BECSys 7"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of existing FreyTech catalog slug \"becsys7\". Manufacturer product render downloaded from becsys.com (the site only serves a 250 px thumbnail; no larger public original was found).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/becs-controllers/",
+    "sourceCategory": "automated-controls",
+    "family": "BECS Controllers",
+    "product": "BECSysBW Automatic Filter Controller",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "becsys-bw",
+    "disposition": "published",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2022/07/BECSysBWweb.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becsys-bw.webp",
+      "width": 494,
+      "height": 387,
+      "alt": "BECSysBW automatic filter backwash controller"
+    },
+    "docs": [
+      {
+        "title": "BECSysBW brochure (SLS-4334-E1)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2022/07/SLS-4334-E1_BECSysBW.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECSys family brochure (SLS-4336-F)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2023/08/SLS-4336-F_BECSys_Family.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "BECSysBW is a dedicated filter controller that automates backwashing for up to 16 filters. It watches system pressures, flow rate and backwash holding-tank level and sequences the backwash so operators are not tied to a schedule or a gauge. It fits facilities that already have chemistry control and want the filtration side automated without moving to a BECSys7.",
+    "headline": "Automatic backwash sequencing for up to 16 filters",
+    "applications": [
+      "Multi-filter sand filter banks",
+      "Facilities with backwash holding tanks or sewer discharge limits",
+      "Filtration automation alongside an existing chemistry controller"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room",
+      "add-alarms-remote-visibility",
+      "reduce-waste"
+    ],
+    "features": [
+      "Automatic backwash control of up to 16 filters (BECS product page)",
+      "Continuous monitoring of system pressures and flow rate (BECS product page)",
+      "Backwash holding tank level monitoring and control (BECS product page)"
+    ],
+    "specs": [
+      {
+        "k": "Filters controlled",
+        "v": "Up to 16",
+        "src": "becsys.com products page"
+      },
+      {
+        "k": "Monitored",
+        "v": "System pressures, system flow rate, backwash holding tank level",
+        "src": "becsys.com products page"
+      }
+    ],
+    "models": [
+      {
+        "name": "BECSysBW",
+        "fit": "Filter banks of 2 to 16 filters"
+      }
+    ],
+    "aliases": [
+      "BECSys BW",
+      "BECS backwash controller"
+    ],
+    "keywords": [
+      "automatic backwash controller",
+      "filter controller",
+      "backwash automation",
+      "becsys bw"
+    ],
+    "notes": "Not yet in FreyTech's catalog; proposed as a new published product. Related: BECSys7 (existing slug becsys7) includes filtration control in the chemistry controller.",
+    "uncertainties": "Valve actuator types, I/O counts and warranty should be transcribed from SLS-4334-E1 (PDF text not machine-extractable)."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/precision-chemistry-controls/",
+    "sourceCategory": "automated-controls",
+    "family": "Precision Chemistry Controls",
+    "product": "Precision Control MR1",
+    "manufacturer": "BECS Technology (private-labelled 'Precision Control' for CES / Aquafinity)",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "precision-control-mr1",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control controller (Aquafinity private label)"
+    },
+    "docs": [
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "MR1",
+      "Precision MR1"
+    ],
+    "keywords": [
+      "precision control mr1"
+    ],
+    "notes": "Duplicate: private-label BECS controller. The MR3 data sheet on Aquafinity states 'Designed and Manufactured in the USA by BECS Technology' with CES listed as national distributor; the MR1 feature set (flow cell, flow-restored delay, feed-limit timers, one-touch set point/calibration, 2-year electronics/2-year sensor warranty) matches BECSys2. Nearest FreyTech slug: becsys2 (proposed in this manifest).",
+    "uncertainties": "Exact BECS model mapping is inferred from feature parity, not a BECS statement. Only Aquafinity-hosted images exist, so no image is used."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/precision-chemistry-controls/",
+    "sourceCategory": "automated-controls",
+    "family": "Precision Chemistry Controls",
+    "product": "Precision Control MR2",
+    "manufacturer": "BECS Technology (private-labelled 'Precision Control' for CES / Aquafinity)",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "precision-control-mr2",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control controller (Aquafinity private label)"
+    },
+    "docs": [
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "MR2",
+      "Precision MR2"
+    ],
+    "keywords": [
+      "precision control mr2"
+    ],
+    "notes": "Duplicate: private-label BECS controller (see MR3 data sheet attribution). ORP/pH with optional PPM upgrade and RCM communications module; nearest current FreyTech slug: becsys3.",
+    "uncertainties": "Model mapping inferred from feature parity."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/precision-chemistry-controls/",
+    "sourceCategory": "automated-controls",
+    "family": "Precision Chemistry Controls",
+    "product": "Precision Control MR3",
+    "manufacturer": "BECS Technology (private-labelled 'Precision Control' for CES / Aquafinity)",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "precision-control-mr3",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control controller (Aquafinity private label)"
+    },
+    "docs": [
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "MR3",
+      "Precision MR3",
+      "Precision Control MR3 PPM/ORP/pH"
+    ],
+    "keywords": [
+      "precision control mr3"
+    ],
+    "notes": "Duplicate: the Aquafinity-hosted MR3 data sheet (SLS-CDR Rev A) is a BECS Technology document (BECS address, www.becs.com, 'Designed and Manufactured in the USA by BECS Technology'). PPM/ORP/pH with BECSysRCM communications; nearest current FreyTech slug: becsys3 with the Communications option.",
+    "uncertainties": "Whether BECS still builds this private label is unknown; FreyTech should sell the BECSys-branded equivalent."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/precision-pump-controls/",
+    "sourceCategory": "automated-controls",
+    "family": "Precision Pump Controls",
+    "product": "Precision Control MCC-VFD Motor Control Center",
+    "manufacturer": "Aquafinity / Commercial Energy Specialists (CES) house brand; drive OEM not disclosed",
+    "manufacturerUrl": "https://aquafinity.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "pumps-circulation-flow",
+    "proposedSlug": "precision-mcc-vfd",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control VFD pump control panel (Aquafinity house brand)"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "MCC-VFD",
+      "Precision MCC"
+    ],
+    "keywords": [
+      "vfd pump control",
+      "motor control center pool"
+    ],
+    "notes": "Excluded: Aquafinity/CES house-brand VFD package ('Precision Control' brand, 'connects to your CES controller'); the drive OEM is not named. FreyTech equivalent path: BECSys7 flow/VFD control with a drive from an electrical supplier, or a manufacturer-branded pump VFD package.",
+    "uncertainties": "Drive OEM unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/precision-pump-controls/",
+    "sourceCategory": "automated-controls",
+    "family": "Precision Pump Controls",
+    "product": "Precision Control PFDx pump and VFD package",
+    "manufacturer": "Aquafinity / Commercial Energy Specialists (CES) house brand; drive OEM not disclosed",
+    "manufacturerUrl": "https://aquafinity.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "pumps-circulation-flow",
+    "proposedSlug": "precision-pfdx",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Precision Control VFD pump control panel (Aquafinity house brand)"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "PFDx"
+    ],
+    "keywords": [
+      "vfd pump package",
+      "pool pump variable frequency drive"
+    ],
+    "notes": "Excluded: Aquafinity/CES house-brand package (NEMA 4X VFD panel plus a composite 3-phase pump); pump and drive OEMs not named. No manufacturer literature exists outside Aquafinity.",
+    "uncertainties": "Pump and drive OEMs unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/smart-pump-control-system/",
+    "sourceCategory": "automated-controls",
+    "family": "Smart Pump Control System",
+    "product": "Smart Pump Control System (SPCS)",
+    "manufacturer": "Knorr Systems, Inc. (Aquafinity) house brand; drive OEM not disclosed",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/mechanical-room-equipment/smart-pump-control-system",
+    "proposedCategory": "pumps-circulation-flow",
+    "proposedSlug": "knorr-smart-pump-control-system",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/SPCS_with_shadow.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Knorr Systems Smart Pump Control System VFD enclosure"
+    },
+    "docs": [
+      {
+        "title": "Knorr Systems SPCS product page",
+        "url": "https://knorrsystems.com/mechanical-room-equipment/smart-pump-control-system",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "SPCS BC",
+        "fit": ""
+      },
+      {
+        "name": "SPCS Eko-Flex",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "SPCS",
+      "Smart Pump Control System"
+    ],
+    "keywords": [
+      "pool pump vfd",
+      "adjustable frequency drive pool",
+      "energy savings pump control"
+    ],
+    "notes": "Excluded: Knorr Systems (an Aquafinity company) house-brand VFD package; its 2014 brochure and 2017 'SPCS BC' data sheet are Knorr documents and knorrsystems.com is redirecting to aquafinity.com. Drive OEM not disclosed. FreyTech equivalent: BECSys7 flow control with a commercial VFD.",
+    "uncertainties": "Drive OEM unknown (brochure language such as 'catch-a-spinning motor' and 'copy unit keypad' is generic drive-vendor wording)."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/automated-water-level-controller/",
+    "sourceCategory": "automated-controls",
+    "family": "Automated Water Level Controller",
+    "product": "ELC-800r Dual-Sensing Water Level Controller",
+    "manufacturer": "AquatiControl Technology",
+    "manufacturerUrl": "http://www.aquaticontrol.com/",
+    "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=1",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "aquaticontrol-elc-800r",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "AquatiControl ELC-800r water level controller"
+    },
+    "docs": [
+      {
+        "title": "ELC-800r data sheet",
+        "url": "http://www.AquatiControl.com/PDFs/elc800rdatasheetweb.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "ELC-800r manual",
+        "url": "http://www.AquatiControl.com/PDFs/elc800rmanual.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "ELC-800r specification",
+        "url": "http://www.AquatiControl.com/PDFs/elc800rspecification.pdf",
+        "type": "Engineering resource"
+      },
+      {
+        "title": "ELC ordering guide",
+        "url": "http://www.AquatiControl.com/PDFs/ELC%20Ordering%20Guide.pdf",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "The ELC-800r keeps a pool or spa at its design water level using proximity sensors rather than floats or probes that put current into the water. It opens the make-up valve when the level drops and can also shut down circulation pumps if the water falls dangerously low. It suits any facility that wants to stop relying on staff to top off the pool or watch the surge tank.",
+    "headline": "Automatic make-up water control that also protects the circulation pump",
+    "applications": [
+      "Pool and spa auto-fill",
+      "Surge tank and balance tank level control",
+      "Low-water pump protection"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "add-alarms-remote-visibility",
+      "find-replacement-equipment"
+    ],
+    "features": [
+      "Proximity sensing with no floats or moving parts (manufacturer page)",
+      "Menu-driven programming (manufacturer page)",
+      "Low-water detection that can deactivate circulation pumps (manufacturer page)",
+      "Sensor configurations for deck wells, sight glasses, surge tanks, wet wells and standard wells (manufacturer page)"
+    ],
+    "specs": [
+      {
+        "k": "Sensing",
+        "v": "Dual-sensing proximity",
+        "src": "aquaticontrol.com ELC-800r page"
+      },
+      {
+        "k": "Pump protection",
+        "v": "Deactivates circulation pumps on dangerously low water",
+        "src": "aquaticontrol.com ELC-800r page"
+      }
+    ],
+    "models": [
+      {
+        "name": "ELC-800r",
+        "fit": "Pools and spas needing normal-level control plus low-water protection"
+      }
+    ],
+    "aliases": [
+      "ELC-800",
+      "ELC 800R",
+      "ELC-800R"
+    ],
+    "keywords": [
+      "water level controller",
+      "auto fill pool",
+      "pool autofill",
+      "water leveler",
+      "surge tank level control"
+    ],
+    "notes": "Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.",
+    "uncertainties": "Electrical rating and solenoid valve sizing to be taken from the data sheet; dealer status unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/automated-controls/automated-water-level-controller/",
+    "sourceCategory": "automated-controls",
+    "family": "Automated Water Level Controller",
+    "product": "ELC-810 Tri-Sensing Water Level Controller",
+    "manufacturer": "AquatiControl Technology",
+    "manufacturerUrl": "http://www.aquaticontrol.com/",
+    "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=2",
+    "proposedCategory": "automated-controls",
+    "proposedSlug": "aquaticontrol-elc-810",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "AquatiControl ELC-810 multi-level water level controller"
+    },
+    "docs": [
+      {
+        "title": "ELC-810 data sheet",
+        "url": "http://www.AquatiControl.com/PDFs/elc810datasheetweb.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "ELC-810 manual",
+        "url": "http://www.AquatiControl.com/PDFs/elc810manual.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "ELC-810 specification",
+        "url": "http://www.AquatiControl.com/PDFs/elc810specification.pdf",
+        "type": "Engineering resource"
+      },
+      {
+        "title": "ELC ordering guide",
+        "url": "http://www.AquatiControl.com/PDFs/ELC%20Ordering%20Guide.pdf",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "The ELC-810 is a menu-driven level controller that can watch one, two or three levels: normal, alternate and high. It uses proximity sensors, delays its response so wave action does not cycle the valve, and stops the fill on a timer if something is wrong. It is the model for spray grounds, fountains and pools with a fill-and-drain routine, and it can usually be retrofitted to an existing vessel.",
+    "headline": "Single-, dual- or tri-level sensing for pools, spray grounds and fountains",
+    "applications": [
+      "Spray grounds and splash pads with multiple operating levels",
+      "Fountains and interactive water features",
+      "Pool and spa auto-fill with fill and drain solenoids"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "modernize-aging-equipment-room",
+      "add-alarms-remote-visibility",
+      "find-replacement-equipment"
+    ],
+    "features": [
+      "Single, dual or tri-level sensing for normal, alternate and high levels (manufacturer page)",
+      "Integral time delay to avoid cycling from wave action (manufacturer page)",
+      "Adjustable feed alarm timer that interrupts water flow on a fault (manufacturer page)",
+      "Proximity sensors; no floats or current in the water (manufacturer page)",
+      "Retrofits to most existing pools, spas, fountains and spray grounds (manufacturer page)"
+    ],
+    "specs": [
+      {
+        "k": "Sensing",
+        "v": "Single, dual or tri-level proximity sensing",
+        "src": "aquaticontrol.com ELC-810 page"
+      },
+      {
+        "k": "Outputs",
+        "v": "Auto make-up control valve; general-purpose and slow-closing solenoid valves listed as related products",
+        "src": "aquaticontrol.com ELC-810 page"
+      }
+    ],
+    "models": [
+      {
+        "name": "ELC-810-SS",
+        "fit": "Single sensing"
+      },
+      {
+        "name": "ELC-810-DS",
+        "fit": "Dual sensing"
+      },
+      {
+        "name": "ELC-810-TS",
+        "fit": "Tri sensing"
+      }
+    ],
+    "aliases": [
+      "ELC 810",
+      "ELC-810-SS-SG",
+      "ELC-810-DS-B",
+      "ELC-810-TS-SG"
+    ],
+    "keywords": [
+      "tri-level water controller",
+      "splash pad water level",
+      "spray ground level control",
+      "fountain autofill",
+      "water level controller"
+    ],
+    "notes": "Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.",
+    "uncertainties": "Dealer status unverified; no manufacturer image available publicly."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/acid-vapor-recovery-system/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Acid Vapor Recovery System",
+    "product": "EKO3 Acid Vapor Recovery System (AVRS)",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/chemical-delivery-system/sodium-hypochlorite-a-muriatic-acid/eko3-acid-vapor-recovery-system",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "eko3-acid-vapor-recovery-system",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/AVRS.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "EKO3 acid vapor recovery neutralization tank"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "AVRS",
+      "acid vapor recovery"
+    ],
+    "keywords": [
+      "muriatic acid fume neutralizer",
+      "acid tank vent scrubber",
+      "bulk acid tank vapor"
+    ],
+    "notes": "Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap for FreyTech: bulk-acid vapor neutralization for double-wall tanks; candidate manufacturer-branded alternatives include ProMinent's Acid Fume Scrubber (see the ProMinent entries in other manifest parts).",
+    "uncertainties": "Brand ownership inferred from redirect, address and store listing; not stated on aquafinity.com."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/becs-co2-feeder/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "BECS CO2 Feeder",
+    "product": "BECSys CO2 Feed System",
+    "manufacturer": "BECS Technology",
+    "manufacturerUrl": "https://www.becsys.com/",
+    "officialProductUrl": "https://www.becsys.com/products/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "becs-co2-ph-control",
+    "disposition": "duplicate",
+    "availability": "confirmed",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSysCO2Web-pfg0cy3jvw0rmpen77qzgdrrtvu195si5dipev93b4.jpeg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/becs-co2-ph-control.webp",
+      "width": 254,
+      "height": 250,
+      "alt": "BECSys CO2 feed system for pH control"
+    },
+    "docs": [
+      {
+        "title": "BECSys CO2 Feed System brochure (SLS-6107-B)",
+        "url": "https://www.becsys.com/wp-content/uploads/sites/2/2025/09/SLS-6107-B_CO2.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "BECS Technology products page",
+        "url": "https://www.becsys.com/products/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "4-30 SCFH",
+        "fit": ""
+      },
+      {
+        "name": "20-200 SCFH",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "BECS CO2 feeder",
+      "BECSys CO2"
+    ],
+    "keywords": [
+      "co2 feeder pool",
+      "co2 ph control"
+    ],
+    "notes": "Duplicate of existing FreyTech draft slug \"becs-co2-ph-control\". BECS product page: works with BECSys5/BECSys7 and the BECSys Alkalinity Meter to select between acid and CO2 based on TA set points. Manufacturer render downloaded from becsys.com (250 px thumbnail only).",
+    "uncertainties": "The two flow ranges (4-30 and 20-200 SCFH) appear on Aquafinity's page and should be confirmed against SLS-6107-B before publishing."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/chlorking-system/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "ChlorKing System",
+    "product": "ChlorKing CHLOR SM commercial salt chlorinator",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "https://chlorking.com/products/chlor-sm-salt-chlorinators/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "chlorking-chlor-sm",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://thedigitalteam.dev/public/chlorking/wp-content/uploads/2024/11/img-chlor-bg.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/chlorking-chlor-sm.webp",
+      "width": 500,
+      "height": 402,
+      "alt": "ChlorKing CHLOR SM salt chlorinator power supply and cell"
+    },
+    "docs": [
+      {
+        "title": "ChlorKing CHLOR SM product page (brochure, spec sheets 2-MSM to 25-SM, CAD and IOM manual are linked from this page)",
+        "url": "https://chlorking.com/products/chlor-sm-salt-chlorinators/",
+        "type": "Product page"
+      },
+      {
+        "title": "ChlorKing technical resources",
+        "url": "https://chlorking.com/tech/",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "CHLOR SM is ChlorKing's in-line salt chlorinator for commercial pools: a mild saline pool is passed through an electrolytic cell that makes chlorine on site, so there is no chlorine delivery or storage. A single cell design covers outputs up to 28 lb/day in a compact pump-room footprint. It suits facilities that want to leave liquid or dry chlorine behind and are comfortable operating a saline pool.",
+    "headline": "On-site chlorine from a saline pool, up to 28 lb/day from one cell",
+    "applications": [
+      "Saline conversion of indoor and outdoor commercial pools",
+      "Hotel, club and community pools",
+      "Therapy pools where bather comfort matters"
+    ],
+    "facilities": [
+      "hotels-resorts-hospitality",
+      "ymca-community",
+      "colleges-universities",
+      "healthcare-rehabilitation",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "replace-liquid-chlorine",
+      "improve-chemical-safety",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Single-cell design with output sized up to 28 lb/day (manufacturer page)",
+      "Switch-mode (SM) power supply; models 2-MSM through 25-SM (manufacturer spec sheet list)",
+      "Small pump-room footprint and simple installation (manufacturer page)",
+      "Eliminates chlorine transport, storage and spill risk (manufacturer page)"
+    ],
+    "specs": [
+      {
+        "k": "Output range",
+        "v": "Models 2-MSM, 3-MSM, 5-MSM, 7.5-SM, 10-SM, 12.5-SM, 15-SM, 20-SM, 25-SM (lb/day)",
+        "src": "chlorking.com CHLOR SM spec sheet list"
+      },
+      {
+        "k": "Maximum single-cell output",
+        "v": "28 lb/day",
+        "src": "chlorking.com CHLOR SM page"
+      }
+    ],
+    "models": [
+      {
+        "name": "CHLOR 2-MSM / 3-MSM / 5-MSM",
+        "fit": "Small pools and spas (Aquafinity's 'MINI' range)"
+      },
+      {
+        "name": "CHLOR 7.5-SM to 25-SM",
+        "fit": "Mid-size to large commercial pools"
+      }
+    ],
+    "aliases": [
+      "CHLOR-reverse",
+      "ChlorKing CHLOR",
+      "CHLORSM",
+      "reverse polarity salt chlorinator"
+    ],
+    "keywords": [
+      "salt chlorinator commercial pool",
+      "saline chlorination",
+      "chlorine generator",
+      "chlorking"
+    ],
+    "notes": "Aquafinity's 'CHLOR-reverse polarity' tab maps to the current CHLOR SM line. ChlorKing's PDF downloads are script-driven and not directly linkable, so the product page is cited. Image is the product photo referenced on the manufacturer's product page (hosted on the agency CDN thedigitalteam.dev).",
+    "uncertainties": "NSF/ANSI 50 listing per model and the polarity/cell-cleaning regime should be confirmed from the spec sheets; dealer status unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/chlorking-system/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "ChlorKing System",
+    "product": "ChlorKing MINI reverse-polarity series",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "https://chlorking.com/products/chlor-sm-salt-chlorinators/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "chlorking-mini",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing MINI salt chlorinator"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "MINI-reverse",
+      "ChlorKing Mini"
+    ],
+    "keywords": [
+      "mini salt chlorinator"
+    ],
+    "notes": "Represented inside chlorking-chlor-sm: the 1.25-5 lb/day 'MINI' range is now covered by the CHLOR 2-MSM, 3-MSM and 5-MSM switch-mode models on chlorking.com. A separate 'MINI' product no longer appears on the manufacturer site.",
+    "uncertainties": "Mapping of MINI sizes to MSM model numbers is inferred from output ranges."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/chlorking-system/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "ChlorKing System",
+    "product": "ChlorKing CLASSIC forward-polarity series",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "chlorking-classic-forward",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing Classic forward-polarity chlorinator"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "CLASSIC-forward",
+      "ChlorKing Classic"
+    ],
+    "keywords": [],
+    "notes": "Discontinued (evidence: chlorking.com's current product menu lists only NEXGEN, CHLOR SM, Sentry UV and HYPOGEN/HYPO MINI; no forward-polarity 'Classic' series is offered). Successor: CHLOR SM.",
+    "uncertainties": "No explicit discontinuation statement from ChlorKing; absence from the current site is the evidence."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/chlorking-system/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "ChlorKing System",
+    "product": "ChlorKing NEXGEN on-site chlorine generator",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "https://chlorking.com/products/nex-gen-on-site-chlorine-generators/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "chlorking-nexgen",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://thedigitalteam.dev/public/chlorking/wp-content/uploads/2024/11/img-nexgen-bg.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/chlorking-nexgen.webp",
+      "width": 398,
+      "height": 517,
+      "alt": "ChlorKing NEXGEN skid-mounted on-site chlorine generator"
+    },
+    "docs": [
+      {
+        "title": "ChlorKing NEXGEN product page (brochure, spec sheets 10SM-R to 100SM-R, drawings and installation manuals linked)",
+        "url": "https://chlorking.com/products/nex-gen-on-site-chlorine-generators/",
+        "type": "Product page"
+      },
+      {
+        "title": "ChlorKing technical resources",
+        "url": "https://chlorking.com/tech/",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "NEXGEN makes a pH-balanced sodium hypochlorite solution on site from a brine tank and pool water, so the pool itself is not converted to saline and no chlorine is delivered or stored. One skid can be configured to feed up to six bodies of water and works with ORP or PPM controllers. It suits aquatic centers and water parks that want to remove bulk chlorine from the building without changing the pool water.",
+    "headline": "Generate hypochlorite on site for up to six pools, no chlorine deliveries",
+    "applications": [
+      "Multi-pool aquatic centers",
+      "Water parks with high chlorine demand",
+      "Facilities eliminating bulk sodium hypochlorite storage"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "waterparks-high-load",
+      "colleges-universities",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "replace-liquid-chlorine",
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room",
+      "reduce-waste"
+    ],
+    "features": [
+      "Uses pool water as the source and needs no salt added to the pool (manufacturer page)",
+      "Produces a pH-balanced sodium hypochlorite solution (manufacturer page)",
+      "Compatible with ORP or PPM controllers (manufacturer page)",
+      "Configurable to sanitize up to six bodies of water (manufacturer page)",
+      "Reverse-polarity models 10SM-R, 20-R, 40-R, 50-SM-R, 60-R, 80-R, 100SM-R (manufacturer spec sheet list)"
+    ],
+    "specs": [
+      {
+        "k": "Models",
+        "v": "NEXGEN 10SM-R, 20-R, 40-R, 50-SM-R, 60-R, 80-R, 100SM-R",
+        "src": "chlorking.com NEXGEN spec sheet list"
+      },
+      {
+        "k": "Bodies of water",
+        "v": "Up to 6 with VFS multi-pool distribution",
+        "src": "chlorking.com NEXGEN page"
+      }
+    ],
+    "models": [
+      {
+        "name": "NEXGEN 10SM-R",
+        "fit": "Single mid-size pool"
+      },
+      {
+        "name": "NEXGEN 20-R to 80-R",
+        "fit": "Large pools and multi-pool facilities"
+      },
+      {
+        "name": "NEXGEN 50-SM-R / 100SM-R",
+        "fit": "Switch-mode high-output installations"
+      }
+    ],
+    "aliases": [
+      "NEX-GEN",
+      "NexGen",
+      "ChlorKing NEXGEN pH"
+    ],
+    "keywords": [
+      "on-site chlorine generator",
+      "hypochlorite generator",
+      "nexgen chlorking",
+      "salt to chlorine skid"
+    ],
+    "notes": "The Aquafinity page's 'NEX-GEN' tab and XGEN2040 skid manual map to the current NEXGEN line. Output range 5-80 lb/day is Aquafinity's figure and is not repeated here; model numbers indicate nominal lb/day.",
+    "uncertainties": "Model-number-to-lb/day mapping to be confirmed from ChlorKing spec sheets; dealer status unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/eko3-co2-controller/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Eko3 CO2 Controller",
+    "product": "Eko3 CO2 Feeder",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/chemical-delivery-system/carbon-dioxide/eko3-co2-controller",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "eko3-co2-feeder",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/M_images/CO_Feeder.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Eko3 CO2 feeder"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "4-30 SCFH",
+        "fit": ""
+      },
+      {
+        "name": "20-200 SCFH",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "Eko 3 CO2 feeder",
+      "EKO3 CO2 controller"
+    ],
+    "keywords": [
+      "co2 feeder pool ph"
+    ],
+    "notes": "Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control).",
+    "uncertainties": "IAPMO R&T certification to NSF/ANSI 50 is claimed on Aquafinity's page; not verified from an EKO3 source."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/eko3-co2-controller/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Eko3 CO2 Controller",
+    "product": "Eko3 thermostatic CO2 heater (accessory)",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "eko3-co2-heater",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Eko3 thermostatic CO2 heater"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.",
+    "uncertainties": "OEM unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/eko3-co2-controller/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Eko3 CO2 Controller",
+    "product": "Eko3 CO2 regulator (accessory)",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "eko3-co2-regulator",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Eko3 CO2 regulator"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.",
+    "uncertainties": "OEM unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/eko3-co2-controller/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Eko3 CO2 Controller",
+    "product": "Eko3 CO2 automatic cylinder switchover (accessory)",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "eko3-co2-switchover",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Eko3 CO2 automatic cylinder switchover"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.",
+    "uncertainties": "OEM unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/fume_x/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Fume-X",
+    "product": "Eko3 Fume-X acid fume scrubber",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "eko3-fume-x",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Fume-X acid drum fume scrubber"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Fume X",
+      "Fume-X",
+      "acid fume scrubber"
+    ],
+    "keywords": [
+      "acid fume scrubber drum",
+      "muriatic acid drum vent",
+      "acid storage fume"
+    ],
+    "notes": "Excluded: Aquafinity's own store lists this as 'Eko3 Fume-X' (house brand; brochure PDF created January 2026 with no manufacturer identification). FreyTech alternative for the same need (drum-mounted acid fume scrubber with color-change reagent, 3/4 in. NPT): ProMinent Acid Fume Scrubber.",
+    "uncertainties": "Whether Fume-X is a rebadged ProMinent/other unit is unknown."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "LMI",
+    "product": "LMI ROYTRONIC Series A electronic metering pumps",
+    "manufacturer": "LMI (Milton Roy)",
+    "manufacturerUrl": "https://www.lmipumps.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "lmi-roytronic-series-a",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://lmi-pumps.com/wp-content/uploads/2018/01/Roytronic-900px-294x300.jpg",
+      "status": "dealer-media-asset",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "LMI Roytronic Series A metering pump"
+    },
+    "docs": [
+      {
+        "title": "Roytronic Series A brochure (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-A-Metering-Pump-Roytronic-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Series A specification sheet (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-A-Metering-Pump-Specification-Sheet.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Roytronic Series A is LMI's compact solenoid-driven diaphragm pump for feeding sodium hypochlorite and muriatic acid at small and mid-size pools. Manual or externally paced control, a NEMA 4X enclosure and a FastPrime liquid end make it a straightforward replacement for most small feed pumps. It is the usual choice where a controller relay switches the pump on and off.",
+    "headline": "Compact chemical feed pump for small and mid-size pools",
+    "applications": [
+      "Sodium hypochlorite feed",
+      "Muriatic acid feed",
+      "Controller-driven proportional feed"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Positive-displacement Liquifram diaphragm design (LMI literature)",
+      "NEMA 4X / IP65 enclosure with lockable clear cover (LMI literature)",
+      "Capacities from 0.001 to 2.0 GPH; pressures to 250 psi (LMI literature)",
+      "Manual, pulse-input or 4-20 mA control options (LMI literature)",
+      "FastPrime liquid end with 1/2 in. NPT connections (LMI literature)",
+      "UL, cUL, NSF 61, CE; 3-year warranty (LMI literature)"
+    ],
+    "specs": [
+      {
+        "k": "Capacity",
+        "v": "0.001 to 2.0 GPH",
+        "src": "LMI Series A data sheet"
+      },
+      {
+        "k": "Maximum pressure",
+        "v": "250 psi",
+        "src": "LMI Series A data sheet"
+      },
+      {
+        "k": "Enclosure",
+        "v": "NEMA 4X / IP65",
+        "src": "LMI Series A data sheet"
+      },
+      {
+        "k": "Warranty",
+        "v": "3 years",
+        "src": "LMI Series A data sheet"
+      }
+    ],
+    "models": [
+      {
+        "name": "A151-822SI",
+        "fit": "Aquafinity's typical pool configuration: 24 GPD at 110 psi, 3/8 in. tubing (Aquafinity figure, not verified against LMI)"
+      }
+    ],
+    "aliases": [
+      "Roytronic A",
+      "LMI A series",
+      "A151",
+      "A-pump"
+    ],
+    "keywords": [
+      "lmi pump",
+      "chemical feed pump pool",
+      "bleach pump",
+      "acid feed pump",
+      "roytronic"
+    ],
+    "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+    "uncertainties": "Milton Roy corporate ownership (Ingersoll Rand) should be confirmed before publishing manufacturer copy."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "LMI",
+    "product": "LMI Series B electronic metering pumps",
+    "manufacturer": "LMI (Milton Roy)",
+    "manufacturerUrl": "https://www.lmipumps.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "lmi-series-b",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://lmi-pumps.com/wp-content/uploads/2018/01/Series-B-hiRes900px-214x300.jpg",
+      "status": "dealer-media-asset",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "LMI Series B metering pump"
+    },
+    "docs": [
+      {
+        "title": "Series B data sheet (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-B-Chemical-Metering-Pumps-Data-Sheet.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "Series B specification sheet (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-B-Chemical-Metering-Pumps-Specification-Sheet.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Series B is LMI's mid-range solenoid metering pump with a fully enclosed, chemically resistant housing and encapsulated electronics. Adjustable stroke length and frequency give up to 1000:1 turndown, and external-pacing models accept controller signals. It fits mid-size pools where a Series A runs out of capacity.",
+    "headline": "Mid-range metering pump with wide turndown for larger pools",
+    "applications": [
+      "Sodium hypochlorite feed at mid-size pools",
+      "Muriatic acid feed",
+      "Flow-proportional dosing"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Adjustable stroke frequency and length; up to 1000:1 turndown (LMI literature)",
+      "NEMA 4X / IP65 enclosure (LMI literature)",
+      "Encapsulated electronics (LMI literature)",
+      "External pacing, pulse multiply/divide, 4-20 mA and remote on/off options (LMI literature)",
+      "UL, cUL, NSF 50, NSF 61, CE (LMI literature)"
+    ],
+    "specs": [
+      {
+        "k": "Turndown",
+        "v": "Up to 1000:1",
+        "src": "LMI Series B data sheet"
+      },
+      {
+        "k": "Enclosure",
+        "v": "NEMA 4X / IP65",
+        "src": "LMI Series B data sheet"
+      },
+      {
+        "k": "Listings",
+        "v": "UL, cUL, NSF 50, NSF 61, CE",
+        "src": "LMI Series B data sheet"
+      }
+    ],
+    "models": [
+      {
+        "name": "B121-392SI",
+        "fit": "Aquafinity's typical configuration (60 GPD at 100 psi per Aquafinity; verify against LMI)"
+      }
+    ],
+    "aliases": [
+      "LMI B series",
+      "B121",
+      "B-pump"
+    ],
+    "keywords": [
+      "lmi series b",
+      "metering pump 60 gpd",
+      "chemical feed pump"
+    ],
+    "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+    "uncertainties": "Capacity figures per model to be taken from the LMI data sheet."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "LMI",
+    "product": "LMI Series C electronic metering pumps",
+    "manufacturer": "LMI (Milton Roy)",
+    "manufacturerUrl": "https://www.lmipumps.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "lmi-series-c",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://lmi-pumps.com/wp-content/uploads/2018/01/Series-C-hiRes900px-218x300.jpg",
+      "status": "dealer-media-asset",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "LMI Series C metering pump"
+    },
+    "docs": [
+      {
+        "title": "Series C data sheet (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-C-Metering-Pump-Data-Sheet.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "Series C specification sheet (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-C-Metering-Pump-Specification-Sheet.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Series C is the higher-capacity sibling of Series B, sharing the enclosed housing, encapsulated electronics and control options. It is the solenoid pump LMI positions for larger municipal and industrial feed points, which in aquatics means large or high-load pools. Choose it when a mid-size pump would run near its limit.",
+    "headline": "Higher-capacity solenoid metering pump for large pools",
+    "applications": [
+      "Sodium hypochlorite feed at large pools",
+      "Muriatic acid feed",
+      "Flow-proportional dosing"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Adjustable stroke frequency and length; up to 1000:1 turndown (LMI literature)",
+      "NEMA 4X / IP65 enclosure (LMI literature)",
+      "Encapsulated electronics (LMI literature)",
+      "External pacing and advanced control options (LMI literature)",
+      "NSF 50 and NSF 61 (LMI literature)"
+    ],
+    "specs": [
+      {
+        "k": "Turndown",
+        "v": "Up to 1000:1",
+        "src": "LMI Series C data sheet"
+      },
+      {
+        "k": "Enclosure",
+        "v": "NEMA 4X / IP65",
+        "src": "LMI Series C data sheet"
+      }
+    ],
+    "models": [
+      {
+        "name": "C121-362SI",
+        "fit": "Aquafinity's typical large-pool configuration (verify against LMI)"
+      }
+    ],
+    "aliases": [
+      "LMI C series",
+      "C121",
+      "C-pump"
+    ],
+    "keywords": [
+      "lmi series c",
+      "large pool feed pump",
+      "chemical metering pump"
+    ],
+    "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+    "uncertainties": "Capacity figures per model to be taken from the LMI data sheet."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "LMI",
+    "product": "LMI Series G motor-driven metering pumps",
+    "manufacturer": "LMI (Milton Roy)",
+    "manufacturerUrl": "https://www.lmipumps.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "lmi-series-g",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://lmi-pumps.com/wp-content/uploads/2018/01/Series-G-500px-300x295.jpg",
+      "status": "dealer-media-asset",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "LMI Series G motor-driven metering pump"
+    },
+    "docs": [
+      {
+        "title": "Series G brochure (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-G-Metering-Pumps-Brochure.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Series G manual (dealer-hosted LMI literature)",
+        "url": "https://lmi-pumps.com/wp-content/uploads/2022/03/LMI-Series-G-Metering-Pumps-Manual.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Series G is LMI's motor-driven, mechanically actuated diaphragm pump for high-output chemical feed, with rates up to 300 GPH. A variable eccentric drive smooths output, and DC variable-speed drives allow external control. It is the pump for competition and very large pools where solenoid pumps cannot keep up.",
+    "headline": "Motor-driven high-output feed for very large pools",
+    "applications": [
+      "High-volume hypochlorite feed",
+      "Acid feed at 50 m pools and water parks",
+      "Out-gassing fluids and slurries"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Flow rates up to 300 GPH (LMI literature)",
+      "Mechanically actuated diaphragm; no hydraulic oil contact with process liquid (LMI literature)",
+      "Variable eccentric drive for smooth output (LMI literature)",
+      "Stroke adjustment while running or stopped (LMI literature)",
+      "Steady-state accuracy ±1% over 10:1 turndown (LMI literature)",
+      "UL, cUL, ETL to ANSI/NSF 50, CE (LMI literature)"
+    ],
+    "specs": [
+      {
+        "k": "Maximum flow",
+        "v": "300 GPH (1136 L/h)",
+        "src": "LMI Series G brochure"
+      },
+      {
+        "k": "Accuracy",
+        "v": "±1% of full capacity over 10:1 turndown",
+        "src": "LMI Series G brochure"
+      }
+    ],
+    "models": [
+      {
+        "name": "SD43-88P-KSI",
+        "fit": "Aquafinity-exclusive configuration ('KSI' suffix) for 50 m pools; a standard Series G configuration should be substituted"
+      }
+    ],
+    "aliases": [
+      "LMI G series",
+      "SD43",
+      "G-pump"
+    ],
+    "keywords": [
+      "motor driven metering pump",
+      "high output chemical pump",
+      "lmi series g"
+    ],
+    "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. The SD43-88P-KSI part number is an Aquafinity/Knorr (KSI) special.",
+    "uncertainties": "Standard Series G part numbers for pool duty to be selected with LMI."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/natural-chemistry-pump/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Automatic Dosage Pump",
+    "product": "Natural Chemistry Automatic Dosage Dispenser",
+    "manufacturer": "Natural Chemistry",
+    "manufacturerUrl": "https://naturalchemistry.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "natural-chemistry-automatic-dosage-dispenser",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Natural Chemistry automatic dosage dispenser"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "86440NCM",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "NC dosage pump",
+      "Automatic Dosage Dispenser",
+      "86440"
+    ],
+    "keywords": [
+      "enzyme dosing pump",
+      "phosfree dispenser"
+    ],
+    "notes": "Discontinued (evidence: no dosage dispenser appears on naturalchemistry.com's current product pages or site search; the product exists only on third-party retail listings, several marked out of stock). Not a core FreyTech category.",
+    "uncertainties": "No explicit discontinuation notice from Natural Chemistry; Natural Chemistry's current corporate parent should be confirmed if the brand is ever listed."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 500 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-500",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 500 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 500"
+    ],
+    "keywords": [
+      "pulsar 500",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 500 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Precision (existing slug pulsar-precision). Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 140 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-140",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 140 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 140"
+    ],
+    "keywords": [
+      "pulsar 140",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 140 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Precision or Precision 30 depending on demand. Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 45 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-45",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 45 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 45"
+    ],
+    "keywords": [
+      "pulsar 45",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 45 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Precision 30 (existing slug pulsar-precision-30) or Pulsar Infinity. Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar Infinity high-capacity erosion feeder",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "https://pulsarpools.com/products/pulsar-infinity/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-infinity",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2021/05/pulsar-feeder-angle-1.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pulsar-infinity.webp",
+      "width": 1024,
+      "height": 1936,
+      "alt": "Pulsar Infinity calcium hypochlorite tablet feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar Infinity product page",
+        "url": "https://pulsarpools.com/products/pulsar-infinity/",
+        "type": "Product page"
+      },
+      {
+        "title": "Pulsar Plus cal hypo briquettes SDS",
+        "url": "https://pulsarpools.com/wp-content/uploads/2023/05/PULSAR-PLUS-CAL-HYPO-BRIQUETTES-FOR-COMMERCIAL-SWIMMING-POOL-USE-000000000000205064-United-States-English-1.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "Pulsar Infinity is an erosion-style feeder that dissolves Pulsar's slow-dissolving calcium hypochlorite tablets into a chlorine solution for pools from roughly 5,000 to 150,000 gallons. It is compact and modular, needs little operator attention, and adds calcium and alkalinity while it chlorinates. It suits schools, clubs and hotels that want dry chlorine feed without the size of a Precision system.",
+    "headline": "Simple tablet erosion feeder for pools up to about 150,000 gallons",
+    "applications": [
+      "Small and mid-size indoor pools",
+      "Hotel and community pools converting from liquid bleach",
+      "Spas and therapy pools within the sizing range"
+    ],
+    "facilities": [
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "healthcare-rehabilitation",
+      "colleges-universities"
+    ],
+    "problems": [
+      "replace-liquid-chlorine",
+      "improve-chemical-safety",
+      "stabilize-water-chemistry",
+      "reduce-waste"
+    ],
+    "features": [
+      "High-capacity erosion (HCE) feeder, compact and lightweight with modular design (manufacturer page)",
+      "Uses slow-dissolving Pulsar calcium hypochlorite tablets (manufacturer page)",
+      "Adds no cyanuric acid; boosts calcium and alkalinity (manufacturer page)",
+      "Works with ORP-based controllers (manufacturer page)",
+      "Recommended pool size 5,000 to 150,000 gallons (manufacturer page)"
+    ],
+    "specs": [
+      {
+        "k": "Recommended pool size",
+        "v": "5,000 to 150,000 gallons",
+        "src": "pulsarpools.com Pulsar Infinity page"
+      },
+      {
+        "k": "Chemical",
+        "v": "Pulsar calcium hypochlorite tablets/briquettes",
+        "src": "pulsarpools.com Pulsar Infinity page"
+      }
+    ],
+    "models": [
+      {
+        "name": "Pulsar Infinity",
+        "fit": "Pools 5,000 to 150,000 gallons"
+      }
+    ],
+    "aliases": [
+      "Infinity feeder",
+      "Pulsar Infinity HCE"
+    ],
+    "keywords": [
+      "cal hypo tablet feeder",
+      "erosion feeder commercial pool",
+      "pulsar infinity",
+      "dry chlorine feeder small pool"
+    ],
+    "notes": "Infinity is not in the main pulsarpools.com product menu but has a live product page; confirm current availability with Pulsar. Existing FreyTech Pulsar slugs: pulsar-precision, pulsar-precision-30, pulsar-plus-briquettes, pulsar-guardtec.",
+    "uncertainties": "Feed-rate (lb/day) and hydraulic requirements not stated on the product page; obtain the Infinity manual."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 4 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-4",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 4 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 4",
+      "P4"
+    ],
+    "keywords": [
+      "pulsar 4",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 4 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Precision (existing slug pulsar-precision) for pools above 250,000 gallons. Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 3 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-3",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 3 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 3",
+      "P3"
+    ],
+    "keywords": [
+      "pulsar 3",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 3 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Precision or Precision 30. Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar 1 chlorinator",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-1",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Pulsar 1 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar support and manuals (current models only)",
+        "url": "https://pulsarpools.com/support-and-manuals/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar 1",
+      "P1"
+    ],
+    "keywords": [
+      "pulsar 1",
+      "pulsar chlorinator parts"
+    ],
+    "notes": "Discontinued legacy feeder (evidence: pulsarpools.com's product menu lists only Precision, Precision 30, Infinity, Acid Plus, GuardTec and skid systems, and its support/manuals page carries no Pulsar 1 literature; third-party parts suppliers describe Pulsar 1/3/4/45/140/500 as legacy models). Current replacement: Pulsar Infinity or Precision 30 for small pools. Only Aquafinity-hosted images exist.",
+    "uncertainties": "No formal end-of-life notice from Pulsar located; existing installations may need parts support."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar Plus calcium hypochlorite briquettes",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "https://pulsarpools.com/products/pulsar-briquettes/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-plus-briquettes",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2022/12/pulsar-briquettes.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pulsar-plus-briquettes.webp",
+      "width": 415,
+      "height": 422,
+      "alt": "Pulsar Plus calcium hypochlorite briquettes"
+    },
+    "docs": [
+      {
+        "title": "Pulsar briquettes product page",
+        "url": "https://pulsarpools.com/products/pulsar-briquettes/",
+        "type": "Product page"
+      },
+      {
+        "title": "Pulsar Plus cal hypo briquettes SDS",
+        "url": "https://pulsarpools.com/wp-content/uploads/2023/05/PULSAR-PLUS-CAL-HYPO-BRIQUETTES-FOR-COMMERCIAL-SWIMMING-POOL-USE-000000000000205064-United-States-English-1.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pulsar Plus",
+      "cal hypo briquettes"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of existing FreyTech slug \"pulsar-plus-briquettes\". Manufacturer product photo downloaded from pulsarpools.com.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar Precision",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "https://pulsarpools.com/products/pulsar-precision/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-precision",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2021/07/pulsar-precision-new.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pulsar-precision.webp",
+      "width": 1200,
+      "height": 1581,
+      "alt": "Pulsar Precision calcium hypochlorite feed system"
+    },
+    "docs": [
+      {
+        "title": "Pulsar Precision product page",
+        "url": "https://pulsarpools.com/products/pulsar-precision/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Not a tab on the Aquafinity page; emitted because it is the manufacturer's current replacement for the legacy Pulsar 500/140/4/3 feeders listed there. Duplicate of existing FreyTech slug \"pulsar-precision\"; manufacturer product photo downloaded from pulsarpools.com.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Pulsar Chlorination Systems",
+    "product": "Pulsar Precision 30",
+    "manufacturer": "Pulsar Systems (Innovative Water Care, a Solenis company)",
+    "manufacturerUrl": "https://pulsarpools.com/",
+    "officialProductUrl": "https://pulsarpools.com/products/pulsar-precision-30/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "pulsar-precision-30",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2022/08/precision-30.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pulsar-precision-30.webp",
+      "width": 422,
+      "height": 1000,
+      "alt": "Pulsar Precision 30 calcium hypochlorite feeder"
+    },
+    "docs": [
+      {
+        "title": "Pulsar Precision 30 product page",
+        "url": "https://pulsarpools.com/products/pulsar-precision-30/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Not a tab on the Aquafinity page; emitted as the current replacement for the legacy Pulsar 45/140/1 feeders. Duplicate of existing FreyTech slug \"pulsar-precision-30\"; manufacturer product render downloaded from pulsarpools.com.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/ph-mts/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "pH-MTS",
+    "product": "EKO3 pH-MTS carbon dioxide feed system",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/chemical-delivery-system/carbon-dioxide/eko3",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "eko3-ph-mts",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/pH-MTS3.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "EKO3 pH-MTS CO2 mass-transfer feed system"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "pH-MTS",
+      "pH MTS",
+      "Eko3 MTS"
+    ],
+    "keywords": [
+      "co2 mass transfer pool",
+      "co2 ph control system"
+    ],
+    "notes": "Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control) with bulk CO2 from Taylor-Wharton EasyCarb (this manifest).",
+    "uncertainties": "IAPMO R&T / NSF 50 certification claimed by Aquafinity only."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/stenner-pumps/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Stenner",
+    "product": "Stenner Classic Series peristaltic metering pumps",
+    "manufacturer": "Stenner Pump Company",
+    "manufacturerUrl": "https://stenner.com/",
+    "officialProductUrl": "https://stenner.com/products/classic-series/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "stenner-classic-series",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://stenner.com/wp-content/uploads/oyo-webp/c8417eb9892422703e12e4615ddf02f3.webp",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/stenner-classic-series.webp",
+      "width": 1024,
+      "height": 691,
+      "alt": "Stenner Classic Series single-head adjustable peristaltic pump"
+    },
+    "docs": [
+      {
+        "title": "Stenner Classic Series product page",
+        "url": "https://stenner.com/products/classic-series/",
+        "type": "Product page"
+      },
+      {
+        "title": "Classic Series single head adjustable specifications (FSPECCSHA)",
+        "url": "https://stenner.com/wp-content/uploads/2014/05/FSPECCSHA.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "Classic Series double head adjustable specifications (FSPECCDHA)",
+        "url": "https://stenner.com/wp-content/uploads/2014/05/FSPECCDHA.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "Classic Series installation and maintenance manual (IMCL)",
+        "url": "https://stenner.com/wp-content/uploads/2014/05/IMCL.pdf",
+        "type": "Installation manual"
+      },
+      {
+        "title": "Stenner product catalog",
+        "url": "https://stenner.com/wp-content/uploads/2022/06/CATALOG.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Stenner Classic Series literature index",
+        "url": "https://stenner.com/resources/literature/classic-series/",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "Stenner's Classic Series is a peristaltic metering pump: the chemical moves through a replaceable tube squeezed by rollers, so it never touches the pump mechanism and the pump can run dry or handle off-gassing bleach without losing prime. Output is set on an external dial from 5 to 100 percent, and tubes and heads swap between models without tools. It is a dependable, low-maintenance choice for hypochlorite and acid feed at small and mid-size pools.",
+    "headline": "Peristaltic feed that self-primes, runs dry safely and handles off-gassing bleach",
+    "applications": [
+      "Sodium hypochlorite feed",
+      "Muriatic acid feed",
+      "Controller-switched or pressure-switch-activated dosing"
+    ],
+    "facilities": [
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "healthcare-rehabilitation",
+      "municipal-aquatic-centers"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "find-replacement-equipment",
+      "modernize-aging-equipment-room",
+      "improve-chemical-safety"
+    ],
+    "features": [
+      "External dial output control, 5-100% in 2.5% increments (FSPECCSHA)",
+      "Self-priming to 25 ft vertical lift; does not lose prime or vapor lock (FSPECCSHA)",
+      "Pumps off-gassing solutions and can run dry without damage (FSPECCSHA)",
+      "Tube replacement without tools; QuickPro pump head (manufacturer page)",
+      "3-point roller assembly prevents backflow (manufacturer page)",
+      "Tubes and pump heads interchangeable between models (FSPECCSHA)"
+    ],
+    "specs": [
+      {
+        "k": "Output control",
+        "v": "External dial ring, 5-100% in 2.5% increments",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Maximum working pressure",
+        "v": "25 psi (1.7 bar) standard; 100 psi (6.9 bar) high-pressure models",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Maximum suction lift",
+        "v": "25 ft (7.6 m) vertical, based on water",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Reproducibility",
+        "v": "±2%",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Maximum operating temperature",
+        "v": "125°F (52°C)",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Housings",
+        "v": "Polycarbonate",
+        "src": "FSPECCSHA"
+      },
+      {
+        "k": "Listing",
+        "v": "Tested and certified by IAPMO to ANSI/NSF 61 for sodium hypochlorite and water; NSF/ANSI 50 (listings vary by model)",
+        "src": "FSPECCSHA"
+      }
+    ],
+    "models": [
+      {
+        "name": "45M5",
+        "fit": "Up to 50 GPD at 25 psi with #5 tube (per Aquafinity; verify in Stenner output table)"
+      },
+      {
+        "name": "85M5",
+        "fit": "Up to 85 GPD at 25 psi with #5 tube (per Aquafinity; verify)"
+      },
+      {
+        "name": "45MHP10",
+        "fit": "Up to 10 GPD at 100 psi with #2 tube (per Aquafinity; verify)"
+      }
+    ],
+    "aliases": [
+      "Stenner 45",
+      "Stenner 85",
+      "45M5",
+      "85M5",
+      "45MHP10",
+      "Classic Series"
+    ],
+    "keywords": [
+      "peristaltic pump pool",
+      "stenner pump",
+      "bleach feed pump",
+      "chemical feed pump 85 gpd"
+    ],
+    "notes": "Stenner sells through distribution. Manufacturer product image downloaded from the Classic Series product page.",
+    "uncertainties": "Per-model GPD figures cited from Aquafinity should be checked against the FSPECCSHA output table before publishing; dealer status unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/taylor-wharton/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Taylor Wharton",
+    "product": "Taylor-Wharton EasyCarb 750 (Pool) bulk CO2 cylinder (formerly NOVO 750)",
+    "manufacturer": "Taylor-Wharton",
+    "manufacturerUrl": "https://twcryo.com/",
+    "officialProductUrl": "https://twcryo.com/resources/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "taylor-wharton-easycarb-750-pool",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://twcryo.com/wp-content/uploads/2019/07/EC750-Pool-TWM-B019-Rev01_opt.pdf",
+      "status": "manufacturer-literature-asset",
+      "localFile": "public/images/products/taylor-wharton-easycarb-750-pool.webp",
+      "width": 220,
+      "height": 535,
+      "alt": "Taylor-Wharton EasyCarb 750 bulk CO2 cylinder for pool pH control"
+    },
+    "docs": [
+      {
+        "title": "EasyCarb 750 (Pool) sell sheet (TWM-B019 Rev01)",
+        "url": "https://twcryo.com/wp-content/uploads/2019/07/EC750-Pool-TWM-B019-Rev01_opt.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "NOVO Bulk CO2 750 (Pool) sell sheet (legacy)",
+        "url": "https://twcryo.com/wp-content/uploads/2018/03/EasyCarb-750-pool.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "EasyCarb beverage carbonation brochure (EC300/450/550/750HF specifications)",
+        "url": "https://twcryo.com/wp-content/uploads/2018/04/NEW-EasyCarb-brochure-2020-WEB.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "EasyCarb TCM-EC750-OC33 manual",
+        "url": "https://twcryo.com/wp-content/uploads/2018/04/easycarb-manual-TCM-EC750-OC33-Rev3.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "Taylor-Wharton resources (Beverage Carbonation section lists NOVO 750 (Pool))",
+        "url": "https://twcryo.com/resources/",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "The EasyCarb 750 (Pool) is a permanently installed, low-pressure bulk CO2 cylinder that replaces banks of high-pressure gas cylinders for pool pH control. It holds about 789 lb of liquid CO2, delivers roughly 20 lb/hr of gas, and is filled in place by the gas supplier. Paired with a CO2 feeder and chemistry controller it lets a facility reduce or eliminate muriatic acid handling.",
+    "headline": "Bulk CO2 on site for pH control without acid deliveries",
+    "applications": [
+      "CO2 supply for pH control at large indoor pools",
+      "Facilities replacing muriatic acid with CO2",
+      "Multi-pool centers with steady CO2 demand"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "waterparks-high-load",
+      "ymca-community",
+      "architects-engineers-public"
+    ],
+    "problems": [
+      "improve-chemical-safety",
+      "stabilize-water-chemistry",
+      "modernize-aging-equipment-room",
+      "prepare-specifications-budgets"
+    ],
+    "features": [
+      "Permanently installed; no cylinder change-outs (TWM-B019)",
+      "Maintains pH and total alkalinity through the pool's automated controller (TWM-B019)",
+      "Visual fill system to prevent over- or under-filling (TWM-B019)",
+      "Maintenance-free tank design (TWM-B019)",
+      "Optional heater for higher continuous flow (EasyCarb brochure)"
+    ],
+    "specs": [
+      {
+        "k": "Liquid CO2 capacity",
+        "v": "789 lb (358 kg)",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheet"
+      },
+      {
+        "k": "Gaseous capacity",
+        "v": "6,897 cu ft at NTP",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheet"
+      },
+      {
+        "k": "Gaseous flow rate",
+        "v": "20 lb/hr (9 kg/hr)",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheet"
+      },
+      {
+        "k": "Dimensions",
+        "v": "26 in diameter x 70.5 in high",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheet"
+      },
+      {
+        "k": "Empty weight",
+        "v": "348-397 lb depending on revision",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheets"
+      },
+      {
+        "k": "Minimum usage without venting",
+        "v": "About 3 lb liquid per day",
+        "src": "NOVO/EasyCarb 750 (Pool) sell sheet"
+      },
+      {
+        "k": "Relief settings",
+        "v": "Inner container relief 300 psig; secondary 330-450 psig per revision",
+        "src": "Sell sheets"
+      }
+    ],
+    "models": [
+      {
+        "name": "EC750 (Pool) / TCM-EC750-OC33",
+        "fit": "Pools with continuous CO2 demand up to about 20 lb/hr"
+      },
+      {
+        "name": "NOVO 750",
+        "fit": "Legacy designation of the same 750 lb pool cylinder"
+      }
+    ],
+    "aliases": [
+      "NOVO 750",
+      "NOVO Bulk CO2 750",
+      "EasyCarb 750",
+      "EC750",
+      "TCM-EC750-OC33",
+      "Taylor Wharton CO2 tank"
+    ],
+    "keywords": [
+      "bulk co2 tank pool",
+      "co2 cylinder ph control",
+      "taylor wharton novo",
+      "easycarb pool"
+    ],
+    "notes": "Taylor-Wharton now markets the pool cylinder as EasyCarb 750 (Pool); the NOVO name persists in the resources index. Image extracted from the manufacturer's sell sheet (literature asset), 220 x 535 px only. Bulk CO2 is normally supplied and filled by an industrial gas distributor.",
+    "uncertainties": "Taylor-Wharton's current corporate ownership and US distribution for pool cylinders should be confirmed; twcryo.com's Beverage Carbonation product page is a placeholder."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/taylor-wharton/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Taylor Wharton",
+    "product": "Taylor-Wharton NOVO 575 bulk CO2 cylinder",
+    "manufacturer": "Taylor-Wharton",
+    "manufacturerUrl": "https://twcryo.com/",
+    "officialProductUrl": "https://twcryo.com/resources/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "taylor-wharton-novo-575",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Taylor-Wharton NOVO 575 bulk CO2 cylinder"
+    },
+    "docs": [
+      {
+        "title": "NOVO 575 sell sheet",
+        "url": "https://twcryo.com/wp-content/uploads/2018/04/NOVO-575.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [
+      {
+        "k": "Liquid CO2 capacity",
+        "v": "575 lb (261 kg)",
+        "src": "NOVO 575 sell sheet"
+      },
+      {
+        "k": "Dimensions / weight",
+        "v": "22 in x 67.8 in, 401 lb empty",
+        "src": "NOVO 575 sell sheet"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "NOVO 575",
+      "EasyCarb 575",
+      "EC575"
+    ],
+    "keywords": [],
+    "notes": "Represented inside taylor-wharton-easycarb-750-pool as a smaller size of the same family. The current Taylor-Wharton line is EasyCarb EC300/EC450/EC550/EC750HF; a pool-configured 575 lb unit is not separately documented on twcryo.com.",
+    "uncertainties": "Whether Taylor-Wharton still supplies pool-configured cylinders below 750 lb is unconfirmed."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/taylor-wharton/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "Taylor Wharton",
+    "product": "Taylor-Wharton NOVO 450 bulk CO2 cylinder",
+    "manufacturer": "Taylor-Wharton",
+    "manufacturerUrl": "https://twcryo.com/",
+    "officialProductUrl": "https://twcryo.com/resources/",
+    "proposedCategory": "chemical-delivery-chlorination",
+    "proposedSlug": "taylor-wharton-novo-450",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Taylor-Wharton NOVO 450 bulk CO2 cylinder"
+    },
+    "docs": [
+      {
+        "title": "EasyCarb brochure (EC450 specifications)",
+        "url": "https://twcryo.com/wp-content/uploads/2018/04/NEW-EasyCarb-brochure-2020-WEB.pdf",
+        "type": "Brochure"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [
+      {
+        "k": "Liquid CO2 capacity (EC450 current model)",
+        "v": "447 lb (203 kg)",
+        "src": "EasyCarb 2020 brochure"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "NOVO 450",
+      "EasyCarb 450",
+      "EC450"
+    ],
+    "keywords": [],
+    "notes": "Represented inside taylor-wharton-easycarb-750-pool as a smaller size of the same family. The current Taylor-Wharton line is EasyCarb EC300/EC450/EC550/EC750HF; a pool-configured 450 lb unit is not separately documented on twcryo.com.",
+    "uncertainties": "Whether Taylor-Wharton still supplies pool-configured cylinders below 750 lb is unconfirmed."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/vaporlok-kit/",
+    "sourceCategory": "chemical-delivery-systems",
+    "family": "VaporLok Kit",
+    "product": "EKO3 VaporLok acid drum vent kit",
+    "manufacturer": "EKO3 Systems, Inc. (Knorr Systems / Aquafinity house brand)",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "https://knorrsystems.com/chemical-delivery-system/sodium-hypochlorite-a-muriatic-acid/eko3-vaporlok-kit",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "eko3-vaporlok-kit",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/VaporLok2.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "EKO3 VaporLok acid drum fitting kit"
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "VaporLok",
+      "Vaporlok kit"
+    ],
+    "keywords": [
+      "acid drum vent kit",
+      "muriatic acid drum bung fitting"
+    ],
+    "notes": "Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap: sealed drum bung with pump suction pass-through and vent line. Comparable manufacturer-branded parts exist from metering-pump suppliers (LMI/Stenner drum fittings) and fume-scrubber vendors.",
+    "uncertainties": "Brand ownership inferred (see evidence)."
+  }
+]

@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useId, useRef, useState } from "react";
-import { primaryNav, utilityNav } from "@/lib/nav";
+import { primaryNav, utilityNav, productsMega } from "@/lib/nav";
 import { site, telHref } from "@/lib/site";
 import { track } from "@/lib/analytics";
 import styles from "./MobileNav.module.css";
@@ -47,7 +47,28 @@ export function MobileNav() {
           <ul className={styles.list}>
             {primaryNav.map((item) => (
               <li key={item.label} className={styles.group}>
-                {item.children ? (
+                {item.label === productsMega.label ? (
+                  <details className={styles.details}>
+                    <summary className={styles.summary}>{item.label}
+                      <svg aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M3.5 6l4.5 4.5L12.5 6" /></svg>
+                    </summary>
+                    <ul className={styles.sub}>
+                      <li><Link href="/products/" className={styles.subLink}>All products</Link></li>
+                      {productsMega.columns.map((col) => (
+                        <li key={col.heading}>
+                          <details className={styles.detailsInner}>
+                            <summary className={styles.summaryInner}>{col.heading}</summary>
+                            <ul className={styles.sub}>
+                              {col.items.map((c) => (
+                                <li key={c.href}><Link href={c.href} className={styles.subLink} aria-current={pathname === c.href ? "page" : undefined}>{c.label}</Link></li>
+                              ))}
+                            </ul>
+                          </details>
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                ) : item.children ? (
                   <details className={styles.details}>
                     <summary className={styles.summary}>{item.label}
                       <svg aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M3.5 6l4.5 4.5L12.5 6" /></svg>

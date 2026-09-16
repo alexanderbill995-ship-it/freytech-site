@@ -17,7 +17,7 @@ export function pageMetadata({ title, description, path, noIndex }: PageMeta): M
     title: { absolute: fullTitle },
     description,
     alternates: { canonical: url },
-    robots: noIndex ? { index: false, follow: true } : undefined,
+    robots: site.isPreview ? { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } } : noIndex ? { index: false, follow: true } : undefined,
     openGraph: {
       title: fullTitle,
       description,

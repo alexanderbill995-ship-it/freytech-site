@@ -14,7 +14,7 @@ Every item below appears on the new site (or was deliberately left off it) and m
 ## Company history and leadership **[FLAGGED]**
 - [ ] "In 1987, Greg Frey purchased the business that became Frey Technologies" (About). Current site says this; confirm.
 - [ ] "Since 1987" appears in the hero panel, trust strip, and About at-a-glance. Confirm the year to publish (current site inconsistently says "over 25 years" and "30 years").
-- [ ] **Owner/leadership conflict:** the strategy brief refers to the owner as "Angelo"; the current website names Greg Frey as Owner & President. The new About page publishes NO individual leadership bios until confirmed; it shows a visible "pending confirmation" notice instead. Provide current names, titles, and short bios for: owner/president; service manager (site: Mike Wilson, joined 1988); sales manager (site: Bob Ulrich).
+- [ ] **Leadership (resolved in copy, pending approval):** Angelo DiCiaccio, President, is now named on the homepage and About page with verified background (prior years at FreyTech; manufacturer, distributor, technical sales, engineering/end-user experience; more than a decade in the industry). The old site's "Greg Frey, Owner and President... purchased the company in 1987" line has been removed from the site; the old site also named Mike Wilson (Service Manager) and Bob Ulrich (Eastern Sales Manager). Confirm whether any of these three should appear anywhere, and confirm the company's founding/ownership history wording ("since the late 1980s").
 - [ ] Alkalinity article attribution to Mike Wilson (January 2015 newsletter), republished in updated form at /resources/total-alkalinity-and-controllers/. Approve text and attribution.
 
 ## Territory and dealer status

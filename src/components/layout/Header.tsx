@@ -1,6 +1,7 @@
 import { Logo } from "./Logo";
 import { MobileNav } from "./MobileNav";
 import { DesktopNav } from "./DesktopNav";
+import { HeaderSearch } from "@/components/search/HeaderSearch";
 import { Button } from "@/components/ui/Button";
 import { TrackedLink } from "@/components/ui/TrackedLink";
 import { site, telHref } from "@/lib/site";
@@ -32,7 +33,8 @@ export function Header() {
           <Logo />
           <DesktopNav />
           <div className={styles.actions}>
-            <Button href="/contact/" size="md" className={styles.cta}>Request a System Assessment</Button>
+            <HeaderSearch />
+            <Button href="/contact/?intent=angelo" size="md" className={styles.cta}>Talk With Angelo</Button>
             <MobileNav />
           </div>
         </div>

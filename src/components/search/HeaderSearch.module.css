@@ -1,0 +1,6 @@
+.inline { display: none; }
+@media (min-width: 80rem) { .inline { display: block; width: clamp(12rem, 18vw, 20rem); } }
+.toggle { display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2.75rem; padding: 0 0.8rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--white); color: var(--navy-900); font-weight: 600; font-size: var(--text-sm); }
+@media (min-width: 80rem) { .toggle { display: none; } }
+.panel { position: absolute; left: 0; right: 0; top: 100%; background: var(--white); border-bottom: 1px solid var(--border); box-shadow: var(--shadow); padding: var(--sp-5) 0 var(--sp-6); z-index: 120; }
+.panel[hidden] { display: none; }

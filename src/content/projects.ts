@@ -86,7 +86,7 @@ export const caseStudies: CaseStudy[] = [
 
 export const publishedCaseStudies = caseStudies.filter((c) => c.status === "published");
 
-/** The only testimonial on the current site. Verbatim. Confirm continued permission before launch. */
+/** The only testimonial on the current site. NOT rendered: it is unapproved and names a former staff member. Kept for the owner review only. */
 export const testimonial = {
   quote: "We recently purchased a Neptune-Benson Defender filter system through FreyTech and it has reduced the RPM on our pumps from 1750 to 1400 RPM during normal operations. Our water quality is also now unbelievable, amazingly clean and you can see the bottom of the pool. This is one of the best investments we've ever made.",
   quote2: "Our University Engineer, William McDonald, is also very impressed with the filter and its ease of operation. And we want to thank Mike Wilson of FreyTech for quickly rectifying an issue we had with the chemical controller. We appreciate the excellent responsiveness, service, and quality they deliver.",

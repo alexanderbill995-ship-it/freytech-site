@@ -1,0 +1,3941 @@
+[
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/site-disinfecting/16308-2/",
+    "sourceCategory": "site-disinfecting",
+    "family": "HypoGen",
+    "product": "ChlorKing HYPOGEN on-site hypochlorous acid generator",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "https://www.chlorking-hypogen.com/products",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "chlorking-hypogen",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://static.wixstatic.com/media/b470dd_d5e8a52078bb446c8f4bd39b7b3282b3~mv2.png/v1/fill/w_1200,h_2024,al_c,q_90/Hypogen_Machine_Illustration.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/chlorking-hypogen.webp",
+      "width": 1200,
+      "height": 2024,
+      "alt": "ChlorKing HYPOGEN hypochlorous acid generator cabinet, manufacturer illustration"
+    },
+    "docs": [
+      {
+        "title": "HYPOGEN sales sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_df3ab63afd574360902215b11c403f79.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "HYPOGEN 2.0 Auto spec sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_5dc6fba810a34ca28700ac1b05c7eb1b.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "HYPOGEN 5.0 Auto spec sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_0526fc06537a4b2094a3305f2a622fdc.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "HYPOGEN 25 Auto spec sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_0e54e05321fd40b8a22c890e26c9856d.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "HYPO Mini spec sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_5a54795e8fe24cc4a4eb85e827f53354.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "HYPO Mini sales sheet",
+        "url": "https://www.chlorking-hypogen.com/_files/ugd/b470dd_93029f7f885746f0bbd62bb564012105.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "ChlorKing HYPOGEN product site",
+        "url": "https://www.chlorking-hypogen.com/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The HYPOGEN is a ChlorKing cabinet that makes hypochlorous acid (HOCl) on site from salt, water and electricity, with pH adjustable between 5 and 7 and production started at the push of a button. Facilities use the solution to sanitize decks, locker rooms, shower areas, handrails and equipment instead of buying and storing packaged disinfecting chemicals. It suits aquatic centers, schools and hospitality operators that want a steady supply of surface disinfectant without hazardous chemical deliveries.",
+    "headline": "Generate surface disinfectant on site and stop stocking packaged chemicals",
+    "applications": [
+      "Deck and locker-room sanitizing",
+      "Surface disinfection of equipment, rails and furniture",
+      "Janitorial HOCl supply for the whole facility"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-chemical-safety",
+      "reduce-waste",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Produces 144 to 2,880 gallons of HOCl per day at 500 or 1,000 ppm depending on model",
+      "Adjustable solution pH from 5 to 7",
+      "Automated production cycle started from the control panel",
+      "Uses salt, water and electricity as the only inputs",
+      "Three automatic models plus the compact HYPO Mini"
+    ],
+    "specs": [
+      {
+        "k": "Output range",
+        "v": "144 to 2,880 gal/day HOCl (500/1,000 ppm)",
+        "src": "chlorking-hypogen.com Products page"
+      },
+      {
+        "k": "Solution pH",
+        "v": "Adjustable 5 to 7",
+        "src": "chlorking-hypogen.com Products page"
+      },
+      {
+        "k": "HYPO Mini batch",
+        "v": "2 gallons at 200/500/1,000 ppm in about 8 minutes",
+        "src": "chlorking-hypogen.com Products page"
+      }
+    ],
+    "models": [
+      {
+        "name": "HYPOGEN 2.0 Auto",
+        "fit": "Smaller facilities with daily surface-sanitizing needs"
+      },
+      {
+        "name": "HYPOGEN 5.0 Auto",
+        "fit": "Mid-size aquatic centers and campuses"
+      },
+      {
+        "name": "HYPOGEN 25 Auto",
+        "fit": "Large facilities or multi-building operations"
+      },
+      {
+        "name": "HYPO Mini",
+        "fit": "Two-gallon batch unit for small operations or trial use"
+      }
+    ],
+    "aliases": [
+      "HYPOGEN",
+      "Hypo Gen",
+      "HypoGen",
+      "HYPO Mini",
+      "hypochlorous acid generator",
+      "HOCl generator"
+    ],
+    "keywords": [
+      "hypochlorous acid",
+      "HOCl",
+      "on-site disinfectant",
+      "surface sanitizer",
+      "ChlorKing",
+      "electrolyzed water",
+      "deck sanitizing"
+    ],
+    "notes": "ChlorKing hosts HYPOGEN on a dedicated microsite (chlorking-hypogen.com) linked from chlorking.com. Spec-sheet PDFs on that page are unlabeled in the link text; titles above follow the on-page order (2.0 Auto, 5.0 Auto, 25 Auto, sales sheet, HYPO Mini spec, HYPO Mini sales) and should be confirmed by opening each file.",
+    "uncertainties": "Per-model output figures are not broken out on the products page; confirm from the spec sheets. Aquafinity's brochure is dated 2020 and may predate the current Auto models."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/site-disinfecting/pc3-portable-ozone-cart/",
+    "sourceCategory": "site-disinfecting",
+    "family": "PC3 Portable Ozone Cart",
+    "product": "Pacific Ozone PC Series Portable Ozone Cart (PC3)",
+    "manufacturer": "Xylem (Evoqua Water Technologies, Pacific Ozone brand)",
+    "manufacturerUrl": "https://www.xylem.com/en-us/brand/pacific-ozone/",
+    "officialProductUrl": "https://www.xylem.com/en-us/catalog/products--services/disinfection-systems/ozone-systems/pc-portable-cart-ozone-packaged-system/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "pacific-ozone-pc3-portable-ozone-cart",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.xylem.com/siteassets/catalog-assets/images/products/folder-0002/pc3.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/pacific-ozone-pc3-portable-ozone-cart.webp",
+      "width": 1200,
+      "height": 667,
+      "alt": "Pacific Ozone PC3 portable ozone water cart, manufacturer product photo"
+    },
+    "docs": [
+      {
+        "title": "Pacific Ozone PC Series Portable Cart datasheet",
+        "url": "https://www.xylem.com/siteassets/catalog-assets/documents/products/folder-0004/ds-oz-pc-en-us-ps.pdf",
+        "type": "Specification sheet"
+      },
+      {
+        "title": "PC Series Portable Cart product page",
+        "url": "https://www.xylem.com/en-us/catalog/products--services/disinfection-systems/ozone-systems/pc-portable-cart-ozone-packaged-system/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The PC Series is a wheeled cart that generates ozone with an air-cooled corona-discharge cell and dissolves it into a water stream, so staff can wash down decks, showers, rails and equipment with ozonated water. Nothing is stored or mixed; the cart needs air, water and electricity. It suits aquatic centers and health facilities that want a chemical-free surface sanitizer that can move between rooms or buildings.",
+    "headline": "Ozonated wash water anywhere a hose reaches",
+    "applications": [
+      "Deck, shower and locker-room wash-down",
+      "Sanitizing pool toys, furniture and equipment",
+      "Mobile disinfection across multiple buildings"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-chemical-safety",
+      "reduce-waste"
+    ],
+    "features": [
+      "36 g/h ozone production on a portable cart",
+      "Air-cooled corona-discharge ozone generator",
+      "Integrated contacting system; only air, water and power required",
+      "Rugged mobile design with safety interlocks",
+      "Ozone output comparable to fixed skid systems"
+    ],
+    "specs": [
+      {
+        "k": "Ozone production",
+        "v": "36 g/h",
+        "src": "Xylem PC Series product page"
+      }
+    ],
+    "models": [
+      {
+        "name": "PC3",
+        "fit": "Standard portable cart for aquatic and facility surface disinfection"
+      }
+    ],
+    "aliases": [
+      "PC3",
+      "PC-3",
+      "Pacific Ozone cart",
+      "Evoqua ozone cart",
+      "portable ozone cart"
+    ],
+    "keywords": [
+      "ozone",
+      "ozonated water",
+      "surface disinfection",
+      "portable ozone generator",
+      "Pacific Ozone",
+      "Evoqua",
+      "Xylem"
+    ],
+    "notes": "Pacific Ozone was an Evoqua brand; Evoqua is now part of Xylem, and the PC Series is listed in Xylem's US catalog. Aquafinity's PDF is an older Evoqua brochure; link Xylem's datasheet instead.",
+    "uncertainties": "Xylem markets the PC Series to food, beverage and industrial users; confirm pool-facility supply and lead time before publishing."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/site-disinfecting/wysiwash/",
+    "sourceCategory": "site-disinfecting",
+    "family": "Wysiwash",
+    "product": "Wysiwash Sanitizer hose-end sanitizing system",
+    "manufacturer": "Wysiwash",
+    "manufacturerUrl": "https://www.wysiwash.com/",
+    "officialProductUrl": "https://www.wysiwash.com/sanitizer-v",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "wysiwash-sanitizer",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://www.wysiwash.com/cache/web/images/Wysiwash_WYS102_WYSIWASH_SanitizerV_original_4862.jpeg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/wysiwash-sanitizer.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Wysiwash Sanitizer-V hose-end sanitizing sprayer"
+    },
+    "docs": [
+      {
+        "title": "Wysiwash Sanitizer-V product page (WYS-102)",
+        "url": "https://www.wysiwash.com/sanitizer-v",
+        "type": "Product page"
+      },
+      {
+        "title": "Wysiwash Sanitizer Pro-V product page (WYS-202)",
+        "url": "https://www.wysiwash.com/sanitizer-pro-v",
+        "type": "Product page"
+      },
+      {
+        "title": "Wysiwash owner's manual",
+        "url": "https://www.wysiwash.com/owners-manual-wysiwash-sb",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "Wysiwash pool brochure",
+        "url": "https://www.wysiwash.com/wysiwash-pool-brochure-5k-tf-2020",
+        "type": "Brochure"
+      }
+    ],
+    "description": "Wysiwash is a hose-end sprayer that dissolves a jacketed calcium hypochlorite caplet in a venturi chamber and delivers a metered hypochlorous acid solution as you spray. Staff connect it to a standard garden hose to clean and sanitize decks, locker rooms, mats and equipment with no batch mixing. It suits any facility that wants a fast, repeatable sanitizing routine handled by front-line staff.",
+    "headline": "Sanitize decks and locker rooms straight from the hose",
+    "applications": [
+      "Deck and locker-room sanitizing",
+      "Odor control in wet areas",
+      "Equipment and mat wash-down"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-chemical-safety",
+      "reduce-waste"
+    ],
+    "features": [
+      "Dispenses a metered sanitizing solution from a hose connection",
+      "Uses Wysiwash Jacketed Caplets, sold separately",
+      "Sanitizer-V includes a female quick connector for garden hose",
+      "Sanitizer Pro-V adds 316 stainless fittings and an industrial control valve",
+      "No batch mixing or rinsing step"
+    ],
+    "specs": [
+      {
+        "k": "Sanitizer-V SKU",
+        "v": "WYS-102",
+        "src": "wysiwash.com Sanitizer-V page"
+      },
+      {
+        "k": "Sanitizer Pro-V SKU",
+        "v": "WYS-202",
+        "src": "wysiwash.com Sanitizer Pro-V page"
+      }
+    ],
+    "models": [
+      {
+        "name": "Wysiwash Sanitizer-V (WYS-102)",
+        "fit": "Standard commercial hose-end unit"
+      },
+      {
+        "name": "Wysiwash Sanitizer Pro-V (WYS-202)",
+        "fit": "Heavier use; 316 stainless fittings and lever control valve"
+      },
+      {
+        "name": "Wysiwash Jacketed Caplets",
+        "fit": "Consumable caplets for either sprayer"
+      }
+    ],
+    "aliases": [
+      "Wysiwash",
+      "Wsysiwash",
+      "Wysiwash Sanitizer",
+      "hose-end sanitizer",
+      "WYS-102",
+      "WYS-202"
+    ],
+    "keywords": [
+      "deck sanitizer",
+      "locker room sanitizing",
+      "hose end sprayer",
+      "calcium hypochlorite caplet",
+      "hypochlorous acid spray",
+      "Wysiwash"
+    ],
+    "notes": "Aquafinity's page pulls its step graphics from knorrsystems.com; the image used here is the manufacturer's own product photo.",
+    "uncertainties": "Wysiwash's effectiveness comparisons to bleach are the manufacturer's marketing claims and are not repeated here."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/algaecides/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Algaecides",
+    "product": "Algigon 30 Quaternary Algaecide",
+    "manufacturer": "Unidentified (private-label algaecide)",
+    "manufacturerUrl": "",
+    "officialProductUrl": "",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "algigon-30-quaternary-algaecide",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Algigon 30 quaternary algaecide bottle"
+    },
+    "docs": [],
+    "description": "Algigon 30 is a 30 percent poly-quat algaecide sold in 32 oz bottles for routine algae prevention in chlorinated pools. Poly-quat formulas are non-foaming and non-metallic, so they do not stain surfaces or interfere with most sanitizers. It suits seasonal and outdoor pools that need a preventive dose during warm months.",
+    "headline": "Preventive poly-quat algaecide for routine maintenance",
+    "applications": [
+      "Weekly algae prevention",
+      "Seasonal opening treatment"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "30% poly-quat active",
+      "Non-foaming, non-metallic",
+      "32 oz bottle"
+    ],
+    "specs": [
+      {
+        "k": "Active",
+        "v": "30% poly-quat",
+        "src": "Aquafinity algaecides page (unverified)"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Algigon",
+      "AlgiGon 30",
+      "poly quat 30"
+    ],
+    "keywords": [
+      "algaecide",
+      "polyquat",
+      "algae prevention",
+      "quaternary"
+    ],
+    "notes": "Manufacturer not identified. The only image is Aquafinity-hosted, so none is used. 'Super AlgiGon' is a Robarb brand name (Robarb is an Innovative Water Care/Solenis brand), which may be the source; the Aquafinity listing could also be a Knorr/Aquafinity private label.",
+    "uncertainties": "Manufacturer, EPA registration and label facts unverified; do not publish specs until a label or SDS is sourced."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/algaecides/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Algaecides",
+    "product": "Premium 60 Quaternary Algaecide",
+    "manufacturer": "Unidentified (private-label algaecide)",
+    "manufacturerUrl": "",
+    "officialProductUrl": "",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "premium-60-quaternary-algaecide",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Premium 60 quaternary algaecide bottle"
+    },
+    "docs": [],
+    "description": "Premium 60 is a 60 percent poly-quat algaecide in 32 oz bottles, a stronger concentration than Algigon 30 for heavier algae pressure or curative dosing. It is non-foaming and non-metallic. It suits busy outdoor pools and facilities that want fewer, smaller doses.",
+    "headline": "Higher-strength poly-quat for heavy algae pressure",
+    "applications": [
+      "Curative algae treatment",
+      "Maintenance dosing at high bather loads"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "60% poly-quat active",
+      "Non-foaming, non-metallic",
+      "32 oz bottle"
+    ],
+    "specs": [
+      {
+        "k": "Active",
+        "v": "60% poly-quat",
+        "src": "Aquafinity algaecides page (unverified)"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Premium 60",
+      "algaecide 60",
+      "poly quat 60"
+    ],
+    "keywords": [
+      "algaecide",
+      "polyquat 60",
+      "algae treatment"
+    ],
+    "notes": "Manufacturer not identified; '60' poly-quat algaecides are sold by many private-label brands. No manufacturer image available.",
+    "uncertainties": "Manufacturer and label facts unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/algaecides/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Algaecides",
+    "product": "Terminator II Copper-based Algaecide",
+    "manufacturer": "Unidentified (private-label algaecide)",
+    "manufacturerUrl": "",
+    "officialProductUrl": "",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "terminator-ii-copper-algaecide",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Terminator II copper algaecide bottle"
+    },
+    "docs": [],
+    "description": "Terminator II is a two-phase copper-based algaecide for black, green and mustard algae, sold in 32 oz bottles. Copper algaecides work on stubborn growth that quats do not clear, but they can stain if metals are not managed. It suits facilities dealing with a persistent algae problem rather than routine prevention.",
+    "headline": "Copper algaecide for black and mustard algae",
+    "applications": [
+      "Black and mustard algae treatment",
+      "Green-pool recovery"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "Copper-based, two-phase formula",
+      "Targets black, green and mustard algae",
+      "32 oz bottle"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Terminator II",
+      "Terminator 2",
+      "copper algaecide"
+    ],
+    "keywords": [
+      "copper algaecide",
+      "black algae",
+      "mustard algae",
+      "Terminator"
+    ],
+    "notes": "Manufacturer not identified. Pair with a sequestering agent (e.g. Jack's Magic) to limit staining.",
+    "uncertainties": "Manufacturer, copper percentage and registration unverified."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/electrode-stack-wash/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Electrode Stack Wash",
+    "product": "ChlorKing AW-1 Acid Wash System for electrode cells",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "parts-accessories-replacement",
+    "proposedSlug": "chlorking-aw-1-acid-wash-system",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/Acid_Clean2.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing AW-1 acid wash system with pump and acid container"
+    },
+    "docs": [
+      {
+        "title": "ChlorKing CHLOR installation and operation manual (acid-wash procedure)",
+        "url": "https://chlorking.com/wp-content/uploads/2024/11/1-CHLOR-Installation-and-Operation-Manual.July-2024.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "ChlorKing replacement parts contact",
+        "url": "https://chlorking.com/contact-us/replacement-parts/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The AW-1 is a compact acid-wash kit for ChlorKing saline chlorinator cells that circulates a dilute acid solution through the electrode stack in place, so the cell does not have to be removed from its housing. It includes the valves, connections, a magnetic-drive pump and an acid container. It suits any facility running a ChlorKing CHLOR or NEXGEN system that wants a safer, faster cell-cleaning routine.",
+    "headline": "Clean ChlorKing electrode cells without pulling them",
+    "applications": [
+      "Scheduled electrode cell descaling",
+      "Saline chlorinator maintenance"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-chemical-safety",
+      "modernize-aging-equipment-room",
+      "find-replacement-equipment"
+    ],
+    "features": [
+      "Cleans the cell in its housing by opening and closing valves",
+      "Supplied with valves, fittings, magnetic-drive pump and acid container",
+      "Installs in about an hour",
+      "ChlorKing recommends a 1:5 acid-to-water solution"
+    ],
+    "specs": [
+      {
+        "k": "Cleaning solution",
+        "v": "1 part acid to 5 parts water (ChlorKing recommendation)",
+        "src": "Aquafinity AW-1 page citing ChlorKing"
+      }
+    ],
+    "models": [
+      {
+        "name": "AW-1",
+        "fit": "ChlorKing CHLOR and NEXGEN cell housings"
+      }
+    ],
+    "aliases": [
+      "AW-1",
+      "AW1",
+      "acid wash system",
+      "electrode stack wash",
+      "cell wash"
+    ],
+    "keywords": [
+      "acid wash",
+      "salt cell cleaning",
+      "electrode descaling",
+      "ChlorKing accessory",
+      "saline chlorinator maintenance"
+    ],
+    "notes": "Not listed as a product page on chlorking.com; the CHLOR manual covers the acid-wash procedure and ChlorKing sells accessories through its replacement-parts desk. Filed under parts-accessories-replacement because it is a maintenance accessory, not a chemical. Image on Aquafinity is hosted by knorrsystems.com (Aquafinity group), so none is used.",
+    "uncertainties": "Confirm the AW-1 is still sold under that name; the Aquafinity brochure may be dated."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Next Generation Water Science",
+    "product": "Next Generation Water Science (brand heading)",
+    "manufacturer": "Next Generation Water Science",
+    "manufacturerUrl": "https://nextgws.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "next-generation-water-science",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Excluded: brand heading, not a product. The four products beneath it are emitted as published entries.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Next Generation Water Science",
+    "product": "AAD Amino Acid Digester enzyme",
+    "manufacturer": "Next Generation Water Science",
+    "manufacturerUrl": "https://nextgws.com/",
+    "officialProductUrl": "https://nextgws.com/products/aad-enzymes/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "nextgws-aad-enzymes",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://nextgws.com/wp-content/uploads/2016/09/nextgws_aad.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/nextgws-aad-enzymes.webp",
+      "width": 1200,
+      "height": 2400,
+      "alt": "Next Generation Water Science AAD enzyme bottle"
+    },
+    "docs": [
+      {
+        "title": "AAD product page",
+        "url": "https://nextgws.com/products/aad-enzymes/",
+        "type": "Product page"
+      },
+      {
+        "title": "AAD safety data sheet",
+        "url": "https://nextgws.com/wp-content/uploads/2017/08/AADSDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "AAD is a commercial enzyme and surfactant blend that breaks down body oils, lotions, sunscreen and other non-living organic waste so chlorine is not consumed doing that job. The organics are converted to carbon dioxide rather than loading the filter. It suits high-bather-load pools, waterparks and any facility fighting oily waterlines and high chlorine demand.",
+    "headline": "Digest bather waste so chlorine can do its job",
+    "applications": [
+      "Weekly enzyme maintenance",
+      "Waterline and scum-line control",
+      "High-bather-load season support"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-filtration-water-clarity",
+      "reduce-waste"
+    ],
+    "features": [
+      "Enzyme plus surfactant formula",
+      "NSF/ANSI 50 certified",
+      "Reduces organic load on filters",
+      "Commercial-grade concentration"
+    ],
+    "specs": [
+      {
+        "k": "Certification",
+        "v": "NSF/ANSI 50",
+        "src": "nextgws.com"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "AAD",
+      "Amino Acid Digester",
+      "NextGen enzyme"
+    ],
+    "keywords": [
+      "pool enzyme",
+      "non-living organics",
+      "chlorine demand",
+      "waterline scum",
+      "NSF 50 chemical"
+    ],
+    "notes": "Next Generation Water Science shares founders and a philosophy with Orenda Technologies; nextgws.com remains a live, separate brand site.",
+    "uncertainties": "Confirm current distribution in New York State."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Next Generation Water Science",
+    "product": "CPR Concentrated Phosphate Remover",
+    "manufacturer": "Next Generation Water Science",
+    "manufacturerUrl": "https://nextgws.com/",
+    "officialProductUrl": "https://nextgws.com/products/cpr-phosphate-remover/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "nextgws-cpr-phosphate-remover",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://nextgws.com/wp-content/uploads/2016/09/CPR21.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/nextgws-cpr-phosphate-remover.webp",
+      "width": 1200,
+      "height": 2400,
+      "alt": "Next Generation Water Science CPR phosphate remover bottle"
+    },
+    "docs": [
+      {
+        "title": "CPR product page",
+        "url": "https://nextgws.com/products/cpr-phosphate-remover/",
+        "type": "Product page"
+      },
+      {
+        "title": "CPR safety data sheet",
+        "url": "https://nextgws.com/wp-content/uploads/2017/08/CPRSDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "CPR is a concentrated phosphate remover that reacts with orthophosphate on contact, crystallizes it and drops it to the floor where it is vacuumed to waste. The manufacturer caps commercial dosing at 4 oz per 10,000 gallons per application to protect the filter. It suits pools with phosphate-fed algae problems or high fill-water phosphate.",
+    "headline": "Strip phosphates in one dose, then vacuum to waste",
+    "applications": [
+      "Annual or as-needed phosphate reduction",
+      "Algae-prone pool recovery"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "Concentrated, fast-reacting formula",
+      "NSF/ANSI 50 certified",
+      "Manufacturer dosing calculator app",
+      "Compatible with MSI (no phosphonate conflict)"
+    ],
+    "specs": [
+      {
+        "k": "Maximum commercial dose",
+        "v": "4 oz per 10,000 gal per application",
+        "src": "nextgws.com CPR page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "CPR",
+      "Concentrated Phosphate Remover"
+    ],
+    "keywords": [
+      "phosphate remover",
+      "orthophosphate",
+      "algae food",
+      "lanthanum"
+    ],
+    "notes": "",
+    "uncertainties": "Active ingredient not stated on the product page; check the SDS."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Next Generation Water Science",
+    "product": "MSI Metal and Scale Inhibitor",
+    "manufacturer": "Next Generation Water Science",
+    "manufacturerUrl": "https://nextgws.com/",
+    "officialProductUrl": "https://nextgws.com/products/msi-metal-scale-inhibitor/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "nextgws-msi-metal-scale-inhibitor",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://nextgws.com/wp-content/uploads/2016/09/nextgws_msi.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/nextgws-msi-metal-scale-inhibitor.webp",
+      "width": 1200,
+      "height": 2400,
+      "alt": "Next Generation Water Science MSI metal and scale inhibitor bottle"
+    },
+    "docs": [
+      {
+        "title": "MSI product page",
+        "url": "https://nextgws.com/products/msi-metal-scale-inhibitor/",
+        "type": "Product page"
+      },
+      {
+        "title": "MSI safety data sheet",
+        "url": "https://nextgws.com/wp-content/uploads/2017/08/MSISDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "MSI is a phosphate-free chelant that keeps metals and calcium in solution so they do not stain surfaces or form carbonate scale on tile, heaters and salt cells. It is dosed at one quart per 10,000 gallons on start-up and is often used to protect fresh plaster. It suits new-plaster start-ups, hard-water regions and salt-chlorinated pools.",
+    "headline": "Hold metals and calcium in solution without adding phosphates",
+    "applications": [
+      "Plaster start-up protection",
+      "Scale prevention on heaters and salt cells",
+      "Metal stain prevention"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Non-phosphate chelant, compatible with phosphate removers",
+      "NSF/ANSI 50 certified",
+      "Start-up dose of 32 oz per 10,000 gallons",
+      "Helps control plaster dust during cure"
+    ],
+    "specs": [
+      {
+        "k": "Start-up dose",
+        "v": "32 oz per 10,000 gal",
+        "src": "nextgws.com MSI page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "MSI",
+      "Metal & Scale Inhibitor",
+      "sequestering agent"
+    ],
+    "keywords": [
+      "scale inhibitor",
+      "metal sequestrant",
+      "plaster startup",
+      "LSI",
+      "calcium scale"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Next Generation Water Science",
+    "product": "CCE Chitosan Clarifier with Enzymes",
+    "manufacturer": "Next Generation Water Science",
+    "manufacturerUrl": "https://nextgws.com/",
+    "officialProductUrl": "https://nextgws.com/products/cce-clarifier/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "nextgws-cce-clarifier",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://nextgws.com/wp-content/uploads/2016/09/CCE-Clarifier.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/nextgws-cce-clarifier.webp",
+      "width": 1200,
+      "height": 2125,
+      "alt": "Next Generation Water Science CCE chitosan clarifier bottle"
+    },
+    "docs": [
+      {
+        "title": "CCE product page",
+        "url": "https://nextgws.com/products/cce-clarifier/",
+        "type": "Product page"
+      },
+      {
+        "title": "CCE safety data sheet",
+        "url": "https://nextgws.com/wp-content/uploads/2017/08/CCE-Chitosan-Clarifier-plus-Enzyme-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "CCE is a chitosan-based clarifier with added enzyme that gathers fine particles so the filter can catch them while the enzyme works on oils and bather waste. Chitosan is a natural polymer, so it does not add phosphates or metals. It suits pools recovering from cloudy water after heavy use or a phosphate treatment.",
+    "headline": "Clear cloudy water and cut oils in one product",
+    "applications": [
+      "Post-event water clarity recovery",
+      "Clean-up after phosphate or algae treatment"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Chitosan (natural polymer) clarifier",
+      "Includes the AAD enzyme",
+      "NSF/ANSI 50 certified",
+      "No phosphates or metals added"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "CCE",
+      "Chitosan Clarifier"
+    ],
+    "keywords": [
+      "pool clarifier",
+      "chitosan",
+      "cloudy water",
+      "enzyme clarifier"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "Natural Chemistry Stainfree",
+    "manufacturer": "Natural Chemistry (NC Brands, a Biolab/KIK company)",
+    "manufacturerUrl": "https://naturalchemistry.com/",
+    "officialProductUrl": "https://naturalchemistry.com/pool-products/pool-stain-scale/stainfree/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "natural-chemistry-stainfree",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://dpbvj4a9anukr.cloudfront.net/303ea2c8-8d4b-4eaa-916a-124b41d84728/5b991708-3a2a-41a6-a1d5-6ed5c76f8dc8/d913118811482c67a03cd5c50db44f6c/07400_stainfree_175lbs.png__500x500_q85_subsampling-2.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/natural-chemistry-stainfree.webp",
+      "width": 1200,
+      "height": 2945,
+      "alt": "Natural Chemistry Stainfree 1.75 lb container"
+    },
+    "docs": [
+      {
+        "title": "Stainfree product page",
+        "url": "https://naturalchemistry.com/pool-products/pool-stain-scale/stainfree/",
+        "type": "Product page"
+      },
+      {
+        "title": "Stainfree product sheet",
+        "url": "https://brandcast-next-uploads.s3.us-west-1.amazonaws.com/303ea2c8-8d4b-4eaa-916a-124b41d84728/5b991708-3a2a-41a6-a1d5-6ed5c76f8dc8/9f99328f8ac8e9b7e9c258a56df54af9/Stainfree-tm-__-NaturalChemistry.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Metal stain removal procedure sheet",
+        "url": "https://brandcast-next-uploads.s3.us-west-1.amazonaws.com/303ea2c8-8d4b-4eaa-916a-124b41d84728/5b991708-3a2a-41a6-a1d5-6ed5c76f8dc8/1934a43f0441413d7a99cf7340f3ecaf/NC-PS246-17_Metal_Stain_Removal_Sheet.pdf",
+        "type": "Engineering resource"
+      }
+    ],
+    "description": "Stainfree is a 100 percent citric acid granular treatment that lifts metal stains from vinyl liners, fiberglass and other pool finishes without draining. It adds no phosphates and works with any sanitizer system. It suits facilities with iron or copper staining that want a mild, surface-safe first step, dosed at 1 lb per 10,000 gallons.",
+    "headline": "Lift metal stains with citric acid, no drain required",
+    "applications": [
+      "Metal stain removal on liners and fiberglass",
+      "Step and floor spot treatment"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "100% citric acid",
+      "Effective on all pool surfaces",
+      "Compatible with all sanitizing systems",
+      "Adds no phosphates"
+    ],
+    "specs": [
+      {
+        "k": "Dose",
+        "v": "1 lb per 10,000 gal",
+        "src": "naturalchemistry.com Stainfree page"
+      },
+      {
+        "k": "Size",
+        "v": "1.75 lb (SKU 17400NCM)",
+        "src": "naturalchemistry.com Stainfree page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Stain Free",
+      "StainFree",
+      "07400",
+      "17400NCM"
+    ],
+    "keywords": [
+      "citric acid stain remover",
+      "vinyl liner stain",
+      "metal stain",
+      "Natural Chemistry"
+    ],
+    "notes": "Natural Chemistry is part of NC Brands, acquired by Biolab (KIK Consumer Products) in 2021.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "The Pink Stuff (Metal Solution)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/metal-solution-the-pink-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-pink-stuff",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/05/JMPINK032.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-pink-stuff.webp",
+      "width": 1200,
+      "height": 1310,
+      "alt": "Jack's Magic The Pink Stuff quart bottle"
+    },
+    "docs": [
+      {
+        "title": "The Pink Stuff product page",
+        "url": "https://jacksmagic.com/product/metal-solution-the-pink-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Pink Stuff SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2022/04/Pink-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "The Pink Stuff is Jack's Magic's general-purpose sequestering agent for keeping iron and other metals in solution so they do not stain or scale. It is used at start-up on new pools and as a weekly maintenance dose on older ones. It suits pools on well water or with iron staining history.",
+    "headline": "Everyday sequestrant for iron and mineral stains",
+    "applications": [
+      "Weekly metal sequestering",
+      "Start-up on new pools",
+      "Iron stain and scale prevention"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Professional-strength general-purpose sequestrant",
+      "More aggressive on iron than The Blue Stuff",
+      "Safe for all pool finishes",
+      "Swim after 15 minutes of circulation"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pink Stuff",
+      "Metal Solution",
+      "JMPINK032"
+    ],
+    "keywords": [
+      "sequestering agent",
+      "iron stain",
+      "metal control",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "The Blue Stuff (Metal Solution Too)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/metal-solution-too-the-blue-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-blue-stuff",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/05/JMBLUE032.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-blue-stuff.webp",
+      "width": 1200,
+      "height": 1310,
+      "alt": "Jack's Magic The Blue Stuff quart bottle"
+    },
+    "docs": [
+      {
+        "title": "The Blue Stuff product page",
+        "url": "https://jacksmagic.com/product/metal-solution-too-the-blue-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Blue Stuff SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2022/04/Blue-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "The Blue Stuff is a sequestering agent whose blend also removes copper from the water and stays stable at higher chlorine levels. Jack's Magic positions it as its start-up product for plaster pools because it controls plaster dust. It suits plaster start-ups, fountains and water features, and pools with copper from heaters or algaecides.",
+    "headline": "Copper control and plaster start-up protection",
+    "applications": [
+      "Plaster pool start-up",
+      "Copper stain and scale prevention",
+      "Fountains and water features"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Removes copper from solution",
+      "Stable at high chlorine levels",
+      "Controls plaster dust",
+      "Initial 1 qt per 10,000 gal, then 6-8 oz weekly"
+    ],
+    "specs": [
+      {
+        "k": "Dose",
+        "v": "Initial 32 oz per 10,000 gal; 6-8 oz per 10,000 gal weekly",
+        "src": "jacksmagic.com Blue Stuff page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Blue Stuff",
+      "Metal Solution Too",
+      "JMBLUE032"
+    ],
+    "keywords": [
+      "copper sequestrant",
+      "plaster startup",
+      "plaster dust",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "The Purple Stuff (Salt Solution)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/salt-solution-the-purple-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-purple-stuff",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/05/JMPURPLE032.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-purple-stuff.webp",
+      "width": 1200,
+      "height": 1310,
+      "alt": "Jack's Magic The Purple Stuff quart bottle"
+    },
+    "docs": [
+      {
+        "title": "The Purple Stuff product page",
+        "url": "https://jacksmagic.com/product/salt-solution-the-purple-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Purple Stuff SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2022/04/Purple-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "The Purple Stuff is a stain preventive made for salt-chlorinated and high-TDS pools, where ordinary sequestrants lose effectiveness. It keeps silica in solution and reduces scale fouling on generator cells. It suits any facility running a saline chlorinator that wants longer cell life and fewer stains.",
+    "headline": "Stain and cell-scale control for salt pools",
+    "applications": [
+      "Salt chlorine generator pools",
+      "High-TDS pool maintenance",
+      "Cell scale reduction"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Formulated for high salt and high TDS",
+      "Keeps silica in solution",
+      "Reduces salt-cell scaling",
+      "Initial 1 qt per 10,000 gal, then 6-8 oz weekly"
+    ],
+    "specs": [
+      {
+        "k": "Dose",
+        "v": "Initial 1 qt per 10,000 gal; 6-8 oz per 10,000 gal weekly",
+        "src": "jacksmagic.com Purple Stuff page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Purple Stuff",
+      "Salt Solution",
+      "JMPURPLE032"
+    ],
+    "keywords": [
+      "salt pool sequestrant",
+      "cell scaling",
+      "silica",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "Stain Solution #1 (The Iron, Cobalt & Spot Etching Stuff)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/stain-solution-1-the-iron-cobalt-spot-etching-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-stain-solution-1",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/05/JMIRON1.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-stain-solution-1.webp",
+      "width": 1200,
+      "height": 1310,
+      "alt": "Jack's Magic Stain Solution #1 container"
+    },
+    "docs": [
+      {
+        "title": "Stain Solution #1 product page",
+        "url": "https://jacksmagic.com/product/stain-solution-1-the-iron-cobalt-spot-etching-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Iron and scale treatment procedures",
+        "url": "https://jacksmagic.com/wp-content/uploads/2019/07/JM-Iron-Scale-Treatment-Procedures.pdf",
+        "type": "Engineering resource"
+      },
+      {
+        "title": "Stain Solution #1 SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2022/04/Iron-Cobalt-Spot-Etching-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "Stain Solution #1 is a non-acidic treatment that removes iron, cobalt and spot-etching stains from any pool surface without draining, usually within 48 hours. Chlorine must be brought below 1 ppm first, which is what After Shock is for. It suits facilities with iron staining from fill water or cobalt spotting on fiberglass.",
+    "headline": "Remove iron and cobalt stains without draining",
+    "applications": [
+      "Iron stain removal",
+      "Cobalt spotting on fiberglass",
+      "Spot-etch stain treatment"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "Non-acidic formula",
+      "Works on all pool surfaces",
+      "Typically clears stains within 48 hours",
+      "Minimal rebalancing afterward"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Stain Solution 1",
+      "Iron Cobalt Spot Etching Stuff",
+      "JMIRON1"
+    ],
+    "keywords": [
+      "iron stain remover",
+      "cobalt stain",
+      "fiberglass spotting",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "After Shock (Chlorine Reducer)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/after-shock-chlorine-reducer/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-after-shock",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/06/210-e1781269432667.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-after-shock.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Jack's Magic After Shock chlorine reducer container"
+    },
+    "docs": [
+      {
+        "title": "After Shock product page",
+        "url": "https://jacksmagic.com/product/after-shock-chlorine-reducer/",
+        "type": "Product page"
+      },
+      {
+        "title": "After Shock SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2017/02/After-Shock-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "After Shock is a granular chlorine reducer used to drop free chlorine below 1 ppm before a Stain Solution #1 treatment, or to bring a pool back into range quickly after superchlorination. Two ounces removes 1 ppm from 15,000 gallons. It suits commercial pools that need to reopen on schedule after a shock or stain treatment.",
+    "headline": "Bring chlorine back into range on schedule",
+    "applications": [
+      "Pre-treatment for Stain Solution #1",
+      "Reopening after superchlorination"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "2 oz removes 1 ppm chlorine from 15,000 gal",
+      "Add through skimmer or broadcast",
+      "Granular, fast-acting"
+    ],
+    "specs": [
+      {
+        "k": "Dose",
+        "v": "2 oz per 1 ppm per 15,000 gal",
+        "src": "jacksmagic.com After Shock page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "After Shock",
+      "chlorine neutralizer",
+      "JMAFTER16"
+    ],
+    "keywords": [
+      "chlorine reducer",
+      "sodium thiosulfate",
+      "lower chlorine",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": "Active ingredient not stated on page; see SDS."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "Stain Solution #2 (The Copper & Scale Stuff)",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/stain-solution-2-the-copper-scale-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-stain-solution-2",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2019/07/Copper-Scale-Stuff-5lb-Clean-2-e1563896232209.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-stain-solution-2.webp",
+      "width": 1200,
+      "height": 1185,
+      "alt": "Jack's Magic Stain Solution #2 5 lb container"
+    },
+    "docs": [
+      {
+        "title": "Stain Solution #2 product page",
+        "url": "https://jacksmagic.com/product/stain-solution-2-the-copper-scale-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Stain Solution #2 treatment procedures",
+        "url": "https://jacksmagic.com/wp-content/uploads/2019/07/JM-Stain-Solution-2-Treatment-Procedures.pdf",
+        "type": "Engineering resource"
+      },
+      {
+        "title": "Stain Solution #2 SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2017/02/Copper-Scale-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "Stain Solution #2 removes copper stains and calcium scale from any pool surface without draining and, per Jack's Magic, often replaces an acid wash. The heater must be bypassed during treatment. It suits facilities with heater-sourced copper staining or scale build-up that want to avoid a drain-and-acid-wash shutdown.",
+    "headline": "Remove copper stains and scale without an acid wash",
+    "applications": [
+      "Copper stain removal",
+      "Calcium scale removal",
+      "Alternative to drain-and-acid-wash"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "reduce-waste"
+    ],
+    "features": [
+      "Treats copper stains and scale in place",
+      "Works on all pool surfaces",
+      "Heater bypass required",
+      "Full treatment procedure published by manufacturer"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Stain Solution 2",
+      "Copper & Scale Stuff",
+      "Copper and Scale Stuff"
+    ],
+    "keywords": [
+      "copper stain remover",
+      "scale remover",
+      "no-drain acid wash alternative",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
+    "sourceCategory": "specialty-chemicals",
+    "family": "Stain Removal",
+    "product": "The Magenta Stuff",
+    "manufacturer": "Jack's Magic Products, Inc.",
+    "manufacturerUrl": "https://jacksmagic.com/",
+    "officialProductUrl": "https://jacksmagic.com/product/magenta-stuff/",
+    "proposedCategory": "specialty-chemicals",
+    "proposedSlug": "jacks-magic-magenta-stuff",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://jacksmagic.com/wp-content/uploads/2016/06/Magenta-Stuff-Quart-For-Website.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/jacks-magic-magenta-stuff.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Jack's Magic The Magenta Stuff quart bottle"
+    },
+    "docs": [
+      {
+        "title": "The Magenta Stuff product page",
+        "url": "https://jacksmagic.com/product/magenta-stuff/",
+        "type": "Product page"
+      },
+      {
+        "title": "Magenta Stuff SDS",
+        "url": "https://jacksmagic.com/wp-content/uploads/2022/04/Magenta-Stuff-SDS.pdf",
+        "type": "Safety data sheet"
+      }
+    ],
+    "description": "The Magenta Stuff is Jack's Magic's concentrated start-up and stain-prevention sequestrant; one quart treats 15,000 gallons. It helps remove existing stains and scale, protects all finishes, controls plaster dust, and does not yield phosphates. It suits salt-chlorinated pools and plaster start-ups where a stronger, phosphate-free product is preferred.",
+    "headline": "Concentrated, phosphate-free start-up and stain control",
+    "applications": [
+      "Plaster start-up",
+      "Salt cell scale prevention",
+      "Stain and scale prevention"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "stabilize-water-chemistry",
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "1 quart treats 15,000 gallons",
+      "Does not yield phosphates",
+      "Compatible with all sanitizers including salt generators",
+      "Helps clean and protect salt cells"
+    ],
+    "specs": [
+      {
+        "k": "Dose",
+        "v": "1 qt per 15,000 gal",
+        "src": "jacksmagic.com Magenta Stuff page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Magenta Stuff"
+    ],
+    "keywords": [
+      "startup sequestrant",
+      "phosphate-free sequestrant",
+      "salt cell protection",
+      "Jack's Magic"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Enduro-TurboClean robotic vacuum line",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-turboclean-robotic-vacuums",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [
+      {
+        "title": "Enduro-TurboClean site",
+        "url": "https://enduroturboclean.com/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "Spot 100",
+        "fit": ""
+      },
+      {
+        "name": "Spot 150",
+        "fit": ""
+      },
+      {
+        "name": "Peps 200",
+        "fit": ""
+      },
+      {
+        "name": "Enduro M",
+        "fit": ""
+      },
+      {
+        "name": "Enduro XL",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "Enduro",
+      "Enduro-TurboClean",
+      "Enduro Turbo Clean"
+    ],
+    "keywords": [
+      "commercial robotic pool cleaner"
+    ],
+    "notes": "Excluded: Aquafinity in-house brand. enduroturboclean.com is copyrighted by Commercial Energy Specialists, Inc. (CES), an Aquafinity company, and its brochures are hosted on ceswaterquality.com. Not available to FreyTech as a dealer line. Comparable FreyTech offering: Maytronics Dolphin Wave (maytronics-dolphin-wave).",
+    "uncertainties": "Underlying robots (Spot/Peps) appear to be Hexagone units re-badged by CES; if FreyTech wants this class of product, source from Hexagone or Maytronics directly."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Spot 100",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/spot-100/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-spot-100",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Spot 100"
+    ],
+    "keywords": [],
+    "notes": "Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Spot 150",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/spot-100-2/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-spot-150",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Spot 150"
+    ],
+    "keywords": [],
+    "notes": "Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Peps 200",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/peps/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-peps-200",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Peps 200"
+    ],
+    "keywords": [],
+    "notes": "Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Enduro M",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/enduro-m/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-m",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Enduro M"
+    ],
+    "keywords": [],
+    "notes": "Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/enduro-turbo-clean-pool-vacuums/",
+    "sourceCategory": "vacuums-2",
+    "family": "Enduro-Turbo Clean Vacuums",
+    "product": "Enduro XL",
+    "manufacturer": "Commercial Energy Specialists, Inc. (Aquafinity)",
+    "manufacturerUrl": "https://enduroturboclean.com/",
+    "officialProductUrl": "https://enduroturboclean.com/enduroxl/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "enduro-xl",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Enduro XL"
+    ],
+    "keywords": [],
+    "notes": "Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/hammerhead/",
+    "sourceCategory": "vacuums-2",
+    "family": "Hammerhead Vacuums",
+    "product": "Hammer-Head battery-powered pool vacuums",
+    "manufacturer": "Hammer-Head Pool Vacuums",
+    "manufacturerUrl": "https://www.hammerheadvac.com/",
+    "officialProductUrl": "https://www.hammerheadvac.com/main",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hammerhead-pool-vacuums",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/55a916d0e4b016013f904354/28d4e169-652d-49d8-b51b-da23efea96fd/R21-LEFT.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/hammerhead-resort-pool-vacuums.webp",
+      "width": 1200,
+      "height": 1892,
+      "alt": "Hammer-Head Resort-21 battery pool vacuum on cart"
+    },
+    "docs": [
+      {
+        "title": "Hammer-Head cleaners overview",
+        "url": "https://www.hammerheadvac.com/main",
+        "type": "Product page"
+      },
+      {
+        "title": "Hammer-Head downloads (manuals and parts)",
+        "url": "https://www.hammerheadvac.com/downloads",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Hammer-Head vacuums are manual, battery-powered pool cleaners: a sealed 12-volt motor and propeller on a 21 or 30 inch head pump water through a debris bag while an operator guides it on a standard pole. There is no hose, no connection to the filter and no waiting for a robot. It suits facilities that want a fast daily clean-up between robotic cycles or a reliable tool for leaves, sand and heavy debris.",
+    "headline": "Vacuum a commercial pool in a fraction of the time, on battery",
+    "applications": [
+      "Daily debris pickup",
+      "Post-storm leaf and sand removal",
+      "Spot cleaning between robotic cycles"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Sealed, pressurized 30 lb thrust 12 V motor",
+      "16,000 GPH flow through the debris bag",
+      "21 in or 30 in injection-molded vacuum heads",
+      "Smart Switch with overload sensor, two speeds and out-of-water shutoff",
+      "LED battery meter",
+      "Interchangeable parts and bags across all units"
+    ],
+    "specs": [
+      {
+        "k": "Flow",
+        "v": "16,000 GPH",
+        "src": "hammerheadvac.com"
+      },
+      {
+        "k": "Head weights",
+        "v": "21 in head and motor 11 lb; 30 in head and motor 13 lb",
+        "src": "hammerheadvac.com"
+      },
+      {
+        "k": "Power",
+        "v": "12 V deep-cycle marine battery (not included)",
+        "src": "hammerheadvac.com"
+      }
+    ],
+    "models": [
+      {
+        "name": "Resort-21",
+        "fit": "On-site use; 21 in head, 60 ft cord"
+      },
+      {
+        "name": "Resort-30",
+        "fit": "On-site use; 30 in head, 60 ft cord"
+      },
+      {
+        "name": "Service-21",
+        "fit": "Route work; 21 in head, 40 ft cord, hitch mount"
+      },
+      {
+        "name": "Service-30",
+        "fit": "Route work; 30 in head, 60 ft cord, hitch mount"
+      }
+    ],
+    "aliases": [
+      "Hammerhead",
+      "Hammer-Head",
+      "Hammerhead vac",
+      "HH Resort",
+      "HH Service"
+    ],
+    "keywords": [
+      "battery pool vacuum",
+      "manual pool vacuum",
+      "commercial pool vacuum",
+      "leaf vacuum",
+      "Hammer-Head"
+    ],
+    "notes": "Family entry; Resort and Service configurations are also emitted as published entries with their own images. Battery and pole are not included with any unit.",
+    "uncertainties": "Company legal name not shown on the site; listed as Hammer-Head Pool Vacuums."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/hammerhead/",
+    "sourceCategory": "vacuums-2",
+    "family": "Hammerhead Vacuums",
+    "product": "Resort-21 & Resort-30",
+    "manufacturer": "Hammer-Head Pool Vacuums",
+    "manufacturerUrl": "https://www.hammerheadvac.com/",
+    "officialProductUrl": "https://www.hammerheadvac.com/main",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hammerhead-resort-pool-vacuums",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/55a916d0e4b016013f904354/28d4e169-652d-49d8-b51b-da23efea96fd/R21-LEFT.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/hammerhead-resort-pool-vacuums.webp",
+      "width": 1200,
+      "height": 1892,
+      "alt": "Hammer-Head Resort-21 battery pool vacuum on storage cart"
+    },
+    "docs": [
+      {
+        "title": "Hammer-Head cleaners overview",
+        "url": "https://www.hammerheadvac.com/main",
+        "type": "Product page"
+      },
+      {
+        "title": "Hammer-Head downloads (manuals and parts)",
+        "url": "https://www.hammerheadvac.com/downloads",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Resort units are Hammer-Head's stay-on-site configuration for facility managers: a compact powder-coated aluminum cart that stores in a closet, with a 60 ft floating cord and a 21 or 30 inch head. They ship fully assembled and are not compatible with the vehicle hitch mount. They suit hotels, community pools and waterparks that clean the same pool every day.",
+    "headline": "The on-site configuration for facility staff",
+    "applications": [
+      "Daily on-site cleaning",
+      "Hotel, condominium and fitness-center pools"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Lightweight powder-coated aluminum cart, closet-storable",
+      "60 ft floating power cord",
+      "Non-marking solid airless tires",
+      "Weatherproof marine switch",
+      "Fine and super-fine debris bags included",
+      "Stainless pole swivel"
+    ],
+    "specs": [
+      {
+        "k": "Cord",
+        "v": "60 ft floating",
+        "src": "hammerheadvac.com"
+      },
+      {
+        "k": "Head",
+        "v": "21 in (Resort-21) or 30 in (Resort-30)",
+        "src": "hammerheadvac.com"
+      }
+    ],
+    "models": [
+      {
+        "name": "Resort-21",
+        "fit": "Tighter areas and smaller pools"
+      },
+      {
+        "name": "Resort-30",
+        "fit": "Wide floors and lap pools"
+      }
+    ],
+    "aliases": [
+      "Resort 21",
+      "Resort 30",
+      "R21",
+      "R30"
+    ],
+    "keywords": [
+      "Hammer-Head Resort",
+      "on-site pool vacuum"
+    ],
+    "notes": "",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/hammerhead/",
+    "sourceCategory": "vacuums-2",
+    "family": "Hammerhead Vacuums",
+    "product": "Service-21 & Service-30",
+    "manufacturer": "Hammer-Head Pool Vacuums",
+    "manufacturerUrl": "https://www.hammerheadvac.com/",
+    "officialProductUrl": "https://www.hammerheadvac.com/main",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hammerhead-service-pool-vacuums",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/55a916d0e4b016013f904354/2aba048d-0f32-44cb-8515-d2b28f30320e/S30-THREE-QUARTER-LEFT-FACING.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/hammerhead-service-pool-vacuums.webp",
+      "width": 1200,
+      "height": 1892,
+      "alt": "Hammer-Head Service-30 battery pool vacuum on route cart"
+    },
+    "docs": [
+      {
+        "title": "Hammer-Head cleaners overview",
+        "url": "https://www.hammerheadvac.com/main",
+        "type": "Product page"
+      },
+      {
+        "title": "Hammer-Head downloads (manuals and parts)",
+        "url": "https://www.hammerheadvac.com/downloads",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "Service units are built for pool-to-pool route work: the same motor and heads on a cart with a roto-molded accessory tray, mag wheels with sealed bearings, and a mount assembly (HH1306) that fits any 2 inch hitch receiver. Service-21 ships with a 40 ft cord and Service-30 with 60 ft. They suit service contractors and districts that maintain several pools.",
+    "headline": "The route configuration that rides on a hitch",
+    "applications": [
+      "Multi-site pool maintenance routes",
+      "School districts and park systems with several pools"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Hitch-mount assembly for 2 in receivers (HH1306)",
+      "Heavy-duty roto-molded accessory tray",
+      "Sealed-bearing mag wheels",
+      "40 ft cord (Service-21) or 60 ft (Service-30)",
+      "Fine and super-fine debris bags included"
+    ],
+    "specs": [
+      {
+        "k": "Cord",
+        "v": "40 ft (Service-21), 60 ft (Service-30); 60 ft optional on Service-21",
+        "src": "hammerheadvac.com"
+      },
+      {
+        "k": "Mount",
+        "v": "HH1306 fits 2 in hitch receiver",
+        "src": "hammerheadvac.com"
+      }
+    ],
+    "models": [
+      {
+        "name": "Service-21",
+        "fit": "Route work, tighter areas"
+      },
+      {
+        "name": "Service-30",
+        "fit": "Route work, wide floors"
+      }
+    ],
+    "aliases": [
+      "Service 21",
+      "Service 30",
+      "S21",
+      "S30",
+      "HH1306"
+    ],
+    "keywords": [
+      "Hammer-Head Service",
+      "route pool vacuum",
+      "hitch mount pool vacuum"
+    ],
+    "notes": "Ships partially assembled; battery, charger and pole not included.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/harmsco/",
+    "sourceCategory": "vacuums-2",
+    "family": "Harmsco Vacuum",
+    "product": "Harmsco BetterFilter BKP Portable cartridge filter cart",
+    "manufacturer": "Harmsco Filtration Products",
+    "manufacturerUrl": "https://harmsco.com/",
+    "officialProductUrl": "https://harmsco.com/product/betterfilter-bkp-portable/",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "harmsco-bkp-portable-filter",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://harmsco.com/wp-content/uploads/2025/09/BKP-Portable.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/harmsco-bkp-portable-filter.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Harmsco BetterFilter BKP Portable stainless cartridge filter on wheeled cart"
+    },
+    "docs": [
+      {
+        "title": "BetterFilter BKP Portable product page",
+        "url": "https://harmsco.com/product/betterfilter-bkp-portable/",
+        "type": "Product page"
+      },
+      {
+        "title": "BKP Portable SC (single cartridge) product page",
+        "url": "https://harmsco.com/product/betterfilter-bkp-portable-sc/",
+        "type": "Product page"
+      },
+      {
+        "title": "Harmsco BKP housing brochure",
+        "url": "https://harmsco.com/wp-content/uploads/2025/09/Harmsco-Housing-Brochure-BKP-2pg.pdf",
+        "type": "Brochure"
+      },
+      {
+        "title": "Harmsco BKP cut sheet",
+        "url": "https://harmsco.com/wp-content/uploads/2025/08/Harmsco-Housings-BKP-Page-1-2.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "The BKP Portable is a 304L stainless cartridge filter housing on a wheeled cart that pairs with a pump of your choice to vacuum and polish a pool without sending water to waste. Reusable cartridges handle up to 155 GPM per housing, so it clears cloudy or green water quickly without backwash. It suits service crews and facilities that need filtration where the plumbing is not, and for troubleshooting clarity problems.",
+    "headline": "Vacuum and polish without wasting water",
+    "applications": [
+      "Vacuum-to-filter cleaning",
+      "Green or cloudy pool recovery",
+      "Supplemental filtration during heavy use"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "reduce-waste"
+    ],
+    "features": [
+      "304L stainless steel housing",
+      "Pressure rated to 50 psi",
+      "Up to 155 GPM per housing",
+      "Reusable cartridges; no backwash water",
+      "Compact portable cart design",
+      "Housing sizes BF42BKP through BF144BKP; SC single-cartridge versions BF55, BF105, BF155BKP-SC"
+    ],
+    "specs": [
+      {
+        "k": "Material",
+        "v": "304L stainless steel",
+        "src": "harmsco.com BKP page"
+      },
+      {
+        "k": "Pressure rating",
+        "v": "50 psi",
+        "src": "harmsco.com BKP page"
+      },
+      {
+        "k": "Flow",
+        "v": "Up to 155 GPM per housing",
+        "src": "harmsco.com BKP page"
+      }
+    ],
+    "models": [
+      {
+        "name": "BF42BKP / BF84BKP / BF96BKP / BF126BKP / BF144BKP",
+        "fit": "Multi-cartridge portable housings by square footage"
+      },
+      {
+        "name": "BF55BKP-SC / BF105BKP-SC / BF155BKP-SC",
+        "fit": "Single-cartridge portable housings"
+      }
+    ],
+    "aliases": [
+      "Harmsco vacuum",
+      "Betterfilter Portable",
+      "BKP",
+      "Harmsco portable filter",
+      "Harmsco vac cart"
+    ],
+    "keywords": [
+      "portable pool filter",
+      "cartridge filter cart",
+      "vacuum to filter",
+      "Harmsco",
+      "no backwash"
+    ],
+    "notes": "Aquafinity's image is hosted by a third-party dealer (companybe.com); the manufacturer's own product image is used. Pump and motor are specified by the buyer.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/quick-vac/",
+    "sourceCategory": "vacuums-2",
+    "family": "Quick Vac",
+    "product": "Hexagone Quick Vac battery manual pool vacuum",
+    "manufacturer": "Hexagone Manufacture SAS",
+    "manufacturerUrl": "https://myhexagone.com/",
+    "officialProductUrl": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hexagone-quick-vac",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://myhexagone.com/assets/images/products/quick-vac/quick-vac.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/hexagone-quick-vac.webp",
+      "width": 1200,
+      "height": 1733,
+      "alt": "Hexagone Quick Vac battery-powered manual pool vacuum head"
+    },
+    "docs": [
+      {
+        "title": "Quick Vac product page",
+        "url": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+        "type": "Product page"
+      },
+      {
+        "title": "Quick Vac technical sheet (2019)",
+        "url": "https://myhexagone.com/assets/media/pdf/UK_Quick%20vac%20noir%20fiche%202019.pdf",
+        "type": "Specification sheet"
+      }
+    ],
+    "description": "Quick Vac is a battery-powered manual vacuum head with its own filter bag, so there is no hose to the filter and no vacuum port to find. Four 360-degree wheels let it reach corners, and it picks up large leaves and several pounds of sand without losing suction. It suits any facility that wants a fast, cordless daily clean-up tool operated from a standard pole.",
+    "headline": "Cordless manual vacuuming with its own filter",
+    "applications": [
+      "Daily debris pickup",
+      "Corner and step cleaning",
+      "Fountains and shallow water (Pro Pack)"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [
+      "12 V battery operation, 250 W motor",
+      "Independent 105 micron filter bag",
+      "Four 360-degree rotating wheels",
+      "About 10,500 gal/h suction",
+      "Works in as little as 12 in of water (6 in in fountain mode for the backpack version)"
+    ],
+    "specs": [
+      {
+        "k": "Suction",
+        "v": "40 m3/h (about 176 gpm)",
+        "src": "myhexagone.com Quick Vac page"
+      },
+      {
+        "k": "Power",
+        "v": "12 V, 250 W",
+        "src": "Aquafinity Quick Vac page citing Hexagone"
+      },
+      {
+        "k": "Filter",
+        "v": "105 micron",
+        "src": "Aquafinity Quick Vac page citing Hexagone"
+      }
+    ],
+    "models": [
+      {
+        "name": "Quick Vac Classic",
+        "fit": "15 in head with deck cart and 45 ft cable; pole, battery and charger sold separately"
+      },
+      {
+        "name": "Quick Vac Backpack",
+        "fit": "15 in head worn as a backpack"
+      },
+      {
+        "name": "Quick Vac Pro Pack",
+        "fit": "15 in backpack version with battery and charger; works down to 6 in of water"
+      },
+      {
+        "name": "Quick Vac Pro XL",
+        "fit": "25.6 in stainless head for large pools; 68.9 ft cable; 11.4 in minimum depth"
+      }
+    ],
+    "aliases": [
+      "Quick Vac",
+      "QuickVac",
+      "Quick Vac'",
+      "Hexagone vacuum"
+    ],
+    "keywords": [
+      "battery pool vacuum",
+      "cordless pool vacuum",
+      "manual pool vacuum",
+      "Hexagone",
+      "Quick Vac Pro XL"
+    ],
+    "notes": "Hexagone is a French manufacturer (Hexagone Manufacture SAS). US distribution and pricing need confirmation. Aquafinity's own uploaded images are not used; the image is Hexagone's.",
+    "uncertainties": "Model naming on Aquafinity (Classic, Backpack, Pro Pack, Pro XL) differs from Hexagone's site (Quick Vac, Quick Vac' Filter, Quick Vac' Spa); confirm the current US model list with Hexagone."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/quick-vac/",
+    "sourceCategory": "vacuums-2",
+    "family": "Quick Vac",
+    "product": "Quick Vac Backpack",
+    "manufacturer": "Hexagone Manufacture SAS",
+    "manufacturerUrl": "https://myhexagone.com/",
+    "officialProductUrl": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hexagone-quick-vac-backpack",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Quick Vac Backpack"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within hexagone-quick-vac.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/quick-vac/",
+    "sourceCategory": "vacuums-2",
+    "family": "Quick Vac",
+    "product": "Quick Vac Classic",
+    "manufacturer": "Hexagone Manufacture SAS",
+    "manufacturerUrl": "https://myhexagone.com/",
+    "officialProductUrl": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hexagone-quick-vac-classic",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Quick Vac Classic"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within hexagone-quick-vac.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/quick-vac/",
+    "sourceCategory": "vacuums-2",
+    "family": "Quick Vac",
+    "product": "Quick Vac Pro Pack",
+    "manufacturer": "Hexagone Manufacture SAS",
+    "manufacturerUrl": "https://myhexagone.com/",
+    "officialProductUrl": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hexagone-quick-vac-pro-pack",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Quick Vac Pro Pack"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within hexagone-quick-vac.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/quick-vac/",
+    "sourceCategory": "vacuums-2",
+    "family": "Quick Vac",
+    "product": "Quick Vac Pro XL",
+    "manufacturer": "Hexagone Manufacture SAS",
+    "manufacturerUrl": "https://myhexagone.com/",
+    "officialProductUrl": "https://myhexagone.com/_en/cleaning-in-the-water/quick-vac.php",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "hexagone-quick-vac-pro-xl",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Quick Vac Pro XL"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within hexagone-quick-vac.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/vacuums-2/vacuum-cart/",
+    "sourceCategory": "vacuums-2",
+    "family": "Vacuum Cart",
+    "product": "EKO3 Systems Commercial Pool Vacuum Cart",
+    "manufacturer": "Knorr Systems International (Aquafinity) - EKO3 brand",
+    "manufacturerUrl": "https://knorrsystems.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "eko3-commercial-vacuum-cart",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "Vacuum Cart with 1.5 HP WhisperFlo booster",
+        "fit": ""
+      },
+      {
+        "name": "Vacuum Cart with 2 HP WhisperFlo booster",
+        "fit": ""
+      }
+    ],
+    "aliases": [
+      "EKO3 vacuum cart",
+      "Eko3 Systems vac cart",
+      "Knorr vacuum cart"
+    ],
+    "keywords": [
+      "portable vacuum cart",
+      "Harmsco 155 sq ft cartridge",
+      "WhisperFlo booster pump"
+    ],
+    "notes": "Excluded: Aquafinity in-house brand. eko3.com redirects to knorrsystems.com (Knorr Systems International, an Aquafinity company), which lists EKO3 as its own product line. The cart assembles a Harmsco 155 sq ft cartridge filter and a Pentair WhisperFlo booster pump on a stainless cart. Comparable FreyTech offering: Harmsco BKP Portable (harmsco-bkp-portable-filter), which FreyTech could build up with a pump of the buyer's choice.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "",
+    "sourceCategory": "",
+    "family": "Maytronics Dolphin WAVE",
+    "product": "Maytronics Dolphin WAVE commercial robotic pool cleaners",
+    "manufacturer": "Maytronics",
+    "manufacturerUrl": "https://www.maytronics.com/",
+    "officialProductUrl": "https://www.maytronics.com/en-us/store/commercial-pools/apartment-complexes-and-condos-cleaners/dolphin-wave-100/9999096X-USW.html",
+    "proposedCategory": "vacuums-cleaning",
+    "proposedSlug": "maytronics-dolphin-wave",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "https://brand.maytronics.com/m/2fd1eb34e59a664a/EP_Large-Dolphin-Wave-100.jpg",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/maytronics-dolphin-wave.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Maytronics Dolphin Wave 100 commercial robotic pool cleaner"
+    },
+    "docs": [
+      {
+        "title": "Dolphin Wave 100 product page",
+        "url": "https://www.maytronics.com/en-us/store/commercial-pools/apartment-complexes-and-condos-cleaners/dolphin-wave-100/9999096X-USW.html",
+        "type": "Product page"
+      },
+      {
+        "title": "Dolphin Wave 200 XL product page",
+        "url": "https://www.maytronics.com/en-us/store/commercial-pools/large-hotels-and-resorts-cleaners/dolphin-wave-200-xl/99997200.html",
+        "type": "Product page"
+      }
+    ],
+    "description": "Dolphin WAVE cleaners are Maytronics' commercial robots: the Wave 100 covers small to mid-size pools up to about 25 m and the Wave 200 XL handles institutional pools up to about 33 m, scanning floor, walls and waterline with gyroscopic navigation and a swivel cable that does not tangle. Both run unattended from a caddy and power supply. They suit schools, clubs, hotels and municipal pools that want a daily robotic clean with minimal staff time.",
+    "headline": "Unattended robotic cleaning for pools up to 33 m",
+    "applications": [
+      "Daily robotic floor, wall and waterline cleaning",
+      "Secondary filtration of fine debris",
+      "Large institutional and competition pools (Wave 200 XL)"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "improve-filtration-water-clarity",
+      "modernize-aging-equipment-room"
+    ],
+    "features": [
+      "Gyroscopic navigation for systematic coverage",
+      "Patented swivel cable prevents tangling",
+      "Multi-layer filtration for coarse, fine and ultra-fine debris (Wave 200 XL)",
+      "Caddy and remote/power supply included",
+      "Commercial-duty motors and warranty"
+    ],
+    "specs": [
+      {
+        "k": "Wave 100 pool length",
+        "v": "Up to 25 m",
+        "src": "maytronics.com Wave 100 page"
+      },
+      {
+        "k": "Wave 200 XL pool length",
+        "v": "Up to 33 m",
+        "src": "maytronics.com Wave 200 XL page"
+      }
+    ],
+    "models": [
+      {
+        "name": "Dolphin Wave 100 (9999096X-USW)",
+        "fit": "Small to mid-size commercial pools"
+      },
+      {
+        "name": "Dolphin Wave 200 XL (99997200)",
+        "fit": "Large institutional and competition pools"
+      }
+    ],
+    "aliases": [
+      "Dolphin Wave",
+      "Wave 100",
+      "Wave 200 XL",
+      "Maytronics commercial",
+      "Dolphin commercial robot"
+    ],
+    "keywords": [
+      "commercial robotic pool cleaner",
+      "Maytronics Dolphin",
+      "Wave 100",
+      "Wave 200 XL",
+      "robotic vacuum"
+    ],
+    "notes": "FreyTech legacy brand",
+    "uncertainties": "FreyTech's current site shows a 2014 Dolphin Wave dealer notice; confirm the dealer relationship and which current Wave models FreyTech sells. Maytronics' current US commercial range may include additional models (e.g., Wave 60/90) not listed here."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/chlorking/",
+    "sourceCategory": "water-testing",
+    "family": "ChlorKing",
+    "product": "ChlorKing 5000 Stick Meter handheld toroidal salt tester",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "chlorking-5000-stick-meter",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing 5000 handheld stick salt meter"
+    },
+    "docs": [
+      {
+        "title": "ChlorKing replacement parts and accessories contact",
+        "url": "https://chlorking.com/contact-us/replacement-parts/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The ChlorKing 5000 Stick Meter is a waterproof handheld tester that reads salt concentration in ppm using a toroidal (inductive) probe, so it does not need the frequent calibration of ordinary conductivity meters. Dip, press the button, and read. It suits operators of saline chlorinators who need a quick, repeatable salt check without test strips.",
+    "headline": "Dip-and-read salt testing with no calibration routine",
+    "applications": [
+      "Salt level checks on saline chlorinator pools",
+      "Verifying salt feeder performance"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "Digital ppm salt display",
+      "Toroidal probe that does not require calibration",
+      "Waterproof",
+      "Temperature compensated"
+    ],
+    "specs": [],
+    "models": [
+      {
+        "name": "ChlorKing 5000 HHS (handheld stick)",
+        "fit": "Portable salt checks"
+      }
+    ],
+    "aliases": [
+      "ChlorKing 5000",
+      "5000 HHS",
+      "stick meter",
+      "salt tester",
+      "toroidal salt meter"
+    ],
+    "keywords": [
+      "salt meter",
+      "salinity tester",
+      "toroidal conductivity",
+      "ChlorKing",
+      "saline pool testing"
+    ],
+    "notes": "Not shown on chlorking.com's current product pages; still listed by ChlorKing dealers as 'CHLORKING 5000 HHS'. Aquafinity's brochure and manual are ChlorKing documents but are Aquafinity-hosted, so they are not linked. Only image available is Aquafinity-hosted.",
+    "uncertainties": "Confirm with ChlorKing that the 5000 Stick Meter is current and obtain the official brochure/manual from ChlorKing."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/salinity-control/",
+    "sourceCategory": "water-testing",
+    "family": "Salinity Control",
+    "product": "ChlorKing 5000 Toroidal Salinity Controller and saturated salt feeders",
+    "manufacturer": "ChlorKing, Inc.",
+    "manufacturerUrl": "https://chlorking.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "chlorking-5000-salinity-controller",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "pending-verification",
+    "image": {
+      "sourceUrl": "https://knorrsystems.com/images/stories/Salinity2.png",
+      "status": "permission-required",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "ChlorKing 5000 salinity controller display"
+    },
+    "docs": [
+      {
+        "title": "ChlorKing CHLOR installation and operation manual",
+        "url": "https://chlorking.com/wp-content/uploads/2024/11/1-CHLOR-Installation-and-Operation-Manual.July-2024.pdf",
+        "type": "Installation manual"
+      }
+    ],
+    "description": "The ChlorKing 5000 is an inline toroidal salinity controller that continuously displays salt concentration in ppm and water temperature, protecting saline chlorinator cells from running at low salt. Paired with a ChlorKing saturated salt feeder, it can add salt automatically instead of by hand. It suits facilities running CHLOR or NEXGEN systems that want salt held in range without daily manual testing.",
+    "headline": "Hold salt in range automatically and protect the cell",
+    "applications": [
+      "Continuous salinity monitoring on saline chlorinators",
+      "Automatic salt make-up with saturated feeders"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry",
+      "add-alarms-remote-visibility"
+    ],
+    "features": [
+      "Toroidal (magnetic-field) sensing with no moving parts",
+      "Temperature compensated",
+      "Bright digital ppm display",
+      "Rarely needs cleaning",
+      "Saturated salt feeders in 30, 55, 100 and 150 gallon sizes"
+    ],
+    "specs": [
+      {
+        "k": "Salt feeder sizes",
+        "v": "30, 55, 100, 150 gal",
+        "src": "Aquafinity Salinity Control page citing ChlorKing"
+      }
+    ],
+    "models": [
+      {
+        "name": "ChlorKing 5000 Toroidal Salinity Controller",
+        "fit": "Inline salinity display and control"
+      },
+      {
+        "name": "Saturated Salt Feeder 30 gal",
+        "fit": "Small pools"
+      },
+      {
+        "name": "Saturated Salt Feeder 55 gal",
+        "fit": "Mid-size pools"
+      },
+      {
+        "name": "Saturated Salt Feeder 100 gal",
+        "fit": "Large pools"
+      },
+      {
+        "name": "Saturated Salt Feeder 150 gal",
+        "fit": "Very large or multi-pool systems"
+      }
+    ],
+    "aliases": [
+      "ChlorKing 5000 TDS",
+      "salinity controller",
+      "salt feeder",
+      "brine feeder",
+      "5000 controller"
+    ],
+    "keywords": [
+      "salinity controller",
+      "toroidal conductivity controller",
+      "salt feeder",
+      "ChlorKing 5000",
+      "saline chlorination accessory"
+    ],
+    "notes": "Same ChlorKing 5000 platform as the stick meter; Aquafinity uses the same brochure and manual for both pages. Not on chlorking.com's product navigation; listed by industrial directories as 'ChlorKing Commercial Toroidal Conductivity Controllers'. Aquafinity image is knorrsystems.com-hosted, so none is used.",
+    "uncertainties": "Confirm current model names, feeder sizes and availability with ChlorKing."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/lamotte/",
+    "sourceCategory": "water-testing",
+    "family": "LaMotte Waterlink Spintouch Photometer",
+    "product": "LaMotte WaterLink Spin Touch photometer",
+    "manufacturer": "LaMotte Company",
+    "manufacturerUrl": "https://lamotte.com/",
+    "officialProductUrl": "https://lamotte.com/product/mobile-commercial-waterlink-spin-touch-3582/",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "lamotte-waterlink-spin-touch",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://lamotte.com/wp-content/uploads/2025/08/3582-nsf.png",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/lamotte-waterlink-spin-touch.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "LaMotte Commercial WaterLink Spin Touch photometer with SpinDisk"
+    },
+    "docs": [
+      {
+        "title": "Commercial WaterLink Spin Touch (Mobile, 3582) product page",
+        "url": "https://lamotte.com/product/mobile-commercial-waterlink-spin-touch-3582/",
+        "type": "Product page"
+      },
+      {
+        "title": "WaterLink Spin Touch (Store, 3580) product page",
+        "url": "https://lamotte.com/product/waterlink-spin-touch-3580/",
+        "type": "Product page"
+      },
+      {
+        "title": "Mobile WaterLink Spin Touch (3581) product page",
+        "url": "https://lamotte.com/product/mobile-waterlink-spin-touch-3581/",
+        "type": "Product page"
+      },
+      {
+        "title": "WaterLink Spin Touch manual",
+        "url": "https://lamotte.com/wp-content/uploads/2020/04/3580-MN.pdf",
+        "type": "Owner's manual"
+      },
+      {
+        "title": "WaterLink Spin Touch quick guide",
+        "url": "https://lamotte.com/wp-content/uploads/2026/07/3580-QG-A4-REV2.pdf",
+        "type": "Owner's manual"
+      }
+    ],
+    "description": "The WaterLink Spin Touch is a photometer that runs a full panel of pool and spa tests from a single sealed SpinDisk reagent cartridge: fill the disk with under 3 mL of sample, insert, and results appear in about 60 seconds. The commercial mobile version (3582) is built for operators who test several pools and want logged, exportable results. It suits facilities that must record chemistry several times a day and want to remove reading and mixing errors.",
+    "headline": "A full chemistry panel in 60 seconds from one disk",
+    "applications": [
+      "Health-department test records",
+      "Multi-pool testing routes",
+      "Controller verification without reagent handling"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry",
+      "prepare-specifications-budgets"
+    ],
+    "features": [
+      "Sealed single-use SpinDisk reagent cartridges",
+      "Complete test series in about 60 seconds",
+      "Less than 3 mL sample",
+      "Multiple disk series for fresh water, salt water and commercial parameters",
+      "Data export through WaterLink software"
+    ],
+    "specs": [
+      {
+        "k": "Sample",
+        "v": "Under 3 mL",
+        "src": "lamotte.com Spin Touch page"
+      },
+      {
+        "k": "Test time",
+        "v": "About 60 seconds",
+        "src": "lamotte.com Spin Touch page"
+      }
+    ],
+    "models": [
+      {
+        "name": "WaterLink Spin Touch 3580 (Store version)",
+        "fit": "Counter or lab bench"
+      },
+      {
+        "name": "Mobile WaterLink Spin Touch 3581",
+        "fit": "Portable, battery"
+      },
+      {
+        "name": "Commercial WaterLink Spin Touch 3582 (Mobile)",
+        "fit": "Commercial operators; recommended for facilities"
+      }
+    ],
+    "aliases": [
+      "Spin Touch",
+      "SpinTouch",
+      "WaterLink",
+      "3580",
+      "3581",
+      "3582",
+      "SpinDisk"
+    ],
+    "keywords": [
+      "pool photometer",
+      "digital water tester",
+      "LaMotte",
+      "Spin Touch",
+      "health department testing",
+      "reagent disk"
+    ],
+    "notes": "Aquafinity's claim that the Spin Touch feeds results into a BECS controller is not stated on LaMotte's page and is left out; confirm with BECS before publishing an integration claim.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Palintest (brand heading)",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest",
+    "disposition": "excluded",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [],
+    "keywords": [],
+    "notes": "Excluded: brand heading, not a product. Lumiso Pooltest models are emitted as published entries; legacy Pooltest models as duplicate or discontinued.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Lumiso Pooltest 3",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "https://www.palintest.com/product/lumiso-pooltest-3/",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-lumiso-pooltest-3",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Palintest Lumiso Pooltest 3 photometer kit"
+    },
+    "docs": [
+      {
+        "title": "Lumiso Pooltest 3 product page",
+        "url": "https://www.palintest.com/product/lumiso-pooltest-3/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The Lumiso Pooltest 3 is a handheld photometer for chlorine, pH and cyanuric acid, packed in a case with reagents and a waterproof reagent box. It is sealed for pool-side and humid use. It suits smaller facilities and routine disinfection checks where a full balance calculation is not needed every time.",
+    "headline": "Three-parameter digital testing for routine checks",
+    "applications": [
+      "Routine chlorine and pH checks",
+      "Cyanuric acid monitoring on outdoor pools"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "Chlorine, pH and cyanuric acid",
+      "Sealed, waterproof instrument",
+      "Case with waterproof reagent box and refill packs",
+      "DPD method"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Lumiso 3",
+      "Pooltest 3 Lumiso"
+    ],
+    "keywords": [
+      "pool photometer",
+      "Palintest Lumiso",
+      "DPD photometer"
+    ],
+    "notes": "palintest.com blocks automated fetching, so the product URL follows Palintest's confirmed URL pattern (see Lumiso Pooltest 6) and the image is not downloaded.",
+    "uncertainties": "Confirm URL and current kit contents on palintest.com."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Lumiso Pooltest 4",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "https://www.palintest.com/product/lumiso-pooltest-4/",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-lumiso-pooltest-4",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Palintest Lumiso Pooltest 4 photometer kit"
+    },
+    "docs": [
+      {
+        "title": "Lumiso Pooltest 4 product page",
+        "url": "https://www.palintest.com/product/lumiso-pooltest-4/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The Lumiso Pooltest 4 adds alkalinity and bromine to chlorine and pH, which makes it a fit for spas and indoor pools where bromine or alkalinity drift is the daily concern. It uses the DPD method with USB connectivity for records. It suits hotels, healthcare pools and spa operators.",
+    "headline": "Four parameters tuned for spas and indoor pools",
+    "applications": [
+      "Spa and therapy-pool testing",
+      "Indoor pool alkalinity and bromine checks"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [
+      "Alkalinity, bromine, chlorine and pH",
+      "USB connectivity for data management",
+      "Lightweight kit with reagent storage",
+      "DPD method"
+    ],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Lumiso 4"
+    ],
+    "keywords": [
+      "spa photometer",
+      "bromine tester",
+      "Palintest Lumiso"
+    ],
+    "notes": "See Lumiso Pooltest 3 note on URL and image.",
+    "uncertainties": "Confirm URL on palintest.com."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Lumiso Pooltest 6",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "https://www.palintest.com/product/lumiso-pooltest-6/",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-lumiso-pooltest-6",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Palintest Lumiso Pooltest 6 photometer kit"
+    },
+    "docs": [
+      {
+        "title": "Lumiso Pooltest 6 product page",
+        "url": "https://www.palintest.com/product/lumiso-pooltest-6/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The Lumiso Pooltest 6 covers the six parameters needed for a full water-balance calculation: alkalinity, bromine, calcium hardness, chlorine, cyanuric acid and pH. It is IP67 waterproof and dustproof, stores results, and uploads them by USB or QR code. It suits operators and service technicians who want a compact instrument for daily balance testing and records.",
+    "headline": "Everything needed for a water-balance calculation in one kit",
+    "applications": [
+      "Daily balance testing",
+      "Health-department records",
+      "Service technician kit"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry",
+      "prepare-specifications-budgets"
+    ],
+    "features": [
+      "Six parameters for full LSI balance",
+      "IP67 waterproof and dustproof",
+      "Results upload by USB or QR",
+      "Integrated kit storage and reagent starter pack",
+      "LED and detector optics; DPD method"
+    ],
+    "specs": [
+      {
+        "k": "Ingress rating",
+        "v": "IP67",
+        "src": "palintest.com Lumiso Pooltest 6 page"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Lumiso 6",
+      "LMP006",
+      "LMP106"
+    ],
+    "keywords": [
+      "six parameter photometer",
+      "water balance tester",
+      "Palintest Lumiso 6"
+    ],
+    "notes": "Image not downloaded because palintest.com blocks automated requests; request a product image from Palintest or its US distributor.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Lumiso Pooltest Expert",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "https://www.palintest.com/products/lumiso-pooltest-expert/",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-lumiso-pooltest-expert",
+    "disposition": "published",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": "Palintest Lumiso Pooltest Expert benchtop photometer"
+    },
+    "docs": [
+      {
+        "title": "Lumiso Pooltest Expert product page",
+        "url": "https://www.palintest.com/products/lumiso-pooltest-expert/",
+        "type": "Product page"
+      },
+      {
+        "title": "Lumiso Pooltest Expert launch article",
+        "url": "https://www.palintest.com/lumiso-pooltest-expert-our-recreational-water-testing-flagship-photometer/",
+        "type": "Product page"
+      }
+    ],
+    "description": "The Lumiso Pooltest Expert is Palintest's benchtop multi-parameter photometer with more than 30 routine and troubleshooting tests, a large touchscreen and IP67 construction. It stores results with traceability for audits and is the manufacturer's replacement for the retired Pooltest 9, 10 and 25. It suits large aquatic centers and operators testing several times a day.",
+    "headline": "The benchtop photometer for facilities that test all day",
+    "applications": [
+      "High-frequency testing at large facilities",
+      "Troubleshooting parameters (metals, phosphate, etc.)",
+      "Audit-ready records"
+    ],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry",
+      "prepare-specifications-budgets",
+      "replace-obsolete-controller"
+    ],
+    "features": [
+      "35 routine and troubleshooting tests",
+      "Large touchscreen with on-screen instructions",
+      "IP67 waterproof",
+      "Results storage and data traceability",
+      "Replaces Pooltest 9/10/25"
+    ],
+    "specs": [
+      {
+        "k": "Tests",
+        "v": "35",
+        "src": "Aquafinity Palintest page citing Palintest"
+      },
+      {
+        "k": "Ingress rating",
+        "v": "IP67",
+        "src": "palintest.com"
+      }
+    ],
+    "models": [],
+    "aliases": [
+      "Lumiso Expert",
+      "Pooltest Expert"
+    ],
+    "keywords": [
+      "benchtop pool photometer",
+      "multi-parameter photometer",
+      "Palintest Expert"
+    ],
+    "notes": "Palintest announced the Lumiso Pooltest Expert on 7 April 2022 as the successor to Pooltest 9, 10 and 25 (https://www.palintest.com/pooltest-9-10-and-25-end-of-life-announcement/).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Pooltest 3 (legacy)",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-pooltest-3-legacy",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pooltest 3",
+      "SPH 7003"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of palintest-lumiso-pooltest-3: previous-generation instrument with the same three parameters; Palintest's current photometer range is the Lumiso line.",
+    "uncertainties": "Palintest has not published a formal end-of-life notice for Pooltest 3 that could be located; treat as superseded rather than discontinued until confirmed."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Pooltest 6 (legacy)",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-pooltest-6-legacy",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "partially-verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pooltest 6",
+      "SPH 7006"
+    ],
+    "keywords": [],
+    "notes": "Duplicate of palintest-lumiso-pooltest-6: previous-generation six-parameter instrument superseded by the Lumiso Pooltest 6.",
+    "uncertainties": "No formal end-of-life notice located for Pooltest 6; confirm status with Palintest."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Pooltest 9 Premier",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-pooltest-9-premier",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [
+      {
+        "title": "Pooltest 9, 10 and 25 end-of-life announcement",
+        "url": "https://www.palintest.com/pooltest-9-10-and-25-end-of-life-announcement/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pooltest 9",
+      "Pooltest 9 Bluetooth",
+      "Pooltest 9 Premier"
+    ],
+    "keywords": [
+      "Pooltest 9 replacement"
+    ],
+    "notes": "Discontinued: Palintest's end-of-life announcement retired Pooltest 9, 10 and 25 on 30 June 2022 with support ending 31 December 2024. Replacement is the Lumiso Pooltest Expert (or the newer Lumiso Pooltest 9). Keep listed for replacement matching.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/palintest/",
+    "sourceCategory": "water-testing",
+    "family": "Palintest",
+    "product": "Pooltest 25 Professional Plus",
+    "manufacturer": "Palintest Ltd (a Halma company)",
+    "manufacturerUrl": "https://www.palintest.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "palintest-pooltest-25-professional-plus",
+    "disposition": "discontinued",
+    "availability": "discontinued",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [
+      {
+        "title": "Pooltest 9, 10 and 25 end-of-life announcement",
+        "url": "https://www.palintest.com/pooltest-9-10-and-25-end-of-life-announcement/",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "waterparks-high-load"
+    ],
+    "problems": [],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "Pooltest 25",
+      "Pooltest 25 Bluetooth",
+      "Professional Plus photometer"
+    ],
+    "keywords": [
+      "Pooltest 25 replacement"
+    ],
+    "notes": "Discontinued: retired by Palintest on 30 June 2022 (support ended 31 December 2024). Replacement is the Lumiso Pooltest Expert. Keep listed for replacement matching.",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "Taylor Technologies test kits",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "https://taylortechnologies.com/products/complete%E2%84%A2-kit-for-chlorine-ph-alkalinity-hardness-cya-fas-dpd-high-range-75-oz-bottles-6-pack",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-test-kits",
+    "disposition": "duplicate",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0657/6747/3315/files/K-2006_Test_Kit.png?v=1764348852",
+      "status": "manufacturer-public-asset",
+      "localFile": "public/images/products/taylor-test-kits.webp",
+      "width": 1200,
+      "height": 1200,
+      "alt": "Taylor Technologies K-2006 Complete FAS-DPD test kit, open case"
+    },
+    "docs": [
+      {
+        "title": "Complete Test Kit (FAS-DPD) K-2006 product page",
+        "url": "https://taylortechnologies.com/products/complete%E2%84%A2-kit-for-chlorine-ph-alkalinity-hardness-cya-fas-dpd-high-range-75-oz-bottles-6-pack",
+        "type": "Product page"
+      },
+      {
+        "title": "Complete Test Kit (DPD) K-2005 product page",
+        "url": "https://taylortechnologies.com/products/complete%E2%84%A2-kit-for-chlorine-bromine-ph-alkalinity-hardness-cya-dpd-high-range-75-oz-bottles",
+        "type": "Product page"
+      },
+      {
+        "title": "Pool Inspector Kit K-2007 product page",
+        "url": "https://taylortechnologies.com/products/pool-inspector%E2%84%A2-kit-for-chlorine-bromine-ph-cya-dpd-high-range-75-oz-bottles-6-pack",
+        "type": "Product page"
+      },
+      {
+        "title": "Pool Inspector Kit K-2009 (FAS-DPD) product page",
+        "url": "https://taylortechnologies.com/products/pool-inspector%E2%84%A2-kit-for-chlorine-ph-cya-fas-dpd-high-range-75-oz-bottles-6-pack",
+        "type": "Product page"
+      }
+    ],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [
+      {
+        "name": "K-2005 Complete (DPD)",
+        "fit": "Nine-test kit with printed color standards; chlorine/bromine, pH, acid and base demand, alkalinity, hardness, CYA"
+      },
+      {
+        "name": "K-2006 Complete (FAS-DPD)",
+        "fit": "Same panel with FAS-DPD drop-count chlorine for precise readings"
+      },
+      {
+        "name": "K-2007 / K-2007C Pool Inspector (DPD)",
+        "fit": "Health-inspection kit: chlorine/bromine, pH, CYA"
+      },
+      {
+        "name": "K-2009 Pool Inspector (FAS-DPD)",
+        "fit": "Inspection kit with FAS-DPD sanitizer test"
+      },
+      {
+        "name": "K-1741C Slide Comparator",
+        "fit": "Slide comparator kit: chlorine, pH, acid/base demand, alkalinity, CYA, copper, iron"
+      },
+      {
+        "name": "K-1741STR Slide Comparator",
+        "fit": "Slide comparator kit: chlorine, pH, alkalinity, calcium hardness"
+      }
+    ],
+    "aliases": [
+      "Taylor",
+      "Taylor kit",
+      "K-2005",
+      "K-2006",
+      "K-2007",
+      "K-2009",
+      "K-1741C",
+      "K-1741STR",
+      "2000 Series",
+      "Pool Inspector",
+      "Slide Comparator",
+      "Watergram"
+    ],
+    "keywords": [
+      "DPD test kit",
+      "FAS-DPD",
+      "Taylor Complete kit",
+      "pool inspector kit",
+      "reagents",
+      "slide comparator"
+    ],
+    "notes": "Duplicate: same product line as FreyTech's existing slug taylor-test-kits. Existing entry should absorb the model list above and the downloaded K-2006 image (public/images/products/taylor-test-kits.webp, from taylortechnologies.com's Shopify product media). Taylor Technologies is a Fluidra brand.",
+    "uncertainties": "The K-1741C and K-1741STR slide comparator kits were not found in Taylor's current products.json beyond a case-insert part referencing K-1741STR; confirm they are still sold."
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "2005 Series",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-k-2005-complete-dpd",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "2005 Series"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within taylor-test-kits (duplicate of FreyTech's existing slug).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "2006 Series",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-k-2006-complete-fas-dpd",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "2006 Series"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within taylor-test-kits (duplicate of FreyTech's existing slug).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "2007 Series (Pool Inspector K-2007 / K-2007C / K-2009)",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-pool-inspector-kits",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "2007 Series (Pool Inspector K-2007 / K-2007C / K-2009)"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within taylor-test-kits (duplicate of FreyTech's existing slug).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "K-1741C",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-k-1741c-slide-comparator",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "K-1741C"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within taylor-test-kits (duplicate of FreyTech's existing slug).",
+    "uncertainties": ""
+  },
+  {
+    "sourceUrl": "https://aquafinity.com/catalog/water-testing/taylor-technologies/",
+    "sourceCategory": "water-testing",
+    "family": "Taylor Technologies",
+    "product": "K-1741STR",
+    "manufacturer": "Taylor Technologies (Fluidra)",
+    "manufacturerUrl": "https://taylortechnologies.com/",
+    "officialProductUrl": "",
+    "proposedCategory": "water-testing-monitoring",
+    "proposedSlug": "taylor-k-1741str-slide-comparator",
+    "disposition": "family",
+    "availability": "request",
+    "verification": "verified",
+    "image": {
+      "sourceUrl": "",
+      "status": "unknown",
+      "localFile": "",
+      "width": 0,
+      "height": 0,
+      "alt": ""
+    },
+    "docs": [],
+    "description": "",
+    "headline": "",
+    "applications": [],
+    "facilities": [
+      "municipal-aquatic-centers",
+      "k12-schools",
+      "colleges-universities",
+      "ymca-community",
+      "hotels-resorts-hospitality",
+      "healthcare-rehabilitation",
+      "camps-seasonal",
+      "waterparks-high-load"
+    ],
+    "problems": [
+      "reduce-manual-testing",
+      "stabilize-water-chemistry"
+    ],
+    "features": [],
+    "specs": [],
+    "models": [],
+    "aliases": [
+      "K-1741STR"
+    ],
+    "keywords": [],
+    "notes": "Represented as a model within taylor-test-kits (duplicate of FreyTech's existing slug).",
+    "uncertainties": ""
+  }
+]

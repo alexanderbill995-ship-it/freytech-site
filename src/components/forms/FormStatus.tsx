@@ -20,7 +20,16 @@ export function FormStatus({ result, formLabel }: { result: SubmitResult | null;
       </div>
     );
   }
-  // unconfigured: honest development fallback
+  // unconfigured: honest fallback. In the public review preview, delivery is intentionally not connected.
+  if (site.isPreview) {
+    return (
+      <div className={[styles.status, styles.status_info].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">
+        <h3>Form delivery is not connected in this preview</h3>
+        <p>Thank you for testing the form. <strong>Nothing was sent or stored.</strong> Delivery to FreyTech (CRM and/or email) will be connected during implementation; the form, validation, and the information it collects are final.</p>
+        <p>To reach FreyTech now, call{site.phone ? ` ${site.phone}` : " us"}{site.email ? ` or email ${site.email}` : ""}.</p>
+      </div>
+    );
+  }
   const mailBody = encodeURIComponent(Object.entries(result.payload).filter(([, v]) => v).map(([k, v]) => `${k}: ${v}`).join("\n"));
   return (
     <div className={[styles.status, styles.status_info].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">

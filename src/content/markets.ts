@@ -15,7 +15,9 @@ export type Market = {
   references?: string[];
 };
 
-export const markets: Market[] = [
+import { marketsExtra } from "./marketsExtra";
+
+const baseMarkets: Market[] = [
   {
     slug: "schools-and-universities",
     name: "Schools, Colleges & Universities",
@@ -225,6 +227,8 @@ export const markets: Market[] = [
     ],
   },
 ];
+
+export const markets: Market[] = [...baseMarkets, ...marketsExtra];
 
 export function getMarket(slug: string) {
   return markets.find((m) => m.slug === slug);

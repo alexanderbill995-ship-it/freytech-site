@@ -10,6 +10,7 @@ import { CTABand } from "@/components/ui/CTABand";
 import { TrackedLink } from "@/components/ui/TrackedLink";
 import { ProductEngagement } from "@/components/ui/ProductEngagement";
 import { ProcessSteps } from "@/components/diagrams/ProcessSteps";
+import { RelatedProducts } from "@/components/catalog/RelatedProducts";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata, serviceLd, faqLd } from "@/lib/seo";
 import { pulsar, sources } from "@/content/products";
@@ -213,6 +214,11 @@ export default function Page() {
           <Button href="/contact/?product=Pulsar%20Precision" variant="onDark" size="lg">Request a Facility Assessment</Button>
           <Button href="/becsys5-controls/" variant="onDarkGhost" size="lg">Pair with BECSys5 controls</Button>
         </div>
+      </Section>
+
+      <Section tone="alt">
+        <RelatedProducts manufacturer="pulsar" exclude={["pulsar-precision", "pulsar-precision-30"]} title="Related Pulsar products" moreHref="/manufacturers/pulsar/" moreLabel="All Pulsar equipment in the catalog" />
+        <div style={{ marginTop: "var(--sp-10)" }}><RelatedProducts category="chemical-delivery-chlorination" exclude={["pulsar-precision", "pulsar-precision-30"]} title="Other chemical-delivery approaches" moreHref="/products/chemical-delivery-chlorination/" moreLabel="Chemical Delivery and Chlorination category" /></div>
       </Section>
 
       <Section id="faq">

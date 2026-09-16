@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check:links": "node scripts/linkcheck.cjs",
+    "matrix": "npx tsx scripts/content-matrix.ts",
+    "catalog": "node scripts/generate-catalog.cjs && node scripts/attach-images.cjs",
+    "preview": "npx --yes serve out -l tcp://0.0.0.0:4173 --no-clipboard"
   },
   "dependencies": {
     "next": "16.3.5",

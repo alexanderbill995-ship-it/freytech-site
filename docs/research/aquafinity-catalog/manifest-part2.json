@@ -1,0 +1,4711 @@
+[
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave racing lanes",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition pools",
+   "Training pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "wave eater",
+   "lane rope",
+   "racing lane"
+  ],
+  "keywords": [
+   "lane lines",
+   "competition",
+   "wave reduction"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
+  "family": "AntiWave Lane Lines",
+  "product": "AntiWave Forerunner racing lanes",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-forerunner-racing-lanes",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-forerunner-racing-lanes.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Forerunner competition racing lane line"
+  },
+  "headline": "Competition racing lanes that damp wave energy across the course",
+  "description": "Forerunner is Anti Wave's wave-quelling competition racing lane, built from interlocking discs that break surface turbulence between lanes. It is specified for training and competition pools that want calmer water and clearly defined lanes. FreyTech can help match lane length, color scheme, and tensioning hardware to the pool."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave racing lanes",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition venues"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane rope"
+  ],
+  "keywords": [
+   "competition lane lines"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
+  "family": "AntiWave Lane Lines",
+  "product": "AntiWave Maximum racing lanes",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-maximum-racing-lanes",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-maximum-racing-lanes.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Maximum racing lane line"
+  },
+  "headline": "Large-disc racing lanes for high-level competition venues",
+  "description": "Maximum is Anti Wave's largest-disc racing lane, intended for major competition venues where wave suppression matters most. It shares the Forerunner's modular disc construction with a larger profile. FreyTech coordinates quantities, colors, and reel storage with the aquatics program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition and training pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane tensioner",
+   "takeup"
+  ],
+  "keywords": [
+   "lane line hardware"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
+  "family": "AntiWave Lane Lines",
+  "product": "AntiWave SuperTensioner",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-supertensioner",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-supertensioner.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave SuperTensioner lane line tensioning device"
+  },
+  "headline": "Keeps racing lanes taut without a wrench",
+  "description": "The SuperTensioner is Anti Wave's lane-line tensioning device, used to pull racing lanes tight and hold them at competition tension. It replaces improvised takeup hardware at pools that set and strike lanes frequently. FreyTech supplies it with new lane lines or as a replacement part."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave storage reel specifications",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane reel",
+   "storage reel"
+  ],
+  "keywords": [
+   "lane line storage"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
+  "family": "Lane Line Storage Reels",
+  "product": "AntiWave Ultimate Storage Reel",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-ultimate-storage-reel",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-ultimate-storage-reel.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Ultimate lane line storage reel"
+  },
+  "headline": "Rolling storage for a full set of racing lanes",
+  "description": "Anti Wave's Ultimate Storage Reel stores and moves a pool's racing lanes on a rolling frame so they are not dragged across the deck. It is sized for a competition pool's full lane set. FreyTech matches reel capacity to lane count and length."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave water polo goals",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs",
+   "Competition and club pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "AntiWave Anti Pro Goal 1080",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-anti-pro-goal-1080",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-anti-pro-goal-1080.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Anti Pro Goal 1080 water polo goal"
+  },
+  "headline": "Water polo goals for competition and club play",
+  "description": "AntiWave Anti Pro Goal 1080 is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave water polo goals",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs",
+   "Competition and club pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "AntiWave JNR Global Anti Goal",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-jnr-global-anti-goal",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-jnr-global-anti-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave JNR Global junior water polo goal"
+  },
+  "headline": "Water polo goals for competition and club play",
+  "description": "AntiWave JNR Global Anti Goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave water polo goals",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs",
+   "Competition and club pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "AntiWave FlipFloat folding goal",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-flipfloat-folding-goal",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-flipfloat-folding-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave FlipFloat folding water polo goal"
+  },
+  "headline": "Water polo goals for competition and club play",
+  "description": "AntiWave FlipFloat folding goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave water polo goals",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs",
+   "Competition and club pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "AntiWave Universal wall goal",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-universal-wall-goal",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-universal-wall-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Universal wall-mounted water polo goal"
+  },
+  "headline": "Water polo goals for competition and club play",
+  "description": "AntiWave Universal wall goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Anti Wave water polo goals",
+    "url": "https://www.antiwave.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs",
+   "Competition and club pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "AntiWave Odyssey Anti Pro goal",
+  "manufacturer": "Anti Wave Global",
+  "manufacturerUrl": "https://www.antiwave.com/",
+  "officialProductUrl": "https://www.antiwave.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "antiwave-odyssey-anti-pro-goal",
+  "image": {
+   "sourceUrl": "https://www.antiwave.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/antiwave-odyssey-anti-pro-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AntiWave Odyssey Anti Pro water polo goal"
+  },
+  "headline": "Water polo goals for competition and club play",
+  "description": "AntiWave Odyssey Anti Pro goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "50-meter and long-course pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "municipal-aquatic-centers",
+   "architects-engineers-public"
+  ],
+  "problems": [
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Movable bulkhead",
+    "fit": "Repositionable course divider"
+   },
+   {
+    "name": "Vertical bulkhead",
+    "fit": "Vertically adjusting divider"
+   },
+   {
+    "name": "Stationary bulkhead",
+    "fit": "Fixed division of the pool"
+   }
+  ],
+  "aliases": [
+   "movable wall",
+   "pool divider"
+  ],
+  "keywords": [
+   "bulkhead",
+   "competition pool"
+  ],
+  "notes": "Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
+  "family": "Bulkheads",
+  "product": "ADG stainless steel bulkheads (movable, vertical, stationary)",
+  "manufacturer": "Aquatic Development Group (ADG)",
+  "manufacturerUrl": "https://www.aquaticgroup.com/",
+  "officialProductUrl": "https://www.aquaticgroup.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "adg-stainless-steel-bulkheads",
+  "image": {
+   "sourceUrl": "https://www.aquaticgroup.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/adg-bulkheads.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "ADG stainless steel movable bulkhead in a competition pool"
+  },
+  "headline": "Stainless steel bulkheads that divide a competition pool",
+  "description": "ADG builds stainless steel bulkheads in movable, vertical, and stationary configurations to divide a long-course pool into shorter courses or separate program areas. They are engineered to the pool's width, gutter, and structure. FreyTech coordinates specification with the design team and can compare them with composite bulkheads from S.R.Smith (Stark)."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug adg-stainless-steel-bulkheads.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
+  "family": "Bulkheads",
+  "product": "ADG Movable Bulkheads",
+  "manufacturer": "Aquatic Development Group (ADG)",
+  "manufacturerUrl": "https://www.aquaticgroup.com/",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "adg-movable-bulkheads",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug adg-stainless-steel-bulkheads.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
+  "family": "Bulkheads",
+  "product": "ADG Vertical Bulkheads",
+  "manufacturer": "Aquatic Development Group (ADG)",
+  "manufacturerUrl": "https://www.aquaticgroup.com/",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "adg-vertical-bulkheads",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug adg-stainless-steel-bulkheads.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
+  "family": "Bulkheads",
+  "product": "ADG Stationary Bulkheads",
+  "manufacturer": "Aquatic Development Group (ADG)",
+  "manufacturerUrl": "https://www.aquaticgroup.com/",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "adg-stationary-bulkheads",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Competitor Swim",
+    "url": "https://www.competitorswim.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition and training pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "4-inch lane line",
+    "fit": "Standard training and competition"
+   },
+   {
+    "name": "6-inch lane line",
+    "fit": "Larger disc for higher-level competition"
+   }
+  ],
+  "aliases": [
+   "lane rope",
+   "wave eater"
+  ],
+  "keywords": [
+   "lane lines",
+   "replacement segments"
+  ],
+  "notes": "",
+  "uncertainties": "No manufacturer image saved (Fluidra media terms unclear).",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
+  "family": "Competitor",
+  "product": "Competitor racing lane lines (4-inch and 6-inch)",
+  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturerUrl": "https://www.competitorswim.com/",
+  "officialProductUrl": "https://www.competitorswim.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "competitor-racing-lane-lines",
+  "image": {
+   "sourceUrl": "https://www.competitorswim.com/",
+   "status": "permission-required",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Widely specified racing lanes in 4-inch and 6-inch disc sizes",
+  "description": "Competitor racing lane lines use molded discs on a stainless cable and are offered in 4-inch and 6-inch disc sizes with a range of color choices. They are among the most common lanes in U.S. school and college pools, so replacement segments and hardware are familiar to operators. FreyTech supplies full lanes, replacement segments, take-up reels, and springs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition and training pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "takeup reel",
+   "lane spring"
+  ],
+  "keywords": [
+   "lane hardware"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
+  "family": "Competitor",
+  "product": "Competitor take-up reels and lane springs",
+  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturerUrl": "https://www.competitorswim.com/",
+  "officialProductUrl": "https://www.competitorswim.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "competitor-takeup-reels-and-springs",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Tensioning hardware for Competitor lanes",
+  "description": "Take-up reels and tension springs keep Competitor lane lines taut and let staff release them quickly. They are standard replacement hardware at pools running Competitor lanes. FreyTech supplies matching hardware for new and existing lanes."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane reel"
+  ],
+  "keywords": [
+   "lane line storage"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
+  "family": "Lane Line Storage Reels",
+  "product": "Competitor Classic Stor lane reel",
+  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturerUrl": "https://www.competitorswim.com/",
+  "officialProductUrl": "https://www.competitorswim.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "competitor-classic-stor-lane-reel",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Deck storage reel for competition lanes",
+  "description": "The Classic Stor reel stores lane lines on a rolling deck frame between sessions. It suits pools that strike lanes daily. FreyTech confirms capacity for the pool's lane set."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane reel"
+  ],
+  "keywords": [
+   "lane line storage"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
+  "family": "Lane Line Storage Reels",
+  "product": "Competitor Elite Stor lane reel",
+  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturerUrl": "https://www.competitorswim.com/",
+  "officialProductUrl": "https://www.competitorswim.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "competitor-elite-stor-lane-reel",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Higher-capacity lane storage reel",
+  "description": "The Elite Stor reel is Competitor's larger storage reel for pools with many lanes or long-course lengths. FreyTech matches reel capacity to the facility."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex 14-foot springboard",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-14ft-springboard",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-14ft-springboard.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex 14-foot aluminum diving springboard"
+  },
+  "headline": "Competition springboard",
+  "description": "Duraflex 14-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex 16-foot springboard",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-16ft-springboard",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-16ft-springboard.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex 16-foot aluminum diving springboard"
+  },
+  "headline": "Competition springboard, standard for sanctioned events",
+  "description": "Duraflex 16-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex Maxiflex Model B springboard",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-maxiflex-model-b-springboard",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-maxiflex-model-b-springboard.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex Maxiflex Model B competition springboard"
+  },
+  "headline": "Top competition board",
+  "description": "Duraflex Maxiflex Model B springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex one-meter diving stand",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-one-meter-stand",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-one-meter-stand.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex one-meter diving stand"
+  },
+  "headline": "1-meter platform for springboard",
+  "description": "Duraflex one-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex three-meter diving stand",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-three-meter-stand",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-three-meter-stand.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex three-meter diving stand with ladder"
+  },
+  "headline": "3-meter platform for springboard",
+  "description": "Duraflex three-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Duraflex International",
+    "url": "https://duraflexinternational.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition diving wells",
+   "University and club programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "diving board",
+   "springboard",
+   "dive stand"
+  ],
+  "keywords": [
+   "diving",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
+  "family": "Duraflex diving",
+  "product": "Duraflex Short Stand",
+  "manufacturer": "Duraflex International",
+  "manufacturerUrl": "https://duraflexinternational.com/",
+  "officialProductUrl": "https://duraflexinternational.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "duraflex-short-stand",
+  "image": {
+   "sourceUrl": "https://duraflexinternational.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/duraflex-short-stand.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Duraflex Short Stand deck-level diving stand"
+  },
+  "headline": "Deck-level stand for training and recreation",
+  "description": "Duraflex Short Stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Gutter and deck drain covers"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "gutter grate",
+   "grating"
+  ],
+  "keywords": [
+   "deck grating",
+   "gutter grating",
+   "slip resistant"
+  ],
+  "notes": "",
+  "uncertainties": "Only Knorr/Aquafinity-hosted images and PDFs found; request Xylem literature.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/deck-grating/",
+  "family": "Lawson SuperGrip",
+  "product": "Lawson Aquatics SuperGrip deck grating",
+  "manufacturer": "Lawson Aquatics (Neptune Benson, a Xylem brand)",
+  "manufacturerUrl": "https://www.xylem.com/en-us/brand/neptune-benson/",
+  "officialProductUrl": "https://www.xylem.com/en-us/brand/neptune-benson/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "lawson-supergrip-deck-grating",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Slip-resistant gutter and deck grating in perpendicular, square, and parallel patterns",
+  "description": "Lawson Aquatics SuperGrip grating covers perimeter gutters and deck drains with a slip-resistant surface, available in perpendicular, square, and parallel patterns and a finger-grip profile. Lawson Aquatics is now part of Neptune Benson under Xylem. FreyTech confirms pattern, width, and quantities for replacement or renovation."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "pending-verification",
+  "docs": [],
+  "applications": [
+   "Indoor pools",
+   "Heated outdoor pools"
+  ],
+  "facilities": [
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "reduce-waste"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "pool blanket",
+   "thermal cover",
+   "solar blanket"
+  ],
+  "keywords": [
+   "energy savings",
+   "evaporation"
+  ],
+  "notes": "Manufacturer of the T-STAR brochure not identified from public sources.",
+  "uncertainties": "Confirm manufacturer before quoting.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/energy-saver-pool-covers/",
+  "family": "Energy Saver Pool Covers",
+  "product": "T-STAR energy-saver thermal pool covers",
+  "manufacturer": "Manufacturer not yet identified",
+  "manufacturerUrl": "",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "t-star-thermal-pool-covers",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Thermal blankets that cut heat and evaporation loss overnight",
+  "description": "Thermal pool covers reduce evaporation, heat loss, and humidity load when the pool is closed, which is one of the fastest-payback energy measures for an indoor pool. The T-STAR product shown in the competitive catalog is being traced to its manufacturer. FreyTech can help size a cover and reel system for your pool."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "pending-verification",
+  "docs": [],
+  "applications": [
+   "Commercial pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "reduce-waste"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "pool cover"
+  ],
+  "keywords": [
+   "cover"
+  ],
+  "notes": "Manufacturer not identified.",
+  "uncertainties": "Confirm manufacturer.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/titan-pool-covers/",
+  "family": "TITAN Series",
+  "product": "TITAN Series pool covers",
+  "manufacturer": "Manufacturer not yet identified",
+  "manufacturerUrl": "",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "titan-series-pool-covers",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Heavy-duty pool covers for commercial pools",
+  "description": "The TITAN Series is a commercial pool cover line shown in the competitive catalog without a named manufacturer. FreyTech will identify the source and compare it with other thermal and safety cover options before recommending one."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Seasonal outdoor pools",
+   "Camp pools",
+   "Hotel pools"
+  ],
+  "facilities": [
+   "camps-seasonal",
+   "municipal-aquatic-centers",
+   "hotels-resorts-hospitality",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Mesh cover",
+    "fit": "Drains rain; lighter"
+   },
+   {
+    "name": "Solid cover",
+    "fit": "Blocks light and debris; pump required"
+   },
+   {
+    "name": "Anchors",
+    "fit": "Screw, pop-up, or deck type"
+   }
+  ],
+  "aliases": [
+   "safety cover",
+   "winter cover"
+  ],
+  "keywords": [
+   "pool cover",
+   "winterization"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/meyco-safety-cover/",
+  "family": "Meyco Safety Pool Covers",
+  "product": "Meyco safety pool covers (mesh and solid)",
+  "manufacturer": "Meyco Products",
+  "manufacturerUrl": "https://www.meycoproducts.com/",
+  "officialProductUrl": "https://www.meycoproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "meyco-safety-pool-covers",
+  "image": {
+   "sourceUrl": "https://www.meycoproducts.com/",
+   "status": "permission-required",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "Anchored safety covers for seasonal and outdoor pools",
+  "description": "Meyco safety covers are custom-made mesh or solid covers anchored to the deck with screw, pop-up, or deck-type anchors, designed to hold weight and keep debris and people out of a closed pool. They are common on seasonal and camp pools. FreyTech coordinates measurement, anchor type, and lead time."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "excluded",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Excluded: editorial FAQ content, not a product.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/meyco-cover-faqs/",
+  "family": "Meyco Cover FAQs",
+  "product": "Meyco Cover FAQs (editorial)",
+  "manufacturer": "Meyco Products",
+  "manufacturerUrl": "https://www.meycoproducts.com/",
+  "officialProductUrl": "",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "meyco-cover-faqs",
+  "image": {
+   "sourceUrl": "",
+   "status": "unknown",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Pentair Paragon deck equipment catalog",
+    "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/commercial/deck-equipment/paragon/paragon-deck-catalog-english.pdf",
+    "type": "Brochure"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Griff's Guard Station",
+    "fit": "Standard elevated station"
+   },
+   {
+    "name": "Griff's Vision",
+    "fit": "Enhanced sightline variant"
+   }
+  ],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Paragon Griff's Guard Station and Griff's Vision",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-griffs-guard-station",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-griffs-guard-station.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon Griff's Guard Station lifeguard chair"
+  },
+  "headline": "Elevated lifeguard stations with a clear line of sight",
+  "description": "Griff's Guard Station and the Griff's Vision variant are Paragon's elevated lifeguard chairs, built for sightlines over a crowded pool and anchored to the deck. Pentair publishes the Paragon deck-equipment catalog with dimensions and anchor details. FreyTech supplies and coordinates installation."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug paragon-griffs-guard-station.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Paragon Griff's Vision Guard Station",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-griffs-vision-guard-station",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-griffs-vision-guard-station.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon Griff's Vision guard station"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Pentair Paragon deck equipment catalog",
+    "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/commercial/deck-equipment/paragon/paragon-deck-catalog-english.pdf",
+    "type": "Brochure"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "guard chair"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Paragon Paraflyte lifeguard chairs",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-paraflyte-lifeguard-chairs",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "permission-required",
+   "localFile": "",
+   "width": 0,
+   "height": 0,
+   "alt": ""
+  },
+  "headline": "The Paraflyte family of lifeguard chairs and platforms",
+  "description": "Paraflyte is Paragon's long-running family of lifeguard chairs, platforms, and related deck equipment. Pentair publishes the family catalog with models and anchor requirements. FreyTech confirms the right model and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Multi-use and outdoor pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "movable guard chair"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Paragon Rover movable lifeguard chairs",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-rover-movable-lifeguard-chairs",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-rover-movable-lifeguard-chairs.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon Rover movable lifeguard chair"
+  },
+  "headline": "Lifeguard chairs that roll to where the guard is needed",
+  "description": "Rover movable chairs let a facility reposition lifeguard stations as programs change, without deck anchors. They suit multi-use pools and outdoor facilities. FreyTech supplies them alongside fixed stations."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Spectrum Torrey II lifeguard platform",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-torrey-ii-lifeguard-platform",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-torrey-ii-lifeguard-platform.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Torrey II lifeguard platform"
+  },
+  "headline": "Stainless lifeguard chairs and platforms from Spectrum Aquatics",
+  "description": "Spectrum Torrey II lifeguard platform is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring. Spectrum Aquatics (a PlayCore company) publishes specifications for each model. FreyTech confirms model, height, and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Spectrum Discovery lifeguard chair",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-discovery-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-discovery-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Discovery lifeguard chair"
+  },
+  "headline": "Stainless lifeguard chairs and platforms from Spectrum Aquatics",
+  "description": "Spectrum Discovery lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring. Spectrum Aquatics (a PlayCore company) publishes specifications for each model. FreyTech confirms model, height, and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Spectrum Mendota lifeguard chair",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-mendota-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-mendota-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Mendota lifeguard chair"
+  },
+  "headline": "Stainless lifeguard chairs and platforms from Spectrum Aquatics",
+  "description": "Spectrum Mendota lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring. Spectrum Aquatics (a PlayCore company) publishes specifications for each model. FreyTech confirms model, height, and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Spectrum Marshall lifeguard chair",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-marshall-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-marshall-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Marshall lifeguard chair"
+  },
+  "headline": "Stainless lifeguard chairs and platforms from Spectrum Aquatics",
+  "description": "Spectrum Marshall lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring. Spectrum Aquatics (a PlayCore company) publishes specifications for each model. FreyTech confirms model, height, and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools with lifeguards"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "guard stand"
+  ],
+  "keywords": [
+   "lifeguard"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Spectrum Sapphire lifeguard chair",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-sapphire-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-sapphire-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Sapphire lifeguard chair"
+  },
+  "headline": "Stainless lifeguard chairs and platforms from Spectrum Aquatics",
+  "description": "Spectrum Sapphire lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring. Spectrum Aquatics (a PlayCore company) publishes specifications for each model. FreyTech confirms model, height, and anchor for the deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG500 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg500-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg500-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG500 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG500 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG505 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg505-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg505-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG505 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG505 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG510 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg510-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg510-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG510 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG510 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG515 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg515-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg515-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG515 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG515 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG520 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg520-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg520-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG520 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG520 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Outdoor and indoor public pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "camps-seasonal",
+   "ymca-community",
+   "hotels-resorts-hospitality"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lifeguard chair",
+   "recycled plastic chair"
+  ],
+  "keywords": [
+   "lifeguard",
+   "hdpe"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm current Tailwind model numbers and size chart.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
+  "family": "Guard Chairs",
+  "product": "Tailwind LG525 lifeguard chair",
+  "manufacturer": "Tailwind Furniture",
+  "manufacturerUrl": "https://www.tailwindfurniture.com/",
+  "officialProductUrl": "https://www.tailwindfurniture.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "tailwind-lg525-lifeguard-chair",
+  "image": {
+   "sourceUrl": "https://www.tailwindfurniture.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/tailwind-lg525-lifeguard-chair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Tailwind LG525 recycled-plastic lifeguard chair"
+  },
+  "headline": "Recycled-plastic lifeguard chairs that do not rust",
+  "description": "The Tailwind LG525 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek Admiral Pool Lift",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-admiral-pool-lift",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek Portable Pro Pool 2",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-portable-pro-pool-2",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek Ranger 2 Pool Lift",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-ranger-2-pool-lift",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek The Mighty 600",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-mighty-600",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek The Mighty 400",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-mighty-400",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek The Mighty Voyager",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-mighty-voyager",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek Revolution XL",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-revolution-xl",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug aqua-creek-pool-lifts (capacities listed there).",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Aqua Creek Scout Excel Pool Lift",
+  "manufacturer": "Aqua Creek Products",
+  "manufacturerUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "officialProductUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aqua-creek-scout-excel-pool-lift",
+  "image": {
+   "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aqua-creek-pool-lifts.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Aqua Creek pool lift"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics ADA pool lifts",
+    "url": "https://spectrumproducts.com/ada-pool-lifts",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "handicap lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Spectrum Motion Trek BP350 pool lift",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/ada-pool-lifts",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "spectrum-motion-trek-bp350-pool-lift",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/ada-pool-lifts",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-motion-trek-bp350-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Motion Trek BP350 battery-powered pool lift"
+  },
+  "headline": "Accessible pool entry from Spectrum Aquatics",
+  "description": "Spectrum Motion Trek BP350 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations. Spectrum publishes ADA-related statements and capacities per model. FreyTech confirms the model for the deck, anchoring, and the body of water."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics ADA pool lifts",
+    "url": "https://spectrumproducts.com/ada-pool-lifts",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "handicap lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Spectrum Gallatin hydraulic water-powered lift",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/ada-pool-lifts",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "spectrum-gallatin-water-powered-lift",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/ada-pool-lifts",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-gallatin-water-powered-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Gallatin water-powered pool lift"
+  },
+  "headline": "Accessible pool entry from Spectrum Aquatics",
+  "description": "Spectrum Gallatin hydraulic water-powered lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations. Spectrum publishes ADA-related statements and capacities per model. FreyTech confirms the model for the deck, anchoring, and the body of water."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics ADA pool lifts",
+    "url": "https://spectrumproducts.com/ada-pool-lifts",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "handicap lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Spectrum Traveler BP500 pool lift",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/ada-pool-lifts",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "spectrum-traveler-bp500-pool-lift",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/ada-pool-lifts",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-traveler-bp500-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Traveler BP500 pool lift"
+  },
+  "headline": "Accessible pool entry from Spectrum Aquatics",
+  "description": "Spectrum Traveler BP500 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations. Spectrum publishes ADA-related statements and capacities per model. FreyTech confirms the model for the deck, anchoring, and the body of water."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics ADA pool lifts",
+    "url": "https://spectrumproducts.com/ada-pool-lifts",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "handicap lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "Spectrum Portable Motion Trek BP300 pool lift",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/ada-pool-lifts",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "spectrum-portable-motion-trek-bp300-pool-lift",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/ada-pool-lifts",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-portable-motion-trek-bp300-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Portable Motion Trek BP300 pool lift"
+  },
+  "headline": "Accessible pool entry from Spectrum Aquatics",
+  "description": "Spectrum Portable Motion Trek BP300 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations. Spectrum publishes ADA-related statements and capacities per model. FreyTech confirms the model for the deck, anchoring, and the body of water."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "S.R.Smith pool lifts",
+    "url": "https://www.srsmith.com/en-us/products/pool-lifts/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "S.R.Smith aXs2 pool lift",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "srsmith-axs2-pool-lift",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-axs2-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith aXs2 ADA pool lift"
+  },
+  "headline": "Battery-powered accessible entry from S.R.Smith",
+  "description": "S.R.Smith aXs2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "S.R.Smith pool lifts",
+    "url": "https://www.srsmith.com/en-us/products/pool-lifts/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "S.R.Smith multiLift2 pool lift",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "srsmith-multilift2-pool-lift",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-multilift2-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith multiLift2 pool lift"
+  },
+  "headline": "Battery-powered accessible entry from S.R.Smith",
+  "description": "S.R.Smith multiLift2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "S.R.Smith pool lifts",
+    "url": "https://www.srsmith.com/en-us/products/pool-lifts/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "S.R.Smith PAL2 pool lift",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "srsmith-pal2-pool-lift",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-pal2-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith PAL2 portable pool lift"
+  },
+  "headline": "Battery-powered accessible entry from S.R.Smith",
+  "description": "S.R.Smith PAL2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "S.R.Smith pool lifts",
+    "url": "https://www.srsmith.com/en-us/products/pool-lifts/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Public pools and spas requiring accessible entry"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community",
+   "hotels-resorts-hospitality",
+   "healthcare-rehabilitation",
+   "camps-seasonal"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA lift",
+   "pool lift"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "S.R.Smith Splash! pool lift",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "srsmith-splash-pool-lift",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/en-us/products/pool-lifts/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-splash-pool-lift.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith Splash! ADA-compliant pool lift"
+  },
+  "headline": "Battery-powered accessible entry from S.R.Smith",
+  "description": "S.R.Smith Splash! pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Therapy pools",
+   "Public pools adding accessible entry"
+  ],
+  "facilities": [
+   "healthcare-rehabilitation",
+   "ymca-community",
+   "municipal-aquatic-centers",
+   "hotels-resorts-hospitality",
+   "k12-schools"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA ladder",
+   "ADA steps",
+   "forward walking ladder"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA",
+   "therapy pool"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm manufacturer URL and current model names.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "AquaTrek2 ADA forward-walking pool ladder",
+  "manufacturer": "AquaTrek2",
+  "manufacturerUrl": "https://aquatrek2.com/",
+  "officialProductUrl": "https://aquatrek2.com/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aquatrek2-ada-forward-walking-ladder",
+  "image": {
+   "sourceUrl": "https://aquatrek2.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aquatrek2-ada-forward-walking-ladder.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AquaTrek2 ADA forward-walking pool ladder"
+  },
+  "headline": "Walk-in accessible entry without a lift",
+  "description": "AquaTrek2 ADA forward-walking pool ladder is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Therapy pools",
+   "Public pools adding accessible entry"
+  ],
+  "facilities": [
+   "healthcare-rehabilitation",
+   "ymca-community",
+   "municipal-aquatic-centers",
+   "hotels-resorts-hospitality",
+   "k12-schools"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA ladder",
+   "ADA steps",
+   "forward walking ladder"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA",
+   "therapy pool"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm manufacturer URL and current model names.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "AquaTrek2 ADA pool step system",
+  "manufacturer": "AquaTrek2",
+  "manufacturerUrl": "https://aquatrek2.com/",
+  "officialProductUrl": "https://aquatrek2.com/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aquatrek2-ada-pool-steps",
+  "image": {
+   "sourceUrl": "https://aquatrek2.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aquatrek2-ada-pool-steps.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AquaTrek2 ADA pool step system"
+  },
+  "headline": "Walk-in accessible entry without a lift",
+  "description": "AquaTrek2 ADA pool step system is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Therapy pools",
+   "Public pools adding accessible entry"
+  ],
+  "facilities": [
+   "healthcare-rehabilitation",
+   "ymca-community",
+   "municipal-aquatic-centers",
+   "hotels-resorts-hospitality",
+   "k12-schools"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA ladder",
+   "ADA steps",
+   "forward walking ladder"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA",
+   "therapy pool"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm manufacturer URL and current model names.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "AquaTrek2 transfer platform",
+  "manufacturer": "AquaTrek2",
+  "manufacturerUrl": "https://aquatrek2.com/",
+  "officialProductUrl": "https://aquatrek2.com/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aquatrek2-transfer-platform",
+  "image": {
+   "sourceUrl": "https://aquatrek2.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aquatrek2-transfer-platform.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AquaTrek2 ADA transfer platform"
+  },
+  "headline": "Walk-in accessible entry without a lift",
+  "description": "AquaTrek2 transfer platform is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Therapy pools",
+   "Public pools adding accessible entry"
+  ],
+  "facilities": [
+   "healthcare-rehabilitation",
+   "ymca-community",
+   "municipal-aquatic-centers",
+   "hotels-resorts-hospitality",
+   "k12-schools"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ADA ladder",
+   "ADA steps",
+   "forward walking ladder"
+  ],
+  "keywords": [
+   "accessibility",
+   "ADA",
+   "therapy pool"
+  ],
+  "notes": "",
+  "uncertainties": "Confirm manufacturer URL and current model names.",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
+  "family": "Handicap Access",
+  "product": "AquaTrek2 aquatic wheelchair",
+  "manufacturer": "AquaTrek2",
+  "manufacturerUrl": "https://aquatrek2.com/",
+  "officialProductUrl": "https://aquatrek2.com/",
+  "proposedCategory": "accessibility-safety",
+  "proposedSlug": "aquatrek2-aquatic-wheelchair",
+  "image": {
+   "sourceUrl": "https://aquatrek2.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/aquatrek2-aquatic-wheelchair.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "AquaTrek2 aquatic wheelchair"
+  },
+  "headline": "Walk-in accessible entry without a lift",
+  "description": "AquaTrek2 aquatic wheelchair is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "J&J Electronics",
+    "url": "https://www.jandjelectronics.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Indoor and outdoor pools with underwater lights"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "reduce-waste",
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "LED pool light",
+   "underwater light"
+  ],
+  "keywords": [
+   "LED",
+   "lighting",
+   "retrofit"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
+  "family": "J&J LED Lights",
+  "product": "J&J Electronics PureWhite LED pool fixtures and lamps",
+  "manufacturer": "J&J Electronics",
+  "manufacturerUrl": "https://www.jandjelectronics.com/",
+  "officialProductUrl": "https://www.jandjelectronics.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "jj-purewhite-led-pool-fixture",
+  "image": {
+   "sourceUrl": "https://www.jandjelectronics.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/jj-purewhite-led-pool-fixture.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "J&J Electronics PureWhite LED pool light fixture"
+  },
+  "headline": "White LED underwater lighting that replaces incandescent fixtures",
+  "description": "PureWhite is J&J Electronics' white LED underwater lighting line, offered as retrofit lamps and complete fixtures for existing niches. LED conversion cuts lighting energy and lamp changes at pools that still run incandescent fixtures. FreyTech confirms niche compatibility and electrical requirements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "J&J Electronics",
+    "url": "https://www.jandjelectronics.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Leisure and hospitality pools"
+  ],
+  "facilities": [
+   "hotels-resorts-hospitality",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "color LED pool light"
+  ],
+  "keywords": [
+   "LED",
+   "lighting"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
+  "family": "J&J LED Lights",
+  "product": "J&J Electronics ColorSplash XG LED pool fixtures",
+  "manufacturer": "J&J Electronics",
+  "manufacturerUrl": "https://www.jandjelectronics.com/",
+  "officialProductUrl": "https://www.jandjelectronics.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "jj-colorsplash-xg-led-pool-fixture",
+  "image": {
+   "sourceUrl": "https://www.jandjelectronics.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/jj-colorsplash-xg-led-pool-fixture.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "J&J Electronics ColorSplash XG color LED pool light fixture"
+  },
+  "headline": "Color-changing LED underwater lighting",
+  "description": "ColorSplash XG is J&J Electronics' color-changing LED underwater fixture line for pools and spas. It suits leisure and hospitality pools that want programmable color. FreyTech confirms niche and controller compatibility."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Pentair Paragon deck equipment catalog",
+    "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/commercial/deck-equipment/paragon/paragon-deck-catalog-english.pdf",
+    "type": "Brochure"
+   }
+  ],
+  "applications": [
+   "Commercial pools of all types"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Vertical ladder",
+    "fit": "Standard entry"
+   },
+   {
+    "name": "Cross-brace ladder",
+    "fit": "Reinforced for heavy use"
+   },
+   {
+    "name": "Wall-guard ladder",
+    "fit": "Protects the pool wall"
+   },
+   {
+    "name": "Step treads",
+    "fit": "Replacement treads"
+   }
+  ],
+  "aliases": [
+   "pool ladder",
+   "ladder treads"
+  ],
+  "keywords": [
+   "ladder",
+   "entry"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
+  "family": "Ladders",
+  "product": "Paragon stainless pool ladders (vertical, cross-brace, wall guard, step)",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-vertical-ladders",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-vertical-ladders.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon stainless steel vertical pool ladder"
+  },
+  "headline": "Stainless pool ladders in vertical, cross-brace, and wall-guard styles",
+  "description": "Paragon's ladder line covers vertical ladders, cross-brace ladders, wall-guard ladders, and step-style treads in stainless steel for commercial pools. Ladder selection follows wall height, deck anchors, and code requirements for entry points. FreyTech supplies replacements and coordinates new installations."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Pools with vertical ladders"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "ladder wedge"
+  ],
+  "keywords": [
+   "safety",
+   "entrapment"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
+  "family": "Ladders",
+  "product": "Paragon ladder safety wedge",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-ladder-safety-wedge",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-ladder-safety-wedge.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon ladder safety wedge"
+  },
+  "headline": "Closes the entrapment gap behind a pool ladder",
+  "description": "The ladder safety wedge fills the space between a ladder and the pool wall to reduce entrapment risk. It is a common add-on during inspections and renovations. FreyTech supplies wedges sized to Paragon ladders."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Pentair Paragon deck equipment catalog",
+    "url": "https://www.pentair.com/content/dam/extranet/nam/pentair-pool/commercial/deck-equipment/paragon/paragon-deck-catalog-english.pdf",
+    "type": "Brochure"
+   }
+  ],
+  "applications": [
+   "Pool steps and ladders"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Horizontal / flat-top",
+    "fit": "Standard stair rails"
+   },
+   {
+    "name": "Sloping / welded sloping",
+    "fit": "Stair rails on slopes"
+   },
+   {
+    "name": "Figure-4 / adjustable / long reach",
+    "fit": "Deck-to-water rails"
+   },
+   {
+    "name": "Pretzel / 2-bend / 3-bend",
+    "fit": "Shaped grab rails"
+   }
+  ],
+  "aliases": [
+   "handrail",
+   "stair rail",
+   "grab rail"
+  ],
+  "keywords": [
+   "rails"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
+  "family": "Rails",
+  "product": "Paragon deck-mounted rails",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-deck-mounted-rails",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-deck-mounted-rails.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon deck-mounted stainless steel pool rail"
+  },
+  "headline": "Deck-mounted stainless rails in horizontal, sloping, and figure-4 styles",
+  "description": "Paragon's deck-mounted rails come in horizontal, flat-top, sloping, welded sloping, figure-4, adjustable, long-reach, pretzel, and two- and three-bend profiles. Rail choice follows the step or ladder it serves and the deck anchors available. FreyTech matches replacements to existing anchors."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Ladders, steps, and wall exits"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "grab bar"
+  ],
+  "keywords": [
+   "rails"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
+  "family": "Rails",
+  "product": "Paragon grab rails",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-grab-rails",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-grab-rails.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon stainless steel grab rail"
+  },
+  "headline": "Grab rails for ladders, steps, and pool walls",
+  "description": "Grab rails give swimmers a handhold at ladders, recessed steps, and wall exits. Paragon offers standard and custom bends in stainless steel. FreyTech matches replacements to existing anchors and spacing."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Recessed and in-pool stairs"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "stair rail"
+  ],
+  "keywords": [
+   "rails"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
+  "family": "Rails",
+  "product": "Paragon stair-mounted rails",
+  "manufacturer": "Paragon (Pentair)",
+  "manufacturerUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "officialProductUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "paragon-stair-mounted-rails",
+  "image": {
+   "sourceUrl": "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/paragon-stair-mounted-rails.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Paragon stair-mounted stainless steel pool rail"
+  },
+  "headline": "Rails anchored in the pool stairs",
+  "description": "Stair-mounted rails anchor into the step treads rather than the deck, for recessed and in-pool stairs. FreyTech confirms anchor type and rail height for the stair geometry."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane reel",
+   "trolley"
+  ],
+  "keywords": [
+   "lane line storage"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
+  "family": "Lane Line Storage Reels",
+  "product": "Malmsten storage trolley",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-storage-trolley",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-storage-trolley.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten lane line storage trolley"
+  },
+  "headline": "Rolling storage trolley for Malmsten racing lanes",
+  "description": "Malmsten's storage trolley stores and moves racing lanes between sessions. It is sized for Malmsten Gold Pro and Classic Pro lanes. FreyTech matches trolley capacity to the pool's lane set."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane reel"
+  ],
+  "keywords": [
+   "lane line storage"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
+  "family": "Lane Line Storage Reels",
+  "product": "Spectrum Sheridan lane line storage reel",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-sheridan-lane-line-storage-reel",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-sheridan-lane-line-storage-reel.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Sheridan lane line storage reel"
+  },
+  "headline": "Stainless lane storage reel from Spectrum Aquatics",
+  "description": "The Sheridan reel stores racing lanes on a stainless rolling frame. FreyTech matches capacity to the pool."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Malmsten",
+    "url": "https://www.malmsten.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition venues"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane rope",
+   "wave eater"
+  ],
+  "keywords": [
+   "competition lane lines",
+   "world aquatics"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
+  "family": "Malmsten Lane Lines",
+  "product": "Malmsten Gold Pro racing lane lines",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-gold-pro-racing-lane-lines",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-gold-pro-racing-lane-lines.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Gold Pro competition racing lane line"
+  },
+  "headline": "Competition racing lanes used at international championships",
+  "description": "Gold Pro is Malmsten's top competition racing lane, the design used at many international championships for its wave-quelling performance. It is offered in FINA/World Aquatics color schemes and custom lengths. FreyTech coordinates lengths, colors, and reels."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Training and competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "lane rope"
+  ],
+  "keywords": [
+   "lane lines"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
+  "family": "Malmsten Lane Lines",
+  "product": "Malmsten Classic Pro racing lane lines",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-classic-pro-racing-lane-lines",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-classic-pro-racing-lane-lines.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Classic Pro racing lane line"
+  },
+  "headline": "Everyday competition and training lanes",
+  "description": "Classic Pro is Malmsten's standard racing lane for training and competition, sharing the Gold Pro's construction at a lower price point. FreyTech supplies full sets and replacement parts."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Take-up reel",
+    "fit": "Wall tensioning"
+   },
+   {
+    "name": "Spring cover",
+    "fit": "Protects tension spring"
+   }
+  ],
+  "aliases": [
+   "takeup reel",
+   "spring cover"
+  ],
+  "keywords": [
+   "lane hardware"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
+  "family": "Malmsten Lane Lines",
+  "product": "Malmsten take-up reel and spring cover",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-take-up-reel",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-take-up-reel.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten lane line take-up reel"
+  },
+  "headline": "Tensioning and protection hardware for Malmsten lanes",
+  "description": "Malmsten's take-up reel tensions the lane line at the wall; the spring cover protects swimmers and staff from the tension spring. Both are standard hardware with Malmsten lanes. FreyTech supplies them with new lanes or as replacements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-take-up-reel.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
+  "family": "Malmsten Lane Lines",
+  "product": "Malmsten spring cover",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-spring-cover",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-spring-cover.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten lane spring cover"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Malmsten",
+    "url": "https://www.malmsten.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Water polo programs"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Official",
+    "fit": "International competition"
+   },
+   {
+    "name": "Optimized",
+    "fit": "Competition and training"
+   },
+   {
+    "name": "Inflatable",
+    "fit": "Training and club play"
+   },
+   {
+    "name": "Multi Pro",
+    "fit": "Multi-purpose competition goal"
+   },
+   {
+    "name": "Multi Pro Junior",
+    "fit": "Youth programs"
+   }
+  ],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo",
+   "goal"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten water polo goals (Official, Optimized, Inflatable, Multi Pro, Multi Pro Junior)",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-water-polo-goals",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-water-polo-goal-official.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten official competition water polo goal"
+  },
+  "headline": "Water polo goals from club practice to international competition",
+  "description": "Malmsten builds water polo goals from inflatable training goals to the Official competition goal used at international events, with the Optimized, Multi Pro, and Multi Pro Junior models in between. Goal choice follows the governing body's rules, pool depth, and how often the goals are removed. FreyTech confirms the model for the program."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-goals.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten Optimized water polo goal",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-water-polo-goal-optimized",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-water-polo-goal-optimized.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Optimized water polo goal"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-goals.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten inflatable water polo goals",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-inflatable-water-polo-goals",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-inflatable-water-polo-goals.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten inflatable water polo goals"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-goals.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten Multi Pro water polo goal",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-multi-pro-water-polo-goal",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-multi-pro-water-polo-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Multi Pro water polo goal"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-goals.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten Multi Pro Junior water polo goal",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-multi-pro-junior-water-polo-goal",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-multi-pro-junior-water-polo-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Multi Pro Junior water polo goal"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Water polo competition"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [
+   {
+    "name": "Field-of-play lines",
+    "fit": "Floating boundary lines"
+   },
+   {
+    "name": "Marking cones",
+    "fit": "Distance markers"
+   },
+   {
+    "name": "Ball Release Pro",
+    "fit": "Official ball release device"
+   }
+  ],
+  "aliases": [
+   "polo field lines"
+  ],
+  "keywords": [
+   "water polo"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten water polo field-of-play lines, marking cones, and Ball Release Pro",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-water-polo-field-equipment",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-water-polo-field-of-play-lines.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten water polo field-of-play line"
+  },
+  "headline": "Field-of-play lines and officiating equipment for water polo",
+  "description": "Malmsten's water polo field equipment includes floating field-of-play lines, marking cones, and the Ball Release Pro used by officials. Together with goals they complete a competition setup. FreyTech supplies them with goals or separately."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-field-equipment.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten marking cones",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-marking-cones",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-marking-cones.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten marking cones"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "family",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [],
+  "keywords": [],
+  "notes": "Included within family slug malmsten-water-polo-field-equipment.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
+  "family": "Malmsten Water Polo",
+  "product": "Malmsten Ball Release Pro",
+  "manufacturer": "Malmsten AB",
+  "manufacturerUrl": "https://www.malmsten.com/",
+  "officialProductUrl": "https://www.malmsten.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "malmsten-ball-release-pro",
+  "image": {
+   "sourceUrl": "https://www.malmsten.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/malmsten-ball-release-pro.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Malmsten Ball Release Pro"
+  },
+  "headline": "",
+  "description": ""
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "Spectrum Aquatics",
+    "url": "https://spectrumproducts.com/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment",
+   "prepare-specifications-budgets"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "starting platform",
+   "starting block",
+   "track start block"
+  ],
+  "keywords": [
+   "starting blocks",
+   "competition"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
+  "family": "Starting Blocks",
+  "product": "Spectrum Xcellerator starting block",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-xcellerator-starting-block",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-xcellerator-starting-block.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Xcellerator starting block with track-start wedge"
+  },
+  "headline": "Track-start competition starting block",
+  "description": "The Xcellerator is Spectrum Aquatics' competition starting block with an adjustable track-start wedge, the configuration required at higher levels of competition. Starting blocks are specified to deck height, water depth, and the governing body's rules. FreyTech confirms anchors and quantities for the pool."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "School and club competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "starting platform",
+   "starting block"
+  ],
+  "keywords": [
+   "starting blocks"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
+  "family": "Starting Blocks",
+  "product": "Spectrum Cougar starting block",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-cougar-starting-platform",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-cougar-starting-platform.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Cougar starting platform"
+  },
+  "headline": "Durable starting platform for school and club pools",
+  "description": "The Cougar is Spectrum Aquatics' school and club starting platform, built for daily training use. FreyTech confirms deck height and anchor requirements."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "starting platform"
+  ],
+  "keywords": [
+   "starting blocks"
+  ],
+  "notes": "Shown in Spectrum literature; not a separate heading on the Aquafinity page.",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
+  "family": "Starting Blocks",
+  "product": "Spectrum Bighorn starting platform",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-bighorn-starting-platform",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-bighorn-starting-platform.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Bighorn starting platform"
+  },
+  "headline": "Heavy-duty starting platform",
+  "description": "The Bighorn is a heavy-duty Spectrum Aquatics starting platform for high-use competition pools. FreyTech confirms anchors and quantities."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [
+   {
+    "title": "S.R.Smith starting blocks",
+    "url": "https://www.srsmith.com/en-us/products/starting-blocks/",
+    "type": "Product page"
+   }
+  ],
+  "applications": [
+   "Competition pools"
+  ],
+  "facilities": [
+   "colleges-universities",
+   "k12-schools",
+   "municipal-aquatic-centers"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "starting platform",
+   "starting block",
+   "track start"
+  ],
+  "keywords": [
+   "starting blocks"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
+  "family": "Starting Blocks",
+  "product": "S.R.Smith Velocity starting blocks",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/starting-blocks/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "srsmith-velocity-starting-blocks",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-velocity-starting-blocks.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith Velocity single-post starting block with track-start wedge"
+  },
+  "headline": "Single-post starting blocks with track-start wedge",
+  "description": "Velocity is S.R.Smith's single-post competition starting block, offered with a track-start wedge and multiple color options. It is specified to deck height and water depth per the governing body. FreyTech confirms anchors, quantities, and colors."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "School and club pools"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "starting platform",
+   "starting block"
+  ],
+  "keywords": [
+   "starting blocks"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
+  "family": "Starting Blocks",
+  "product": "S.R.Smith Legacy starting blocks",
+  "manufacturer": "S.R.Smith (Fluidra)",
+  "manufacturerUrl": "https://www.srsmith.com/",
+  "officialProductUrl": "https://www.srsmith.com/en-us/products/starting-blocks/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "srsmith-legacy-starting-blocks",
+  "image": {
+   "sourceUrl": "https://www.srsmith.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/srsmith-legacy-starting-blocks.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "S.R.Smith Legacy dual-post starting block"
+  },
+  "headline": "Dual-post starting blocks for school and club pools",
+  "description": "Legacy is S.R.Smith's dual-post starting block for school, club, and community pools. FreyTech confirms deck height and anchors."
+ },
+ {
+  "sourceCategory": "deck-equipment",
+  "disposition": "published",
+  "availability": "request",
+  "verification": "partially-verified",
+  "docs": [],
+  "applications": [
+   "Water polo programs"
+  ],
+  "facilities": [
+   "municipal-aquatic-centers",
+   "k12-schools",
+   "colleges-universities",
+   "ymca-community"
+  ],
+  "problems": [
+   "find-replacement-equipment"
+  ],
+  "features": [],
+  "specs": [],
+  "models": [],
+  "aliases": [
+   "polo goal"
+  ],
+  "keywords": [
+   "water polo"
+  ],
+  "notes": "",
+  "uncertainties": "",
+  "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
+  "family": "Water Polo Goals",
+  "product": "Spectrum Dawson water polo goal",
+  "manufacturer": "Spectrum Aquatics (PlayCore)",
+  "manufacturerUrl": "https://spectrumproducts.com/",
+  "officialProductUrl": "https://spectrumproducts.com/",
+  "proposedCategory": "deck-equipment",
+  "proposedSlug": "spectrum-dawson-water-polo-goal",
+  "image": {
+   "sourceUrl": "https://spectrumproducts.com/",
+   "status": "manufacturer-public-asset",
+   "localFile": "public/images/products/spectrum-dawson-water-polo-goal.webp",
+   "width": 1200,
+   "height": 1200,
+   "alt": "Spectrum Aquatics Dawson water polo goal"
+  },
+  "headline": "Stainless water polo goal from Spectrum Aquatics",
+  "description": "The Dawson is Spectrum Aquatics' stainless water polo goal for competition and club programs. FreyTech confirms the model for the program and pool."
+ }
+]

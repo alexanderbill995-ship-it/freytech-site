@@ -1,0 +1,110 @@
+{
+  "becsys3": {
+    "src": "/images/products/becsys3.webp",
+    "alt": "BECSys3 water chemistry controller",
+    "width": 254,
+    "height": 250,
+    "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys3USWeb-pfg0bxfuhcml1wvw59wj950snuupwyqz0c2rp2rg1s.jpeg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "becsys5": {
+    "src": "/images/products/becsys5.webp",
+    "alt": "BECSys5 water chemistry controller",
+    "width": 184,
+    "height": 250,
+    "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys5USWeb-pfg0b74d5zmk0ty4eyizbbnw12gfxfuhkpt69bugw0.jpeg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "becsys7": {
+    "src": "/images/products/becsys7.webp",
+    "alt": "BECSys7 water chemistry controller",
+    "width": 316,
+    "height": 250,
+    "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSys7USWeb-pfg0andr6gvj90qsm7ztcyn7jz5qfso4i03z6inqio.jpeg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "becs-co2-ph-control": {
+    "src": "/images/products/becs-co2-ph-control.webp",
+    "alt": "BECSys CO2 feed system for pH control",
+    "width": 254,
+    "height": 250,
+    "sourceUrl": "https://www.becsys.com/wp-content/uploads/sites/2/2021/12/BECSysCO2Web-pfg0cy3jvw0rmpen77qzgdrrtvu195si5dipev93b4.jpeg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "pulsar-precision": {
+    "src": "/images/products/pulsar-infinity.webp",
+    "alt": "Pulsar Infinity calcium hypochlorite tablet feeder",
+    "width": 1024,
+    "height": 1936,
+    "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2021/05/pulsar-feeder-angle-1.png",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "pulsar-plus-briquettes": {
+    "src": "/images/products/pulsar-plus-briquettes.webp",
+    "alt": "Pulsar Plus calcium hypochlorite briquettes",
+    "width": 415,
+    "height": 422,
+    "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2022/12/pulsar-briquettes.jpg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "pulsar-precision-30": {
+    "src": "/images/products/pulsar-precision-30.webp",
+    "alt": "Pulsar Precision 30 calcium hypochlorite feeder",
+    "width": 422,
+    "height": 1000,
+    "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2022/08/precision-30.png",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "stark-bulkheads": {
+    "src": "/images/products/adg-bulkheads.webp",
+    "alt": "ADG stainless steel movable bulkhead in a competition pool",
+    "width": 1200,
+    "height": 1200,
+    "sourceUrl": "https://www.aquaticgroup.com/",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "aqua-creek-pool-lifts": {
+    "src": "/images/products/aqua-creek-pool-lifts.webp",
+    "alt": "Aqua Creek pool lift",
+    "width": 1200,
+    "height": 1200,
+    "sourceUrl": "https://aquacreekproducts.com/category/pool-lifts/",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "defender-regenerative-media-filter": {
+    "src": "/images/products/defender-regenerative-media-filter.webp",
+    "alt": "Neptune Benson Defender regenerative media filter vessel with control panel",
+    "width": 1200,
+    "height": 1200,
+    "sourceUrl": "https://www.xylem.com/siteassets/brand/neptune-benson/defender-rmf-square.png",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "maytronics-dolphin-wave": {
+    "src": "/images/products/maytronics-dolphin-wave.webp",
+    "alt": "Maytronics Dolphin Wave 100 commercial robotic pool cleaner",
+    "width": 1200,
+    "height": 1200,
+    "sourceUrl": "https://brand.maytronics.com/m/2fd1eb34e59a664a/EP_Large-Dolphin-Wave-100.jpg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
+  "taylor-test-kits": {
+    "src": "/images/products/taylor-test-kits.webp",
+    "alt": "Taylor Technologies K-2006 Complete FAS-DPD test kit, open case",
+    "width": 1200,
+    "height": 1200,
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0657/6747/3315/files/K-2006_Test_Kit.png?v=1764348852",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  }
+}

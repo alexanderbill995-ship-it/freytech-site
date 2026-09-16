@@ -18,6 +18,15 @@ The site pushes structured events to `window.dataLayer` (see `src/lib/analytics.
 | `becsys5_engagement` | 50% scroll or 30 s on the BECSys5 page | `product`, `reason` | /becsys5-controls/ |
 | `pulsar_engagement` | 50% scroll or 30 s on the Pulsar page | `product`, `reason` | /pulsar-precision-feeders/ |
 | `cta_click` | Sticky mobile assessment button | `location`, `label` | mobile |
+| `homepage_cta` | Any homepage CTA (Talk With Angelo, assessment, explore products, problem tiles) | `label`, `section` | / |
+| `product_search` | Query typed (debounced, ≥2 chars) | `query`, `results`, `variant` (header/hero/inline) | site-wide |
+| `search_result_select` | Predictive result chosen | `query`, `id`, `kind`, `position` | site-wide |
+| `search_no_results` | Query returned zero results | `query`, `variant` | site-wide |
+| `filter_used` | Library filter/chip/sort changed | `filter`, `value` | /products/ |
+| `manufacturer_view` | Manufacturer page viewed | `manufacturer` | /manufacturers/[slug]/ |
+| `product_view` | Product detail viewed | `product`, `availability` | /products/[category]/[slug]/ |
+| `availability_request` | "Request availability" CTA clicked | `product`, `manufacturer` | product pages |
+| `resource_request` | "Available on request" document requested | `document` | resources, product docs |
 
 Every event also carries `page_path`. Session attribution (`landing_page`, `referrer`, `utm_*`) is captured once per session into `sessionStorage` and attached to form payloads, not to events.
 

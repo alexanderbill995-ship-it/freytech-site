@@ -6,7 +6,7 @@ import { Section } from "@/components/ui/Section";
 import { Callout } from "@/components/ui/Card";
 import { Confirm } from "@/components/ui/Confirm";
 import { TrackedLink } from "@/components/ui/TrackedLink";
-import { ContactFormClient } from "./ContactFormClient";
+import { ContactFormClient, ContactHeading } from "./ContactFormClient";
 import { pageMetadata } from "@/lib/seo";
 import { site, telHref } from "@/lib/site";
 import p from "@/styles/page.module.css";
@@ -22,8 +22,8 @@ export default function Page() {
     <>
       <PageHero
         eyebrow="Contact and assessment"
-        title="Request a commercial pool system assessment"
-        lede="Tell us about the facility, the current controller and feed system, and what is not working. A commercial aquatic specialist reviews every submission and follows up directly. No automated sales sequences."
+        title={<Suspense fallback={<h1 style={{ color: "var(--white)", fontSize: "var(--text-3xl)" }}>Request a commercial pool system assessment</h1>}><ContactHeading /></Suspense>}
+        rawTitle
         crumbs={[{ name: "Contact & Assessment", href: "/contact/" }]}
         compact
         aside={

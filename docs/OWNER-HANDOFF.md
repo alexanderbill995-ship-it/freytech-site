@@ -14,9 +14,26 @@ This site has no CMS database. Content lives in plain, readable TypeScript files
 | Market pages (6) | `src/content/markets.ts` (one object per market: pressures, triggers, solutions, stakeholders, FAQs, references) |
 | Region pages (9) | `src/content/regionsCopy.ts` (intro, facilities, references, travel note) and `src/lib/regions.ts` (county lists) |
 | Projects, testimonial, customer/design-firm lists, case studies | `src/content/projects.ts` |
-| Resource center links and articles | `src/content/resources.ts` |
+| Resource library (filterable documents) | `src/content/resourceLibrary.ts` |
+| Guides/articles | `src/content/resources.ts` |
+| Products, categories, facilities, problems, manufacturers | `src/content/catalog/` |
+| Mega menu columns | derived from catalog data in `src/lib/nav.ts` |
+| Contact intents (headline, button per `?intent=`) | `src/components/forms/options.ts` |
 | Form option lists (facility types, controllers, feeders, problems, stages) | `src/components/forms/options.ts` |
 | Form validation rules | `validate()` inside each form in `src/components/forms/` |
+
+## Catalog migration and generated records
+- `docs/research/aquafinity-catalog/manifest-part*.json` hold the machine-readable migration manifest (224 rows). `npm run catalog` merges them into `manifest.json`, generates `src/content/catalog/products.generated.ts` and `manufacturers.generated.ts`, attaches sourced images to hand-authored records, and rewrites `docs/CATALOG-MIGRATION-MANIFEST.md` and `docs/CATALOG-OMISSIONS-REPORT.md`.
+- To promote a generated product to a hand-curated one, copy its object from `products.generated.ts` into `products.ts` and edit; hand-authored published records always win.
+- To change availability wording for a brand, edit `relationshipStatus` in `taxonomy.ts` (or the manifest row's `availability`) and re-run `npm run catalog`.
+- Search synonyms live in `src/lib/search/synonyms.ts`; homepage copy in `src/content/homepage.ts`.
+
+## Adding or editing a product (product-discovery system)
+1. Open `src/content/catalog/products.ts` and copy an existing record (BECSys3 is a compact example).
+2. Fill every field. Keep `status: "draft"` until facts are verified and `ownerApproved: true`; drafts never render.
+3. Set `category` to a published category slug in `taxonomy.ts`, list `facilities` and `problems` slugs so the product appears in facility filters and solution pages, and add `docs` (link manufacturer-hosted files; use `status: "placeholder"` for documents you cannot republish).
+4. Run `npm run matrix` to refresh `docs/PRODUCT-CONTENT-MATRIX.md`, then `npm run build && npm run check:links`.
+New categories, facilities, problems, and manufacturers live in `src/content/catalog/taxonomy.ts`; the mega menu, filters, and sitemap update automatically. Resource-library documents live in `src/content/resourceLibrary.ts`.
 
 ## Adding a case study (the most valuable update)
 1. Open `src/content/projects.ts`. Duplicate one of the `caseStudies` template objects.

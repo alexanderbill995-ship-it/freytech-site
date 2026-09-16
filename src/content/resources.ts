@@ -64,8 +64,7 @@ export const articles: Article[] = [
     description: "Why total alkalinity in the 80–120 mg/L range keeps pH stable and lets an ORP or PPM controller do its job in a commercial pool.",
     category: "Operator guides",
     updated: "2026-09",
-    byline: "Adapted from a FreyTech operator newsletter by Mike Wilson (January 2015), updated for current practice.",
-    confirm: "Owner to confirm attribution and approve the updated text.",
+    byline: "Originally published in FreyTech's January 2015 operator newsletter (author: Mike Wilson); updated for current practice.",
     body: [
       { p: ["Total alkalinity (TA) measures the alkaline substances dissolved in the water, chiefly bicarbonate in a swimming pool. New York's Sanitary Code sets a range of 80 to 120 mg/L for public pools (10 NYCRR 6-1.19). Within that range, alkalinity acts as a buffer: it resists rapid pH swings and gives the pH controller something stable to work against."] },
       { h: "When alkalinity is too low", p: ["pH becomes unstable and bounces as sanitizer and acid are fed. Plaster and grout can etch, metals can corrode, and staining is more likely. For an automated controller the effect is direct: an ORP or pH controller reacts to swings it did not cause, feeds to correct them, and overshoots. Operators often see unusually high chlorine readings in the morning after a night of unstable pH on a low-alkalinity pool."] },

@@ -7,7 +7,7 @@ export function PreviewBanner() {
   return (
     <div className={styles.banner} role="note" aria-label="Preview notice">
       <span className={styles.dot} aria-hidden="true" />
-      FreyTech website concept — private client review. Not the live freytech.org site. Forms are disabled in this preview.
+      FreyTech website concept — private client review. <span className={styles.more}>Not the live freytech.org site; forms are disabled in this preview.</span>
     </div>
   );
 }

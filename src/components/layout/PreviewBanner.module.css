@@ -1,4 +1,6 @@
-.banner { position: sticky; top: 0; z-index: 200; display: flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.45rem var(--gutter); background: #ffb703; color: #1b1300; font-size: var(--text-xs); font-weight: 600; letter-spacing: 0.02em; text-align: center; }
+.banner { position: static; display: flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.45rem var(--gutter); line-height: 1.4; background: #ffb703; color: #1b1300; font-size: var(--text-xs); font-weight: 600; letter-spacing: 0.02em; text-align: center; }
 .dot { width: 0.5rem; height: 0.5rem; border-radius: 50%; background: #1b1300; flex: none; }
 
-:global(html.has-preview-banner) { --banner-h: 2rem; }
+:global(html.has-preview-banner) { --banner-h: 0px; }
+.more { font-weight: 500; }
+@media (max-width: 40rem) { .more { display: none; } }

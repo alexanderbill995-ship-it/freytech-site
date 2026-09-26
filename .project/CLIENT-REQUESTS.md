@@ -76,16 +76,16 @@ This is a process decision for Alex, not an implementation task. Recommendation 
 |---|---|---|---|
 | R1-1 | Remove "outside of NYC" | **DONE** | 81 occurrences updated; NYC is now a served region with its own page; assessment form no longer flags NYC leads as out-of-territory. Subpart 6-1 regulatory pages deliberately unchanged — there "outside New York City" is the regulation's scope, not a territory claim. |
 | R1-2 | New address + separate remit-to | **DONE** | 356 Macedon Center Rd, Fairport NY 14450, Monroe County in config, schema, About, contact, footer. Remit-to (P.O. Box 486, Macedon NY 14502) modelled separately and shown distinctly. Office references updated from Wayne to Monroe County. |
-| R1-3 | Add a section about liners — Commercial Membrane, Poolside by CGT | **IN PROGRESS** | Awaiting sourced manufacturer facts. Needs a decision on whether liners get a new category. |
+| R1-3 | Add a section about liners — Commercial Membrane, Poolside by CGT | **IN PROGRESS** | Facts sourced from poolsidebycgt.com. Official product name is **Infinity Pool Surface by CGT**; "Commercial Membrane" is the category, not the product. New `pool-surfaces-membranes` category being added. |
 | R1-4 | "Easiest way to handle product changes?" | **FOR ALEX** | Process question, not an implementation task. Recommendation below. |
-| R2-1 | Pulsar Precision picture is wrong | **DONE** (verify against his link) | Fixed 2026-09-26 before the request arrived: the page had been showing a Pulsar Infinity photo. Root cause was in `attach-images.cjs`. Confirming the corrected image matches the product page Angelo pointed to. |
+| R2-1 | Pulsar Precision picture is wrong | **DONE — confirmed against his link** | Fixed on the morning of 2026-09-26, before the request arrived; the page had been showing a Pulsar Infinity. The corrected image is Pulsar's own hero photo from exactly the page Angelo named. He was reviewing the 2026-09-16 preview. See QUESTIONS-FOR-ANGELO.md Q5. |
 | R2-2 | Remove all LMI under chemical delivery | **DONE** | 4 products removed. |
 | R2-3 | Deck equipment and accessibility = Spectrum only | **DONE, with a gap list** | 56 products removed; 14 Spectrum products remain. 11 product types now have no offering at all — researching which of them Spectrum actually makes so Angelo can choose. |
-| R2-4 | Replace ClearWater Tech with Clear Comfort AOP | **HALF DONE** | ClearWater Tech removed. Clear Comfort AOP lands once its facts are sourced. |
-| R2-5 | Specialty chemicals TBD → EZ Clor + Jack's Magic | **PARTIAL — needs confirmation** | Removed the 3 unidentified private-label algaecides, 4 Next Generation Water Science products and Natural Chemistry Stainfree. Jack's Magic kept (7). EZ Clor to be added once sourced. **Judgment call flagged below.** |
-| R2-6 | Add Pulsar Precision 500K–1M gal product | **IN PROGRESS** | Verifying our published capacity language against Pulsar's own figures. |
-| R2-7 | Add manufacturers represented: ASC/Aurora, Grundfos, Pentair | **IN PROGRESS** | Grundfos already in the catalog. ASC/Aurora and Pentair commercial lines being sourced. |
-| R2-8 | Add WAPOTECH under supplemental | **IN PROGRESS** | Being sourced; will confirm it really is a supplemental-treatment product before filing it there. |
+| R2-4 | Replace ClearWater Tech with Clear Comfort AOP | **IN PROGRESS** | ClearWater Tech removed. Clear Comfort facts fully sourced (3 commercial models, NSF/ANSI 50, UL E482558, EPA Est. 91122-CO-3); records being added. It is hydroxyl AOP — **not** UV and **not** ozone — so the category copy needs a small correction. |
+| R2-5 | Specialty chemicals TBD → EZ Clor + Jack's Magic | **PARTIAL — see Q3** | Removals done; Jack's Magic kept (7). **E-Z Clor is a POOLCORP private brand with no commercial line, the brochure Angelo sent is not a manufacturer document, and its lead products are trichlor — which our own compliance page says 10 NYCRR 6-1.11 prohibits in NY public pools.** Recommending supplements only. |
+| R2-6 | Add Pulsar Precision 500K–1M gal product | **DONE — no change needed** | Pulsar publishes "500K to 1M+ gallons"; our record already says "manufacturer-rated for 500,000 to 1,000,000+ gallon pools". Separately correcting the **Precision 30** record, which still calls Pulsar's figures "conflicting" — Pulsar now publishes a clean 10,000–300,000 gal. |
+| R2-7 | Add manufacturers represented: ASC/Aurora, Grundfos, Pentair | **BLOCKED — see Q2** | Grundfos already listed. **ASC is a distributor, not a manufacturer, and its published territory excludes New York.** Aurora is a Pentair brand, so Aurora and Pentair are one relationship. Pentair's commercial lines are sourced and ready once the relationship question is answered. |
+| R2-8 | Add WAPOTECH under supplemental | **BLOCKED — see Q1** | WAPOTECH makes **no** UV, ozone or AOP product. Its line is filters, dosed chemicals, salt electrolysis (a primary sanitiser) and an air-quality monitor. Filing it under supplemental treatment would be wrong. Nothing published pending Angelo's answer. |
 
 ## Judgment call made on R2-5, for Angelo to confirm
 "Specialty chemicals are TBD... which brand he stocks" followed by "EZ Clor / Jacks Magic" reads as
@@ -104,3 +104,10 @@ product list he can mark up** — every product currently on the site, one row e
 column. That converts an open-ended conversation into a document, gives him something to work through
 at his own pace, and leaves a record. `docs/PRODUCT-CONTENT-MATRIX.md` is already generated from the
 catalog and is one export away from being exactly that list.
+
+## Blocked pending Angelo's answers
+Three requests cannot be implemented as written without publishing something inaccurate.
+Each is written up with evidence and a recommended answer in **`QUESTIONS-FOR-ANGELO.md`**:
+Q1 WAPOTECH · Q2 ASC Pumping / Aurora · Q3 E-Z Clor.
+Q4 lists the five deck and accessibility product types that now have no offering.
+Q5 explains that the Pulsar photo was already fixed, and why he was seeing a stale preview.

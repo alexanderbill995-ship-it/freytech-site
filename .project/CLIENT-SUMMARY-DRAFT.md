@@ -63,9 +63,9 @@ identified". They're held rather than deleted: tell us who makes them and they c
 
 ## One thing we need you to decide
 
-**The site currently displays 123 manufacturer product photographs that we do not have written
+**The site currently displays 114 manufacturer product photographs that we do not have written
 permission to use.** They were collected during the catalog build, each with its source recorded,
-and 113 of them are on the site right now. This is normal practice in the industry and manufacturers
+and all of them are on the site right now. This is normal practice in the industry and manufacturers
 usually welcome it from people selling their equipment — but permission has not been asked for.
 
 Two options: we approach BECS, Pulsar and the other major lines for co-marketing permission (which

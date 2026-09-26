@@ -1,6 +1,6 @@
 # Status
 
-**Updated:** 2026-09-26 · **Milestone:** M1 Website closeout · **Phase:** M1.2 verification audits running
+**Updated:** 2026-09-26 · **Milestone:** M1 Website closeout · **Phase:** COMPLETE, pending publication approval (E-2)
 
 ---
 
@@ -10,26 +10,22 @@ The site is built, deployed-ready and passing its own QA suite as of the last co
 (`ce297ac`, 2026-09-16). 261 pages, 147 published products, 43 manufacturers, 12 categories.
 The substantial build is done. What remains is **correctness and closeout**, not construction.
 
-### Verified baseline (2026-09-26, commands actually run)
+### Verified state after closeout (commit `dc66f6c`, commands actually run)
 | Check | Result |
 |---|---|
-| `npm run build` | PASS — exit 0, 260 page directories emitted |
-| `npm run lint` | PASS with 2 warnings — 0 errors |
-| `npm run check:links` | 261 pages · 0 broken links · 0 missing anchors · 0 h1 issues · **1 duplicate title** |
-| `npm run catalog` reproducibility | **Content-unstable** — re-dates 134 `lastVerified` values |
-| Working tree | Clean, all work committed and protected |
+| `npm run build` | PASS — exit 0, 258 pages |
+| `npm run lint` | PASS — 0 errors, **0 warnings** |
+| `npm run check:links` | 258 pages · 0 broken · 0 missing anchors · 0 h1 issues · **0 duplicate titles** |
+| `npm run catalog` reproducibility | **Stable** — byte-identical across consecutive runs |
+| Sitemap | 253 URLs (was 212) |
+| Static HTML content | contact 1 form / 21 inputs · catalog hub 145 product links · resources 34 entries |
+| Working tree | Clean, committed at `dc66f6c` |
 
-### Confirmed defects (pre-existing, none introduced by this session)
-1. **Duplicate page identity** — `manufacturers.generated.ts:14` and `:31` both name a
-   manufacturer "Manufacturer not yet identified", producing two public pages with identical
-   titles. Affects 5 products (2 pool covers, 3 private-label algaecides).
-2. **Self-advancing verification dates** — `scripts/generate-catalog.cjs:43` stamps every
-   product's public "facts verified" date with the build date. Proven by regenerate-and-diff:
-   the date was the only thing that changed, and it changed on every record.
-3. **2 lint warnings** — unused `Callout` (`src/app/about/page.tsx:6`) and unused `companySince`
-   (`src/app/page.tsx:19`). Being checked for whether they signal half-removed features.
-
-Two independent audits are running to complete this list before any code changes are made.
+13 defects found and fixed, including two blockers that would have cost real business: a redirect
+that made the whole catalog unreachable on the production hosts, and a conversion page whose form
+did not exist in the delivered HTML. Full list in `CHANGELOG-M1.md`; gate results in
+`docs/QA-RESULTS-2026-09-26.md`. Reviewed by an independent adversarial pass: no blockers, four
+findings, all fixed.
 
 ---
 
@@ -79,5 +75,9 @@ None are code problems; all need one answer from Angelo.
 ---
 
 ## Next
-M1.2 audits complete → build the final checklist → implement → verify → review → fix →
-client-ready summary → M2 grant scoping questions.
+1. **Alex:** answer E-1 (are there client requests newer than 2026-09-16?) and E-2 (approve the push).
+2. **Alex:** review `CLIENT-SUMMARY-DRAFT.md` and send to Angelo.
+3. **Angelo:** the form-delivery decision is the highest-value open item on the engagement —
+   the site cannot capture a lead until it is made.
+4. **M2:** grant scoping questions are drafted in `M2-GRANT-SCOPING.md` and are ready to send.
+   No grant work can begin before question 1 there is answered.

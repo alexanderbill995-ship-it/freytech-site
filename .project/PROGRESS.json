@@ -3,16 +3,16 @@
   "client": "Frey Technologies, Inc. (Angelo DiCiaccio)",
   "delivery_partner": "Rook",
   "updated": "2026-09-26",
-  "head_commit": "ce297ac",
+  "head_commit": "dc66f6c",
   "origin_commit": "3488487",
-  "unpushed_commits": 2,
+  "unpushed_commits": 3,
   "working_tree": "clean",
   "current_milestone": "M1",
   "milestones": [
     {
       "id": "M1",
       "name": "Website closeout",
-      "state": "in_progress",
+      "state": "complete_pending_publication",
       "tasks": [
         {
           "id": "M1.0",
@@ -32,17 +32,17 @@
         {
           "id": "M1.3",
           "name": "Implement open-implementable items",
-          "state": "in_progress"
+          "state": "done"
         },
         {
           "id": "M1.4",
           "name": "Independent verification and review",
-          "state": "not_started"
+          "state": "done"
         },
         {
           "id": "M1.5",
           "name": "Client-ready change summary",
-          "state": "not_started"
+          "state": "done"
         },
         {
           "id": "M1.6",
@@ -76,23 +76,31 @@
   ],
   "baseline_verification": {
     "date": "2026-09-26",
+    "label": "post-closeout",
     "build": {
       "result": "pass",
-      "pages": 260
+      "pages": 258
     },
     "lint": {
       "result": "pass",
       "errors": 0,
-      "warnings": 2
+      "warnings": 0
     },
     "linkcheck": {
-      "pages": 261,
+      "pages": 258,
       "broken_links": 0,
       "missing_anchors": 0,
       "h1_issues": 0,
-      "duplicate_titles": 1
+      "duplicate_titles": 0
     },
-    "catalog_regeneration_stable": false
+    "catalog_regeneration_stable": true,
+    "sitemap_urls": 253,
+    "static_html_content": {
+      "contact_forms": 1,
+      "contact_inputs": 21,
+      "products_hub_links": 145,
+      "resources_entries": 34
+    }
   },
   "confirmed_defects": [
     {
@@ -128,7 +136,7 @@
       "severity": "blocker",
       "summary": "Contact form, products hub and resources hub render no content in static HTML (useSearchParams forces the Suspense fallback to prerender)",
       "location": "src/app/contact/page.tsx, src/app/products/page.tsx, src/app/resources/page.tsx",
-      "state": "in_progress"
+      "state": "fixed"
     },
     {
       "id": "DEF-6",

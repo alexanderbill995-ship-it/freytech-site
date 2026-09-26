@@ -172,7 +172,7 @@ export const products: Product[] = [
   // ───────────────────────── Chemical delivery ─────────────────────────
   {
     slug: "pulsar-precision", name: "Pulsar Precision", manufacturer: "pulsar", category: "chemical-delivery-chlorination", status: "published", availability: "request", featured: true, flagshipHref: "/pulsar-precision-feeders/",
-    aliases: ["PS-1HCE", "Pulsar HCE", "Pulsar 500 replacement", "Pulsar 140 replacement", "cal hypo feeder"], keywords: ["calcium hypochlorite", "chlorinator", "briquette feeder", "large pool chlorination", "waterpark chlorination"],
+    aliases: ["PS-1HCE", "Pulsar HCE", "Pulsar 500 replacement", "Pulsar 140 replacement", "Pulsar 4 replacement", "Pulsar 3 replacement", "cal hypo feeder"], keywords: ["calcium hypochlorite", "chlorinator", "briquette feeder", "large pool chlorination", "waterpark chlorination"],
     headline: "High-capacity calcium hypochlorite feed for very large pools and peak bather loads",
     shortDescription: "Patented high-capacity erosion feeder for calcium hypochlorite briquettes; manufacturer-rated for 500,000 to 1,000,000+ gallon pools; up to 189 lb/day available chlorine.",
     overview: ["Pulsar Precision (model PS-1HCE) erodes Pulsar Plus calcium hypochlorite briquettes into a concentrated chlorine solution on demand from the chemistry controller. Pulsar positions it for very large pools, water parks, and competition venues. It replaces bulk liquid bleach or gas chlorine with a dry chemical stored as a solid.", "FreyTech qualifies each site by measured chlorine demand, hydraulics, storage, and code, not by brochure gallonage, and installs the feeder with a booster/Venturi loop, controller interlocks, and operator training."],

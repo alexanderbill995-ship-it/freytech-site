@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/Button";
 import { CTABand } from "@/components/ui/CTABand";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { ProductLibrary } from "@/components/catalog/ProductLibrary";
+import { ProductLibraryFallback } from "@/components/catalog/ProductLibraryFallback";
 import { SystemFlow } from "@/components/diagrams/SystemFlow";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata } from "@/lib/seo";
@@ -36,7 +37,7 @@ export default function Page() {
       </header>
 
       <Section tight id="library">
-        <Suspense fallback={<p>Loading the catalog…</p>}>
+        <Suspense fallback={<ProductLibraryFallback />}>
           <ProductLibrary />
         </Suspense>
         <p className={styles.helpLine}>Not finding it, or not sure what you need? <Link href="/contact/?intent=find">Help me find the right solution</Link> or call <a href="tel:+18007242770">1-800-724-2770</a>.</p>

@@ -8,7 +8,7 @@ import { useLeadForm, type Errors } from "./useLeadForm";
 import { emailRe, validPhone } from "./submit";
 import * as o from "./options";
 import { allCounties } from "@/lib/regions";
-import { site } from "@/lib/site";
+import { site, telHref } from "@/lib/site";
 import styles from "./Form.module.css";
 
 const labels: Record<string, string> = { name: "Name", firm: "Firm", email: "Email", phone: "Phone", role: "Role", project_name: "Project", county: "Project county", need: "Assistance needed", details: "Details", consent: "Consent" };
@@ -33,6 +33,7 @@ export function SpecForm() {
   const { formRef, errors, result, busy, attempted, onStart, onBlur, onSubmit } = useLeadForm({ endpoint: site.specEndpoint, formType: "specification", validate, startEvent: "spec_request_start", submitEvent: "spec_request_submit", analyticsFields: ["role", "need", "county", "project_stage"] });
   return (
     <form ref={formRef} className={styles.form} onSubmit={onSubmit} onFocus={onStart} onBlur={onBlur} noValidate>
+      <noscript><p className={styles.hint}>This form needs JavaScript to submit. If it is not working, call <a href={telHref(site.phone)}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p></noscript>
       <div className={styles.honeypot} aria-hidden="true"><label htmlFor="website_url">Leave this field empty</label><input id="website_url" name="website_url" tabIndex={-1} autoComplete="off" /></div>
       <FormStatus result={result} formLabel="specification assistance request" />
       {attempted && <ErrorSummary errors={errors} labels={labels} />}

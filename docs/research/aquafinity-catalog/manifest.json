@@ -1071,7 +1071,9 @@
    "CHLOR-reverse",
    "ChlorKing CHLOR",
    "CHLORSM",
-   "reverse polarity salt chlorinator"
+   "reverse polarity salt chlorinator",
+   "ChlorKing CLASSIC",
+   "forward polarity"
   ],
   "keywords": [
    "salt chlorinator commercial pool",
@@ -4334,7 +4336,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "docs": [],
@@ -4364,7 +4366,7 @@
    "energy savings",
    "evaporation"
   ],
-  "notes": "Manufacturer of the T-STAR brochure not identified from public sources.",
+  "notes": "Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.",
   "uncertainties": "Confirm manufacturer before quoting.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/energy-saver-pool-covers/",
   "family": "Energy Saver Pool Covers",
@@ -4385,12 +4387,12 @@
   "headline": "Thermal blankets that cut heat and evaporation loss overnight",
   "description": "Thermal pool covers reduce evaporation, heat loss, and humidity load when the pool is closed, which is one of the fastest-payback energy measures for an indoor pool. The T-STAR product shown in the competitive catalog is being traced to its manufacturer. FreyTech can help size a cover and reel system for your pool.",
   "_part": "manifest-part2.json",
-  "manufacturerSlug": "manufacturer-not-yet-identified",
-  "proposedUrl": "/products/deck-equipment/t-star-thermal-pool-covers/"
+  "manufacturerSlug": "unidentified",
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "docs": [],
@@ -4415,7 +4417,7 @@
   "keywords": [
    "cover"
   ],
-  "notes": "Manufacturer not identified.",
+  "notes": "Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.",
   "uncertainties": "Confirm manufacturer.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/titan-pool-covers/",
   "family": "TITAN Series",
@@ -4436,8 +4438,8 @@
   "headline": "Heavy-duty pool covers for commercial pools",
   "description": "The TITAN Series is a commercial pool cover line shown in the competitive catalog without a named manufacturer. FreyTech will identify the source and compare it with other thermal and safety cover options before recommending one.",
   "_part": "manifest-part2.json",
-  "manufacturerSlug": "manufacturer-not-yet-identified",
-  "proposedUrl": "/products/deck-equipment/titan-series-pool-covers/"
+  "manufacturerSlug": "unidentified",
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -11509,8 +11511,8 @@
    "alt": "Algigon 30 quaternary algaecide bottle"
   },
   "docs": [],
-  "description": "Algigon 30 is a 30 percent poly-quat algaecide sold in 32 oz bottles for routine algae prevention in chlorinated pools. Poly-quat formulas are non-foaming and non-metallic, so they do not stain surfaces or interfere with most sanitizers. It suits seasonal and outdoor pools that need a preventive dose during warm months.",
-  "headline": "Preventive poly-quat algaecide for routine maintenance",
+  "description": "Algigon 30 is a quaternary-ammonium algaecide sold in 32 oz bottles for routine algae prevention in chlorinated pools. Composition and performance details are not published pending a sourced product label or SDS. It suits seasonal and outdoor pools that need a preventive dose during warm months.",
+  "headline": "Preventive quaternary-ammonium algaecide for routine maintenance",
   "applications": [
    "Weekly algae prevention",
    "Seasonal opening treatment"
@@ -11527,17 +11529,10 @@
    "stabilize-water-chemistry"
   ],
   "features": [
-   "30% poly-quat active",
-   "Non-foaming, non-metallic",
+   "Quaternary-ammonium algaecide",
    "32 oz bottle"
   ],
-  "specs": [
-   {
-    "k": "Active",
-    "v": "30% poly-quat",
-    "src": "Aquafinity algaecides page (unverified)"
-   }
-  ],
+  "specs": [],
   "models": [],
   "aliases": [
    "Algigon",
@@ -11578,8 +11573,8 @@
    "alt": "Premium 60 quaternary algaecide bottle"
   },
   "docs": [],
-  "description": "Premium 60 is a 60 percent poly-quat algaecide in 32 oz bottles, a stronger concentration than Algigon 30 for heavier algae pressure or curative dosing. It is non-foaming and non-metallic. It suits busy outdoor pools and facilities that want fewer, smaller doses.",
-  "headline": "Higher-strength poly-quat for heavy algae pressure",
+  "description": "Premium 60 is a quaternary-ammonium algaecide sold in 32 oz bottles as a private-label product in the Aquafinity catalog. Composition and performance details are not published pending a sourced product label or SDS. It suits facilities managing algae in outdoor or high-use pools.",
+  "headline": "Quaternary-ammonium algaecide for algae management",
   "applications": [
    "Curative algae treatment",
    "Maintenance dosing at high bather loads"
@@ -11596,17 +11591,10 @@
    "stabilize-water-chemistry"
   ],
   "features": [
-   "60% poly-quat active",
-   "Non-foaming, non-metallic",
+   "Quaternary-ammonium algaecide",
    "32 oz bottle"
   ],
-  "specs": [
-   {
-    "k": "Active",
-    "v": "60% poly-quat",
-    "src": "Aquafinity algaecides page (unverified)"
-   }
-  ],
+  "specs": [],
   "models": [],
   "aliases": [
    "Premium 60",
@@ -11646,8 +11634,8 @@
    "alt": "Terminator II copper algaecide bottle"
   },
   "docs": [],
-  "description": "Terminator II is a two-phase copper-based algaecide for black, green and mustard algae, sold in 32 oz bottles. Copper algaecides work on stubborn growth that quats do not clear, but they can stain if metals are not managed. It suits facilities dealing with a persistent algae problem rather than routine prevention.",
-  "headline": "Copper algaecide for black and mustard algae",
+  "description": "Terminator II is a copper-based algaecide sold in 32 oz bottles. Composition, copper percentage and performance details are not published pending a sourced product label or SDS. It suits facilities dealing with a persistent algae problem rather than routine prevention.",
+  "headline": "Copper-based algaecide for persistent algae",
   "applications": [
    "Black and mustard algae treatment",
    "Green-pool recovery"
@@ -11664,8 +11652,7 @@
    "stabilize-water-chemistry"
   ],
   "features": [
-   "Copper-based, two-phase formula",
-   "Targets black, green and mustard algae",
+   "Copper-based algaecide",
    "32 oz bottle"
   ],
   "specs": [],
@@ -14632,7 +14619,10 @@
   "models": [],
   "aliases": [
    "Lumiso Expert",
-   "Pooltest Expert"
+   "Pooltest Expert",
+   "Pooltest 9",
+   "Pooltest 25",
+   "Pooltest 10"
   ],
   "keywords": [
    "benchtop pool photometer",

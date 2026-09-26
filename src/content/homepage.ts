@@ -1,12 +1,8 @@
 /**
  * Homepage copy. Everything attributed to Angelo or describing owner history is
  * PROPOSED and flagged for approval (see docs/OWNER-VERIFICATION-CHECKLIST.md).
- * The years figure comes from site.since (current site: business purchased 1987).
+ * The founding year is not published here; About reads it from site.since.
  */
-import { site } from "@/lib/site";
-
-/** Company tenure comes from the current site's 1987 purchase statement; confirm before publishing a number. */
-export const companySince = site.since;
 
 export const hero = {
   eyebrow: "Commercial water quality · New York State outside NYC",

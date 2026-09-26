@@ -1,0 +1,222 @@
+{
+  "project": "freytech-site",
+  "client": "Frey Technologies, Inc. (Angelo DiCiaccio)",
+  "delivery_partner": "Rook",
+  "updated": "2026-09-26",
+  "head_commit": "ce297ac",
+  "origin_commit": "3488487",
+  "unpushed_commits": 2,
+  "working_tree": "clean",
+  "current_milestone": "M1",
+  "milestones": [
+    {
+      "id": "M1",
+      "name": "Website closeout",
+      "state": "in_progress",
+      "tasks": [
+        {
+          "id": "M1.0",
+          "name": "Reconstruct project state",
+          "state": "done"
+        },
+        {
+          "id": "M1.1",
+          "name": "Establish governance and specialist agents",
+          "state": "done"
+        },
+        {
+          "id": "M1.2",
+          "name": "Verified outstanding-work checklist",
+          "state": "done"
+        },
+        {
+          "id": "M1.3",
+          "name": "Implement open-implementable items",
+          "state": "in_progress"
+        },
+        {
+          "id": "M1.4",
+          "name": "Independent verification and review",
+          "state": "not_started"
+        },
+        {
+          "id": "M1.5",
+          "name": "Client-ready change summary",
+          "state": "not_started"
+        },
+        {
+          "id": "M1.6",
+          "name": "Publish preview (Alex approval)",
+          "state": "blocked",
+          "blocked_by": "E-2"
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "name": "Grant intelligence",
+      "state": "scoping_required",
+      "blocked_by": "client requirements not recorded"
+    },
+    {
+      "id": "M3",
+      "name": "Bid/opportunity filtering",
+      "state": "not_scoped"
+    },
+    {
+      "id": "M4",
+      "name": "Sales and outreach automation",
+      "state": "not_scoped"
+    },
+    {
+      "id": "M5",
+      "name": "CRM and owner visibility",
+      "state": "not_scoped"
+    }
+  ],
+  "baseline_verification": {
+    "date": "2026-09-26",
+    "build": {
+      "result": "pass",
+      "pages": 260
+    },
+    "lint": {
+      "result": "pass",
+      "errors": 0,
+      "warnings": 2
+    },
+    "linkcheck": {
+      "pages": 261,
+      "broken_links": 0,
+      "missing_anchors": 0,
+      "h1_issues": 0,
+      "duplicate_titles": 1
+    },
+    "catalog_regeneration_stable": false
+  },
+  "confirmed_defects": [
+    {
+      "id": "DEF-1",
+      "severity": "major",
+      "summary": "Two manufacturer pages share the title 'Manufacturer not yet identified'",
+      "location": "src/content/catalog/manufacturers.generated.ts:14,31",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-2",
+      "severity": "major",
+      "summary": "Catalog generator re-stamps ~134 public 'facts verified' dates with the build date",
+      "location": "scripts/generate-catalog.cjs:43",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-3",
+      "severity": "minor",
+      "summary": "Two unused-variable lint warnings",
+      "location": "src/app/about/page.tsx:6, src/app/page.tsx:19",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-4",
+      "severity": "blocker",
+      "summary": "/products 301 redirect in _redirects and vercel.json made the entire 147-product catalog unreachable on Netlify/Vercel (invisible on the GitHub Pages preview)",
+      "location": "public/_redirects:10, vercel.json:45",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-5",
+      "severity": "blocker",
+      "summary": "Contact form, products hub and resources hub render no content in static HTML (useSearchParams forces the Suspense fallback to prerender)",
+      "location": "src/app/contact/page.tsx, src/app/products/page.tsx, src/app/resources/page.tsx",
+      "state": "in_progress"
+    },
+    {
+      "id": "DEF-6",
+      "severity": "major",
+      "summary": "Pulsar Precision page displayed a Pulsar Infinity photo with that product's alt text",
+      "location": "scripts/attach-images.cjs:14",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-7",
+      "severity": "major",
+      "summary": "Three algaecides published unsourced concentration and performance claims against an explicit manifest instruction",
+      "location": "docs/research/aquafinity-catalog/manifest-part4.json",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-8",
+      "severity": "major",
+      "summary": "'Facts verified against manufacturer literature' rendered on products with zero source URLs",
+      "location": "src/app/products/[category]/[slug]/page.tsx:93",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-9",
+      "severity": "major",
+      "summary": "78 product pages rendered an empty specifications table beneath a verification claim",
+      "location": "src/app/products/[category]/[slug]/page.tsx",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-10",
+      "severity": "major",
+      "summary": "All 44 manufacturer pages missing from sitemap.xml",
+      "location": "src/app/sitemap.ts",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-11",
+      "severity": "major",
+      "summary": "128 of 134 generated meta descriptions truncated mid-word",
+      "location": "scripts/generate-catalog.cjs",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-12",
+      "severity": "minor",
+      "summary": "Region headings ungrammatical on 3 of 9 regions ('in the Western New York')",
+      "location": "src/app/service-area/[slug]/page.tsx",
+      "state": "fixed"
+    },
+    {
+      "id": "DEF-13",
+      "severity": "minor",
+      "summary": "About page title asserted 'Since 1987' where no confirm marker reaches; at-a-glance said 'Established' where the source says 'purchased'",
+      "location": "src/app/about/page.tsx:20,66",
+      "state": "fixed"
+    }
+  ],
+  "escalations": [
+    {
+      "id": "E-1",
+      "severity": "blocking",
+      "owner": "Alex",
+      "summary": "No record of client requests after 2026-09-16 exists in or outside the repository; raw requests needed or confirmation that none are newer"
+    },
+    {
+      "id": "E-2",
+      "severity": "blocking_publication",
+      "owner": "Alex",
+      "summary": "Client review preview is two commits stale; pushing is a client-facing publication action requiring approval"
+    },
+    {
+      "id": "E-3",
+      "severity": "high",
+      "owner": "Angelo",
+      "summary": "Form delivery endpoint undecided since 2026-09-15; site cannot capture a lead until chosen"
+    },
+    {
+      "id": "E-4",
+      "severity": "high",
+      "owner": "Angelo",
+      "summary": "123 manufacturer product renders hosted (113 live) with no written permission from any manufacturer; all project docs previously said none were hosted"
+    }
+  ],
+  "agents": [
+    "freytech-implementer",
+    "freytech-content-verifier",
+    "freytech-tester",
+    "freytech-reviewer"
+  ]
+}

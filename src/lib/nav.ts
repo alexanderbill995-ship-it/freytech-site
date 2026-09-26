@@ -70,6 +70,7 @@ export const footerNav: { heading: string; items: NavItem[] }[] = [
     heading: "Products & Solutions",
     items: [
       { label: "All products", href: "/products/" },
+      { label: "Browse by manufacturer", href: "/manufacturers/" },
       { label: "BECSys5 Automated Controls", href: "/becsys5-controls/" },
       { label: "Pulsar Precision Feeders", href: "/pulsar-precision-feeders/" },
       { label: "Pulsar Commercial Chlorination", href: "/pulsar-chlorination/" },

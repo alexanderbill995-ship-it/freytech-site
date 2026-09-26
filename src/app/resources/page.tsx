@@ -7,6 +7,7 @@ import { Callout } from "@/components/ui/Card";
 import { CTABand } from "@/components/ui/CTABand";
 import { TrackedLink } from "@/components/ui/TrackedLink";
 import { ResourceLibrary } from "@/components/catalog/ResourceLibrary";
+import { ResourceLibraryFallback } from "@/components/catalog/ResourceLibraryFallback";
 import { pageMetadata } from "@/lib/seo";
 import { articles } from "@/content/resources";
 import { site } from "@/lib/site";
@@ -23,7 +24,7 @@ export default function Page() {
     <>
       <PageHero eyebrow="Resource library" title="Technical resources for operators, facilities teams, and design professionals" lede="Manufacturer-hosted documents, FreyTech operator guides, and current New York regulatory references, filterable by product, manufacturer, type, and category. Documents that cannot be republished are listed as available on request." crumbs={[{ name: "Resources", href: "/resources/" }]} compact />
       <Section>
-        <Suspense fallback={<p>Loading resources…</p>}><ResourceLibrary /></Suspense>
+        <Suspense fallback={<ResourceLibraryFallback />}><ResourceLibrary /></Suspense>
         <Callout title="Safety data sheets and manufacturer documents" tone="info">
           <p>To request an SDS for a chemical supplied by FreyTech, or a manufacturer document listed as available on request, email <TrackedLink href={`mailto:${site.email}?subject=Document%20request`} event="email_click" payload={{ location: "resources" }}>{site.email}</TrackedLink> or use the <Link href="/contact/?intent=information">request form</Link>. Proprietary documents are shared under the manufacturers&apos; terms.</p>
         </Callout>

@@ -11,7 +11,10 @@ const handSlugs = [...hand.matchAll(/slug: "([^"]+)", name:/g)].map((m) => m[1])
 const out = {};
 for (const r of rows) {
   if (!r.image || !r.image.localFile || !fs.existsSync(r.image.localFile)) continue;
-  const bySlug = handSlugs.find((s) => r.proposedSlug === s) || handSlugs.find((s) => new RegExp(`\\b${s}\\b`).test(r.notes || ''));
+  // The notes-text fallback only applies to duplicate/family rows (per the module doc comment above); other
+  // dispositions (e.g. "published") may merely *mention* a sibling hand slug in their notes without meaning
+  // to hand off their photo to it (this previously caused pulsar-infinity's photo to attach to pulsar-precision).
+  const bySlug = handSlugs.find((s) => r.proposedSlug === s) || ((r.disposition === 'duplicate' || r.disposition === 'family') && handSlugs.find((s) => new RegExp(`\\b${s}\\b`).test(r.notes || '')));
   if (!bySlug || out[bySlug]) continue;
   out[bySlug] = { src: '/' + r.image.localFile.replace(/^public\//, ''), alt: r.image.alt || r.product, width: r.image.width || 1200, height: r.image.height || 1200, sourceUrl: r.image.sourceUrl || '', status: r.image.status || 'unknown', license: r.image.status === 'manufacturer-public-asset' ? 'Manufacturer public product asset; source URL recorded' : 'Pending permission review' };
 }

@@ -94,10 +94,10 @@ export default function Page() {
           <div>
             <h2>Warranty and RMA coordination</h2>
             <div className="prose" style={{ marginTop: "var(--sp-4)" }}>
-              <p>All products sold and installed by Frey Technologies are covered by factory warranties, whose terms vary by manufacturer. Frey Technologies honors those warranties fully and works to provide the fastest applicable solution to warranty issues.</p>
+              <p><Confirm note="Confirm this warranty commitment">All products sold and installed by Frey Technologies are covered by factory warranties, whose terms vary by manufacturer. Frey Technologies honors those warranties fully and works to provide the fastest applicable solution to warranty issues.</Confirm></p>
               <p><Confirm note="Confirm policy">Frey Technologies guarantees all labor for one year from initial installation on equipment installed by Frey Technologies personnel.</Confirm> Where products are replaced by the factory, labor for removal and reinstallation may be the customer&apos;s responsibility, as determined by a Frey Technologies representative.</p>
-              <p>Warranties do not cover cosmetic damage; damage from accident, misuse, or negligence; products or installations modified by anyone other than a Frey Technologies representative; or damage from improper operation, maintenance, or attempted repair by anyone other than Frey Technologies&apos; authorized representatives.</p>
-              <p>For warranty service, provide a report describing the claim and any malfunctions, and a copy of the invoice showing proof of purchase and date. Returned equipment is issued a Return Authorization (RA) number before shipment; write the RA number clearly on the package.</p>
+              <p><Confirm note="Confirm these warranty exclusions">Warranties do not cover cosmetic damage; damage from accident, misuse, or negligence; products or installations modified by anyone other than a Frey Technologies representative; or damage from improper operation, maintenance, or attempted repair by anyone other than Frey Technologies&apos; authorized representatives.</Confirm></p>
+              <p><Confirm note="Confirm the RA return process is current">For warranty service, provide a report describing the claim and any malfunctions, and a copy of the invoice showing proof of purchase and date. Returned equipment is issued a Return Authorization (RA) number before shipment; write the RA number clearly on the package.</Confirm></p>
             </div>
           </div>
           <div>

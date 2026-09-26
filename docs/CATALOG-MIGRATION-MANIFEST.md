@@ -1,19 +1,19 @@
 # Catalog Migration Manifest
 
-Generated 2026-09-16 from 4 manifest part files. Machine-readable version: `docs/research/aquafinity-catalog/manifest.json`.
+Generated 2026-09-26 from 4 manifest part files. Machine-readable version: `docs/research/aquafinity-catalog/manifest.json`.
 
 | Metric | Count |
 |---|---|
 | Aquafinity catalog pages crawled | 80 (1 index, 9 categories, 70 family/product pages) |
 | Product families covered by manifest rows | 71 |
 | Products/models (manifest rows) | 224 |
-| Published as FreyTech entries | 134 |
+| Published as FreyTech entries | 132 |
 | Included within a family page | 42 |
 | Duplicate of another listing | 14 |
 | Discontinued (with evidence) | 10 |
-| Intentionally excluded (documented) | 24 |
-| Generated catalog records (new) | 134 |
-| Images downloaded from manufacturers | 130 |
+| Intentionally excluded (documented) | 26 |
+| Generated catalog records (new) | 132 |
+| Images downloaded from manufacturers | 122 |
 | Images awaiting permission / unknown | 94 |
 
 | Source URL | Aquafinity category | Family | Product/model | Manufacturer | Manufacturer URL | FreyTech category | FreyTech URL | Image source | Image status | Docs | Disposition | Availability | Verification | Notes | Uncertainties |
@@ -87,8 +87,8 @@ Generated 2026-09-16 from 4 manifest part files. Machine-readable version: `docs
 | https://aquafinity.com/catalog/deck-equipment/duraflex/ | deck-equipment | Duraflex diving | Duraflex three-meter diving stand | Duraflex International | https://duraflexinternational.com/ | deck-equipment | /products/deck-equipment/duraflex-three-meter-stand/ | https://duraflexinternational.com/ | manufacturer-public-asset | 1 | published | request | partially-verified |  |  |
 | https://aquafinity.com/catalog/deck-equipment/duraflex/ | deck-equipment | Duraflex diving | Duraflex Short Stand | Duraflex International | https://duraflexinternational.com/ | deck-equipment | /products/deck-equipment/duraflex-short-stand/ | https://duraflexinternational.com/ | manufacturer-public-asset | 1 | published | request | partially-verified |  |  |
 | https://aquafinity.com/catalog/deck-equipment/deck-grating/ | deck-equipment | Lawson SuperGrip | Lawson Aquatics SuperGrip deck grating | Lawson Aquatics (Neptune Benson, a Xylem brand) | https://www.xylem.com/en-us/brand/neptune-benson/ | deck-equipment | /products/deck-equipment/lawson-supergrip-deck-grating/ |  | unknown | 0 | published | request | partially-verified |  | Only Knorr/Aquafinity-hosted images and PDFs found; request Xylem literature. |
-| https://aquafinity.com/catalog/deck-equipment/energy-saver-pool-covers/ | deck-equipment | Energy Saver Pool Covers | T-STAR energy-saver thermal pool covers | Manufacturer not yet identified |  | deck-equipment | /products/deck-equipment/t-star-thermal-pool-covers/ |  | unknown | 0 | published | request | pending-verification | Manufacturer of the T-STAR brochure not identified from public sources. | Confirm manufacturer before quoting. |
-| https://aquafinity.com/catalog/deck-equipment/titan-pool-covers/ | deck-equipment | TITAN Series | TITAN Series pool covers | Manufacturer not yet identified |  | deck-equipment | /products/deck-equipment/titan-series-pool-covers/ |  | unknown | 0 | published | request | pending-verification | Manufacturer not identified. | Confirm manufacturer. |
+| https://aquafinity.com/catalog/deck-equipment/energy-saver-pool-covers/ | deck-equipment | Energy Saver Pool Covers | T-STAR energy-saver thermal pool covers | Manufacturer not yet identified |  | deck-equipment |  |  | unknown | 0 | excluded | request | pending-verification | Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available. | Confirm manufacturer before quoting. |
+| https://aquafinity.com/catalog/deck-equipment/titan-pool-covers/ | deck-equipment | TITAN Series | TITAN Series pool covers | Manufacturer not yet identified |  | deck-equipment |  |  | unknown | 0 | excluded | request | pending-verification | Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available. | Confirm manufacturer. |
 | https://aquafinity.com/catalog/deck-equipment/meyco-safety-cover/ | deck-equipment | Meyco Safety Pool Covers | Meyco safety pool covers (mesh and solid) | Meyco Products | https://www.meycoproducts.com/ | deck-equipment | /products/deck-equipment/meyco-safety-pool-covers/ | https://www.meycoproducts.com/ | permission-required | 0 | published | request | partially-verified |  |  |
 | https://aquafinity.com/catalog/deck-equipment/meyco-cover-faqs/ | deck-equipment | Meyco Cover FAQs | Meyco Cover FAQs (editorial) | Meyco Products | https://www.meycoproducts.com/ | deck-equipment |  |  | unknown | 0 | excluded | request | partially-verified | Excluded: editorial FAQ content, not a product. |  |
 | https://aquafinity.com/catalog/deck-equipment/guard-chairs/ | deck-equipment | Guard Chairs | Paragon Griff's Guard Station and Griff's Vision | Paragon (Pentair) | https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html | deck-equipment | /products/deck-equipment/paragon-griffs-guard-station/ | https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html | manufacturer-public-asset | 1 | published | request | partially-verified |  |  |

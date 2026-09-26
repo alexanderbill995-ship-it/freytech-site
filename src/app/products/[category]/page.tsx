@@ -113,10 +113,12 @@ export default async function Page({ params }: PageProps<"/products/[category]">
             {docs.length ? <ul className={p.checkList}>{docs.map((d) => <li key={d.id}>{d.external ? <a href={d.href} target="_blank" rel="noopener">{d.title}</a> : <Link href={d.href!}>{d.title}</Link>} <span className={p.small}>({d.type}{d.fileType === "PDF" ? ", PDF" : ""})</span></li>)}</ul> : <p>Documents are provided on request.</p>}
             <p style={{ marginTop: "var(--sp-4)" }}><Link href={`/resources/?category=${c.slug}`}>Resource library filtered to {c.short.toLowerCase()}</Link></p>
           </div>
+          {relProblems.length > 0 && (
           <div>
             <SectionHeader eyebrow="Solutions" title="Problems this category addresses" />
             <ul className={p.checkList}>{relProblems.map((pr) => <li key={pr.slug}><Link href={problemHref(pr.slug)}>{pr.name}</Link></li>)}</ul>
           </div>
+          )}
         </div>
         {c.faqs?.length ? <div style={{ marginTop: "var(--sp-12)" }}><FAQ items={c.faqs} title={`${c.name}: common questions`} id={`faq-${c.slug}`} /></div> : null}
       </Section>

@@ -35,15 +35,6 @@
     "status": "manufacturer-public-asset",
     "license": "Manufacturer public product asset; source URL recorded"
   },
-  "pulsar-precision": {
-    "src": "/images/products/pulsar-infinity.webp",
-    "alt": "Pulsar Infinity calcium hypochlorite tablet feeder",
-    "width": 1024,
-    "height": 1936,
-    "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2021/05/pulsar-feeder-angle-1.png",
-    "status": "manufacturer-public-asset",
-    "license": "Manufacturer public product asset; source URL recorded"
-  },
   "pulsar-plus-briquettes": {
     "src": "/images/products/pulsar-plus-briquettes.webp",
     "alt": "Pulsar Plus calcium hypochlorite briquettes",
@@ -53,21 +44,21 @@
     "status": "manufacturer-public-asset",
     "license": "Manufacturer public product asset; source URL recorded"
   },
+  "pulsar-precision": {
+    "src": "/images/products/pulsar-precision.webp",
+    "alt": "Pulsar Precision calcium hypochlorite feed system",
+    "width": 1200,
+    "height": 1581,
+    "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2021/07/pulsar-precision-new.jpg",
+    "status": "manufacturer-public-asset",
+    "license": "Manufacturer public product asset; source URL recorded"
+  },
   "pulsar-precision-30": {
     "src": "/images/products/pulsar-precision-30.webp",
     "alt": "Pulsar Precision 30 calcium hypochlorite feeder",
     "width": 422,
     "height": 1000,
     "sourceUrl": "https://pulsarpools.com/wp-content/uploads/2022/08/precision-30.png",
-    "status": "manufacturer-public-asset",
-    "license": "Manufacturer public product asset; source URL recorded"
-  },
-  "stark-bulkheads": {
-    "src": "/images/products/adg-bulkheads.webp",
-    "alt": "ADG stainless steel movable bulkhead in a competition pool",
-    "width": 1200,
-    "height": 1200,
-    "sourceUrl": "https://www.aquaticgroup.com/",
     "status": "manufacturer-public-asset",
     "license": "Manufacturer public product asset; source URL recorded"
   },

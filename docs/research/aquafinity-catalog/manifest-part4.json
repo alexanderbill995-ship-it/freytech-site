@@ -368,8 +368,8 @@
       "alt": "Algigon 30 quaternary algaecide bottle"
     },
     "docs": [],
-    "description": "Algigon 30 is a 30 percent poly-quat algaecide sold in 32 oz bottles for routine algae prevention in chlorinated pools. Poly-quat formulas are non-foaming and non-metallic, so they do not stain surfaces or interfere with most sanitizers. It suits seasonal and outdoor pools that need a preventive dose during warm months.",
-    "headline": "Preventive poly-quat algaecide for routine maintenance",
+    "description": "Algigon 30 is a quaternary-ammonium algaecide sold in 32 oz bottles for routine algae prevention in chlorinated pools. Composition and performance details are not published pending a sourced product label or SDS. It suits seasonal and outdoor pools that need a preventive dose during warm months.",
+    "headline": "Preventive quaternary-ammonium algaecide for routine maintenance",
     "applications": [
       "Weekly algae prevention",
       "Seasonal opening treatment"
@@ -386,17 +386,10 @@
       "stabilize-water-chemistry"
     ],
     "features": [
-      "30% poly-quat active",
-      "Non-foaming, non-metallic",
+      "Quaternary-ammonium algaecide",
       "32 oz bottle"
     ],
-    "specs": [
-      {
-        "k": "Active",
-        "v": "30% poly-quat",
-        "src": "Aquafinity algaecides page (unverified)"
-      }
-    ],
+    "specs": [],
     "models": [],
     "aliases": [
       "Algigon",
@@ -434,8 +427,8 @@
       "alt": "Premium 60 quaternary algaecide bottle"
     },
     "docs": [],
-    "description": "Premium 60 is a 60 percent poly-quat algaecide in 32 oz bottles, a stronger concentration than Algigon 30 for heavier algae pressure or curative dosing. It is non-foaming and non-metallic. It suits busy outdoor pools and facilities that want fewer, smaller doses.",
-    "headline": "Higher-strength poly-quat for heavy algae pressure",
+    "description": "Premium 60 is a quaternary-ammonium algaecide sold in 32 oz bottles as a private-label product in the Aquafinity catalog. Composition and performance details are not published pending a sourced product label or SDS. It suits facilities managing algae in outdoor or high-use pools.",
+    "headline": "Quaternary-ammonium algaecide for algae management",
     "applications": [
       "Curative algae treatment",
       "Maintenance dosing at high bather loads"
@@ -452,17 +445,10 @@
       "stabilize-water-chemistry"
     ],
     "features": [
-      "60% poly-quat active",
-      "Non-foaming, non-metallic",
+      "Quaternary-ammonium algaecide",
       "32 oz bottle"
     ],
-    "specs": [
-      {
-        "k": "Active",
-        "v": "60% poly-quat",
-        "src": "Aquafinity algaecides page (unverified)"
-      }
-    ],
+    "specs": [],
     "models": [],
     "aliases": [
       "Premium 60",
@@ -499,8 +485,8 @@
       "alt": "Terminator II copper algaecide bottle"
     },
     "docs": [],
-    "description": "Terminator II is a two-phase copper-based algaecide for black, green and mustard algae, sold in 32 oz bottles. Copper algaecides work on stubborn growth that quats do not clear, but they can stain if metals are not managed. It suits facilities dealing with a persistent algae problem rather than routine prevention.",
-    "headline": "Copper algaecide for black and mustard algae",
+    "description": "Terminator II is a copper-based algaecide sold in 32 oz bottles. Composition, copper percentage and performance details are not published pending a sourced product label or SDS. It suits facilities dealing with a persistent algae problem rather than routine prevention.",
+    "headline": "Copper-based algaecide for persistent algae",
     "applications": [
       "Black and mustard algae treatment",
       "Green-pool recovery"
@@ -517,8 +503,7 @@
       "stabilize-water-chemistry"
     ],
     "features": [
-      "Copper-based, two-phase formula",
-      "Targets black, green and mustard algae",
+      "Copper-based algaecide",
       "32 oz bottle"
     ],
     "specs": [],
@@ -3368,7 +3353,10 @@
     "models": [],
     "aliases": [
       "Lumiso Expert",
-      "Pooltest Expert"
+      "Pooltest Expert",
+      "Pooltest 9",
+      "Pooltest 25",
+      "Pooltest 10"
     ],
     "keywords": [
       "benchtop pool photometer",

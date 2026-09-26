@@ -4,7 +4,7 @@ import { markets } from "@/content/markets";
 import { serviceRegions } from "@/lib/regions";
 import { installations } from "@/content/projects";
 import { articles } from "@/content/resources";
-import { publishedProducts, publishedCategories, problems, productHref, categoryHref, problemHref } from "@/content/catalog";
+import { publishedProducts, publishedCategories, problems, activeManufacturers, productHref, categoryHref, problemHref } from "@/content/catalog";
 
 export const dynamic = "force-static";
 
@@ -21,6 +21,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     u("/products/", 0.9, "weekly"),
     ...publishedCategories.map((c) => u(categoryHref(c.slug), 0.8)),
     ...publishedProducts.map((x) => u(productHref(x), 0.7)),
+    u("/manufacturers/", 0.7),
+    ...activeManufacturers.map((m) => u(`/manufacturers/${m.slug}/`, 0.5)),
     u("/pulsar-chlorination/", 0.8),
     u("/solutions/", 0.7),
     ...problems.map((x) => u(problemHref(x.slug), 0.6)),

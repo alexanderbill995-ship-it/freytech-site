@@ -7,6 +7,7 @@ import { Callout } from "@/components/ui/Card";
 import { Confirm } from "@/components/ui/Confirm";
 import { TrackedLink } from "@/components/ui/TrackedLink";
 import { ContactFormClient, ContactHeading } from "./ContactFormClient";
+import { AssessmentForm } from "@/components/forms/AssessmentForm";
 import { pageMetadata } from "@/lib/seo";
 import { site, telHref } from "@/lib/site";
 import p from "@/styles/page.module.css";
@@ -42,7 +43,7 @@ export default function Page() {
       <Section>
         <div className={p.split}>
           <div>
-            <Suspense fallback={<p>Loading form…</p>}>
+            <Suspense fallback={<AssessmentForm />}>
               <ContactFormClient />
             </Suspense>
           </div>

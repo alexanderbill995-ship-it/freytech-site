@@ -42,11 +42,6 @@
       "permanent": true
     },
     {
-      "source": "/products",
-      "destination": "/water-chemistry-modernization/",
-      "permanent": true
-    },
-    {
       "source": "/service-and-support",
       "destination": "/service-support/",
       "permanent": true
@@ -88,7 +83,7 @@
     },
     {
       "source": "/products/deck-accessibility-safety/:path*",
-      "destination": "/products/deck-equipment/",
+      "destination": "/products/deck-equipment/:path*",
       "permanent": true
     }
   ],

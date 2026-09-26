@@ -1,17 +1,17 @@
 # Catalog Omissions Report
 
-Generated 2026-09-16. Target: zero unresolved omissions.
+Generated 2026-09-26. Target: zero unresolved omissions.
 
 Aquafinity family/product pages: 70. Covered by at least one manifest row: 70. **Unresolved: 0.**
 
 All family pages are accounted for.
 
 ## Rows by disposition
-- published: 134
+- published: 132
 - family (inside a family page): 42
 - duplicate: 14
 - discontinued: 10
-- excluded: 24
+- excluded: 26
 
 ## Excluded rows (with reasons)
 - Precision Control MCC-VFD Motor Control Center: Excluded: Aquafinity/CES house-brand VFD package ('Precision Control' brand, 'connects to your CES controller'); the drive OEM is not named. FreyTech equivalent path: BECSys7 flow/VFD control with a drive from an electrical supplier, or a manufacturer-branded pump VFD package.
@@ -25,6 +25,8 @@ All family pages are accounted for.
 - Eko3 Fume-X acid fume scrubber: Excluded: Aquafinity's own store lists this as 'Eko3 Fume-X' (house brand; brochure PDF created January 2026 with no manufacturer identification). FreyTech alternative for the same need (drum-mounted acid fume scrubber with color-change reagent, 3/4 in. NPT): ProMinent Acid Fume Scrubber.
 - EKO3 pH-MTS carbon dioxide feed system: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control) with bulk CO2 from Taylor-Wharton EasyCarb (this manifest).
 - EKO3 VaporLok acid drum vent kit: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap: sealed drum bung with pump suction pass-through and vent line. Comparable manufacturer-branded parts exist from metering-pump suppliers (LMI/Stenner drum fittings) and fume-scrubber vendors.
+- T-STAR energy-saver thermal pool covers: Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.
+- TITAN Series pool covers: Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.
 - Meyco Cover FAQs (editorial): Excluded: editorial FAQ content, not a product.
 - Eko3 GEN2 hi-rate permanent media filter: Excluded: Aquafinity/Knorr Systems (KSI) house brand. The EKO3 SYSTEMS trademark (USPTO reg. 5543947) is registered to Knorr Systems, Inc., Santa Ana CA, and eko3.com redirects to knorrsystems.com. Aquafinity page sub-headings 'Product Features', 'Filter Tanks', 'Internal Components of Filter Tanks', and 'Control Valves' are sections of this single product and are covered by this object.
 - Precision Control AMF advanced media filter: Excluded: Aquafinity/CES house brand (Aquafinity's own page says Aquafinity has provided these filters since 1985 and the data sheet is Aquafinity-branded; ceswaterquality.com published 'Precision AMF Filters: First 8 Years'). Aquafinity sub-tabs 'Valves', 'Lid', 'Internals', and 'Controls' are sections of this single product and are covered by this object.

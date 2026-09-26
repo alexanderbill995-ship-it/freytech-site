@@ -9,7 +9,7 @@ import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata } from "@/lib/seo";
-import { serviceRegions } from "@/lib/regions";
+import { serviceRegions, regionPhrase } from "@/lib/regions";
 import { regionCopy } from "@/content/regionsCopy";
 import { markets } from "@/content/markets";
 import { site } from "@/lib/site";
@@ -84,7 +84,7 @@ export default async function Page({ params }: PageProps<"/service-area/[slug]">
       </Section>
 
       <Section tone="alt">
-        <SectionHeader eyebrow="Solutions" title={`What we install and service in the ${r.name}`} />
+        <SectionHeader eyebrow="Solutions" title={`What we install and service in ${regionPhrase(r.name)}`} />
         <div className="grid grid-3">
           <Card title="BECSys5 automated controls" href="/becsys5-controls/" footer="Details and FAQ"><p>Controller modernization with remote visibility, alarms, and records for pools of every size.</p></Card>
           <Card title="Pulsar Precision feeders" href="/pulsar-precision-feeders/" footer="Qualification"><p>High-capacity calcium hypochlorite delivery for large pools and high bather loads, sized by measured demand.</p></Card>
@@ -98,7 +98,7 @@ export default async function Page({ params }: PageProps<"/service-area/[slug]">
         <p className={p.small}>Other regions: {serviceRegions.filter((x) => x.slug !== r.slug).map((x, i) => <span key={x.slug}>{i > 0 && " · "}<Link href={`/service-area/${x.slug}/`}>{x.name}</Link></span>)}</p>
       </Section>
 
-      <CTABand source={`region-${r.slug}`} title={`Planning a chemistry upgrade in the ${r.name}?`} />
+      <CTABand source={`region-${r.slug}`} title={`Planning a chemistry upgrade in ${regionPhrase(r.name)}?`} />
     </>
   );
 }

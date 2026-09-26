@@ -1294,7 +1294,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "docs": [],
@@ -1324,7 +1324,7 @@
    "energy savings",
    "evaporation"
   ],
-  "notes": "Manufacturer of the T-STAR brochure not identified from public sources.",
+  "notes": "Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.",
   "uncertainties": "Confirm manufacturer before quoting.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/energy-saver-pool-covers/",
   "family": "Energy Saver Pool Covers",
@@ -1347,7 +1347,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "docs": [],
@@ -1372,7 +1372,7 @@
   "keywords": [
    "cover"
   ],
-  "notes": "Manufacturer not identified.",
+  "notes": "Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.",
   "uncertainties": "Confirm manufacturer.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/titan-pool-covers/",
   "family": "TITAN Series",

@@ -12,6 +12,14 @@ export type Region = {
   excluded?: boolean;
 };
 
+/**
+ * Region names differ on whether they take a definite article: "in the Hudson Valley"
+ * but "in Western New York". Templates must use this rather than hardcoding "the".
+ */
+export function regionPhrase(name: string): string {
+  return /New York$|^New York City$|^Long Island$/.test(name) ? name : `the ${name}`;
+}
+
 export const regions: Region[] = [
   { slug: "capital-region", name: "Capital Region", counties: ["Albany", "Columbia", "Greene", "Rensselaer", "Saratoga", "Schenectady", "Warren", "Washington"], hubs: ["Albany", "Schenectady", "Troy", "Saratoga Springs", "Glens Falls"] },
   { slug: "central-new-york", name: "Central New York", counties: ["Cayuga", "Cortland", "Madison", "Onondaga", "Oswego"], hubs: ["Syracuse", "Cortland", "Auburn", "Oswego"] },

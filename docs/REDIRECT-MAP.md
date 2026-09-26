@@ -13,7 +13,7 @@ All old URLs return 200 today except the gallery detail links (500) and sitemap.
 | `/about/news` | `/resources/` | |
 | `/about/news/20-have-you-checked-your-alkalinity-today` | `/resources/total-alkalinity-and-controllers/` | Rewritten evergreen guide |
 | `/about/resources` | `/resources/` | |
-| `/products` | `/water-chemistry-modernization/` | Catalog page retired; chemistry solutions overview |
+| `/products` | *(no redirect — serves the live catalog)* | **Corrected 2026-09-26.** This row previously sent `/products` to the modernization page. `/products/` is now the catalog hub for all published products, and because Netlify matches redirects ignoring the trailing slash, that rule made the entire catalog unreachable on Netlify and Vercel. The rule has been removed from `public/_redirects` and `vercel.json`. |
 | `/service-and-support` | `/service-support/` | |
 | `/service-and-support/capabilities` | `/service-support/` | |
 | `/service-and-support/warranties` | `/service-support/#warranty` | Anchor to warranty section |

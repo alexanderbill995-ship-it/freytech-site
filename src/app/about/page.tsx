@@ -3,7 +3,6 @@ import Link from "next/link";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
-import { Callout } from "@/components/ui/Card";
 import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { TrackedLink } from "@/components/ui/TrackedLink";
@@ -18,7 +17,7 @@ import { join } from "node:path";
 import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
-  title: "About Frey Technologies: Commercial Aquatic Systems in New York Since 1987",
+  title: "About Frey Technologies: Commercial Aquatic Systems in New York",
   description: "FreyTech designs, supplies, installs, commissions, trains, and services commercial pool water-treatment systems for institutions across New York State outside NYC, from its Wayne County office.",
   path: "/about/",
 });
@@ -64,7 +63,7 @@ export default function Page() {
                 <dt>Office</dt><dd>{site.address.street}, {site.address.city}, NY {site.address.postalCode} ({site.address.county} County)</dd>
                 <dt>Territory</dt><dd>New York State outside New York City</dd>
                 <dt>President</dt><dd>Angelo DiCiaccio</dd>
-                <dt>Established</dt><dd><Confirm note="Confirm year">{site.since}</Confirm></dd>
+                <dt>Serving New York since</dt><dd><Confirm note="Confirm year and whether the business was established or purchased in this year">{site.since}</Confirm></dd>
                 <dt>Phone</dt><dd><TrackedLink href={telHref(site.phone)} event="phone_click" payload={{ location: "about" }}>{site.phone}</TrackedLink></dd>
                 <dt>Email</dt><dd><TrackedLink href={`mailto:${site.email}`} event="email_click" payload={{ location: "about" }}>{site.email}</TrackedLink></dd>
                 <dt>Manufacturer</dt><dd>Listed New York distributor, BECS Technology</dd>

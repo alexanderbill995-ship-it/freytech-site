@@ -11,7 +11,7 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 | S.R.Smith / Stark Bulkheads | Installed at Ithaca College (current site) | Product facts yes; dealer no | Confirm relationship with S.R.Smith |
 | Aqua Creek | "Listed on FreyTech's current website" | Product facts yes; dealer form only | Confirm current status and series carried |
 | Taylor Technologies | "Listed on FreyTech's current website" | **Retail locator does NOT list FreyTech** | Confirm commercial supply relationship or change wording to "can supply" / remove |
-| Spectrum, Paragon (Pentair), Maytronics | Draft only, not rendered | Unverified | Decide publish/exclude |
+| Spectrum, Paragon (Pentair), Maytronics | **Published** (re-verified 2026-09-26): Spectrum 14 products, Paragon 9, Maytronics 1, each with a manufacturer page. All carry `availability: request` and "No formal dealer relationship is implied" | Unverified | These are already live — approve the listings or ask for removal. The earlier "draft only" note is out of date |
 | Slip MD | Excluded (manufacturer site gone) | n/a | Confirm removal |
 
 ## B. Products
@@ -22,7 +22,7 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 - [ ] Aqua Creek: approve series list and capacities; confirm which series FreyTech carries.
 - [ ] Stark/S.R.Smith: approve description; confirm Ithaca College project details.
 - [ ] Taylor: approve kit list or remove.
-- [ ] Draft categories (pumps, UV, heating, cleaning): supply manufacturers and lines, or leave unpublished.
+- [ ] **Pumps, UV, heating, cleaning categories are now PUBLISHED** (re-verified 2026-09-26) with named manufacturers: Grundfos and Speck (pumps), ETS-UV, ClearWater Tech and ChlorKing (UV), Lochinvar (heating), Hammerhead, Harmsco, Hexagone and Maytronics (cleaning). This is no longer a "supply the names" request — approve the lines as listed, or name which to remove.
 
 ## C. Facilities and markets
 - [ ] Three new market pages (Hospitality, Camps & Seasonal, Waterparks): approve copy; confirm Sagamore Resort and Culinary Institute references on Hospitality.
@@ -38,7 +38,7 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 - [ ] Xylem Defender brochure/TDS are linked to Xylem-hosted PDFs; confirm acceptable.
 
 ## F. Forms and CRM
-- [ ] Approve the nine request intents and the new fields (water-feature type, preferred contact, product of interest).
+- [ ] Approve the **twelve** request intents (re-verified 2026-09-26: angelo, availability, document, find, assessment, modernization, selection, budget, replacement, specialist, specification, information) and the new fields (water-feature type, preferred contact, product of interest).
 - [ ] Provide the Workbooks web-form endpoint or API path so `NEXT_PUBLIC_FORM_ENDPOINT` can be set (see WORKBOOKS-CRM-FIELD-MAP.md). No integration is live yet.
 
 ## G. Availability language and manufacturer browsing (added 2026-09-15)
@@ -46,3 +46,13 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 - Manufacturer pages (`/manufacturers/`) state "no dealer relationship is implied" for unverified brands. Confirm this wording is acceptable.
 - Generated catalog entries (from the competitive-catalog migration) are all `ownerApproved: false`; review `docs/CATALOG-MIGRATION-MANIFEST.md` and mark rows to keep, demote, or exclude.
 - Product images sourced from manufacturer sites are recorded with source URL and status in each record; items marked "permission-required" or "unknown" are listed in `docs/CATALOG-MIGRATION-MANIFEST.md` for approval before launch.
+
+## H. FreyTech's own warranty commitments (added 2026-09-26 — previously on no checklist)
+`/service-support/` publishes warranty language written in FreyTech's voice that binds the company,
+and it has never been on a confirmation list. Only the one-year labour guarantee carries a marker.
+- [ ] "All products sold and installed by Frey Technologies are covered by factory warranties…
+      Frey Technologies **honors those warranties fully** and works to provide the fastest applicable
+      solution." Confirm this commitment is accurate and one you want published.
+- [ ] The warranty **exclusions**, including "products or installations modified by anyone other than
+      a Frey Technologies representative". Confirm these are your current terms.
+- [ ] The RA-number return process. Confirm it is current.

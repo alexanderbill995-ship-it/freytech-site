@@ -45,9 +45,12 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
   const solutions = x.relatedSolutions.map(getProblem).filter(Boolean);
   const contactQ = `product=${encodeURIComponent(x.name)}&category=${x.category}`;
 
+  const hasCapabilities = x.features.length > 0 || x.benefits.length > 0;
   const sections = [
-    { id: "overview", label: "Overview" }, { id: "fit", label: "Is it a fit?" }, { id: "problems", label: "Problems it addresses" }, { id: "capabilities", label: "Capabilities & benefits" },
-    ...(x.models?.length ? [{ id: "models", label: "Models & configurations" }] : []), { id: "specs", label: "Specifications" }, { id: "installation", label: "Installation & retrofit" },
+    { id: "overview", label: "Overview" }, { id: "fit", label: "Is it a fit?" }, { id: "problems", label: "Problems it addresses" },
+    ...(hasCapabilities ? [{ id: "capabilities", label: "Capabilities & benefits" }] : []),
+    ...(x.models?.length ? [{ id: "models", label: "Models & configurations" }] : []),
+    ...(x.specs.length ? [{ id: "specs", label: "Specifications" }] : []), { id: "installation", label: "Installation & retrofit" },
     { id: "integration", label: "Works with" }, { id: "freytech", label: "FreyTech's role" }, { id: "documents", label: "Documents" }, ...(x.faqs.length ? [{ id: "faq", label: "FAQ" }] : []), { id: "related", label: "Related" },
   ];
 
@@ -90,7 +93,14 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
         <div className={s.topBar}>
           <BackToProducts />
           <span className={[s.availBadge, s[`avail_${x.availability}`]].join(" ")}>{availabilityLabel[x.availability]}</span>
-          <span className={s.verify}>Facts verified against manufacturer literature {x.lastVerified}. {x.claimStatus !== "verified" && <Confirm note={x.claimStatus === "partially-verified" ? "Partially verified" : "Pending verification"} />}</span>
+          <span className={s.verify}>
+            {x.sourceUrls.length === 0
+              ? <>Manufacturer literature for this product has not been obtained yet. FreyTech confirms details before quoting. </>
+              : x.claimStatus === "verified"
+                ? <>Facts verified against manufacturer literature {x.lastVerified}. </>
+                : <>Facts checked against manufacturer literature {x.lastVerified}; some details are still being confirmed. </>}
+            {x.claimStatus !== "verified" && <Confirm note={x.claimStatus === "partially-verified" ? "Partially verified" : "Pending verification"} />}
+          </span>
         </div>
         <div className={s.layout}>
           <SectionNav sections={sections} />
@@ -118,6 +128,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
               <ul className={p.checkList}>{x.problems.map((pr) => { const pb = getProblem(pr); return pb ? <li key={pr}><Link href={problemHref(pr)}>{pb.name}</Link></li> : null; })}</ul>
             </section>
 
+            {hasCapabilities && (
             <section id="capabilities" className={s.section} tabIndex={-1}>
               <h2>Key capabilities and benefits</h2>
               <div className={s.cols}>
@@ -125,6 +136,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
                 {x.benefits.length > 0 && <div><h3 style={{ fontSize: "var(--text-md)", marginBottom: "var(--sp-3)" }}>Operational and buyer benefits</h3><ul className={p.checkList}>{x.benefits.map((t) => <li key={t}>{t}</li>)}</ul></div>}
               </div>
             </section>
+            )}
 
             {x.models?.length ? (
               <section id="models" className={s.section} tabIndex={-1}>
@@ -133,6 +145,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
               </section>
             ) : null}
 
+            {x.specs.length > 0 && (
             <section id="specs" className={s.section} tabIndex={-1}>
               <h2>Technical specifications</h2>
               <div className="table-wrap">
@@ -142,6 +155,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
               </div>
               <p className={s.verify}>Specifications are summarized from manufacturer literature and depend on configuration. Confirm current values with FreyTech before design.</p>
             </section>
+            )}
 
             <section id="installation" className={s.section} tabIndex={-1}>
               <h2>Installation requirements and retrofit considerations</h2>
@@ -194,6 +208,8 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
 
             <section id="documents" className={s.section} tabIndex={-1}>
               <h2>Brochures, manuals, warranties and specifications</h2>
+              {x.docs.length === 0 && <p>No manufacturer documents are on file for this product yet. FreyTech can supply the manufacturer&apos;s current literature on request.</p>}
+              {x.docs.length > 0 && (
               <ul className={s.docs}>
                 {x.docs.map((d) => (
                   <li key={d.title} className={s.doc}>
@@ -207,6 +223,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
                   </li>
                 ))}
               </ul>
+              )}
               <p><Link href={`/resources/?product=${x.slug}`}>All resources for {x.name}</Link> · <Link href={`/contact/?${contactQ}&intent=information`}>Request documents</Link></p>
             </section>
 

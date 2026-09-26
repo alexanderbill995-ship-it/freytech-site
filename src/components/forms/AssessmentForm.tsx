@@ -9,7 +9,7 @@ import { useLeadForm, type Errors } from "./useLeadForm";
 import { emailRe, validPhone, isFreeMail, classifyTerritory } from "./submit";
 import * as o from "./options";
 import { allCounties } from "@/lib/regions";
-import { site } from "@/lib/site";
+import { site, telHref } from "@/lib/site";
 import styles from "./Form.module.css";
 
 const labels: Record<string, string> = {
@@ -48,6 +48,7 @@ export function AssessmentForm({ defaultRequest, defaultProduct, context = {}, c
 
   return (
     <form ref={formRef} className={styles.form} onSubmit={onSubmit} onFocus={onStart} onBlur={onBlur} noValidate aria-describedby="assessment-intro">
+      <noscript><p className={styles.hint}>This form needs JavaScript to submit. If it is not working, call <a href={telHref(site.phone)}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p></noscript>
       <input type="hidden" name="product_interest_context" defaultValue={defaultProduct ?? ""} />
       <input type="hidden" name="category_context" defaultValue={context.category ?? ""} />
       <input type="hidden" name="problem_context" defaultValue={context.problem ?? ""} />

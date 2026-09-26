@@ -1,12 +1,16 @@
 # QA Results: Relationship Homepage, Global Search, Full Catalog (2026-09-16)
 
+> **Accuracy correction applied 2026-09-26.** Three build-gate results in this record were
+> overstated when it was written. They are corrected inline below and marked *(Corrected …)*.
+> Current results are in `QA-RESULTS-2026-09-26.md`.
+
 Environment: static export served locally with `npx serve out`; Chrome headless for full-page captures; the desktop app's browser pane with device emulation (375×812 mobile, 768×1024 tablet) for interaction tests. Lighthouse could not be downloaded in this environment (npm registry blocked for the `lighthouse` package), so performance figures are Navigation Timing and transfer sizes.
 
 ## Build and static checks
 - `npm run build`: 262 routes (261 HTML pages + 404), no errors.
-- `npm run lint`: clean.
-- `npm run check:links`: 0 broken internal links, 0 missing anchors, one `<h1>` per page, no duplicate titles.
-- Sitemap: 224 URLs.
+- `npm run lint`: 0 errors, 2 unused-variable warnings. *(Corrected 2026-09-26: originally recorded as "clean".)*
+- `npm run check:links`: 0 broken internal links, 0 missing anchors, one `<h1>` per page. **1 duplicate title pair** — two manufacturer records shared the name "Manufacturer not yet identified". *(Corrected 2026-09-26: originally recorded as "no duplicate titles".)*
+- Sitemap: 212 URLs. *(Corrected 2026-09-26: originally recorded as 224. The 44 manufacturer pages were never emitted to the sitemap.)*
 - Catalog: 147 published product entries (13 hand-authored, 134 generated) across 12 categories and 43 manufacturers; 0 unresolved Aquafinity omissions.
 
 ## The fourteen required journeys

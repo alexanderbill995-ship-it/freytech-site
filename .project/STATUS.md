@@ -1,6 +1,6 @@
 # Status
 
-**Updated:** 2026-09-26 · **Milestone:** M1 Website closeout · **Phase:** COMPLETE, pending publication approval (E-2)
+**Updated:** 2026-09-26 · **Milestone:** M1 Website closeout · **Phase:** M1 complete and published · R1/R2 client requests complete except three blocked on Angelo
 
 ---
 
@@ -31,36 +31,17 @@ findings, all fixed.
 
 ## ESCALATIONS FOR ALEX
 
-### E-1 — BLOCKING: Angelo's post-2026-09-16 requests are not recorded anywhere
-**What I need:** the actual content of the recent change requests.
+### E-1 — RESOLVED 2026-09-26
+Alex supplied Angelo's requests (three email batches). They are now recorded **verbatim** in
+`.project/CLIENT-REQUESTS.md` with an implementation tracker, so the failure that made this an
+escalation — requests existing for days with no trace in the project — cannot repeat silently.
 
-The brief describes continued client requests including product removals, replacements and
-additions, plus additional specialty-chemical source information. I searched exhaustively:
-git history and all branches, `origin` refs, GitHub issues and pull requests (there are none),
-the working tree, ignored files, and the local Documents, Desktop and Downloads folders.
-
-**No FreyTech client-request record exists outside this repository, and the repository's last
-commit is 2026-09-16 — ten days ago.**
-
-The catalog work already committed *does* include removals, replacements, additions and
-specialty-chemical sourcing, which may be exactly what that description refers to. If so,
-the work is done and only client confirmation remains. If Angelo has sent anything **since**
-2026-09-16 — email, text, call notes, a marked-up PDF, a phone conversation — it is not here
-and I cannot reconstruct it without inventing it.
-
-**Please supply the raw request, or confirm there is nothing newer than 2026-09-16.**
-Until then I am closing out the work the repository does record, which is substantial.
-
-### E-2 — BLOCKING publication: the client's review preview is two commits stale
-`origin/main` is at `3488487` (2026-09-14). Local `main` is two commits ahead.
-GitHub Pages deploys on push, so **the preview Angelo can see today does not contain the
-relationship homepage, global search, the 147-product catalog, manufacturer pages, or the
-ownership story** — all of commit `3cc68ba`.
-
-If Angelo has been reviewing the live preview URL, he has been reviewing the 2026-09-14 site,
-which would explain requests for changes that already exist locally.
-
-Pushing publishes to a client-visible URL, so it is your call. Say the word and it goes out.
+### E-2 — RESOLVED 2026-09-26
+Alex approved the push. 13 commits deployed to the client preview. The GitHub Actions history
+confirms the previous successful Pages deploy was **2026-09-14**, so Angelo had been reviewing a
+12-day-old build. That is the direct explanation for requests that were already implemented — the
+wrong Pulsar photo he reported had been fixed hours before his note arrived, on a build he could
+not see.
 
 ### E-3 — Client decisions that have been open since 2026-09-15
 None are code problems; all need one answer from Angelo.

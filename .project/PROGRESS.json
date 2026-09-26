@@ -4,15 +4,15 @@
   "delivery_partner": "Rook",
   "updated": "2026-09-26",
   "head_commit": "f01a20c",
-  "origin_commit": "3488487",
-  "unpushed_commits": 12,
+  "origin_commit": "313e073",
+  "unpushed_commits": 0,
   "working_tree": "clean",
   "current_milestone": "M1",
   "milestones": [
     {
       "id": "M1",
       "name": "Website closeout",
-      "state": "complete_pending_publication",
+      "state": "complete",
       "tasks": [
         {
           "id": "M1.0",
@@ -47,8 +47,7 @@
         {
           "id": "M1.6",
           "name": "Publish preview (Alex approval)",
-          "state": "blocked",
-          "blocked_by": "E-2"
+          "state": "done"
         }
       ]
     },
@@ -264,15 +263,15 @@
   "escalations": [
     {
       "id": "E-1",
-      "severity": "blocking",
+      "severity": "resolved",
       "owner": "Alex",
-      "summary": "No record of client requests after 2026-09-16 exists in or outside the repository; raw requests needed or confirmation that none are newer"
+      "summary": "RESOLVED 2026-09-26: Alex supplied Angelo's requests (batches R1/R2/R3). Now recorded verbatim in .project/CLIENT-REQUESTS.md so they cannot go missing again."
     },
     {
       "id": "E-2",
-      "severity": "blocking_publication",
+      "severity": "resolved",
       "owner": "Alex",
-      "summary": "Client review preview is two commits stale; pushing is a client-facing publication action requiring approval"
+      "summary": "RESOLVED 2026-09-26: Alex approved the push; 13 commits deployed to the client preview. Confirmed the prior successful Pages deploy was 2026-09-14, so Angelo had been reviewing a 12-day-old build."
     },
     {
       "id": "E-3",

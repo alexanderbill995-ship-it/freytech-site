@@ -3,9 +3,9 @@
   "client": "Frey Technologies, Inc. (Angelo DiCiaccio)",
   "delivery_partner": "Rook",
   "updated": "2026-09-26",
-  "head_commit": "fe91ad2",
+  "head_commit": "f01a20c",
   "origin_commit": "3488487",
-  "unpushed_commits": 9,
+  "unpushed_commits": 12,
   "working_tree": "clean",
   "current_milestone": "M1",
   "milestones": [
@@ -146,10 +146,10 @@
   ],
   "baseline_verification": {
     "date": "2026-09-26",
-    "label": "post-R1/R2",
+    "label": "post-R1/R2-review-fixes",
     "build": {
       "result": "pass",
-      "pages": 205
+      "pages": 201
     },
     "lint": {
       "result": "pass",
@@ -157,15 +157,16 @@
       "warnings": 0
     },
     "linkcheck": {
-      "pages": 205,
+      "pages": 201,
       "broken_links": 0,
       "missing_anchors": 0,
       "h1_issues": 0,
       "duplicate_titles": 0
     },
     "catalog_regeneration_stable": true,
-    "published_products": 93,
-    "service_regions": 10
+    "service_regions": 10,
+    "nyc_exclusion_pages": 0,
+    "subpart_6_1_pages_retaining_phrase": 2
   },
   "confirmed_defects": [
     {

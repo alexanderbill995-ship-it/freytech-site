@@ -4,6 +4,20 @@ Newest first. Each entry: what was decided, why, and who owns it.
 
 ---
 
+## D-008 — Spectrum-only means Spectrum's catalogue, not Spectrum's brand
+**Date:** 2026-09-26 · **Owner:** Orchestrator, pending Angelo's confirmation · **Status:** Implemented
+
+Angelo asked that deck equipment and accessibility list "spectrum products only". Implemented first
+as brand-only, which removed the AntiWave and Competitor lane lines and the Duraflex diving boards.
+Checking spectrumproducts.com showed all three are Spectrum-catalogue items carrying Spectrum part
+numbers (AntiWave 558xx, Competitor 55xxx, Duraflex board 22220 with "used with its permission").
+They were restored. Angelo's own words — "they have some version of almost everything currently
+listed" — support the channel reading over the brand reading.
+
+Stark bulkheads and Aqua Creek lifts are *not* in Spectrum's catalogue and were removed. The record
+keeps each product's true manufacturer; Spectrum is the supply channel, and the two are not the
+same claim.
+
 ## D-007 — Hold the push to `origin/main`; escalate to Alex
 **Date:** 2026-09-26 · **Owner:** Alex · **Status:** OPEN — blocking client review
 

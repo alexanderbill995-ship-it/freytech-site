@@ -94,3 +94,86 @@ These have been open for a while and each needs one answer:
 The site builds cleanly with no errors and no warnings, every internal link resolves, and every
 page has a unique title. Once you've answered the items above we can turn off the amber "confirm
 before launch" markers — there are 167 pages carrying them — and it's ready to go live.
+
+---
+
+# Round two: your 24 September changes
+
+*Added 2026-09-26.*
+
+## Done
+
+**"Remove the outside of NYC."** Done everywhere — 81 places across the site, plus the schema
+search engines read. New York City is now a full service area with its own page, and the contact
+form no longer tells a Brooklyn facility manager that you don't serve them. One exception we left
+deliberately: the New York pool-chemistry guide still says "outside New York City", because that is
+the actual scope of the state regulation (10 NYCRR Subpart 6-1) — New York City runs its own health
+code. That is a statement about the law, not about your territory.
+
+**Your new address.** 356 Macedon Center Road, Fairport, Monroe County is now the office everywhere
+including the structured data Google reads. The Macedon PO Box is set up separately as a remit-to
+address and shown as one — it is not presented as your office, because it isn't.
+
+**Products removed.** All LMI. Both ClearWater Tech ozone systems. The chemical brands your
+supplier doesn't stock. Everything removed is held rather than deleted, so any of it comes back in
+minutes if you change your mind.
+
+**Deck and accessibility, Spectrum only** — with one correction worth knowing about. We first read
+that as "Spectrum-branded only", which removed the lane lines and diving boards. Checking Spectrum's
+own catalogue showed those are *Spectrum products*: the AntiWave and Competitor lane lines carry
+Spectrum part numbers, and Spectrum sells the Duraflex boards under its own part numbers with
+Duraflex's permission. So they stayed. You were right that "they have some version of almost
+everything."
+
+**Your liner section.** Added as a new Pool Surfaces and Membranes category. One naming note: CGT's
+actual product is **Infinity Pool Surface by CGT** — "Commercial Membrane" is their category name.
+We used the real product name and made "Commercial Membrane" a search term so either finds it.
+
+**Clear Comfort AOP.** All three commercial models with their real flow rates, certifications and
+maintenance requirements.
+
+**The Pulsar photo.** You were right, and it was worse than one picture. The page was showing a
+Pulsar Infinity. We found it the same morning your note arrived and fixed the underlying cause —
+which turned out to be showing a competitor's bulkhead on the Stark page too. **You were looking at
+the preview from 16 September.** That is still the newest version published, so several things you
+asked for may already be done. Getting the current build in front of you should come first.
+
+## Three we need you to settle before we publish them
+
+**WAPOTECH doesn't make a supplemental-treatment product.** No UV, no ozone, no AOP. What they make
+is sand filters, dosing chemicals, a salt system that generates chlorine — that's a *primary*
+sanitiser, not a supplement — and an air-quality monitor that measures chloramine rather than
+treating it. Filing it under "supplemental" is the sort of thing that gets a specification kicked
+back on review. Tell us which part of their line you carry and we'll put it where it belongs.
+
+**ASC Pumping Equipment is a distributor, not a manufacturer** — their own words: "a sales and
+service organization". They bought the Wisconsin territory from Aurora in 1984, and their published
+territory is Wisconsin, the Michigan UP, Kansas and western Missouri. Not New York. Our guess is ASC
+is who you *buy through*. Aurora itself is a Pentair brand, so Aurora and Pentair are one
+relationship. Worth knowing: the only Aurora brochure written for pools is from 2013 and that pump
+series is discontinued — the current commercial pumps are the 3800 and 410 Series.
+
+**E-Z Clor has a problem we'd rather raise now.** Their lead product is trichlor, and trichlor adds
+cyanuric acid — which your own compliance page correctly says New York prohibits in public pools.
+Listing it would contradict the regulatory position the rest of your site takes, and that position
+is one of the site's strongest selling points with school districts. Separately: E-Z Clor is a
+POOLCORP house brand with no commercial line published, and the brochure you sent isn't from them —
+their site has only safety data sheets. Where did you get it? Our recommendation is to list the
+E-Z Clor supplements — clarifiers, enzymes, phosphate removers, stain and scale — and leave the
+trichlor off.
+
+## And one thing to decide
+
+Making deck and accessibility Spectrum-only leaves **five types with nothing at all**: movable
+bulkheads, underwater LED lighting, safety pool covers, anti-slip deck grating, and deck furniture.
+Spectrum makes none of them. Their covers are thermal blankets, not weight-rated safety covers, so
+we did not swap one for the other — that's a different safety function.
+
+These are common specification items for schools and municipalities. Either name another line for
+each, or we put a short "we can source these" prompt on those pages. The bulkhead gap is worth a
+second thought, since your Ithaca College job is a bulkhead project and it's still on the site.
+
+## How to handle the rest of the product changes
+You asked whether to email, call or meet. Our suggestion: we send you **one list of every product on
+the site, one row each, with a keep-or-remove column.** Mark it up whenever suits you and send it
+back. That is faster than a meeting for you, and it leaves a record so nothing gets lost.

@@ -3,9 +3,9 @@
   "client": "Frey Technologies, Inc. (Angelo DiCiaccio)",
   "delivery_partner": "Rook",
   "updated": "2026-09-26",
-  "head_commit": "dc66f6c",
+  "head_commit": "fe91ad2",
   "origin_commit": "3488487",
-  "unpushed_commits": 3,
+  "unpushed_commits": 9,
   "working_tree": "clean",
   "current_milestone": "M1",
   "milestones": [
@@ -53,6 +53,76 @@
       ]
     },
     {
+      "id": "M1b",
+      "name": "Angelo R1/R2 change requests",
+      "state": "in_progress",
+      "tasks": [
+        {
+          "id": "R1-1",
+          "name": "Remove 'outside of NYC'",
+          "state": "done"
+        },
+        {
+          "id": "R1-2",
+          "name": "New address + separate remit-to",
+          "state": "done"
+        },
+        {
+          "id": "R1-3",
+          "name": "Liner section (CGT Infinity)",
+          "state": "done"
+        },
+        {
+          "id": "R1-4",
+          "name": "Process for further product changes",
+          "state": "for_alex"
+        },
+        {
+          "id": "R2-1",
+          "name": "Pulsar Precision image",
+          "state": "done"
+        },
+        {
+          "id": "R2-2",
+          "name": "Remove LMI",
+          "state": "done"
+        },
+        {
+          "id": "R2-3",
+          "name": "Deck/accessibility Spectrum only",
+          "state": "done_with_gap_list"
+        },
+        {
+          "id": "R2-4",
+          "name": "Clear Comfort AOP replaces ClearWater Tech",
+          "state": "done"
+        },
+        {
+          "id": "R2-5",
+          "name": "Specialty chemicals",
+          "state": "blocked",
+          "blocked_by": "Q3 E-Z Clor has no commercial line and leads with trichlor, which conflicts with the site's NY compliance position"
+        },
+        {
+          "id": "R2-6",
+          "name": "Pulsar Precision 500K-1M",
+          "state": "done_no_change_needed"
+        },
+        {
+          "id": "R2-7",
+          "name": "Manufacturers represented",
+          "state": "blocked",
+          "blocked_by": "Q2 ASC is a distributor whose territory excludes New York"
+        },
+        {
+          "id": "R2-8",
+          "name": "WAPOTECH under supplemental",
+          "state": "blocked",
+          "blocked_by": "Q1 WAPOTECH makes no supplemental-treatment product"
+        }
+      ]
+    },
+    {
       "id": "M2",
       "name": "Grant intelligence",
       "state": "scoping_required",
@@ -76,10 +146,10 @@
   ],
   "baseline_verification": {
     "date": "2026-09-26",
-    "label": "post-closeout",
+    "label": "post-R1/R2",
     "build": {
       "result": "pass",
-      "pages": 258
+      "pages": 205
     },
     "lint": {
       "result": "pass",
@@ -87,20 +157,15 @@
       "warnings": 0
     },
     "linkcheck": {
-      "pages": 258,
+      "pages": 205,
       "broken_links": 0,
       "missing_anchors": 0,
       "h1_issues": 0,
       "duplicate_titles": 0
     },
     "catalog_regeneration_stable": true,
-    "sitemap_urls": 253,
-    "static_html_content": {
-      "contact_forms": 1,
-      "contact_inputs": 21,
-      "products_hub_links": 145,
-      "resources_entries": 34
-    }
+    "published_products": 93,
+    "service_regions": 10
   },
   "confirmed_defects": [
     {
@@ -219,6 +284,18 @@
       "severity": "high",
       "owner": "Angelo",
       "summary": "123 manufacturer product renders hosted (113 live) with no written permission from any manufacturer; all project docs previously said none were hosted"
+    },
+    {
+      "id": "E-5",
+      "severity": "high",
+      "owner": "Angelo",
+      "summary": "Three requested changes conflict with manufacturer reality (WAPOTECH, ASC Pumping, E-Z Clor) \u2014 see .project/QUESTIONS-FOR-ANGELO.md"
+    },
+    {
+      "id": "E-6",
+      "severity": "medium",
+      "owner": "Angelo",
+      "summary": "Spectrum-only leaves five deck/accessibility product types with no offering: bulkheads, LED lighting, safety covers, deck grating, deck furniture"
     }
   ],
   "agents": [

@@ -2971,7 +2971,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3007,7 +3007,7 @@
    "competition",
    "wave reduction"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3029,11 +3029,11 @@
   "description": "Forerunner is Anti Wave's wave-quelling competition racing lane, built from interlocking discs that break surface turbulence between lanes. It is specified for training and competition pools that want calmer water and clearly defined lanes. FreyTech can help match lane length, color scheme, and tensioning hardware to the pool.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-forerunner-racing-lanes/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3062,7 +3062,7 @@
   "keywords": [
    "competition lane lines"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3084,11 +3084,11 @@
   "description": "Maximum is Anti Wave's largest-disc racing lane, intended for major competition venues where wave suppression matters most. It shares the Forerunner's modular disc construction with a larger profile. FreyTech coordinates quantities, colors, and reel storage with the aquatics program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-maximum-racing-lanes/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3114,7 +3114,7 @@
   "keywords": [
    "lane line hardware"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3136,11 +3136,11 @@
   "description": "The SuperTensioner is Anti Wave's lane-line tensioning device, used to pull racing lanes tight and hold them at competition tension. It replaces improvised takeup hardware at pools that set and strike lanes frequently. FreyTech supplies it with new lane lines or as a replacement part.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-supertensioner/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3172,7 +3172,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -3194,11 +3194,11 @@
   "description": "Anti Wave's Ultimate Storage Reel stores and moves a pool's racing lanes on a rolling frame so they are not dragged across the deck. It is sized for a competition pool's full lane set. FreyTech matches reel capacity to lane count and length.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-ultimate-storage-reel/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3231,7 +3231,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3253,11 +3253,11 @@
   "description": "AntiWave Anti Pro Goal 1080 is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-anti-pro-goal-1080/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3290,7 +3290,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3312,11 +3312,11 @@
   "description": "AntiWave JNR Global Anti Goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-jnr-global-anti-goal/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3349,7 +3349,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3371,11 +3371,11 @@
   "description": "AntiWave FlipFloat folding goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-flipfloat-folding-goal/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3408,7 +3408,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3430,11 +3430,11 @@
   "description": "AntiWave Universal wall goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-universal-wall-goal/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3467,7 +3467,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3489,7 +3489,7 @@
   "description": "AntiWave Odyssey Anti Pro goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/antiwave-odyssey-anti-pro-goal/"
  },
  {
   "sourceCategory": "deck-equipment",
@@ -3693,7 +3693,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3735,12 +3735,12 @@
    "lane lines",
    "replacement segments"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   "uncertainties": "No manufacturer image saved (Fluidra media terms unclear).",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
   "product": "Competitor racing lane lines (4-inch and 6-inch)",
-  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturer": "Competitor Swim",
   "manufacturerUrl": "https://www.competitorswim.com/",
   "officialProductUrl": "https://www.competitorswim.com/",
   "proposedCategory": "deck-equipment",
@@ -3757,11 +3757,11 @@
   "description": "Competitor racing lane lines use molded discs on a stainless cable and are offered in 4-inch and 6-inch disc sizes with a range of color choices. They are among the most common lanes in U.S. school and college pools, so replacement segments and hardware are familiar to operators. FreyTech supplies full lanes, replacement segments, take-up reels, and springs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/competitor-racing-lane-lines/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3787,12 +3787,12 @@
   "keywords": [
    "lane hardware"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
   "product": "Competitor take-up reels and lane springs",
-  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturer": "Competitor Swim",
   "manufacturerUrl": "https://www.competitorswim.com/",
   "officialProductUrl": "https://www.competitorswim.com/",
   "proposedCategory": "deck-equipment",
@@ -3809,11 +3809,11 @@
   "description": "Take-up reels and tension springs keep Competitor lane lines taut and let staff release them quickly. They are standard replacement hardware at pools running Competitor lanes. FreyTech supplies matching hardware for new and existing lanes.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/competitor-takeup-reels-and-springs/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3838,12 +3838,12 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
   "product": "Competitor Classic Stor lane reel",
-  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturer": "Competitor Swim",
   "manufacturerUrl": "https://www.competitorswim.com/",
   "officialProductUrl": "https://www.competitorswim.com/",
   "proposedCategory": "deck-equipment",
@@ -3860,11 +3860,11 @@
   "description": "The Classic Stor reel stores lane lines on a rolling deck frame between sessions. It suits pools that strike lanes daily. FreyTech confirms capacity for the pool's lane set.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/competitor-classic-stor-lane-reel/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3889,12 +3889,12 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
   "product": "Competitor Elite Stor lane reel",
-  "manufacturer": "Competitor Swim (Fluidra)",
+  "manufacturer": "Competitor Swim",
   "manufacturerUrl": "https://www.competitorswim.com/",
   "officialProductUrl": "https://www.competitorswim.com/",
   "proposedCategory": "deck-equipment",
@@ -3911,11 +3911,11 @@
   "description": "The Elite Stor reel is Competitor's larger storage reel for pools with many lanes or long-course lengths. FreyTech matches reel capacity to the facility.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/competitor-elite-stor-lane-reel/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3950,7 +3950,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -3972,11 +3972,11 @@
   "description": "Duraflex 14-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-14ft-springboard/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4011,7 +4011,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4033,11 +4033,11 @@
   "description": "Duraflex 16-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-16ft-springboard/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4072,7 +4072,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4094,11 +4094,11 @@
   "description": "Duraflex Maxiflex Model B springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-maxiflex-model-b-springboard/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4133,7 +4133,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4155,11 +4155,11 @@
   "description": "Duraflex one-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-one-meter-stand/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4194,7 +4194,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4216,11 +4216,11 @@
   "description": "Duraflex three-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-three-meter-stand/"
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "excluded",
+  "disposition": "published",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4255,7 +4255,7 @@
    "diving",
    "competition"
   ],
-  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
+  "notes": "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4277,7 +4277,7 @@
   "description": "Duraflex Short Stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": ""
+  "proposedUrl": "/products/deck-equipment/duraflex-short-stand/"
  },
  {
   "sourceCategory": "deck-equipment",

@@ -7,11 +7,11 @@ Aquafinity family/product pages: 70. Covered by at least one manifest row: 70. *
 All family pages are accounted for.
 
 ## Rows by disposition
-- published: 64
+- published: 83
 - family (inside a family page): 42
 - duplicate: 14
 - discontinued: 10
-- excluded: 94
+- excluded: 75
 
 ## Excluded rows (with reasons)
 - Precision Control MCC-VFD Motor Control Center: Excluded: Aquafinity/CES house-brand VFD package ('Precision Control' brand, 'connects to your CES controller'); the drive OEM is not named. FreyTech equivalent path: BECSys7 flow/VFD control with a drive from an electrical supplier, or a manufacturer-branded pump VFD package.
@@ -29,26 +29,7 @@ All family pages are accounted for.
 - LMI Series G motor-driven metering pumps: Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. The SD43-88P-KSI part number is an Aquafinity/Knorr (KSI) special. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.
 - EKO3 pH-MTS carbon dioxide feed system: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control) with bulk CO2 from Taylor-Wharton EasyCarb (this manifest).
 - EKO3 VaporLok acid drum vent kit: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap: sealed drum bung with pump suction pass-through and vent line. Comparable manufacturer-branded parts exist from metering-pump suppliers (LMI/Stenner drum fittings) and fume-scrubber vendors.
-- AntiWave Forerunner racing lanes: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave Maximum racing lanes: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave SuperTensioner: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave Ultimate Storage Reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave Anti Pro Goal 1080: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave JNR Global Anti Goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave FlipFloat folding goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave Universal wall goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- AntiWave Odyssey Anti Pro goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - ADG stainless steel bulkheads (movable, vertical, stationary): Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads. Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Competitor racing lane lines (4-inch and 6-inch): Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Competitor take-up reels and lane springs: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Competitor Classic Stor lane reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Competitor Elite Stor lane reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex 14-foot springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex 16-foot springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex Maxiflex Model B springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex one-meter diving stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex three-meter diving stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
-- Duraflex Short Stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - Lawson Aquatics SuperGrip deck grating: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - T-STAR energy-saver thermal pool covers: Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.
 - TITAN Series pool covers: Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.

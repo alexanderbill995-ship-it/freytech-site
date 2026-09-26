@@ -23,7 +23,7 @@ const baseMarkets: Market[] = [
     name: "Schools, Colleges & Universities",
     short: "Schools & Universities",
     title: "Pool Chemical Controls for New York Schools, Colleges & Universities",
-    description: "BECSys5 controller upgrades, chemical-feed modernization, and local service for school district, BOCES, college, and university pools across New York State outside NYC.",
+    description: "BECSys5 controller upgrades, chemical-feed modernization, and local service for school district, BOCES, college, and university pools across New York State.",
     intro: "School and campus pools run long hours with shifting staff: PE classes, varsity practice, community swims, and summer programs. When the controller is a decade old and the only person who understands it is retiring, the facilities office inherits the risk. FreyTech has worked with New York colleges, universities, and school districts for decades, and understands how these projects are funded, specified, and operated.",
     pressures: [
       "Aging controllers with unreliable probes, no remote visibility, and no alarm notification after hours.",
@@ -61,7 +61,7 @@ const baseMarkets: Market[] = [
     name: "Municipal Aquatic Centers",
     short: "Municipal",
     title: "Chemical Control Upgrades for New York Municipal Pools & Aquatic Centers",
-    description: "Water-chemistry controller and chemical-feed modernization for town, village, city, and county pools across New York State outside NYC, including NY SWIMS-funded projects.",
+    description: "Water-chemistry controller and chemical-feed modernization for town, village, city, and county pools across New York State, including NY SWIMS-funded projects.",
     intro: "Municipal pools answer to residents, the health department, and the budget at the same time. Many are seasonal outdoor pools that must start up reliably each spring with part-time staff; others are year-round indoor centers with multiple bodies of water. New York's recent public-pool funding has put many of these facilities into design or construction, which is exactly when chemical control and feed decisions get made.",
     pressures: [
       "Seasonal start-up with new or part-time operators who did not run the system last year.",
@@ -97,7 +97,7 @@ const baseMarkets: Market[] = [
     name: "YMCAs, JCCs & Community Facilities",
     short: "YMCAs & JCCs",
     title: "Pool Chemistry Modernization for New York YMCAs, JCCs & Community Centers",
-    description: "Controller upgrades, remote monitoring, and chemical-feed modernization for YMCA, JCC, and community-center pools across New York State outside NYC.",
+    description: "Controller upgrades, remote monitoring, and chemical-feed modernization for YMCA, JCC, and community-center pools across New York State.",
     intro: "YMCAs, JCCs, and community centers often run the hardest-working pools in their communities: lap swimming before dawn, lessons and therapy through the day, and family swim at night, frequently across a lap pool, a warm therapy pool, and a spa. Executive directors and facility managers need to know these bodies of water are stable without standing in the pump room.",
     pressures: [
       "Multiple bodies of water at different temperatures and setpoints managed by a small facilities team.",
@@ -132,7 +132,7 @@ const baseMarkets: Market[] = [
     name: "Competition Pools & Large Venues",
     short: "Competition Pools",
     title: "Chemical Control & Cal Hypo Feed for New York Competition Pools & Large Venues",
-    description: "BECSys5 controls and Pulsar Precision calcium hypochlorite feed systems for 50-meter pools, natatoriums, and high-bather-load aquatic venues across New York State outside NYC.",
+    description: "BECSys5 controls and Pulsar Precision calcium hypochlorite feed systems for 50-meter pools, natatoriums, and high-bather-load aquatic venues across New York State.",
     intro: "A 50-meter pool or a major natatorium moves a lot of water and a lot of chlorine. Meets bring hundreds of swimmers and spectators, demand spikes, and there is no tolerance for cloudy water or a chemistry excursion on the day of an event. These are the facilities where high-capacity chemical feed and expandable control pay for themselves, and where FreyTech has some of its deepest experience, including the 50-meter pool at Ithaca College.",
     pressures: [
       "Chlorine demand that swings sharply between normal training and meet days.",
@@ -168,7 +168,7 @@ const baseMarkets: Market[] = [
     name: "Healthcare, Therapy & Rehabilitation Pools",
     short: "Healthcare & Therapy",
     title: "Water-Chemistry Controls for New York Healthcare, Therapy & Rehabilitation Pools",
-    description: "Precise chemical control, records, and remote alarms for warm-water therapy and rehabilitation pools at hospitals, rehab centers, and senior communities across New York State outside NYC.",
+    description: "Precise chemical control, records, and remote alarms for warm-water therapy and rehabilitation pools at hospitals, rehab centers, and senior communities across New York State.",
     intro: "Warm-water therapy pools carry vulnerable users, elevated temperatures that accelerate chlorine consumption, and clinical staff who are not pool operators. Stable chemistry, tight records, and immediate alarms matter more here than anywhere else, and the person responsible is often a facilities manager overseeing the entire building.",
     pressures: [
       "High temperatures (often 88–94°F) that increase disinfectant demand and bather-load impact in a small volume.",
@@ -202,7 +202,7 @@ const baseMarkets: Market[] = [
     name: "Architects, Engineers & Aquatic Consultants",
     short: "Architects & Engineers",
     title: "Specification Support for New York Aquatic Designers, Engineers & Architects",
-    description: "Product selection, equipment schedules, submittals, sequence-of-operation, and approved-equal review for BECSys5 controls and Pulsar Precision feeders on New York projects outside NYC.",
+    description: "Product selection, equipment schedules, submittals, sequence-of-operation, and approved-equal review for BECSys5 controls and Pulsar Precision feeders on New York projects.",
     intro: "Design teams need a local source who knows the equipment, knows New York's approval process, and will still be there for commissioning. FreyTech has supported architects, engineers, and pool consultants on New York projects for decades and can help you specify controls and chemical feed that the owner's staff can actually operate.",
     pressures: [
       "Basis-of-design decisions made early with incomplete information about owner operations.",

@@ -18,7 +18,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "BECSys5 Automated Pool Chemical Controls in New York",
-  description: "BECSys5 water-chemistry controller installation, commissioning, training, and service for commercial pools across New York State outside NYC. Remote visibility, alarms, records, and equipment-room integration.",
+  description: "BECSys5 water-chemistry controller installation, commissioning, training, and service for commercial pools across New York State. Remote visibility, alarms, records, and equipment-room integration.",
   path: "/becsys5-controls/",
 });
 
@@ -58,7 +58,7 @@ export default function Page() {
       <PageHero
         eyebrow="Automated controls · BECS Technology"
         title="BECSys5 automated water-chemistry controls"
-        lede="Measurement, control, alarms, records, and secure remote visibility for commercial pools, installed and supported in New York State outside NYC by FreyTech, a listed BECS Technology distributor."
+        lede="Measurement, control, alarms, records, and secure remote visibility for commercial pools, installed and supported in New York State by FreyTech, a listed BECS Technology distributor."
         crumbs={[{ name: "Solutions", href: "/water-chemistry-modernization/" }, { name: "BECSys5 Controls", href: "/becsys5-controls/" }]}
         actions={<><Button href="/contact/?product=BECSys5" variant="onDark" size="lg">Request a System Assessment</Button><Button href="#faq" variant="onDarkGhost" size="lg">Read the FAQ</Button></>}
         aside={
@@ -161,7 +161,7 @@ export default function Page() {
       </Section>
 
       <Section tone="dark" id="install">
-        <SectionHeader eyebrow="Installation, commissioning, training, local support" title="How FreyTech delivers a BECSys5" lede="Installed by FreyTech's own technicians and supported from our Wayne County office. The controller is only as good as the sample loop, the commissioning, and the people trained to run it." />
+        <SectionHeader eyebrow="Installation, commissioning, training, local support" title="How FreyTech delivers a BECSys5" lede="Installed by FreyTech's own technicians and supported from our Monroe County office. The controller is only as good as the sample loop, the commissioning, and the people trained to run it." />
         <ProcessSteps steps={install} columns={3} />
         <div className={p.actions}>
           <Button href="/contact/?product=BECSys5" variant="onDark" size="lg">Request a System Assessment</Button>

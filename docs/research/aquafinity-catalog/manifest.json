@@ -1496,7 +1496,7 @@
   "officialProductUrl": "",
   "proposedCategory": "chemical-delivery-chlorination",
   "proposedSlug": "lmi-roytronic-series-a",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "image": {
@@ -1590,11 +1590,11 @@
    "acid feed pump",
    "roytronic"
   ],
-  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.",
   "uncertainties": "Milton Roy corporate ownership (Ingersoll Rand) should be confirmed before publishing manufacturer copy.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "lmi",
-  "proposedUrl": "/products/chemical-delivery-chlorination/lmi-roytronic-series-a/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
@@ -1606,7 +1606,7 @@
   "officialProductUrl": "",
   "proposedCategory": "chemical-delivery-chlorination",
   "proposedSlug": "lmi-series-b",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "image": {
@@ -1691,11 +1691,11 @@
    "metering pump 60 gpd",
    "chemical feed pump"
   ],
-  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.",
   "uncertainties": "Capacity figures per model to be taken from the LMI data sheet.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "lmi",
-  "proposedUrl": "/products/chemical-delivery-chlorination/lmi-series-b/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
@@ -1707,7 +1707,7 @@
   "officialProductUrl": "",
   "proposedCategory": "chemical-delivery-chlorination",
   "proposedSlug": "lmi-series-c",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "image": {
@@ -1787,11 +1787,11 @@
    "large pool feed pump",
    "chemical metering pump"
   ],
-  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded.",
+  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.",
   "uncertainties": "Capacity figures per model to be taken from the LMI data sheet.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "lmi",
-  "proposedUrl": "/products/chemical-delivery-chlorination/lmi-series-c/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/lmi-pumps/",
@@ -1803,7 +1803,7 @@
   "officialProductUrl": "",
   "proposedCategory": "chemical-delivery-chlorination",
   "proposedSlug": "lmi-series-g",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "image": {
@@ -1884,11 +1884,11 @@
    "high output chemical pump",
    "lmi series g"
   ],
-  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. The SD43-88P-KSI part number is an Aquafinity/Knorr (KSI) special.",
+  "notes": "Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. The SD43-88P-KSI part number is an Aquafinity/Knorr (KSI) special. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.",
   "uncertainties": "Standard Series G part numbers for pool duty to be selected with LMI.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "lmi",
-  "proposedUrl": "/products/chemical-delivery-chlorination/lmi-series-g/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/natural-chemistry-pump/",
@@ -2971,7 +2971,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3007,7 +3007,7 @@
    "competition",
    "wave reduction"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3029,11 +3029,11 @@
   "description": "Forerunner is Anti Wave's wave-quelling competition racing lane, built from interlocking discs that break surface turbulence between lanes. It is specified for training and competition pools that want calmer water and clearly defined lanes. FreyTech can help match lane length, color scheme, and tensioning hardware to the pool.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-forerunner-racing-lanes/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3062,7 +3062,7 @@
   "keywords": [
    "competition lane lines"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3084,11 +3084,11 @@
   "description": "Maximum is Anti Wave's largest-disc racing lane, intended for major competition venues where wave suppression matters most. It shares the Forerunner's modular disc construction with a larger profile. FreyTech coordinates quantities, colors, and reel storage with the aquatics program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-maximum-racing-lanes/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3114,7 +3114,7 @@
   "keywords": [
    "lane line hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -3136,11 +3136,11 @@
   "description": "The SuperTensioner is Anti Wave's lane-line tensioning device, used to pull racing lanes tight and hold them at competition tension. It replaces improvised takeup hardware at pools that set and strike lanes frequently. FreyTech supplies it with new lane lines or as a replacement part.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-supertensioner/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3172,7 +3172,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -3194,11 +3194,11 @@
   "description": "Anti Wave's Ultimate Storage Reel stores and moves a pool's racing lanes on a rolling frame so they are not dragged across the deck. It is sized for a competition pool's full lane set. FreyTech matches reel capacity to lane count and length.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-ultimate-storage-reel/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3231,7 +3231,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3253,11 +3253,11 @@
   "description": "AntiWave Anti Pro Goal 1080 is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-anti-pro-goal-1080/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3290,7 +3290,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3312,11 +3312,11 @@
   "description": "AntiWave JNR Global Anti Goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-jnr-global-anti-goal/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3349,7 +3349,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3371,11 +3371,11 @@
   "description": "AntiWave FlipFloat folding goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-flipfloat-folding-goal/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3408,7 +3408,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3430,11 +3430,11 @@
   "description": "AntiWave Universal wall goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-universal-wall-goal/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3467,7 +3467,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -3489,11 +3489,11 @@
   "description": "AntiWave Odyssey Anti Pro goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model. Goal choice follows the governing body's rules, pool depth, and whether the goal must be removed between sessions. FreyTech confirms the right model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "antiwave",
-  "proposedUrl": "/products/deck-equipment/antiwave-odyssey-anti-pro-goal/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3532,7 +3532,7 @@
    "bulkhead",
    "competition pool"
   ],
-  "notes": "Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads.",
+  "notes": "Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads. Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
   "family": "Bulkheads",
@@ -3554,7 +3554,7 @@
   "description": "ADG builds stainless steel bulkheads in movable, vertical, and stationary configurations to divide a long-course pool into shorter courses or separate program areas. They are engineered to the pool's width, gutter, and structure. FreyTech coordinates specification with the design team and can compare them with composite bulkheads from S.R.Smith (Stark).",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "aquatic-development-group",
-  "proposedUrl": "/products/deck-equipment/adg-stainless-steel-bulkheads/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -3693,7 +3693,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3735,7 +3735,7 @@
    "lane lines",
    "replacement segments"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "No manufacturer image saved (Fluidra media terms unclear).",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
@@ -3757,11 +3757,11 @@
   "description": "Competitor racing lane lines use molded discs on a stainless cable and are offered in 4-inch and 6-inch disc sizes with a range of color choices. They are among the most common lanes in U.S. school and college pools, so replacement segments and hardware are familiar to operators. FreyTech supplies full lanes, replacement segments, take-up reels, and springs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": "/products/deck-equipment/competitor-racing-lane-lines/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3787,7 +3787,7 @@
   "keywords": [
    "lane hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
@@ -3809,11 +3809,11 @@
   "description": "Take-up reels and tension springs keep Competitor lane lines taut and let staff release them quickly. They are standard replacement hardware at pools running Competitor lanes. FreyTech supplies matching hardware for new and existing lanes.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": "/products/deck-equipment/competitor-takeup-reels-and-springs/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3838,7 +3838,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -3860,11 +3860,11 @@
   "description": "The Classic Stor reel stores lane lines on a rolling deck frame between sessions. It suits pools that strike lanes daily. FreyTech confirms capacity for the pool's lane set.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": "/products/deck-equipment/competitor-classic-stor-lane-reel/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3889,7 +3889,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -3911,11 +3911,11 @@
   "description": "The Elite Stor reel is Competitor's larger storage reel for pools with many lanes or long-course lengths. FreyTech matches reel capacity to the facility.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "competitor",
-  "proposedUrl": "/products/deck-equipment/competitor-elite-stor-lane-reel/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3950,7 +3950,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -3972,11 +3972,11 @@
   "description": "Duraflex 14-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-14ft-springboard/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4011,7 +4011,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4033,11 +4033,11 @@
   "description": "Duraflex 16-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-16ft-springboard/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4072,7 +4072,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4094,11 +4094,11 @@
   "description": "Duraflex Maxiflex Model B springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-maxiflex-model-b-springboard/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4133,7 +4133,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4155,11 +4155,11 @@
   "description": "Duraflex one-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-one-meter-stand/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4194,7 +4194,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4216,11 +4216,11 @@
   "description": "Duraflex three-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-three-meter-stand/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4255,7 +4255,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -4277,11 +4277,11 @@
   "description": "Duraflex Short Stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets. Diving equipment is specified to pool depth, clearances, and the governing body's rules, and installed to anchors engineered for the deck. FreyTech coordinates selection and installation with the design team.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "duraflex",
-  "proposedUrl": "/products/deck-equipment/duraflex-short-stand/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -4310,7 +4310,7 @@
    "gutter grating",
    "slip resistant"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Only Knorr/Aquafinity-hosted images and PDFs found; request Xylem literature.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/deck-grating/",
   "family": "Lawson SuperGrip",
@@ -4332,7 +4332,7 @@
   "description": "Lawson Aquatics SuperGrip grating covers perimeter gutters and deck drains with a slip-resistant surface, available in perpendicular, square, and parallel patterns and a finger-grip profile. Lawson Aquatics is now part of Neptune Benson under Xylem. FreyTech confirms pattern, width, and quantities for replacement or renovation.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "neptune-benson",
-  "proposedUrl": "/products/deck-equipment/lawson-supergrip-deck-grating/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -4443,7 +4443,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -4485,7 +4485,7 @@
    "pool cover",
    "winterization"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/meyco-safety-cover/",
   "family": "Meyco Safety Pool Covers",
@@ -4507,7 +4507,7 @@
   "description": "Meyco safety covers are custom-made mesh or solid covers anchored to the deck with screw, pop-up, or deck-type anchors, designed to hold weight and keep debris and people out of a closed pool. They are common on seasonal and camp pools. FreyTech coordinates measurement, anchor type, and lead time.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "meyco",
-  "proposedUrl": "/products/deck-equipment/meyco-safety-pool-covers/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -4556,7 +4556,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4597,7 +4597,7 @@
   "keywords": [
    "lifeguard"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -4619,7 +4619,7 @@
   "description": "Griff's Guard Station and the Griff's Vision variant are Paragon's elevated lifeguard chairs, built for sightlines over a crowded pool and anchored to the deck. Pentair publishes the Paragon deck-equipment catalog with dimensions and anchor details. FreyTech supplies and coordinates installation.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-griffs-guard-station/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -4668,7 +4668,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4700,7 +4700,7 @@
    "lifeguard",
    "guard chair"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -4722,11 +4722,11 @@
   "description": "Paraflyte is Paragon's long-running family of lifeguard chairs, platforms, and related deck equipment. Pentair publishes the family catalog with models and anchor requirements. FreyTech confirms the right model and anchor for the deck.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-paraflyte-lifeguard-chairs/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -4751,7 +4751,7 @@
   "keywords": [
    "lifeguard"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -4773,7 +4773,7 @@
   "description": "Rover movable chairs let a facility reposition lifeguard stations as programs change, without deck anchors. They suit multi-use pools and outdoor facilities. FreyTech supplies them alongside fixed stations.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-rover-movable-lifeguard-chairs/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -5067,7 +5067,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5094,7 +5094,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5116,11 +5116,11 @@
   "description": "The Tailwind LG500 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg500-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5147,7 +5147,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5169,11 +5169,11 @@
   "description": "The Tailwind LG505 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg505-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5200,7 +5200,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5222,11 +5222,11 @@
   "description": "The Tailwind LG510 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg510-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5253,7 +5253,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5275,11 +5275,11 @@
   "description": "The Tailwind LG515 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg515-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5306,7 +5306,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5328,11 +5328,11 @@
   "description": "The Tailwind LG520 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg520-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -5359,7 +5359,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -5381,7 +5381,7 @@
   "description": "The Tailwind LG525 is one of a family of recycled-plastic lumber lifeguard chairs offered in several heights and configurations. They resist corrosion in chlorinated environments and need no painting. FreyTech supplies the size that fits the facility's sightline needs.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "tailwind-furniture",
-  "proposedUrl": "/products/deck-equipment/tailwind-lg525-lifeguard-chair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -5997,7 +5997,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6033,7 +6033,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6055,11 +6055,11 @@
   "description": "S.R.Smith aXs2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/accessibility-safety/srsmith-axs2-pool-lift/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6095,7 +6095,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6117,11 +6117,11 @@
   "description": "S.R.Smith multiLift2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/accessibility-safety/srsmith-multilift2-pool-lift/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6157,7 +6157,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6179,11 +6179,11 @@
   "description": "S.R.Smith PAL2 pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/accessibility-safety/srsmith-pal2-pool-lift/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6219,7 +6219,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6241,11 +6241,11 @@
   "description": "S.R.Smith Splash! pool lift is part of S.R.Smith's pool lift line, battery-powered lifts in fixed and portable designs sized for pools and spas. S.R.Smith publishes ADA compliance statements and capacities for each model. FreyTech confirms fit, anchoring, and charging arrangements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/accessibility-safety/srsmith-splash-pool-lift/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6276,7 +6276,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6298,11 +6298,11 @@
   "description": "AquaTrek2 ADA forward-walking pool ladder is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "aquatrek",
-  "proposedUrl": "/products/accessibility-safety/aquatrek2-ada-forward-walking-ladder/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6333,7 +6333,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6355,11 +6355,11 @@
   "description": "AquaTrek2 ADA pool step system is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "aquatrek",
-  "proposedUrl": "/products/accessibility-safety/aquatrek2-ada-pool-steps/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6390,7 +6390,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6412,11 +6412,11 @@
   "description": "AquaTrek2 transfer platform is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "aquatrek",
-  "proposedUrl": "/products/accessibility-safety/aquatrek2-transfer-platform/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6447,7 +6447,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -6469,11 +6469,11 @@
   "description": "AquaTrek2 aquatic wheelchair is one of AquaTrek2's accessible-entry products: forward-walking ladders, step systems, transfer platforms, and aquatic wheelchairs that give users a way into the water without a mechanical lift. They are often paired with a lift to serve different users. FreyTech confirms the configuration for the pool wall and deck.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "aquatrek",
-  "proposedUrl": "/products/accessibility-safety/aquatrek2-aquatic-wheelchair/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6508,7 +6508,7 @@
    "lighting",
    "retrofit"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
   "family": "J&J LED Lights",
@@ -6530,11 +6530,11 @@
   "description": "PureWhite is J&J Electronics' white LED underwater lighting line, offered as retrofit lamps and complete fixtures for existing niches. LED conversion cuts lighting energy and lamp changes at pools that still run incandescent fixtures. FreyTech confirms niche compatibility and electrical requirements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "jj-electronics",
-  "proposedUrl": "/products/deck-equipment/jj-purewhite-led-pool-fixture/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6565,7 +6565,7 @@
    "LED",
    "lighting"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
   "family": "J&J LED Lights",
@@ -6587,11 +6587,11 @@
   "description": "ColorSplash XG is J&J Electronics' color-changing LED underwater fixture line for pools and spas. It suits leisure and hospitality pools that want programmable color. FreyTech confirms niche and controller compatibility.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "jj-electronics",
-  "proposedUrl": "/products/deck-equipment/jj-colorsplash-xg-led-pool-fixture/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6641,7 +6641,7 @@
    "ladder",
    "entry"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
   "family": "Ladders",
@@ -6663,11 +6663,11 @@
   "description": "Paragon's ladder line covers vertical ladders, cross-brace ladders, wall-guard ladders, and step-style treads in stainless steel for commercial pools. Ladder selection follows wall height, deck anchors, and code requirements for entry points. FreyTech supplies replacements and coordinates new installations.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-vertical-ladders/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6693,7 +6693,7 @@
    "safety",
    "entrapment"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
   "family": "Ladders",
@@ -6715,11 +6715,11 @@
   "description": "The ladder safety wedge fills the space between a ladder and the pool wall to reduce entrapment risk. It is a common add-on during inspections and renovations. FreyTech supplies wedges sized to Paragon ladders.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-ladder-safety-wedge/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -6769,7 +6769,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -6791,11 +6791,11 @@
   "description": "Paragon's deck-mounted rails come in horizontal, flat-top, sloping, welded sloping, figure-4, adjustable, long-reach, pretzel, and two- and three-bend profiles. Rail choice follows the step or ladder it serves and the deck anchors available. FreyTech matches replacements to existing anchors.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-deck-mounted-rails/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6820,7 +6820,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -6842,11 +6842,11 @@
   "description": "Grab rails give swimmers a handhold at ladders, recessed steps, and wall exits. Paragon offers standard and custom bends in stainless steel. FreyTech matches replacements to existing anchors and spacing.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-grab-rails/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6871,7 +6871,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -6893,11 +6893,11 @@
   "description": "Stair-mounted rails anchor into the step treads rather than the deck, for recessed and in-pool stairs. FreyTech confirms anchor type and rail height for the stair geometry.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "paragon",
-  "proposedUrl": "/products/deck-equipment/paragon-stair-mounted-rails/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -6923,7 +6923,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -6945,7 +6945,7 @@
   "description": "Malmsten's storage trolley stores and moves racing lanes between sessions. It is sized for Malmsten Gold Pro and Classic Pro lanes. FreyTech matches trolley capacity to the pool's lane set.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-storage-trolley/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -7000,7 +7000,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -7031,7 +7031,7 @@
    "competition lane lines",
    "world aquatics"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -7053,11 +7053,11 @@
   "description": "Gold Pro is Malmsten's top competition racing lane, the design used at many international championships for its wave-quelling performance. It is offered in FINA/World Aquatics color schemes and custom lengths. FreyTech coordinates lengths, colors, and reels.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-gold-pro-racing-lane-lines/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -7082,7 +7082,7 @@
   "keywords": [
    "lane lines"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -7104,11 +7104,11 @@
   "description": "Classic Pro is Malmsten's standard racing lane for training and competition, sharing the Gold Pro's construction at a lower price point. FreyTech supplies full sets and replacement parts.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-classic-pro-racing-lane-lines/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -7143,7 +7143,7 @@
   "keywords": [
    "lane hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -7165,7 +7165,7 @@
   "description": "Malmsten's take-up reel tensions the lane line at the wall; the spring cover protects swimmers and staff from the tension spring. Both are standard hardware with Malmsten lanes. FreyTech supplies them with new lanes or as replacements.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-take-up-reel/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -7214,7 +7214,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -7267,7 +7267,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
   "family": "Malmsten Water Polo",
@@ -7289,7 +7289,7 @@
   "description": "Malmsten builds water polo goals from inflatable training goals to the Official competition goal used at international events, with the Optimized, Multi Pro, and Multi Pro Junior models in between. Goal choice follows the governing body's rules, pool depth, and how often the goals are removed. FreyTech confirms the model for the program.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-water-polo-goals/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -7473,7 +7473,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -7510,7 +7510,7 @@
   "keywords": [
    "water polo"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
   "family": "Malmsten Water Polo",
@@ -7532,7 +7532,7 @@
   "description": "Malmsten's water polo field equipment includes floating field-of-play lines, marking cones, and the Ball Release Pro used by officials. Together with goals they complete a competition setup. FreyTech supplies them with goals or separately.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "malmsten",
-  "proposedUrl": "/products/deck-equipment/malmsten-water-polo-field-equipment/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -7789,7 +7789,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -7821,7 +7821,7 @@
   "keywords": [
    "starting blocks"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
   "family": "Starting Blocks",
@@ -7843,11 +7843,11 @@
   "description": "Velocity is S.R.Smith's single-post competition starting block, offered with a track-start wedge and multiple color options. It is specified to deck height and water depth per the governing body. FreyTech confirms anchors, quantities, and colors.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/deck-equipment/srsmith-velocity-starting-blocks/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -7873,7 +7873,7 @@
   "keywords": [
    "starting blocks"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
   "family": "Starting Blocks",
@@ -7895,7 +7895,7 @@
   "description": "Legacy is S.R.Smith's dual-post starting block for school, club, and community pools. FreyTech confirms deck height and anchors.",
   "_part": "manifest-part2.json",
   "manufacturerSlug": "stark",
-  "proposedUrl": "/products/deck-equipment/srsmith-legacy-starting-blocks/"
+  "proposedUrl": ""
  },
  {
   "sourceCategory": "deck-equipment",
@@ -8001,7 +8001,7 @@
    "chloramine reduction ozone",
    "ClearWater Tech"
   ],
-  "notes": "Aquafinity lists Apex I, II, III, IV, VI plus an Apex Ae paragraph; ClearWater Tech's current page also lists Apex VII and VIII. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Aquafinity's per-model images are Aquafinity-hosted copies of CWT renders; the downloaded image is the manufacturer's own CDN copy.",
+  "notes": "Aquafinity lists Apex I, II, III, IV, VI plus an Apex Ae paragraph; ClearWater Tech's current page also lists Apex VII and VIII. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Aquafinity's per-model images are Aquafinity-hosted copies of CWT renders; the downloaded image is the manufacturer's own CDN copy. Removed at the client's instruction 2026-09-26: ClearWater Tech is replaced by Clear Comfort AOP.",
   "uncertainties": "Apex Ae appears only as a menu item on cwtozone.com; its specifications were not confirmed on a manufacturer page. Dealer status for FreyTech unverified.",
   "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/apex-series/",
   "sourceCategory": "mechanical-room-equipment",
@@ -8024,7 +8024,7 @@
   ],
   "product": "Apex Series packaged ozone systems",
   "proposedSlug": "clearwater-tech-apex-ozone-systems",
-  "disposition": "published",
+  "disposition": "excluded",
   "verification": "verified",
   "image": {
    "sourceUrl": "https://irp.cdn-website.com/bb06ccb8/dms3rep/multi/opt/Apex-VI---CD12-1920w.jpg",
@@ -8114,7 +8114,7 @@
   ],
   "_part": "manifest-part3.json",
   "manufacturerSlug": "clearwater-tech",
-  "proposedUrl": "/products/uv-supplemental-treatment/clearwater-tech-apex-ozone-systems/"
+  "proposedUrl": ""
  },
  {
   "availability": "request",
@@ -10473,7 +10473,7 @@
    "ORP controlled ozone",
    "ClearWater Tech"
   ],
-  "notes": "Aquafinity's CD15-02 and CD20-02 images are hosted by knorrsystems.com and were not used. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers.",
+  "notes": "Aquafinity's CD15-02 and CD20-02 images are hosted by knorrsystems.com and were not used. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Removed at the client's instruction 2026-09-26: ClearWater Tech is replaced by Clear Comfort AOP.",
   "uncertainties": "The current cwtozone.com skid page lists CD15/O2 and CD20/O2 (and HDO3); M-15/O2 and P-20/O2 appear in the spec sheet and manual title but not as separate page entries. Dealer status unverified.",
   "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/skid-mount-cd/",
   "sourceCategory": "mechanical-room-equipment",
@@ -10497,7 +10497,7 @@
   ],
   "product": "Skid-mounted corona-discharge ozone systems (CD15/O2, CD20/O2, M-15/O2, P-20/O2)",
   "proposedSlug": "clearwater-tech-skid-mount-ozone-systems",
-  "disposition": "published",
+  "disposition": "excluded",
   "verification": "verified",
   "image": {
    "sourceUrl": "https://irp.cdn-website.com/bb06ccb8/dms3rep/multi/opt/M15-02-8d1224a9-1920w.jpg",
@@ -10563,7 +10563,7 @@
   ],
   "_part": "manifest-part3.json",
   "manufacturerSlug": "clearwater-tech",
-  "proposedUrl": "/products/uv-supplemental-treatment/clearwater-tech-skid-mount-ozone-systems/"
+  "proposedUrl": ""
  },
  {
   "availability": "request",
@@ -11499,7 +11499,7 @@
   "officialProductUrl": "",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "algigon-30-quaternary-algaecide",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "image": {
@@ -11545,11 +11545,11 @@
    "algae prevention",
    "quaternary"
   ],
-  "notes": "Manufacturer not identified. The only image is Aquafinity-hosted, so none is used. 'Super AlgiGon' is a Robarb brand name (Robarb is an Innovative Water Care/Solenis brand), which may be the source; the Aquafinity listing could also be a Knorr/Aquafinity private label.",
+  "notes": "Manufacturer not identified. The only image is Aquafinity-hosted, so none is used. 'Super AlgiGon' is a Robarb brand name (Robarb is an Innovative Water Care/Solenis brand), which may be the source; the Aquafinity listing could also be a Knorr/Aquafinity private label. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "Manufacturer, EPA registration and label facts unverified; do not publish specs until a label or SDS is sourced.",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "unidentified",
-  "proposedUrl": "/products/specialty-chemicals/algigon-30-quaternary-algaecide/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/algaecides/",
@@ -11561,7 +11561,7 @@
   "officialProductUrl": "",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "premium-60-quaternary-algaecide",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "image": {
@@ -11606,11 +11606,11 @@
    "polyquat 60",
    "algae treatment"
   ],
-  "notes": "Manufacturer not identified; '60' poly-quat algaecides are sold by many private-label brands. No manufacturer image available.",
+  "notes": "Manufacturer not identified; '60' poly-quat algaecides are sold by many private-label brands. No manufacturer image available. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "Manufacturer and label facts unverified.",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "unidentified",
-  "proposedUrl": "/products/specialty-chemicals/premium-60-quaternary-algaecide/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/algaecides/",
@@ -11622,7 +11622,7 @@
   "officialProductUrl": "",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "terminator-ii-copper-algaecide",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "pending-verification",
   "image": {
@@ -11668,11 +11668,11 @@
    "mustard algae",
    "Terminator"
   ],
-  "notes": "Manufacturer not identified. Pair with a sequestering agent (e.g. Jack's Magic) to limit staining.",
+  "notes": "Manufacturer not identified. Pair with a sequestering agent (e.g. Jack's Magic) to limit staining. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "Manufacturer, copper percentage and registration unverified.",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "unidentified",
-  "proposedUrl": "/products/specialty-chemicals/terminator-ii-copper-algaecide/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/electrode-stack-wash/",
@@ -11820,7 +11820,7 @@
   "officialProductUrl": "https://nextgws.com/products/aad-enzymes/",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "nextgws-aad-enzymes",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -11889,11 +11889,11 @@
    "waterline scum",
    "NSF 50 chemical"
   ],
-  "notes": "Next Generation Water Science shares founders and a philosophy with Orenda Technologies; nextgws.com remains a live, separate brand site.",
+  "notes": "Next Generation Water Science shares founders and a philosophy with Orenda Technologies; nextgws.com remains a live, separate brand site. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "Confirm current distribution in New York State.",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "next-generation-water-science",
-  "proposedUrl": "/products/specialty-chemicals/nextgws-aad-enzymes/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
@@ -11905,7 +11905,7 @@
   "officialProductUrl": "https://nextgws.com/products/cpr-phosphate-remover/",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "nextgws-cpr-phosphate-remover",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -11970,11 +11970,11 @@
    "algae food",
    "lanthanum"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "Active ingredient not stated on the product page; check the SDS.",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "next-generation-water-science",
-  "proposedUrl": "/products/specialty-chemicals/nextgws-cpr-phosphate-remover/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
@@ -11986,7 +11986,7 @@
   "officialProductUrl": "https://nextgws.com/products/msi-metal-scale-inhibitor/",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "nextgws-msi-metal-scale-inhibitor",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -12054,11 +12054,11 @@
    "LSI",
    "calcium scale"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "next-generation-water-science",
-  "proposedUrl": "/products/specialty-chemicals/nextgws-msi-metal-scale-inhibitor/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/next-generation-water-science/",
@@ -12070,7 +12070,7 @@
   "officialProductUrl": "https://nextgws.com/products/cce-clarifier/",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "nextgws-cce-clarifier",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -12128,11 +12128,11 @@
    "cloudy water",
    "enzyme clarifier"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "next-generation-water-science",
-  "proposedUrl": "/products/specialty-chemicals/nextgws-cce-clarifier/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",
@@ -12144,7 +12144,7 @@
   "officialProductUrl": "https://naturalchemistry.com/pool-products/pool-stain-scale/stainfree/",
   "proposedCategory": "specialty-chemicals",
   "proposedSlug": "natural-chemistry-stainfree",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -12219,11 +12219,11 @@
    "metal stain",
    "Natural Chemistry"
   ],
-  "notes": "Natural Chemistry is part of NC Brands, acquired by Biolab (KIK Consumer Products) in 2021.",
+  "notes": "Natural Chemistry is part of NC Brands, acquired by Biolab (KIK Consumer Products) in 2021. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).",
   "uncertainties": "",
   "_part": "manifest-part4.json",
   "manufacturerSlug": "natural-chemistry",
-  "proposedUrl": "/products/specialty-chemicals/natural-chemistry-stainfree/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/",

@@ -26,7 +26,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Frey Technologies | Commercial Pool Water Quality, Equipment and Service in New York",
-  description: "Owner-operated commercial water-quality specialist for New York aquatic facilities outside NYC: facility evaluations, BECSys5 controls, Pulsar chlorination, equipment selection, installation, training and long-term service. Talk with Angelo about your facility.",
+  description: "Owner-operated commercial water-quality specialist for New York aquatic facilities: facility evaluations, BECSys5 controls, Pulsar chlorination, equipment selection, installation, training and long-term service. Talk with Angelo about your facility.",
   path: "/",
 });
 

@@ -18,7 +18,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Pulsar Precision Calcium Hypochlorite Feeders in New York",
-  description: "Pulsar Precision and Precision 30 cal hypo feeder sizing, installation, commissioning, training, and service for large commercial pools across New York State outside NYC. Qualified by chlorine demand, not gallons.",
+  description: "Pulsar Precision and Precision 30 cal hypo feeder sizing, installation, commissioning, training, and service for large commercial pools across New York State. Qualified by chlorine demand, not gallons.",
   path: "/pulsar-precision-feeders/",
 });
 
@@ -56,7 +56,7 @@ export default function Page() {
       <PageHero
         eyebrow="Chemical delivery · Pulsar Systems"
         title="Pulsar Precision calcium hypochlorite feeder systems"
-        lede="High-capacity chlorine delivery for pools whose volume and bather load justify it. FreyTech sizes by measured chlorine demand, installs and commissions the loop, trains operators, and services the system across New York State outside NYC."
+        lede="High-capacity chlorine delivery for pools whose volume and bather load justify it. FreyTech sizes by measured chlorine demand, installs and commissions the loop, trains operators, and services the system across New York State."
         crumbs={[{ name: "Solutions", href: "/water-chemistry-modernization/" }, { name: "Pulsar Precision Feeders", href: "/pulsar-precision-feeders/" }]}
         actions={<><Button href="/contact/?product=Pulsar%20Precision" variant="onDark" size="lg">Request a Facility Assessment</Button><Button href="#qualify" variant="onDarkGhost" size="lg">Does my pool qualify?</Button></>}
         aside={

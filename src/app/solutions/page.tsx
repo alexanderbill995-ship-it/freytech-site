@@ -8,7 +8,7 @@ import { problems, problemHref } from "@/content/catalog";
 
 export const metadata: Metadata = pageMetadata({
   title: "Commercial Pool Solutions by Problem | FreyTech New York",
-  description: "Start from the problem: replace liquid chlorine, stabilize chemistry, add alarms, modernize an aging equipment room, improve filtration, or prepare specifications. Solutions for New York commercial pools outside NYC.",
+  description: "Start from the problem: replace liquid chlorine, stabilize chemistry, add alarms, modernize an aging equipment room, improve filtration, or prepare specifications. Solutions for New York commercial pools.",
   path: "/solutions/",
 });
 

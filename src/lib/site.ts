@@ -10,20 +10,28 @@ export const site = {
   legalName: "Frey Technologies, Inc.", // CONFIRM exact legal entity name (current site footer)
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://freytech.org",
   tagline: "Commercial pool water chemistry, engineered for New York",
-  territory: "Serving commercial aquatic facilities across New York State outside New York City.",
-  territoryShort: "New York State outside NYC",
+  territory: "Serving commercial aquatic facilities across New York State.",
+  territoryShort: "New York State",
   phone: process.env.NEXT_PUBLIC_PHONE ?? "1-800-724-2770", // current site; CONFIRM still active
   fax: "1-315-986-1332", // current site; CONFIRM still in use
   email: process.env.NEXT_PUBLIC_EMAIL ?? "info@freytech.org", // current site; CONFIRM monitored
   supportEmail: process.env.NEXT_PUBLIC_SUPPORT_EMAIL ?? "support@freytech.org", // current site; CONFIRM monitored
+  /** Physical office. Supplied by Angelo 2026-09-26, replacing the old Walworth address. */
   address: {
-    poBox: "P.O. Box 403",
-    street: "2194 Penfield Road", // current site; CONFIRM physical office
-    city: "Walworth",
+    street: "356 Macedon Center Road",
+    city: "Fairport",
     region: "NY",
-    postalCode: "14568",
+    postalCode: "14450",
     country: "US",
-    county: "Wayne",
+    county: "Monroe",
+  },
+  /** Remit-to / billing address. Distinct from the physical office. Supplied by Angelo 2026-09-26. */
+  remitTo: {
+    poBox: "P.O. Box 486",
+    city: "Macedon",
+    region: "NY",
+    postalCode: "14502",
+    country: "US",
   },
   hours: process.env.NEXT_PUBLIC_HOURS ?? "", // Not stated on current site; CONFIRM and set NEXT_PUBLIC_HOURS
   owner: { name: "Angelo DiCiaccio", title: "President" },

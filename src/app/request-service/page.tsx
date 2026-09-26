@@ -11,7 +11,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Request Service: Pool Controller & Feeder Troubleshooting, Maintenance, Parts",
-  description: "Request service for a commercial pool chemical controller or feed system in New York State outside NYC: troubleshooting, preventive maintenance, parts, training, commissioning, or warranty coordination.",
+  description: "Request service for a commercial pool chemical controller or feed system in New York State: troubleshooting, preventive maintenance, parts, training, commissioning, or warranty coordination.",
   path: "/request-service/",
 });
 

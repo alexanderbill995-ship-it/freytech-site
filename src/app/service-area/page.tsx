@@ -20,7 +20,7 @@ export const metadata: Metadata = pageMetadata({
 export default function Page() {
   return (
     <>
-      <PageHero eyebrow="Service area" title="New York State, outside New York City" lede={`FreyTech is based in ${site.address.city}, ${site.address.county} County, and installs and services commercial pool chemistry systems statewide outside the five boroughs. Each region below lists the facility types we work with and the customer references we can speak to there.`} crumbs={[{ name: "Service Area", href: "/service-area/" }]} compact />
+      <PageHero eyebrow="Service area" title="New York State" lede={`FreyTech is based in ${site.address.city}, ${site.address.county} County, and installs and services commercial pool chemistry systems statewide. Each region below lists the facility types we work with and the customer references we can speak to there.`} crumbs={[{ name: "Service Area", href: "/service-area/" }]} compact />
       <Section>
         <SectionHeader title="Regions and counties" lede="Regions follow New York's economic development region boundaries. Coverage of specific counties, response times, and travel are confirmed during the assessment." />
         <div className="grid grid-3">

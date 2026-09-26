@@ -13,7 +13,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Complete Commercial Pool Water-Chemistry Modernization in New York",
-  description: "Assess, design, install, commission, train, and support: FreyTech's process for modernizing chemical control and delivery at commercial pools across New York State outside NYC, using BECSys5 and, where justified, Pulsar Precision.",
+  description: "Assess, design, install, commission, train, and support: FreyTech's process for modernizing chemical control and delivery at commercial pools across New York State, using BECSys5 and, where justified, Pulsar Precision.",
   path: "/water-chemistry-modernization/",
 });
 

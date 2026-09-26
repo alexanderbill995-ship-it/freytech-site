@@ -17,7 +17,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Pulsar Commercial Chlorination Systems in New York | Overview",
-  description: "Pulsar calcium hypochlorite chlorination for commercial pools: how dry cal hypo feeding works, which facilities fit, storage and handling, conversion from liquid or gas chlorine, controls integration, and FreyTech's role in New York State outside NYC.",
+  description: "Pulsar calcium hypochlorite chlorination for commercial pools: how dry cal hypo feeding works, which facilities fit, storage and handling, conversion from liquid or gas chlorine, controls integration, and FreyTech's role in New York State.",
   path: "/pulsar-chlorination/",
 });
 
@@ -37,7 +37,7 @@ export default function Page() {
       <PageHero
         eyebrow="Pulsar commercial chlorination · overview"
         title="Dry calcium hypochlorite chlorination for commercial pools"
-        lede="Pulsar feeders store chlorine as a solid and make chlorine solution only when the controller asks for it. For the right facility that means fewer deliveries, no bulk liquid, and capacity for peak demand. FreyTech evaluates fit by measured demand, installs the loop, trains operators, and services the system across New York State outside NYC."
+        lede="Pulsar feeders store chlorine as a solid and make chlorine solution only when the controller asks for it. For the right facility that means fewer deliveries, no bulk liquid, and capacity for peak demand. FreyTech evaluates fit by measured demand, installs the loop, trains operators, and services the system across New York State."
         crumbs={[{ name: "Products & Solutions", href: "/products/" }, { name: "Chemical Delivery and Chlorination", href: "/products/chemical-delivery-chlorination/" }, { name: "Pulsar Chlorination", href: "/pulsar-chlorination/" }]}
         actions={<><Button href="/pulsar-precision-feeders/" variant="onDark" size="lg">Pulsar Precision guide</Button><Button href="/contact/?product=Pulsar&category=chemical-delivery-chlorination&intent=assessment" variant="onDarkGhost" size="lg">Request a Facility Assessment</Button></>}
         aside={<><h2 style={{ fontSize: "var(--text-md)" }}>Two models</h2><ul><li><strong>Pulsar Precision:</strong> very large pools; up to 189 lb/day available chlorine.</li><li><strong>Pulsar Precision 30:</strong> small and mid-size pools; up to 36 lb/day; flow-based.</li></ul><p style={{ marginTop: "0.75rem" }}><Confirm note="Confirm dealer status">FreyTech&apos;s Pulsar dealer status is being confirmed for publication.</Confirm></p></>}

@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: PageProps<"/service-area/[slu
   if (!r) return {};
   return pageMetadata({
     title: `Commercial Pool Chemical Controls & Feed Systems: ${r.name}, NY`,
-    description: `BECSys5 controls, Pulsar Precision feeders, installation, and service for commercial pools in ${r.counties.join(", ")} ${r.counties.length > 1 ? "counties" : "County"}. FreyTech serves New York State outside NYC.`,
+    description: `BECSys5 controls, Pulsar Precision feeders, installation, and service for commercial pools in ${r.counties.join(", ")} ${r.counties.length > 1 ? "counties" : "County"}. FreyTech serves New York State.`,
     path: `/service-area/${r.slug}/`,
   });
 }
@@ -88,7 +88,7 @@ export default async function Page({ params }: PageProps<"/service-area/[slug]">
         <div className="grid grid-3">
           <Card title="BECSys5 automated controls" href="/becsys5-controls/" footer="Details and FAQ"><p>Controller modernization with remote visibility, alarms, and records for pools of every size.</p></Card>
           <Card title="Pulsar Precision feeders" href="/pulsar-precision-feeders/" footer="Qualification"><p>High-capacity calcium hypochlorite delivery for large pools and high bather loads, sized by measured demand.</p></Card>
-          <Card title="Service and maintenance" href="/service-support/" footer="Service capabilities"><p>Preventive maintenance, troubleshooting, parts, training, and warranty coordination from our Wayne County office.</p></Card>
+          <Card title="Service and maintenance" href="/service-support/" footer="Service capabilities"><p>Preventive maintenance, troubleshooting, parts, training, and warranty coordination from our Monroe County office.</p></Card>
         </div>
       </Section>
 

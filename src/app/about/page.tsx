@@ -18,7 +18,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "About Frey Technologies: Commercial Aquatic Systems in New York",
-  description: "FreyTech designs, supplies, installs, commissions, trains, and services commercial pool water-treatment systems for institutions across New York State outside NYC, from its Wayne County office.",
+  description: "FreyTech designs, supplies, installs, commissions, trains, and services commercial pool water-treatment systems for institutions across New York State, from its Monroe County office.",
   path: "/about/",
 });
 
@@ -37,7 +37,7 @@ export default function Page() {
     <>
       <PageHero
         eyebrow="About FreyTech"
-        title="New York's commercial pool water-chemistry specialist, outside NYC"
+        title="New York's commercial pool water-chemistry specialist"
         lede="Frey Technologies has designed, sold, installed, and serviced commercial pool equipment and water-treatment systems for New York institutions for decades. Today the company is focused on one thing it does better than anyone else in its territory: modernizing chemical control and delivery, and standing behind it locally."
         crumbs={[{ name: "About", href: "/about/" }]}
         compact
@@ -61,7 +61,7 @@ export default function Page() {
               <dl className={p.dl} style={{ marginTop: "var(--sp-3)" }}>
                 <dt>Company</dt><dd>{site.legalName} (FreyTech)</dd>
                 <dt>Office</dt><dd>{site.address.street}, {site.address.city}, NY {site.address.postalCode} ({site.address.county} County)</dd>
-                <dt>Territory</dt><dd>New York State outside New York City</dd>
+                <dt>Territory</dt><dd>New York State</dd>
                 <dt>President</dt><dd>Angelo DiCiaccio</dd>
                 <dt>Serving New York since</dt><dd><Confirm note="Confirm year and whether the business was established or purchased in this year">{site.since}</Confirm></dd>
                 <dt>Phone</dt><dd><TrackedLink href={telHref(site.phone)} event="phone_click" payload={{ location: "about" }}>{site.phone}</TrackedLink></dd>
@@ -83,7 +83,7 @@ export default function Page() {
       <Section>
         <div className={p.splitEven}>
           <div>
-            <SectionHeader eyebrow="Ownership" title="Commercial expertise without the corporate handoff" lede="FreyTech is owner-led. The people who assess your facility, install the system, and answer the phone afterward work for the same small company in Wayne County, and the owner is directly involved." />
+            <SectionHeader eyebrow="Ownership" title="Commercial expertise without the corporate handoff" lede="FreyTech is owner-led. The people who assess your facility, install the system, and answer the phone afterward work for the same small company in Monroe County, and the owner is directly involved." />
             <div style={{ display: "grid", gridTemplateColumns: hasPortrait ? "minmax(0, 11rem) minmax(0, 1fr)" : "1fr", gap: "var(--sp-6)", alignItems: "start" }}>
               {hasPortrait && (
                 // eslint-disable-next-line @next/next/no-img-element

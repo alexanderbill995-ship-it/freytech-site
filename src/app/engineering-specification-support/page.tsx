@@ -13,7 +13,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Engineering & Specification Support for Pool Chemical Systems in New York",
-  description: "Product selection, equipment schedules, submittals, sequence-of-operation, approved-equal review, and commissioning support for architects, engineers, and aquatic consultants specifying BECSys5 and Pulsar Precision on New York projects outside NYC.",
+  description: "Product selection, equipment schedules, submittals, sequence-of-operation, approved-equal review, and commissioning support for architects, engineers, and aquatic consultants specifying BECSys5 and Pulsar Precision on New York projects.",
   path: "/engineering-specification-support/",
 });
 
@@ -34,7 +34,7 @@ export default function Page() {
       <PageHero
         eyebrow="For architects, engineers, and aquatic consultants"
         title="Engineering and specification support"
-        lede="A local source who knows the equipment, knows New York's approval process, and will still be on site for commissioning. FreyTech supports design teams from schematic design through closeout on projects across New York State outside NYC."
+        lede="A local source who knows the equipment, knows New York's approval process, and will still be on site for commissioning. FreyTech supports design teams from schematic design through closeout on projects across New York State."
         crumbs={[{ name: "Engineering & Specification Support", href: "/engineering-specification-support/" }]}
         actions={<><Button href="#request" variant="onDark" size="lg">Request Specification Assistance</Button><Button href="/markets/architects-engineers-consultants/" variant="onDarkGhost" size="lg">Design-team overview</Button></>}
         aside={

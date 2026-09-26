@@ -14,13 +14,21 @@ export type RegionCopy = {
 };
 
 export const regionCopy: Record<string, RegionCopy> = {
+  "new-york-city": {
+    slug: "new-york-city",
+    headline: "Commercial pool controls and chemical feed for New York City",
+    intro: "The five boroughs hold one of the densest concentrations of institutional pools in the country: university and college natatoriums, public school pools, city recreation centers, private clubs, hotels, and hospital therapy pools. FreyTech covers New York City, with work in the boroughs scheduled through local coverage for the area.",
+    facilities: ["University and college natatoriums", "Public and independent school pools", "City and community recreation-center pools", "Hotel, club, and rooftop pools", "Hospital and rehabilitation therapy pools"],
+    references: [],
+    travelNote: "New York City coverage is arranged through FreyTech's local resource for the boroughs; scheduling and lead times are confirmed per project rather than assumed.",
+  },
   "capital-region": {
     slug: "capital-region",
     headline: "Commercial pool controls and chemical feed for the Capital Region",
     intro: "Albany, Schenectady, Troy, Saratoga Springs, and Glens Falls area facilities range from college natatoriums to municipal pools and resort pools in the Adirondack foothills. Several large aquatic projects in the region have moved through design in recent years, and the region's colleges and school districts run pools year-round.",
     facilities: ["College and university natatoriums", "School district pools", "Municipal pools and new aquatic centers", "JCC and YMCA facilities", "Resort and hotel pools in Warren and Saratoga counties"],
     references: ["Siena College", "Hudson Falls High School", "Hudson High School", "Mechanicville High School", "Sagamore Resort Hotel"],
-    travelNote: "FreyTech's office is in Wayne County; Capital Region sites are a routine day trip for assessments, installation, and service.",
+    travelNote: "FreyTech's office is in Monroe County; Capital Region sites are a routine day trip for assessments, installation, and service.",
   },
   "central-new-york": {
     slug: "central-new-york",
@@ -28,12 +36,12 @@ export const regionCopy: Record<string, RegionCopy> = {
     intro: "Syracuse, Cortland, Auburn, and Oswego facilities include universities, community colleges, school districts, and YMCAs, several of which have received state funding for mechanical-room and chemical-control replacement. Central New York is within a short drive of FreyTech's office.",
     facilities: ["University and college pools", "School district natatoriums", "YMCA multi-pool facilities", "Municipal indoor and outdoor pools"],
     references: ["Colgate University"],
-    travelNote: "Central New York is among the closest regions to FreyTech's Wayne County office, allowing fast response for service calls.",
+    travelNote: "Central New York is among the closest regions to FreyTech's Monroe County office, allowing fast response for service calls.",
   },
   "finger-lakes": {
     slug: "finger-lakes",
     headline: "FreyTech's home region: the Finger Lakes and Greater Rochester",
-    intro: "FreyTech is based in Walworth, Wayne County, minutes from Rochester. The Finger Lakes region includes university natatoriums, dozens of school district pools, YMCAs, town and village pools, and college campuses from Geneva to Batavia.",
+    intro: "FreyTech is based in Fairport, Monroe County, in the Rochester suburbs. The Finger Lakes region includes university natatoriums, dozens of school district pools, YMCAs, town and village pools, and college campuses from Geneva to Batavia.",
     facilities: ["University natatoriums", "Suburban school district pools", "YMCA and JCC facilities", "Town, village, and city pools", "College campuses across the Finger Lakes"],
     references: ["University of Rochester", "Fairport High School"],
     travelNote: "Same-region service. Most Finger Lakes facilities are within an hour of FreyTech's office.",
@@ -52,7 +60,7 @@ export const regionCopy: Record<string, RegionCopy> = {
     intro: "From Westchester and Rockland north through Orange, Dutchess, Ulster, and Sullivan counties, the Hudson Valley includes colleges, BOCES facilities, school districts, JCCs and YMCAs, and municipalities planning large new aquatic complexes. FreyTech has served Hudson Valley institutions for years, and the region sits immediately outside our excluded New York City territory.",
     facilities: ["College campuses", "BOCES and school district pools", "JCC and YMCA facilities", "Municipal pool complexes in design or construction", "Culinary and hospitality institutions"],
     references: ["Marist College", "Mount Saint Mary College", "The Culinary Institute of America", "Poughkeepsie Middle School", "Goshen BOCES"],
-    travelNote: "Hudson Valley sites are served from Wayne County with scheduled trips; multi-day installation work is planned to minimize travel impact.",
+    travelNote: "Hudson Valley sites are served from Monroe County with scheduled trips; multi-day installation work is planned to minimize travel impact.",
   },
   "mohawk-valley": {
     slug: "mohawk-valley",
@@ -65,7 +73,7 @@ export const regionCopy: Record<string, RegionCopy> = {
   "western-new-york": {
     slug: "western-new-york",
     headline: "Commercial pool chemistry modernization in Western New York",
-    intro: "Buffalo, Niagara Falls, Jamestown, and Olean area facilities include universities, school districts, town recreation centers, and YMCAs, with several municipal pools funded for renovation. Western New York is a direct drive west from FreyTech's Wayne County office.",
+    intro: "Buffalo, Niagara Falls, Jamestown, and Olean area facilities include universities, school districts, town recreation centers, and YMCAs, with several municipal pools funded for renovation. Western New York is a direct drive west from FreyTech's Monroe County office.",
     facilities: ["University and college pools", "School district pools", "Town and city recreation pools", "YMCA facilities"],
     references: [],
     travelNote: "Western New York is served directly from the Finger Lakes. Confirm coverage for the Southern Tier's western counties (Chautauqua, Cattaraugus, Allegany) with FreyTech.",
@@ -81,7 +89,7 @@ export const regionCopy: Record<string, RegionCopy> = {
   "long-island": {
     slug: "long-island",
     headline: "Commercial pool chemistry for Nassau and Suffolk counties",
-    intro: "Long Island's school districts, colleges, JCCs, YMCAs, town pools, and aquatic centers are part of FreyTech's New York State territory outside New York City. Nassau and Suffolk are distinct from the five boroughs, which FreyTech does not serve.",
+    intro: "Long Island's school districts, colleges, JCCs, YMCAs, town pools, and aquatic centers are part of FreyTech's New York State territory. Nassau and Suffolk sit alongside the five boroughs, and FreyTech now covers both.",
     facilities: ["School district and BOCES pools", "College and university pools", "JCC and YMCA facilities", "Town and county aquatic centers"],
     references: [],
     travelNote: "Long Island coverage, response times, and installation scheduling should be confirmed with FreyTech for your specific project.",

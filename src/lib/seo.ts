@@ -25,7 +25,7 @@ export function pageMetadata({ title, description, path, noIndex }: PageMeta): M
       siteName: site.name,
       type: "website",
       locale: "en_US",
-      images: [{ url: new URL(asset("/images/og-default.png"), site.url).toString(), width: 1200, height: 630, alt: `${site.name}: commercial pool water chemistry for New York State outside NYC` }],
+      images: [{ url: new URL(asset("/images/og-default.png"), site.url).toString(), width: 1200, height: 630, alt: `${site.name}: commercial pool water chemistry for New York State` }],
     },
     twitter: { card: "summary_large_image", title: fullTitle, description },
   };
@@ -62,7 +62,7 @@ export function organizationLd() {
     url: site.url,
     logo: new URL(asset("/images/brand/freytech-logo.png"), site.url).toString(),
     description:
-      "Commercial aquatic systems specialist providing water-chemistry controls, chemical-feed systems, installation, commissioning, operator training, and service for commercial pools across New York State outside New York City.",
+      "Commercial aquatic systems specialist providing water-chemistry controls, chemical-feed systems, installation, commissioning, operator training, and service for commercial pools across New York State.",
     areaServed: { "@type": "State", name: "New York", description: "New York State excluding New York City" },
     knowsAbout: ["Commercial pool chemical controllers", "BECSys5", "Pulsar Precision calcium hypochlorite feeders", "Commercial pool water treatment", "Aquatic facility modernization"],
   };

@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PageProps<"/manufacturers/[sl
   const { slug } = await params; const m = getManufacturer(slug);
   if (!m) return {};
   const items = publishedProducts.filter((x) => x.manufacturer === slug);
-  return pageMetadata({ title: `${m.name} Commercial Pool Equipment in New York | FreyTech`, description: `${m.name} products FreyTech can help you evaluate, install, and support: ${items.slice(0, 4).map((x) => x.name).join(", ")}. New York State outside NYC.`, path: `/manufacturers/${slug}/` });
+  return pageMetadata({ title: `${m.name} Commercial Pool Equipment in New York | FreyTech`, description: `${m.name} products FreyTech can help you evaluate, install, and support: ${items.slice(0, 4).map((x) => x.name).join(", ")}. New York State.`, path: `/manufacturers/${slug}/` });
 }
 
 export default async function Page({ params }: PageProps<"/manufacturers/[slug]">) {
@@ -59,7 +59,7 @@ export default async function Page({ params }: PageProps<"/manufacturers/[slug]"
           </div>
           <div>
             <Callout tone={verified ? "info" : "warn"} title="How FreyTech works with this equipment">
-              <p>{verified ? "FreyTech selects, installs, commissions, trains operators on, and services this manufacturer's equipment for New York facilities outside NYC." : "FreyTech can help you evaluate this manufacturer's equipment for your facility, confirm availability and lead time, and coordinate installation and support where it is offered. No formal dealer relationship is implied."}</p>
+              <p>{verified ? "FreyTech selects, installs, commissions, trains operators on, and services this manufacturer's equipment for New York facilities." : "FreyTech can help you evaluate this manufacturer's equipment for your facility, confirm availability and lead time, and coordinate installation and support where it is offered. No formal dealer relationship is implied."}</p>
             </Callout>
           </div>
         </div>

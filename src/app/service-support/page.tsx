@@ -14,7 +14,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Commercial Pool Chemical System Service & Support in New York",
-  description: "System assessments, preventive maintenance, controller and feeder troubleshooting, replacement parts, operator training, commissioning, remote support, service agreements, and warranty coordination for commercial pools across New York State outside NYC.",
+  description: "System assessments, preventive maintenance, controller and feeder troubleshooting, replacement parts, operator training, commissioning, remote support, service agreements, and warranty coordination for commercial pools across New York State.",
   path: "/service-support/",
 });
 
@@ -36,7 +36,7 @@ export default function Page() {
       <PageHero
         eyebrow="Service and support"
         title="Service and support for commercial pool chemistry systems"
-        lede="FreyTech's own technicians install, commission, maintain, and repair chemical controllers and feed systems across New York State outside NYC. Existing customers and facilities with equipment we did not install are both welcome."
+        lede="FreyTech's own technicians install, commission, maintain, and repair chemical controllers and feed systems across New York State. Existing customers and facilities with equipment we did not install are both welcome."
         crumbs={[{ name: "Service & Support", href: "/service-support/" }]}
         actions={<><Button href="/request-service/" variant="onDark" size="lg">Request Service</Button>{site.phone && <Button href={telHref(site.phone)} variant="onDarkGhost" size="lg" icon={false}>Call {site.phone}</Button>}</>}
         aside={

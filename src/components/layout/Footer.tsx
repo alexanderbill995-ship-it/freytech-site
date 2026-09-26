@@ -16,7 +16,7 @@ export function Footer() {
         <div className={styles.brand}>
           <Logo onDark />
           <p className={styles.blurb}>
-            Commercial pool water-chemistry controls, chemical-feed systems, installation, commissioning, operator training, and service for aquatic facilities across New York State outside New York City.
+            Commercial pool water-chemistry controls, chemical-feed systems, installation, commissioning, operator training, and service for aquatic facilities across New York State.
           </p>
           <address className={styles.contact}>
             {hasAddress && (
@@ -43,7 +43,7 @@ export function Footer() {
         <div className={styles.searchBox}><GlobalSearch variant="inline" label="Search products, manufacturers and solutions" placeholder="Search by product, manufacturer, model or problem…" /></div>
       </div>
       <div className={["container", styles.regions].join(" ")}>
-        <p className={styles.regionsLabel}>Service area · New York State outside New York City</p>
+        <p className={styles.regionsLabel}>Service area · New York State</p>
         <ul className={styles.regionList}>
           {serviceRegions.map((r) => (
             <li key={r.slug}><Link href={`/service-area/${r.slug}/`}>{r.name}</Link></li>

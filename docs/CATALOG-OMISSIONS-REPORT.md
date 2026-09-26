@@ -7,11 +7,11 @@ Aquafinity family/product pages: 70. Covered by at least one manifest row: 70. *
 All family pages are accounted for.
 
 ## Rows by disposition
-- published: 132
+- published: 64
 - family (inside a family page): 42
 - duplicate: 14
 - discontinued: 10
-- excluded: 26
+- excluded: 94
 
 ## Excluded rows (with reasons)
 - Precision Control MCC-VFD Motor Control Center: Excluded: Aquafinity/CES house-brand VFD package ('Precision Control' brand, 'connects to your CES controller'); the drive OEM is not named. FreyTech equivalent path: BECSys7 flow/VFD control with a drive from an electrical supplier, or a manufacturer-branded pump VFD package.
@@ -23,15 +23,83 @@ All family pages are accounted for.
 - Eko3 CO2 regulator (accessory): Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.
 - Eko3 CO2 automatic cylinder switchover (accessory): Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.
 - Eko3 Fume-X acid fume scrubber: Excluded: Aquafinity's own store lists this as 'Eko3 Fume-X' (house brand; brochure PDF created January 2026 with no manufacturer identification). FreyTech alternative for the same need (drum-mounted acid fume scrubber with color-change reagent, 3/4 in. NPT): ProMinent Acid Fume Scrubber.
+- LMI ROYTRONIC Series A electronic metering pumps: Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.
+- LMI Series B electronic metering pumps: Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.
+- LMI Series C electronic metering pumps: Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.
+- LMI Series G motor-driven metering pumps: Official site lmipumps.com is behind a bot-check (HTTP 429) so no official product URL or image could be captured; specs and literature are from LMI's distributor site lmi-pumps.com (Flomotion Systems, Western New York), which hosts LMI's own data sheets. Image status therefore dealer-media-asset and not downloaded. The SD43-88P-KSI part number is an Aquafinity/Knorr (KSI) special. Removed at the client's instruction 2026-09-26: Angelo asked that all LMI products be removed from chemical delivery.
 - EKO3 pH-MTS carbon dioxide feed system: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control) with bulk CO2 from Taylor-Wharton EasyCarb (this manifest).
 - EKO3 VaporLok acid drum vent kit: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap: sealed drum bung with pump suction pass-through and vent line. Comparable manufacturer-branded parts exist from metering-pump suppliers (LMI/Stenner drum fittings) and fume-scrubber vendors.
+- AntiWave Forerunner racing lanes: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave Maximum racing lanes: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave SuperTensioner: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave Ultimate Storage Reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave Anti Pro Goal 1080: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave JNR Global Anti Goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave FlipFloat folding goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave Universal wall goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AntiWave Odyssey Anti Pro goal: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- ADG stainless steel bulkheads (movable, vertical, stationary): Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads. Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Competitor racing lane lines (4-inch and 6-inch): Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Competitor take-up reels and lane springs: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Competitor Classic Stor lane reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Competitor Elite Stor lane reel: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex 14-foot springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex 16-foot springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex Maxiflex Model B springboard: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex one-meter diving stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex three-meter diving stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Duraflex Short Stand: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Lawson Aquatics SuperGrip deck grating: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - T-STAR energy-saver thermal pool covers: Manufacturer of the T-STAR brochure not identified from public sources. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.
 - TITAN Series pool covers: Manufacturer not identified. Unpublished pending manufacturer identification (0 specs, 0 features, 0 docs, no source URLs); re-publish once Angelo identifies the manufacturer and sourced facts are available.
+- Meyco safety pool covers (mesh and solid): Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - Meyco Cover FAQs (editorial): Excluded: editorial FAQ content, not a product.
+- Paragon Griff's Guard Station and Griff's Vision: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon Paraflyte lifeguard chairs: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon Rover movable lifeguard chairs: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG500 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG505 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG510 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG515 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG520 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Tailwind LG525 lifeguard chair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith aXs2 pool lift: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith multiLift2 pool lift: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith PAL2 pool lift: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith Splash! pool lift: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AquaTrek2 ADA forward-walking pool ladder: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AquaTrek2 ADA pool step system: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AquaTrek2 transfer platform: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- AquaTrek2 aquatic wheelchair: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- J&J Electronics PureWhite LED pool fixtures and lamps: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- J&J Electronics ColorSplash XG LED pool fixtures: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon stainless pool ladders (vertical, cross-brace, wall guard, step): Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon ladder safety wedge: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon deck-mounted rails: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon grab rails: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Paragon stair-mounted rails: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten storage trolley: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten Gold Pro racing lane lines: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten Classic Pro racing lane lines: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten take-up reel and spring cover: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten water polo goals (Official, Optimized, Inflatable, Multi Pro, Multi Pro Junior): Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Malmsten water polo field-of-play lines, marking cones, and Ball Release Pro: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith Velocity starting blocks: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- S.R.Smith Legacy starting blocks: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
+- Apex Series packaged ozone systems: Aquafinity lists Apex I, II, III, IV, VI plus an Apex Ae paragraph; ClearWater Tech's current page also lists Apex VII and VIII. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Aquafinity's per-model images are Aquafinity-hosted copies of CWT renders; the downloaded image is the manufacturer's own CDN copy. Removed at the client's instruction 2026-09-26: ClearWater Tech is replaced by Clear Comfort AOP.
 - Eko3 GEN2 hi-rate permanent media filter: Excluded: Aquafinity/Knorr Systems (KSI) house brand. The EKO3 SYSTEMS trademark (USPTO reg. 5543947) is registered to Knorr Systems, Inc., Santa Ana CA, and eko3.com redirects to knorrsystems.com. Aquafinity page sub-headings 'Product Features', 'Filter Tanks', 'Internal Components of Filter Tanks', and 'Control Valves' are sections of this single product and are covered by this object.
 - Precision Control AMF advanced media filter: Excluded: Aquafinity/CES house brand (Aquafinity's own page says Aquafinity has provided these filters since 1985 and the data sheet is Aquafinity-branded; ceswaterquality.com published 'Precision AMF Filters: First 8 Years'). Aquafinity sub-tabs 'Valves', 'Lid', 'Internals', and 'Controls' are sections of this single product and are covered by this object.
 - Precision Control AMF strainers (Composite, Composite IWF, Stainless Steel): Excluded: Aquafinity/CES house brand; images are served from Aquafinity's own shop API (CES FRP AMF Strainer). All three Aquafinity tabs are covered as models of this one object.
+- Skid-mounted corona-discharge ozone systems (CD15/O2, CD20/O2, M-15/O2, P-20/O2): Aquafinity's CD15-02 and CD20-02 images are hosted by knorrsystems.com and were not used. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Removed at the client's instruction 2026-09-26: ClearWater Tech is replaced by Clear Comfort AOP.
+- Algigon 30 Quaternary Algaecide: Manufacturer not identified. The only image is Aquafinity-hosted, so none is used. 'Super AlgiGon' is a Robarb brand name (Robarb is an Innovative Water Care/Solenis brand), which may be the source; the Aquafinity listing could also be a Knorr/Aquafinity private label. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- Premium 60 Quaternary Algaecide: Manufacturer not identified; '60' poly-quat algaecides are sold by many private-label brands. No manufacturer image available. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- Terminator II Copper-based Algaecide: Manufacturer not identified. Pair with a sequestering agent (e.g. Jack's Magic) to limit staining. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
 - Next Generation Water Science (brand heading): Excluded: brand heading, not a product. The four products beneath it are emitted as published entries.
+- AAD Amino Acid Digester enzyme: Next Generation Water Science shares founders and a philosophy with Orenda Technologies; nextgws.com remains a live, separate brand site. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- CPR Concentrated Phosphate Remover: Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- MSI Metal and Scale Inhibitor: Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- CCE Chitosan Clarifier with Enzymes: Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
+- Natural Chemistry Stainfree: Natural Chemistry is part of NC Brands, acquired by Biolab (KIK Consumer Products) in 2021. Removed at the client's instruction 2026-09-26: specialty chemicals are limited to the brands Angelo's supplier stocks (EZ Clor and Jack's Magic).
 - Enduro-TurboClean robotic vacuum line: Excluded: Aquafinity in-house brand. enduroturboclean.com is copyrighted by Commercial Energy Specialists, Inc. (CES), an Aquafinity company, and its brochures are hosted on ceswaterquality.com. Not available to FreyTech as a dealer line. Comparable FreyTech offering: Maytronics Dolphin Wave (maytronics-dolphin-wave).
 - Spot 100: Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).
 - Spot 150: Excluded: model of the Aquafinity/CES in-house Enduro-TurboClean line (see enduro-turboclean-robotic-vacuums).

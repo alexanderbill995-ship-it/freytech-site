@@ -71,7 +71,7 @@ const lines = gen.map((r) => {
     prerequisites: [], retrofit: [], integrations: [], services: ["Evaluation of fit for your facility", "Availability, lead time, and service coverage confirmed on request", "Installation and support coordination where offered"], support: ["Parts and warranty coordination on request"],
     docs: [${docs}], faqs: [], related: [], specifiedWith: [], relatedSolutions: ${arr(r.problems)},
     ${img}
-    seoTitle: ${esc(`${r.product || r.family} | ${r.manufacturer} | Commercial Pool Equipment, New York`)}, seoDescription: ${esc(`${truncateClean(r.description, 150)} Availability through FreyTech, New York State outside NYC.`)},
+    seoTitle: ${esc(`${r.product || r.family} | ${r.manufacturer} | Commercial Pool Equipment, New York`)}, seoDescription: ${esc(`${truncateClean(r.description, 150)} Availability through FreyTech, New York State.`)},
     sourceUrls: ${arr([r.officialProductUrl, r.manufacturerUrl].filter(Boolean))}, claimStatus: ${esc(r.verification || 'pending-verification')}, lastVerified: ${esc(VERIFIED_ON)}, ownerApproved: false,
     ownerNotes: ${esc([r.notes, r.uncertainties].filter(Boolean).join(' · '))},
   },`;

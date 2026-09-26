@@ -1,7 +1,7 @@
 [
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -37,7 +37,7 @@
    "competition",
    "wave reduction"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -60,7 +60,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -89,7 +89,7 @@
   "keywords": [
    "competition lane lines"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -112,7 +112,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -138,7 +138,7 @@
   "keywords": [
    "lane line hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/",
   "family": "AntiWave Lane Lines",
@@ -161,7 +161,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -193,7 +193,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -216,7 +216,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -249,7 +249,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -272,7 +272,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -305,7 +305,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -328,7 +328,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -361,7 +361,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -384,7 +384,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -417,7 +417,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -440,7 +440,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -473,7 +473,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/",
   "family": "Water Polo Goals",
@@ -496,7 +496,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -535,7 +535,7 @@
    "bulkhead",
    "competition pool"
   ],
-  "notes": "Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads.",
+  "notes": "Stark (S.R.Smith) composite bulkheads exist as slug stark-bulkheads. Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/bulkheads/",
   "family": "Bulkheads",
@@ -684,7 +684,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -726,7 +726,7 @@
    "lane lines",
    "replacement segments"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "No manufacturer image saved (Fluidra media terms unclear).",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
@@ -749,7 +749,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -775,7 +775,7 @@
   "keywords": [
    "lane hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/competitor/",
   "family": "Competitor",
@@ -798,7 +798,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -823,7 +823,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -846,7 +846,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -871,7 +871,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -894,7 +894,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -929,7 +929,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -952,7 +952,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -987,7 +987,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -1010,7 +1010,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1045,7 +1045,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -1068,7 +1068,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1103,7 +1103,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -1126,7 +1126,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1161,7 +1161,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -1184,7 +1184,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1219,7 +1219,7 @@
    "diving",
    "competition"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/duraflex/",
   "family": "Duraflex diving",
@@ -1242,7 +1242,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -1271,7 +1271,7 @@
    "gutter grating",
    "slip resistant"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Only Knorr/Aquafinity-hosted images and PDFs found; request Xylem literature.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/deck-grating/",
   "family": "Lawson SuperGrip",
@@ -1395,7 +1395,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -1437,7 +1437,7 @@
    "pool cover",
    "winterization"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/meyco-safety-cover/",
   "family": "Meyco Safety Pool Covers",
@@ -1502,7 +1502,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1543,7 +1543,7 @@
   "keywords": [
    "lifeguard"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -1608,7 +1608,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -1640,7 +1640,7 @@
    "lifeguard",
    "guard chair"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -1663,7 +1663,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -1688,7 +1688,7 @@
   "keywords": [
    "lifeguard"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -1986,7 +1986,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2013,7 +2013,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2036,7 +2036,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2063,7 +2063,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2086,7 +2086,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2113,7 +2113,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2136,7 +2136,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2163,7 +2163,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2186,7 +2186,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2213,7 +2213,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2236,7 +2236,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -2263,7 +2263,7 @@
    "lifeguard",
    "hdpe"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm current Tailwind model numbers and size chart.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/guard-chairs/",
   "family": "Guard Chairs",
@@ -2862,7 +2862,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -2898,7 +2898,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -2921,7 +2921,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -2957,7 +2957,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -2980,7 +2980,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3016,7 +3016,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3039,7 +3039,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3075,7 +3075,7 @@
    "accessibility",
    "ADA"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3098,7 +3098,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3129,7 +3129,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3152,7 +3152,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3183,7 +3183,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3206,7 +3206,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3237,7 +3237,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3260,7 +3260,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3291,7 +3291,7 @@
    "ADA",
    "therapy pool"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "Confirm manufacturer URL and current model names.",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/handicap-access/",
   "family": "Handicap Access",
@@ -3314,7 +3314,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3349,7 +3349,7 @@
    "lighting",
    "retrofit"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
   "family": "J&J LED Lights",
@@ -3372,7 +3372,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3403,7 +3403,7 @@
    "LED",
    "lighting"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/jj-led-lights/",
   "family": "J&J LED Lights",
@@ -3426,7 +3426,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3476,7 +3476,7 @@
    "ladder",
    "entry"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
   "family": "Ladders",
@@ -3499,7 +3499,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3525,7 +3525,7 @@
    "safety",
    "entrapment"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/ladders/",
   "family": "Ladders",
@@ -3548,7 +3548,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3598,7 +3598,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -3621,7 +3621,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3646,7 +3646,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -3669,7 +3669,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3694,7 +3694,7 @@
   "keywords": [
    "rails"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/rails/",
   "family": "Rails",
@@ -3717,7 +3717,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3743,7 +3743,7 @@
   "keywords": [
    "lane line storage"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/",
   "family": "Lane Line Storage Reels",
@@ -3814,7 +3814,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -3845,7 +3845,7 @@
    "competition lane lines",
    "world aquatics"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -3868,7 +3868,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3893,7 +3893,7 @@
   "keywords": [
    "lane lines"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -3916,7 +3916,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -3951,7 +3951,7 @@
   "keywords": [
    "lane hardware"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-lane-lines/",
   "family": "Malmsten Lane Lines",
@@ -4016,7 +4016,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4069,7 +4069,7 @@
    "water polo",
    "goal"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
   "family": "Malmsten Water Polo",
@@ -4260,7 +4260,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -4297,7 +4297,7 @@
   "keywords": [
    "water polo"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/malmsten-water-polo/",
   "family": "Malmsten Water Polo",
@@ -4558,7 +4558,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [
@@ -4590,7 +4590,7 @@
   "keywords": [
    "starting blocks"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
   "family": "Starting Blocks",
@@ -4613,7 +4613,7 @@
  },
  {
   "sourceCategory": "deck-equipment",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "partially-verified",
   "docs": [],
@@ -4639,7 +4639,7 @@
   "keywords": [
    "starting blocks"
   ],
-  "notes": "",
+  "notes": "Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.",
   "uncertainties": "",
   "sourceUrl": "https://aquafinity.com/catalog/deck-equipment/starting-blocks/",
   "family": "Starting Blocks",

@@ -1,7 +1,8 @@
 /**
  * New York State regions and counties (Empire State Development / REDC definitions).
- * NYC counties are listed only so the forms can identify and route them as
- * OUTSIDE the primary territory. They are never presented as a service area.
+ * New York City became part of the served territory on 2026-09-26 at Angelo's instruction.
+ * Its counties are still identified separately so the forms can route those leads, because
+ * coverage there is delivered differently from the rest of the state.
  */
 export type Region = {
   slug: string;
@@ -30,11 +31,11 @@ export const regions: Region[] = [
   { slug: "western-new-york", name: "Western New York", counties: ["Allegany", "Cattaraugus", "Chautauqua", "Erie", "Niagara"], hubs: ["Buffalo", "Niagara Falls", "Jamestown", "Olean"] },
   { slug: "north-country", name: "North Country", counties: ["Clinton", "Essex", "Franklin", "Hamilton", "Jefferson", "Lewis", "St. Lawrence"], hubs: ["Watertown", "Plattsburgh", "Potsdam", "Lake Placid"] },
   { slug: "long-island", name: "Long Island", counties: ["Nassau", "Suffolk"], hubs: ["Hempstead", "Huntington", "Brookhaven", "Islip"] },
-  { slug: "new-york-city", name: "New York City", counties: ["Bronx", "Kings", "New York", "Queens", "Richmond"], hubs: [], excluded: true },
+  { slug: "new-york-city", name: "New York City", counties: ["Bronx", "Kings", "New York", "Queens", "Richmond"], hubs: ["Manhattan", "Brooklyn", "Queens", "The Bronx", "Staten Island"] },
 ];
 
 export const serviceRegions = regions.filter((r) => !r.excluded);
-export const nycCounties = regions.find((r) => r.excluded)!.counties;
+export const nycCounties = regions.find((r) => r.slug === "new-york-city")!.counties;
 
 export const allCounties = regions
   .flatMap((r) => r.counties.map((c) => ({ county: c, region: r.name, regionSlug: r.slug, excluded: !!r.excluded })))

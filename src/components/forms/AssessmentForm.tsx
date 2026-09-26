@@ -73,7 +73,7 @@ export function AssessmentForm({ defaultRequest, defaultProduct, context = {}, c
         {!compact && <Field id="title" label="Title or role"><Input id="title" autoComplete="organization-title" placeholder="e.g., Director of Facilities, Aquatics Director" /></Field>}
       </Fieldset>
 
-      <Fieldset legend="Facility location" hint="FreyTech serves New York State outside New York City. Facilities elsewhere can still submit; we will tell you honestly whether we can help or refer you.">
+      <Fieldset legend="Facility location" hint="FreyTech serves New York State. Facilities elsewhere can still submit; we will tell you honestly whether we can help or refer you.">
         {!compact && <Field id="address" label="Facility address" className={styles.span2}><Input id="address" autoComplete="street-address" placeholder="Street, city, ZIP" /></Field>}
         <Field id="state" label="State" required error={errors.state}>
           <Select id="state" options={o.states} defaultValue="NY" required error={errors.state} onChange={(e) => setState(e.target.value)} placeholder="Select state" />
@@ -85,12 +85,12 @@ export function AssessmentForm({ defaultRequest, defaultProduct, context = {}, c
         )}
         {territory === "nyc" && (
           <p className={[styles.routing, styles.span2].join(" ")} role="status">
-            <strong>Outside our primary territory.</strong> {county} County is within New York City, which FreyTech does not currently serve as a primary market. You may still submit this form; we will respond and, where we can, point you to an appropriate resource.
+            <strong>New York City coverage.</strong> {county} County is within the five boroughs. FreyTech covers New York City, and work there is scheduled through our local coverage for the area, so lead times can differ from upstate. Send the form and we will confirm specifics.
           </p>
         )}
         {territory === "out_of_state" && (
           <p className={[styles.routing, styles.span2].join(" ")} role="status">
-            <strong>Outside our primary territory.</strong> FreyTech focuses on New York State outside New York City. You may still submit this form and we will respond honestly about whether we can help.
+            <strong>Outside our primary territory.</strong> FreyTech focuses on New York State. You may still submit this form and we will respond honestly about whether we can help.
           </p>
         )}
       </Fieldset>

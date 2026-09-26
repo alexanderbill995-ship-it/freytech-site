@@ -68,7 +68,7 @@ export function DesktopNav() {
                     ))}
                   </div>
                   <div className={styles.megaBar}>
-                    <span>Serving commercial aquatic facilities across New York State outside New York City.</span>
+                    <span>Serving commercial aquatic facilities across New York State.</span>
                     <Link href="/contact/">Request a Facility Assessment</Link>
                   </div>
                 </div>

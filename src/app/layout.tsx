@@ -17,7 +17,7 @@ const plexMono = IBM_Plex_Mono({ subsets: ["latin"], weight: ["400", "500"], var
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: { default: `${site.name} | Commercial Pool Water Chemistry for New York State`, template: `%s | ${site.shortName}` },
-  description: "BECSys5 automated controls, Pulsar Precision feeders, installation, commissioning, training, and service for commercial aquatic facilities across New York State outside NYC.",
+  description: "BECSys5 automated controls, Pulsar Precision feeders, installation, commissioning, training, and service for commercial aquatic facilities across New York State.",
   applicationName: site.name,
   icons: { icon: [{ url: asset("/favicon.svg"), type: "image/svg+xml" }, { url: asset("/favicon.ico") }], apple: asset("/apple-touch-icon.png") },
   manifest: asset("/site.webmanifest"),

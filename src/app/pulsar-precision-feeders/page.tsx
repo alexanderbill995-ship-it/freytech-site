@@ -64,7 +64,7 @@ export default function Page() {
             <h2 style={{ fontSize: "var(--text-md)" }}>Two models, two very different pools</h2>
             <ul>
               <li><strong>Pulsar Precision:</strong> manufacturer-rated for 500,000 to 1,000,000+ gallon pools; up to 189 lb/day available chlorine.</li>
-              <li><strong>Pulsar Precision 30:</strong> compact, flow-based; up to 36 lb/day; manufacturer guidance up to 200,000 gallons indoor.</li>
+              <li><strong>Pulsar Precision 30:</strong> compact, flow-based; up to 36 lb/day; manufacturer-recommended pool size 10,000&ndash;300,000 gallons.</li>
             </ul>
             <p style={{ marginTop: "0.75rem" }}>Not every commercial pool is a Pulsar prospect. Many are better served by a <Link href="/becsys5-controls/">controller upgrade</Link> first.</p>
           </>
@@ -119,8 +119,8 @@ export default function Page() {
             </div>
           ))}
         </div>
-        <Callout title="About the Precision 30 sizing figures" tone="warn">
-          <p>{pulsar.precision30.inconsistency}</p>
+        <Callout title="About the Precision 30 sizing figures" tone="info">
+          <p>{pulsar.precision30.sizingNote}</p>
           <p>Because New York prohibits cyanuric acid stabilizer in public pools, the manufacturer&apos;s &ldquo;outdoor non-stabilized&rdquo; guidance (up to 90,000 gallons) is the relevant outdoor figure for facilities in our territory.</p>
         </Callout>
         <p className={p.small} style={{ marginTop: "var(--sp-5)" }}>

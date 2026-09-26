@@ -110,7 +110,8 @@ export const pulsar = {
     positioning: "Compact flow-based calcium hypochlorite feeder for small and mid-size commercial pools.",
     specs: [
       { k: "Chlorine delivery (pools)", v: "2–36 lb available chlorine per day; maximum 1.5 lb/hr", src: "Pulsar Precision 30 O&I Manual Rev 1.1 (2023), Table 12" },
-      { k: "Manufacturer sizing guidance", v: "Indoor pools up to 200,000 gal; outdoor non-stabilized up to 90,000 gal; outdoor stabilized up to 150,000 gal; spas up to 15,000 gal (nominal bather loads)", src: "O&I Manual Rev 1.1, Table 12" },
+      { k: "Recommended pool size (product page)", v: "10,000–300,000 gallons", src: "pulsarpools.com/products/pulsar-precision-30/, accessed 2026-09-26" },
+      { k: "Detailed sizing guidance (installation manual)", v: "Indoor pools up to 200,000 gal; outdoor non-stabilized up to 90,000 gal; outdoor stabilized up to 150,000 gal; spas up to 15,000 gal (nominal bather loads)", src: "O&I Manual Rev 1.1, Table 12" },
       { k: "Solution strength", v: "0.2–0.3% available chlorine", src: "O&I Manual Rev 1.1" },
       { k: "Dry chemical capacity", v: "30 lb of Pulsar Plus briquettes", src: "O&I Manual Rev 1.1, Table 11" },
       { k: "Footprint / weight", v: "19.5 in D × 15.5 in W × 34 in H; approximately 50 lb operating", src: "O&I Manual Rev 1.1, Table 11" },
@@ -118,7 +119,7 @@ export const pulsar = {
       { k: "Listing", v: "NSF Listed (standard number not stated by Pulsar)", src: "pulsarpools.com" },
       { k: "Manufacturer warranty", v: "12 months from installation or 18 months from shipment, whichever is earlier", src: "O&I Manual Rev 1.1" },
     ],
-    inconsistency: "Pulsar's Precision 30 web page states three different pool-size figures (10,000–300,000 gallons; up to 100,000 gallons; up to 300,000 gallons), and its category page describes the cal hypo line as intended for pools over 100,000 gallons. The installation manual's own guidance tops out at 200,000 gallons for indoor pools. FreyTech sizes by measured chlorine demand, not by any of these headline figures.",
+    sizingNote: "Pulsar's product page now states a single recommended pool size for Precision 30: 10,000–300,000 gallons. Its installation manual adds more detail by exposure, topping out at 200,000 gallons for indoor pools and 90,000 gallons outdoor non-stabilized (the relevant outdoor figure in New York, which prohibits stabilizer). That 300,000-gallon ceiling leaves a gap against the full-size Precision's published 500,000-gallon floor: FreyTech sizes pools in that 300,000–500,000-gallon range by measured chlorine demand rather than by either model's headline range.",
   },
   shared: [
     "Both feeders erode Pulsar Plus calcium hypochlorite briquettes into a chlorine solution that is delivered on demand; the manufacturer's warranty requires Pulsar Plus briquettes exclusively.",
@@ -126,8 +127,8 @@ export const pulsar = {
     "Pulsar offers a customizable skid option for pre-plumbed installation.",
   ],
   faqs: [
-    { q: "How do we know whether our pool is a fit for a Pulsar Precision?", a: "By chlorine demand, not gallons. We look at pool volume, turnover, peak bather load, indoor or outdoor exposure, water temperature, current daily chlorine use, hydraulics, and chemical-storage space. Pulsar's own published sizing figures are inconsistent, so we treat them as a starting point only." },
-    { q: "Which model fits a typical high school or YMCA pool?", a: "Often neither is required; a properly controlled liquid or existing feed may be adequate. Where a switch to cal hypo makes sense, the Precision 30 is the usual candidate for pools in the low hundreds of thousands of gallons. The full-size Precision is intended by the manufacturer for very large pools and water parks." },
+    { q: "How do we know whether our pool is a fit for a Pulsar Precision?", a: "By chlorine demand, not gallons. We look at pool volume, turnover, peak bather load, indoor or outdoor exposure, water temperature, current daily chlorine use, hydraulics, and chemical-storage space. Pulsar's published sizing figures are a starting point only." },
+    { q: "Which model fits a typical high school or YMCA pool?", a: "Often neither is required; a properly controlled liquid or existing feed may be adequate. Where a switch to cal hypo makes sense, the Precision 30 is the usual candidate for pools up to Pulsar's published 300,000-gallon ceiling. The full-size Precision is intended by the manufacturer for pools of 500,000 gallons and up, which leaves a gap between the two models for pools in the 300,000–500,000-gallon range; we size those by measured chlorine demand." },
     { q: "Does the 'outdoor stabilized' sizing apply in New York?", a: "Generally no. New York's Sanitary Code prohibits cyanuric acid (stabilizer) in public pools (10 NYCRR 6-1.11), so for outdoor pools in our territory the manufacturer's non-stabilized guidance is the relevant figure." },
     { q: "What does the operator have to do?", a: "Keep the hopper stocked with briquettes, keep the feeder clean per the manual, and monitor the controller. Cal hypo is an oxidizer and must be stored and handled as the SDS and your local fire code require; we cover this in training." },
     { q: "Can it run with our existing controller?", a: "The feeder's solenoid is driven by the chlorine-demand output of a chemistry controller. It is commonly paired with BECSys5, and it can be driven by other controllers with a suitable output. We confirm compatibility during the assessment." },

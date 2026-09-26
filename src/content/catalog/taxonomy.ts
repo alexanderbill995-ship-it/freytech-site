@@ -16,6 +16,8 @@ export const manufacturers: Manufacturer[] = [
   { slug: "spectrum", name: "Spectrum Aquatics (PlayCore)", url: "https://spectrumproducts.com/", relationship: "Listed on FreyTech's current website. Current status to be confirmed.", relationshipStatus: "pending-verification" },
   { slug: "paragon", name: "Paragon deck equipment (Pentair)", aka: ["Paragon Aquatics"], url: "https://www.pentair.com/en-us/products/business-industry/commercial-pool-products/commercial-pool-deck-equipment.html", relationship: "Listed on FreyTech's current website. Current status to be confirmed.", relationshipStatus: "pending-verification" },
   { slug: "maytronics", name: "Maytronics", url: "https://maytronics.com/en-us/robots-commercial-pools.html", relationship: "Listed on FreyTech's current website (2014 Dolphin Wave dealer notice). Current status to be confirmed.", relationshipStatus: "pending-verification" },
+  { slug: "cgt", name: "Canadian General-Tower (Poolside by CGT)", aka: ["CGT", "Poolside by CGT", "Infinity Pool Surface"], url: "https://poolsidebycgt.com/", relationship: "FreyTech has not documented a dealer relationship with CGT. Product facts below are drawn from CGT's own site; availability, lead time, and pricing are to be confirmed on request.", relationshipStatus: "pending-verification" },
+  { slug: "clear-comfort", name: "Clear Comfort Water, Inc.", url: "https://clearcomfort.com/", relationship: "Clear Comfort operates a dealer program, but its online dealer locator is JavaScript-driven and FreyTech's listing on it could not be verified. No dealer relationship is claimed; product facts below are drawn from Clear Comfort's own site.", relationshipStatus: "pending-verification" },
 ];
 
 export const facilities: Facility[] = [
@@ -149,6 +151,28 @@ export const categories: Category[] = [
     cta: { label: "Ask About Replacement Equipment", intent: "replacement", text: "Tell us what you need to replace or add, the pool dimensions, and the deadline. We will confirm fit, availability, and lead time." },
   },
   {
+    slug: "pool-surfaces-membranes", name: "Pool Surfaces and Membranes", short: "Surfaces & membranes", status: "published",
+    seoTitle: "Commercial Pool Liners, Surfaces, and Membranes in New York | FreyTech",
+    seoDescription: "Reinforced PVC pool membranes and pool deck membranes for commercial pool renovation and new construction, evaluated and coordinated by FreyTech in New York State.",
+    overview: [
+      "A pool's surface and its surrounding deck are what bathers and staff actually touch, and they take the steadiest abuse in the facility: constant immersion, UV, chlorine, foot traffic, and freeze-thaw cycles in outdoor pools. Reinforced PVC membrane systems are one answer, applied over a structural shell finished with tile, paint, plaster, or steel, in place of a re-plaster or re-tile cycle. A companion deck membrane addresses the surrounding walkway, which fails on its own schedule and by its own mechanisms.",
+      "Facilities usually reach this category in one of two moments: a renovation where the existing tile, paint, plaster, or steel finish has reached the end of its service life and the owner wants a cost-effective alternative to full re-finishing, or a new-construction project where the design team specifies a membrane system from the start. Either way, the surface decision affects color, slip resistance, and the facility's re-finishing cycle for years.",
+      "FreyTech's role is to help a facility or design team understand what a membrane system is, where it fits against a renovation's real constraints, and to coordinate supply and installation with the manufacturer and the design team. FreyTech has not documented a dealer relationship with any pool-surface manufacturer; product facts in this category come from the manufacturer's own literature and are labeled accordingly.",
+    ],
+    problems: ["Aging tile, paint, plaster, or steel pool surfaces nearing the end of service life", "Deck surfaces that have become slippery, stained, or worn", "Renovation budgets that cannot absorb a full re-plaster or re-tile", "Color and slip-resistance decisions during new construction"],
+    applications: ["Municipal and school pools renovating an aging surface", "Hotel, resort, and club pools refreshing appearance without a full shell rebuild", "New-construction pools where the design team specifies a membrane system", "Pool decks needing a slip-resistant, renewable surface indoors or outdoors"],
+    selection: [
+      { title: "Renovation vs. new construction", text: "A renovation typically applies the membrane over an existing shell finished with tile, paint, plaster, or steel; new construction specifies it from the start. Confirm which path your project is on before comparing products." },
+      { title: "Color and finish", text: "Confirm the manufacturer's published color range and surface finish (for example smooth or antislip) against the program's appearance and safety needs." },
+      { title: "Warranty and service life", text: "Ask what the manufacturer's published warranty covers and for how long, and what water chemistry the warranty assumes." },
+      { title: "Deck and pool surface together", text: "Where both the pool surface and the surrounding deck are being renovated, confirm whether the manufacturer offers a matched deck membrane." },
+      { title: "Approvals", text: "Surface and membrane changes are typically part of a larger renovation scope; plan health-department and engineer review alongside the rest of the project (6-1.8)." },
+    ],
+    related: ["filtration", "deck-equipment"],
+    services: ["Helping a facility or design team understand membrane systems and where they fit in a renovation", "Coordinating supply and installation with the manufacturer and the design team", "Reviewing manufacturer operator-care guidance against the facility's water chemistry program"],
+    cta: { label: "Request a Facility Assessment", intent: "assessment", text: "Tell us about the surface or deck problem, whether this is a renovation or new construction, and your timeline. We will help you understand the options and coordinate with the manufacturer." },
+  },
+  {
     slug: "accessibility-safety", name: "Accessibility and Safety", short: "Accessibility", status: "published",
     seoTitle: "ADA Pool Lifts and Pool Safety Equipment in New York | FreyTech",
     seoDescription: "Battery-powered ADA pool and spa lifts, accessible entry equipment, and pool safety products for New York public pools, with selection help and installation coordination from FreyTech.",
@@ -190,15 +214,16 @@ export const categories: Category[] = [
     seoTitle: "Commercial Pool UV and Supplemental Treatment Systems in New York | FreyTech",
     seoDescription: "Ultraviolet and other supplemental treatment systems that reduce combined chlorine and add a secondary disinfection barrier at commercial pools in New York State.",
     overview: [
-      "Supplemental treatment sits beside chlorine, not in place of it. Ultraviolet systems break down combined chlorine (chloramines) and add a secondary disinfection barrier; ozone and other technologies serve similar roles. They are common answers to natatorium air-quality complaints and to the CDC Model Aquatic Health Code's secondary-disinfection recommendations for high-risk venues.",
-      "FreyTech evaluates supplemental treatment in the context of the whole system: bather load, air handling, chemistry control, and the controller's ability to monitor or control the unit.",
+      "Supplemental treatment sits beside chlorine, not in place of it. Ultraviolet systems break down combined chlorine (chloramines) and add a secondary disinfection barrier. Ozone and hydroxyl-based Advanced Oxidation Process (AOP) systems are different technologies that can serve a similar secondary-disinfection role; AOP is not UV and should not be described as one. These technologies are common answers to natatorium air-quality complaints and to the CDC Model Aquatic Health Code's secondary-disinfection recommendations for high-risk venues.",
+      "FreyTech evaluates supplemental treatment in the context of the whole system: bather load, air handling, chemistry control, and, where the technology supports it, the controller's ability to monitor or control the unit.",
     ],
     problems: ["Chloramine odor and air-quality complaints", "Persistent combined chlorine", "Secondary disinfection for high-risk venues", "Aging or unsupported UV units"],
     applications: ["Indoor natatoriums", "Therapy pools and spas", "Waterparks and interactive features", "Facilities with recurring combined-chlorine problems"],
     selection: [
-      { title: "Flow and dose", text: "UV units are sized to design flow and target dose; the engineer confirms the loop position." },
-      { title: "Lamp technology and maintenance", text: "Medium- versus low-pressure lamps differ in dose, energy, and replacement cycles." },
-      { title: "Controls integration", text: "BECSys5 offers optional UV (combined-chlorine) control; confirm interface with the specific unit." },
+      { title: "UV, ozone, or AOP", text: "These are different technologies, not interchangeable terms. Confirm which one is actually being specified or evaluated before comparing products." },
+      { title: "Flow and dose", text: "UV units are sized to design flow and target dose; AOP systems are sized by recirculation flow (GPM). The engineer confirms the loop position." },
+      { title: "Lamp technology and maintenance", text: "For UV, medium- versus low-pressure lamps differ in dose, energy, and replacement cycles; AOP systems have their own manufacturer-specified maintenance, such as an annual cartridge change." },
+      { title: "Controls integration", text: "BECSys5 offers optional UV (combined-chlorine) control; confirm interface with the specific unit, including whether it applies to non-UV technologies such as AOP." },
     ],
     related: ["automated-controls", "filtration", "pumps-circulation-flow"],
     services: ["Evaluation of combined-chlorine and air-quality problems", "Coordination with the engineer and HVAC team", "Supply and installation coordination", "Lamp and parts planning"],

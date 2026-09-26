@@ -10,7 +10,7 @@ import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Commercial Pool Equipment Manufacturers | Browse by Brand | FreyTech",
-  description: "Browse commercial pool equipment by manufacturer: controllers, chemical feeders, filters, pumps, UV, heaters, deck equipment, and testing. Availability and New York support through FreyTech,.",
+  description: "Browse commercial pool equipment by manufacturer: controllers, chemical feeders, filters, pumps, UV, heaters, deck equipment, and testing. Availability and New York support through FreyTech.",
   path: "/manufacturers/",
 });
 

@@ -57,7 +57,7 @@ export const regionCopy: Record<string, RegionCopy> = {
   "hudson-valley": {
     slug: "hudson-valley",
     headline: "Commercial pool chemistry for the Hudson Valley and Westchester",
-    intro: "From Westchester and Rockland north through Orange, Dutchess, Ulster, and Sullivan counties, the Hudson Valley includes colleges, BOCES facilities, school districts, JCCs and YMCAs, and municipalities planning large new aquatic complexes. FreyTech has served Hudson Valley institutions for years, and the region sits immediately outside our excluded New York City territory.",
+    intro: "From Westchester and Rockland north through Orange, Dutchess, Ulster, and Sullivan counties, the Hudson Valley includes colleges, BOCES facilities, school districts, JCCs and YMCAs, and municipalities planning large new aquatic complexes. FreyTech has served Hudson Valley institutions for years, and the region runs from the New York City line north through the mid-Hudson.",
     facilities: ["College campuses", "BOCES and school district pools", "JCC and YMCA facilities", "Municipal pool complexes in design or construction", "Culinary and hospitality institutions"],
     references: ["Marist College", "Mount Saint Mary College", "The Culinary Institute of America", "Poughkeepsie Middle School", "Goshen BOCES"],
     travelNote: "Hudson Valley sites are served from Monroe County with scheduled trips; multi-day installation work is planned to minimize travel impact.",

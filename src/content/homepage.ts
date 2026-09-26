@@ -17,7 +17,7 @@ export const proof = [
   { value: "Owner-led", label: "more than a decade of commercial aquatic industry and sales experience behind the company" },
   { value: "Institutional", label: "municipal, school, university, YMCA and healthcare experience", confirm: "Confirm references" },
   { value: "End to end", label: "equipment selection, installation, commissioning, training and service", confirm: "Confirm each service is offered" },
-  { value: "New York", label: "Monroe County office; commercial and institutional focus statewide, excluding New York City" },
+  { value: "New York", label: "Monroe County office; commercial and institutional focus statewide" },
   { value: "BECS distributor", label: "listed by BECS Technology as its New York distributor" },
 ];
 

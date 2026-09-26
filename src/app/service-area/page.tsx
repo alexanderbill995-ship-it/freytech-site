@@ -12,8 +12,8 @@ import { site } from "@/lib/site";
 import p from "@/styles/page.module.css";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Service Area: New York State Outside New York City",
-  description: "FreyTech installs and services commercial pool chemical controls and feed systems across the Capital Region, Central New York, Finger Lakes, Southern Tier, Hudson Valley, Mohawk Valley, Western New York, North Country, and Long Island. NYC is not served.",
+  title: "Service Area: New York State",
+  description: "FreyTech installs and services commercial pool chemical controls and feed systems across the Capital Region, Central New York, Finger Lakes, Southern Tier, Hudson Valley, Mohawk Valley, Western New York, North Country, Long Island, and New York City.",
   path: "/service-area/",
 });
 
@@ -37,8 +37,8 @@ export default function Page() {
             );
           })}
         </div>
-        <Callout title="Not served: New York City" tone="warn">
-          <p>FreyTech does not serve facilities in {nycCounties.map((c) => `${c} County`).join(", ")} (the five boroughs). New York City pools are regulated separately under NYC Health Code Article 165 by the NYC Department of Health and Mental Hygiene. Out-of-state facilities are outside our primary territory; we will respond honestly to inquiries about whether we can help.</p>
+        <Callout title="New York City is regulated separately" tone="info">
+          <p>FreyTech covers {nycCounties.map((c) => `${c} County`).join(", ")} (the five boroughs). Note that New York City pools are <strong>not</strong> governed by the state&apos;s 10 NYCRR Subpart 6-1 rules that apply everywhere else on this site: they fall under NYC Health Code Article 165, administered by the NYC Department of Health and Mental Hygiene. Compliance requirements differ, and we confirm them per facility. Out-of-state facilities are outside our territory; we will respond honestly about whether we can help.</p>
         </Callout>
       </Section>
       <CTABand source="service-area" />

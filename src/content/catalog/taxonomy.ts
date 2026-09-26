@@ -133,7 +133,7 @@ export const categories: Category[] = [
   {
     slug: "deck-equipment", name: "Deck Equipment", short: "Deck", status: "published",
     seoTitle: "Commercial Pool Deck Equipment in New York: Starting Blocks, Lane Lines, Bulkheads, Rails",
-    seoDescription: "Starting platforms, lane lines and reels, movable bulkheads, guard chairs, ladders and rails, water polo goals, diving equipment, LED lighting and covers for New York competition and community pools, with FreyTech support.",
+    seoDescription: "Starting platforms, lane lines and reels, guard chairs, water polo goals and diving equipment for New York competition and community pools, with FreyTech support.",
     overview: [
       "Deck equipment is what swimmers, coaches, and lifeguards touch every day: starting platforms, lane lines and reels, bulkheads that reconfigure a competition pool, guard chairs, ladders and rails, water polo goals, diving stands, lighting, and covers. Much of it is specified during renovation or new construction alongside the mechanical room, and all of it has a replacement cycle.",
       "FreyTech helps New York facilities select deck equipment that fits the program, the pool's structure and gutter design, and the applicable competition and safety requirements, and coordinates supply and installation with the design team.",
@@ -288,7 +288,7 @@ export const categories: Category[] = [
   {
     slug: "water-testing-monitoring", name: "Water Testing and Monitoring", short: "Testing", status: "published",
     seoTitle: "Commercial Pool Water Testing Kits and Monitoring in New York",
-    seoDescription: "Manual test kits required alongside automated controllers in New York, digital test-kit integration, and monitoring practices for commercial pools. FreyTech,.",
+    seoDescription: "Manual test kits required alongside automated controllers in New York, digital test-kit integration, and monitoring practices for commercial pools. FreyTech.",
     overview: [
       "New York requires manual testing of pH and free and total chlorine at the beginning, during, and end of each swimming period with a DPD kit and fresh reagents (10 NYCRR 6-1.11). Automated controllers monitor continuously, but the test kit remains the reference the controller is calibrated against.",
       "FreyTech supplies Taylor Technologies test kits and reagents and trains operators to compare manual results with the controller so probes are calibrated on schedule rather than on failure.",

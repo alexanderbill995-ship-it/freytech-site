@@ -415,7 +415,7 @@ export const products: Product[] = [
   },
   // ───────────────────────── Deck, accessibility, safety ─────────────────────────
   {
-    slug: "aqua-creek-pool-lifts", name: "Aqua Creek Pool Lifts", manufacturer: "aqua-creek", category: "accessibility-safety", subcategory: "Accessibility", status: "published", availability: "request",
+    slug: "aqua-creek-pool-lifts", name: "Aqua Creek Pool Lifts", manufacturer: "aqua-creek", category: "accessibility-safety", subcategory: "Accessibility", status: "excluded", availability: "request",
     headline: "Accessible pool entry for every body of water",
     shortDescription: "Battery-powered pool and spa lifts from Aqua Creek Products, described by the manufacturer as ADA compliant and UL safety certified. Series: Pro Pool, Mighty, Revolution, EZ, and Spa.",
     overview: ["Aqua Creek Products (Missoula, Montana) manufactures battery-powered pool and spa lifts. The manufacturer describes its lifts as ADA compliant and UL safety certified and states it was the first pool lift manufacturer to have its lifts independently verified to meet ADA regulations. FreyTech's current website lists Aqua Creek as a represented brand and historically supplied lifts and retrofit kits to New York facilities.", "Current series per the manufacturer's 2026 lift guide: Pro Pool (Admiral, Ranger 2, Portable Pro Pool 2), Mighty (Mighty 400, Mighty 600, Voyager), Revolution (XL, XL Deep Draft, Scout Excel), EZ (Power EZ 2), and Spa (Neptune, Nebula, Nano). Capacities below are the manufacturer's."],
@@ -449,7 +449,7 @@ export const products: Product[] = [
     sourceUrls: ["https://aquacreekproducts.com/category/pool-lifts/", "https://freytech.org/products"], claimStatus: "partially-verified", lastVerified: V, ownerApproved: false, ownerNotes: "Product facts verified; confirm current dealer relationship and which series FreyTech carries.",
   },
   {
-    slug: "stark-bulkheads", name: "Stark Movable Bulkheads (S.R.Smith)", manufacturer: "stark", category: "deck-equipment", subcategory: "Competition", status: "published", availability: "request",
+    slug: "stark-bulkheads", name: "Stark Movable Bulkheads (S.R.Smith)", manufacturer: "stark", category: "deck-equipment", subcategory: "Competition", status: "excluded", availability: "request",
     headline: "Reconfigure a competition pool for meets, practice, and programs",
     shortDescription: "One-piece composite movable bulkheads, now part of S.R.Smith (Fluidra). FreyTech installed a Stark bulkhead in Ithaca College's 50-meter pool.",
     overview: ["A movable bulkhead divides a long-course pool into shorter courses or separate program areas. FreyTech outfitted Ithaca College's 50-meter pool with a Stark bulkhead, according to our current website. Stark Bulkheads' assets were acquired by S.R.Smith, a Fluidra brand, in 2021; the line continues under S.R.Smith.", "S.R.Smith describes Stark bulkheads as monolithic one-piece composite structures moved by air chambers rather than rollers or tracks, built to custom sizes, compliant with FINA, NCAA, and USA Swimming requirements, and covered by a 25-year structural warranty. Specifications are project-specific."],

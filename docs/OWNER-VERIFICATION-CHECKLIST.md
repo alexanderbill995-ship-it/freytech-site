@@ -16,7 +16,7 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 
 ## B. Products
 - [ ] BECSys5, BECSys3, BECSys7, ChemLock, CO2 feed system, replacement sensors: approve descriptions (all facts from BECS literature). Confirm FreyTech sells the CO2 system and ChemLock.
-- [ ] Pulsar Precision and Precision 30: approve capacity language and the note about Pulsar's conflicting pool-size figures. Provide the official full-size Precision manual (read from a dealer host).
+- [ ] Pulsar Precision and Precision 30: approve capacity language. *(Updated 2026-09-26: Pulsar now publishes a single clean figure for the Precision 30 — 10,000-300,000 gallons — so the old "conflicting figures" note has been removed from the site. What needs approving now is how we describe the 300K-500K gap between the two models.)* Provide the official full-size Precision manual (read from a dealer host).
 - [ ] Pulsar Plus briquettes: confirm FreyTech supplies chemicals (chemical delivery is also listed on the Service page).
 - [ ] Defender: approve model ranges (Standard/Reduced Height, Assero, Virtuo) and warranty wording.
 - [ ] Aqua Creek: approve series list and capacities; confirm which series FreyTech carries.

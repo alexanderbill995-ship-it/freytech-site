@@ -97,7 +97,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "The Aquafinity page's 'NEX-GEN' tab and XGEN2040 skid manual map to the current NEXGEN line. Output range 5-80 lb/day is Aquafinity's figure and is not repeated here; model numbers indicate nominal lb/day. · Model-number-to-lb/day mapping to be confirmed from ChlorKing spec sheets; dealer status unverified.",
   },
   {
-    slug: "pulsar-infinity", name: "Pulsar Infinity high-capacity erosion feeder", manufacturer: "pulsar", category: "chemical-delivery-chlorination", status: "published", availability: "request",
+    slug: "pulsar-infinity", name: "Pulsar Infinity high-capacity erosion feeder", manufacturer: "pulsar", category: "chemical-delivery-chlorination", status: "published", availability: "confirmed",
     aliases: ["Infinity feeder", "Pulsar Infinity HCE"], keywords: ["cal hypo tablet feeder", "erosion feeder commercial pool", "pulsar infinity", "dry chlorine feeder small pool"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/chemical-delivery-systems/pulsar-chlorination-systems/", sourceCategory: "chemical-delivery-systems", family: "Pulsar Chlorination Systems" },
     headline: "Simple tablet erosion feeder for pools up to about 150,000 gallons", shortDescription: "Pulsar Infinity is an erosion-style feeder that dissolves Pulsar's slow-dissolving calcium hypochlorite tablets into a chlorine solution for pools from roughly 5,000 to 150,000 gallons.",
@@ -142,7 +142,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Taylor-Wharton now markets the pool cylinder as EasyCarb 750 (Pool); the NOVO name persists in the resources index. Image extracted from the manufacturer's sell sheet (literature asset), 220 x 535 px only. Bulk CO2 is normally supplied and filled by an industrial gas distributor. · Taylor-Wharton's current corporate ownership and US distribution for pool cylinders should be confirmed; twcryo.com's Beverage Carbonation product page is a placeholder.",
   },
   {
-    slug: "antiwave-forerunner-racing-lanes", name: "AntiWave Forerunner racing lanes", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-forerunner-racing-lanes", name: "AntiWave Forerunner racing lanes", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["wave eater", "lane rope", "racing lane"], keywords: ["lane lines", "competition", "wave reduction"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/", sourceCategory: "deck-equipment", family: "AntiWave Lane Lines" },
     headline: "Competition racing lanes that damp wave energy across the course", shortDescription: "Forerunner is Anti Wave's wave-quelling competition racing lane, built from interlocking discs that break surface turbulence between lanes.",
@@ -157,7 +157,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-maximum-racing-lanes", name: "AntiWave Maximum racing lanes", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-maximum-racing-lanes", name: "AntiWave Maximum racing lanes", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane rope"], keywords: ["competition lane lines"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/", sourceCategory: "deck-equipment", family: "AntiWave Lane Lines" },
     headline: "Large-disc racing lanes for high-level competition venues", shortDescription: "Maximum is Anti Wave's largest-disc racing lane, intended for major competition venues where wave suppression matters most.",
@@ -172,7 +172,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-supertensioner", name: "AntiWave SuperTensioner", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-supertensioner", name: "AntiWave SuperTensioner", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane tensioner", "takeup"], keywords: ["lane line hardware"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/antiwave-lane-lines/", sourceCategory: "deck-equipment", family: "AntiWave Lane Lines" },
     headline: "Keeps racing lanes taut without a wrench", shortDescription: "The SuperTensioner is Anti Wave's lane-line tensioning device, used to pull racing lanes tight and hold them at competition tension.",
@@ -187,7 +187,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-ultimate-storage-reel", name: "AntiWave Ultimate Storage Reel", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-ultimate-storage-reel", name: "AntiWave Ultimate Storage Reel", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane reel", "storage reel"], keywords: ["lane line storage"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/", sourceCategory: "deck-equipment", family: "Lane Line Storage Reels" },
     headline: "Rolling storage for a full set of racing lanes", shortDescription: "Anti Wave's Ultimate Storage Reel stores and moves a pool's racing lanes on a rolling frame so they are not dragged across the deck.",
@@ -202,7 +202,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-anti-pro-goal-1080", name: "AntiWave Anti Pro Goal 1080", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-anti-pro-goal-1080", name: "AntiWave Anti Pro Goal 1080", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo", "goal"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Water polo goals for competition and club play", shortDescription: "AntiWave Anti Pro Goal 1080 is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model.",
@@ -217,7 +217,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-jnr-global-anti-goal", name: "AntiWave JNR Global Anti Goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-jnr-global-anti-goal", name: "AntiWave JNR Global Anti Goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo", "goal"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Water polo goals for competition and club play", shortDescription: "AntiWave JNR Global Anti Goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model.",
@@ -232,7 +232,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-flipfloat-folding-goal", name: "AntiWave FlipFloat folding goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-flipfloat-folding-goal", name: "AntiWave FlipFloat folding goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo", "goal"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Water polo goals for competition and club play", shortDescription: "AntiWave FlipFloat folding goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model.",
@@ -247,7 +247,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-universal-wall-goal", name: "AntiWave Universal wall goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-universal-wall-goal", name: "AntiWave Universal wall goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo", "goal"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Water polo goals for competition and club play", shortDescription: "AntiWave Universal wall goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model.",
@@ -262,7 +262,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "antiwave-odyssey-anti-pro-goal", name: "AntiWave Odyssey Anti Pro goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "request",
+    slug: "antiwave-odyssey-anti-pro-goal", name: "AntiWave Odyssey Anti Pro goal", manufacturer: "antiwave", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo", "goal"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Water polo goals for competition and club play", shortDescription: "AntiWave Odyssey Anti Pro goal is one of Anti Wave's water polo goal designs, built for pool-mounted or floating use depending on the model.",
@@ -277,7 +277,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "competitor-racing-lane-lines", name: "Competitor racing lane lines (4-inch and 6-inch)", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "request",
+    slug: "competitor-racing-lane-lines", name: "Competitor racing lane lines (4-inch and 6-inch)", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane rope", "wave eater"], keywords: ["lane lines", "replacement segments"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/competitor/", sourceCategory: "deck-equipment", family: "Competitor" },
     headline: "Widely specified racing lanes in 4-inch and 6-inch disc sizes", shortDescription: "Competitor racing lane lines use molded discs on a stainless cable and are offered in 4-inch and 6-inch disc sizes with a range of color choices.",
@@ -292,7 +292,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced. · No manufacturer image saved (Fluidra media terms unclear).",
   },
   {
-    slug: "competitor-takeup-reels-and-springs", name: "Competitor take-up reels and lane springs", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "request",
+    slug: "competitor-takeup-reels-and-springs", name: "Competitor take-up reels and lane springs", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["takeup reel", "lane spring"], keywords: ["lane hardware"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/competitor/", sourceCategory: "deck-equipment", family: "Competitor" },
     headline: "Tensioning hardware for Competitor lanes", shortDescription: "Take-up reels and tension springs keep Competitor lane lines taut and let staff release them quickly.",
@@ -307,7 +307,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   },
   {
-    slug: "competitor-classic-stor-lane-reel", name: "Competitor Classic Stor lane reel", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "request",
+    slug: "competitor-classic-stor-lane-reel", name: "Competitor Classic Stor lane reel", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane reel"], keywords: ["lane line storage"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/", sourceCategory: "deck-equipment", family: "Lane Line Storage Reels" },
     headline: "Deck storage reel for competition lanes", shortDescription: "The Classic Stor reel stores lane lines on a rolling deck frame between sessions.",
@@ -322,7 +322,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   },
   {
-    slug: "competitor-elite-stor-lane-reel", name: "Competitor Elite Stor lane reel", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "request",
+    slug: "competitor-elite-stor-lane-reel", name: "Competitor Elite Stor lane reel", manufacturer: "competitor", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane reel"], keywords: ["lane line storage"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/", sourceCategory: "deck-equipment", family: "Lane Line Storage Reels" },
     headline: "Higher-capacity lane storage reel", shortDescription: "The Elite Stor reel is Competitor's larger storage reel for pools with many lanes or long-course lengths.",
@@ -337,7 +337,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel. Manufacturer attribution corrected 2026-09-26: competitorswim.com states 'American Made, American Owned since 1968' and names no parent company; the earlier '(Fluidra)' attribution was unsourced.",
   },
   {
-    slug: "duraflex-14ft-springboard", name: "Duraflex 14-foot springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-14ft-springboard", name: "Duraflex 14-foot springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "Competition springboard", shortDescription: "Duraflex 14-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -352,7 +352,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "duraflex-16ft-springboard", name: "Duraflex 16-foot springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-16ft-springboard", name: "Duraflex 16-foot springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "Competition springboard, standard for sanctioned events", shortDescription: "Duraflex 16-foot springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -367,7 +367,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "duraflex-maxiflex-model-b-springboard", name: "Duraflex Maxiflex Model B springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-maxiflex-model-b-springboard", name: "Duraflex Maxiflex Model B springboard", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "Top competition board", shortDescription: "Duraflex Maxiflex Model B springboard is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -382,7 +382,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "duraflex-one-meter-stand", name: "Duraflex one-meter diving stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-one-meter-stand", name: "Duraflex one-meter diving stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "1-meter platform for springboard", shortDescription: "Duraflex one-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -397,7 +397,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "duraflex-three-meter-stand", name: "Duraflex three-meter diving stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-three-meter-stand", name: "Duraflex three-meter diving stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "3-meter platform for springboard", shortDescription: "Duraflex three-meter diving stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -412,7 +412,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "duraflex-short-stand", name: "Duraflex Short Stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "request",
+    slug: "duraflex-short-stand", name: "Duraflex Short Stand", manufacturer: "duraflex", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["diving board", "springboard", "dive stand"], keywords: ["diving", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/duraflex/", sourceCategory: "deck-equipment", family: "Duraflex diving" },
     headline: "Deck-level stand for training and recreation", shortDescription: "Duraflex Short Stand is part of Duraflex International's competition diving line, the springboards and stands used at sanctioned meets.",
@@ -427,7 +427,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "RESTORED 2026-09-26: verified as a Spectrum Aquatics catalog item on spectrumproducts.com with Spectrum part numbers, so it satisfies the client's 'Spectrum products only' instruction for this category. Brand ownership is unchanged; Spectrum is the supply channel.",
   },
   {
-    slug: "spectrum-torrey-ii-lifeguard-platform", name: "Spectrum Torrey II lifeguard platform", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-torrey-ii-lifeguard-platform", name: "Spectrum Torrey II lifeguard platform", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lifeguard chair", "guard stand"], keywords: ["lifeguard"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/guard-chairs/", sourceCategory: "deck-equipment", family: "Guard Chairs" },
     headline: "Stainless lifeguard chairs and platforms from Spectrum Aquatics", shortDescription: "Spectrum Torrey II lifeguard platform is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring.",
@@ -442,7 +442,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-discovery-lifeguard-chair", name: "Spectrum Discovery lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-discovery-lifeguard-chair", name: "Spectrum Discovery lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lifeguard chair", "guard stand"], keywords: ["lifeguard"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/guard-chairs/", sourceCategory: "deck-equipment", family: "Guard Chairs" },
     headline: "Stainless lifeguard chairs and platforms from Spectrum Aquatics", shortDescription: "Spectrum Discovery lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring.",
@@ -457,7 +457,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-mendota-lifeguard-chair", name: "Spectrum Mendota lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-mendota-lifeguard-chair", name: "Spectrum Mendota lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lifeguard chair", "guard stand"], keywords: ["lifeguard"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/guard-chairs/", sourceCategory: "deck-equipment", family: "Guard Chairs" },
     headline: "Stainless lifeguard chairs and platforms from Spectrum Aquatics", shortDescription: "Spectrum Mendota lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring.",
@@ -472,7 +472,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-marshall-lifeguard-chair", name: "Spectrum Marshall lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-marshall-lifeguard-chair", name: "Spectrum Marshall lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lifeguard chair", "guard stand"], keywords: ["lifeguard"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/guard-chairs/", sourceCategory: "deck-equipment", family: "Guard Chairs" },
     headline: "Stainless lifeguard chairs and platforms from Spectrum Aquatics", shortDescription: "Spectrum Marshall lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring.",
@@ -487,7 +487,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-sapphire-lifeguard-chair", name: "Spectrum Sapphire lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-sapphire-lifeguard-chair", name: "Spectrum Sapphire lifeguard chair", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lifeguard chair", "guard stand"], keywords: ["lifeguard"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/guard-chairs/", sourceCategory: "deck-equipment", family: "Guard Chairs" },
     headline: "Stainless lifeguard chairs and platforms from Spectrum Aquatics", shortDescription: "Spectrum Sapphire lifeguard chair is part of Spectrum Aquatics' lifeguard chair line, fabricated in stainless steel with model-specific heights, footrests, and anchoring.",
@@ -502,7 +502,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-motion-trek-bp350-pool-lift", name: "Spectrum Motion Trek BP350 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "request",
+    slug: "spectrum-motion-trek-bp350-pool-lift", name: "Spectrum Motion Trek BP350 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "confirmed",
     aliases: ["ADA lift", "handicap lift", "pool lift"], keywords: ["accessibility", "ADA"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/handicap-access/", sourceCategory: "deck-equipment", family: "Handicap Access" },
     headline: "Accessible pool entry from Spectrum Aquatics", shortDescription: "Spectrum Motion Trek BP350 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations.",
@@ -517,7 +517,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-gallatin-water-powered-lift", name: "Spectrum Gallatin hydraulic water-powered lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "request",
+    slug: "spectrum-gallatin-water-powered-lift", name: "Spectrum Gallatin hydraulic water-powered lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "confirmed",
     aliases: ["ADA lift", "handicap lift", "pool lift"], keywords: ["accessibility", "ADA"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/handicap-access/", sourceCategory: "deck-equipment", family: "Handicap Access" },
     headline: "Accessible pool entry from Spectrum Aquatics", shortDescription: "Spectrum Gallatin hydraulic water-powered lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations.",
@@ -532,7 +532,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-traveler-bp500-pool-lift", name: "Spectrum Traveler BP500 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "request",
+    slug: "spectrum-traveler-bp500-pool-lift", name: "Spectrum Traveler BP500 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "confirmed",
     aliases: ["ADA lift", "handicap lift", "pool lift"], keywords: ["accessibility", "ADA"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/handicap-access/", sourceCategory: "deck-equipment", family: "Handicap Access" },
     headline: "Accessible pool entry from Spectrum Aquatics", shortDescription: "Spectrum Traveler BP500 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations.",
@@ -547,7 +547,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-portable-motion-trek-bp300-pool-lift", name: "Spectrum Portable Motion Trek BP300 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "request",
+    slug: "spectrum-portable-motion-trek-bp300-pool-lift", name: "Spectrum Portable Motion Trek BP300 pool lift", manufacturer: "spectrum", category: "accessibility-safety", status: "published", availability: "confirmed",
     aliases: ["ADA lift", "handicap lift", "pool lift"], keywords: ["accessibility", "ADA"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/handicap-access/", sourceCategory: "deck-equipment", family: "Handicap Access" },
     headline: "Accessible pool entry from Spectrum Aquatics", shortDescription: "Spectrum Portable Motion Trek BP300 pool lift is one of Spectrum Aquatics' pool lifts for accessible entry, offered in battery-powered and water-powered designs and in fixed and portable configurations.",
@@ -562,7 +562,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-sheridan-lane-line-storage-reel", name: "Spectrum Sheridan lane line storage reel", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-sheridan-lane-line-storage-reel", name: "Spectrum Sheridan lane line storage reel", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["lane reel"], keywords: ["lane line storage"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/lane-line-storage-reels/", sourceCategory: "deck-equipment", family: "Lane Line Storage Reels" },
     headline: "Stainless lane storage reel from Spectrum Aquatics", shortDescription: "The Sheridan reel stores racing lanes on a stainless rolling frame.",
@@ -577,7 +577,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-xcellerator-starting-block", name: "Spectrum Xcellerator starting block", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-xcellerator-starting-block", name: "Spectrum Xcellerator starting block", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["starting platform", "starting block", "track start block"], keywords: ["starting blocks", "competition"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/starting-blocks/", sourceCategory: "deck-equipment", family: "Starting Blocks" },
     headline: "Track-start competition starting block", shortDescription: "The Xcellerator is Spectrum Aquatics' competition starting block with an adjustable track-start wedge, the configuration required at higher levels of competition.",
@@ -592,7 +592,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-cougar-starting-platform", name: "Spectrum Cougar starting block", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-cougar-starting-platform", name: "Spectrum Cougar starting block", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["starting platform", "starting block"], keywords: ["starting blocks"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/starting-blocks/", sourceCategory: "deck-equipment", family: "Starting Blocks" },
     headline: "Durable starting platform for school and club pools", shortDescription: "The Cougar is Spectrum Aquatics' school and club starting platform, built for daily training use.",
@@ -607,7 +607,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "spectrum-bighorn-starting-platform", name: "Spectrum Bighorn starting platform", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-bighorn-starting-platform", name: "Spectrum Bighorn starting platform", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["starting platform"], keywords: ["starting blocks"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/starting-blocks/", sourceCategory: "deck-equipment", family: "Starting Blocks" },
     headline: "Heavy-duty starting platform", shortDescription: "The Bighorn is a heavy-duty Spectrum Aquatics starting platform for high-use competition pools.",
@@ -622,7 +622,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Shown in Spectrum literature; not a separate heading on the Aquafinity page.",
   },
   {
-    slug: "spectrum-dawson-water-polo-goal", name: "Spectrum Dawson water polo goal", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "request",
+    slug: "spectrum-dawson-water-polo-goal", name: "Spectrum Dawson water polo goal", manufacturer: "spectrum", category: "deck-equipment", status: "published", availability: "confirmed",
     aliases: ["polo goal"], keywords: ["water polo"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/deck-equipment/water-polo-goals/", sourceCategory: "deck-equipment", family: "Water Polo Goals" },
     headline: "Stainless water polo goal from Spectrum Aquatics", shortDescription: "The Dawson is Spectrum Aquatics' stainless water polo goal for competition and club programs.",
@@ -787,7 +787,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Aquafinity's page describes a cupro-nickel exchanger and Smart System/Smart Touch controls with 5:1 and 10:1 turndown and links AP-285 through APO2000N documents; Lochinvar's current APO page cites a titanium exchanger and up to 25:1 turndown, so the current data is used. · AP-285/AP-400-850 (older Aquas models on Aquafinity) were not found on Lochinvar's current listing; confirm whether they are superseded by APX. Dealer status unverified.",
   },
   {
-    slug: "grundfos-paco-lc-lcv-end-suction-pumps", name: "LC / LCV close-coupled end-suction pumps", manufacturer: "grundfos", category: "pumps-circulation-flow", status: "published", availability: "request",
+    slug: "grundfos-paco-lc-lcv-end-suction-pumps", name: "LC / LCV close-coupled end-suction pumps", manufacturer: "grundfos", category: "pumps-circulation-flow", status: "published", availability: "confirmed",
     aliases: ["PACO LC", "PACO LCV", "Grundfos PACO end suction", "Paco pump"], keywords: ["end suction pool pump", "Grundfos PACO", "double volute pump", "NSF 50 pump", "commercial pool circulation pump"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/mechanical-room-equipment/paco-pumps/", sourceCategory: "mechanical-room-equipment", family: "PACO Pumps" },
     headline: "Double-volute end-suction pumps for commercial pool recirculation", shortDescription: "PACO LC pumps are Grundfos' close-coupled, single-stage end-suction centrifugal pumps; the LCV is the same wet end mounted vertically to save floor space.",
@@ -802,7 +802,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Grundfos' Product Center pages are script-rendered and blocked to non-browser fetches; facts were confirmed from Grundfos search snippets and the Aquafinity-hosted copy of Grundfos' L/LF/LCV brochure was not reused. No manufacturer-hosted product image could be retrieved. · Flow/head ranges, official brochure URL on grundfos.com, and product image pending manual retrieval from Grundfos Product Center. Dealer status unverified.",
   },
   {
-    slug: "grundfos-paco-kp-kpv-split-case-pumps", name: "KP / KPV double-suction split-case pumps", manufacturer: "grundfos", category: "pumps-circulation-flow", status: "published", availability: "request",
+    slug: "grundfos-paco-kp-kpv-split-case-pumps", name: "KP / KPV double-suction split-case pumps", manufacturer: "grundfos", category: "pumps-circulation-flow", status: "published", availability: "confirmed",
     aliases: ["PACO KP", "PACO KPV", "split case pool pump", "Grundfos PACO split case"], keywords: ["split case pump", "double suction pump pool", "Grundfos PACO KP", "water park recirculation pump"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/mechanical-room-equipment/paco-pumps/", sourceCategory: "mechanical-room-equipment", family: "PACO Pumps" },
     headline: "Split-case pumps for large recirculation flows and long service life", shortDescription: "PACO KP is Grundfos' horizontal axially split-case, double-suction centrifugal pump, and the KPV is the vertical version for smaller footprints.",
@@ -817,7 +817,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Aquafinity's KPV image is hosted by a third-party distributor (bbcpump.com) and was not used. Grundfos Product Center pages could not be fetched; performance range quoted from the Grundfos data booklet snippet. · Official grundfos.com literature URL and product image pending manual retrieval. Dealer status unverified.",
   },
   {
-    slug: "pentair-clean-and-clear-cartridge-filters", name: "Clean & Clear cartridge filters (CC100 / CC150 / CC200)", manufacturer: "paragon", category: "filtration", status: "published", availability: "request",
+    slug: "pentair-clean-and-clear-cartridge-filters", name: "Clean & Clear cartridge filters (CC100 / CC150 / CC200)", manufacturer: "pentair", category: "filtration", status: "published", availability: "request",
     aliases: ["Pentair CC100", "CC150", "CC200", "Clean and Clear", "Pentair cartridge filter"], keywords: ["cartridge filter spa", "Pentair Clean & Clear", "coreless cartridge filter", "100 sq ft cartridge filter", "200 sq ft cartridge filter"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/mechanical-room-equipment/pentair-filter/", sourceCategory: "mechanical-room-equipment", family: "Clean & Clear Cartridge Filters" },
     headline: "Simple cartridge filtration for spas, small pools, and auxiliary features", shortDescription: "Pentair's Clean & Clear is a single-cartridge filter in a fiberglass-reinforced polypropylene tank, offered from 50 to 200 square feet with a coreless cartridge that rinses clean with a hose.",
@@ -952,7 +952,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Not listed as a product page on chlorking.com; the CHLOR manual covers the acid-wash procedure and ChlorKing sells accessories through its replacement-parts desk. Filed under parts-accessories-replacement because it is a maintenance accessory, not a chemical. Image on Aquafinity is hosted by knorrsystems.com (Aquafinity group), so none is used. · Confirm the AW-1 is still sold under that name; the Aquafinity brochure may be dated.",
   },
   {
-    slug: "jacks-magic-pink-stuff", name: "The Pink Stuff (Metal Solution)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-pink-stuff", name: "The Pink Stuff (Metal Solution)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Pink Stuff", "Metal Solution", "JMPINK032"], keywords: ["sequestering agent", "iron stain", "metal control", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Everyday sequestrant for iron and mineral stains", shortDescription: "The Pink Stuff is Jack's Magic's general-purpose sequestering agent for keeping iron and other metals in solution so they do not stain or scale.",
@@ -967,7 +967,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "jacks-magic-blue-stuff", name: "The Blue Stuff (Metal Solution Too)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-blue-stuff", name: "The Blue Stuff (Metal Solution Too)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Blue Stuff", "Metal Solution Too", "JMBLUE032"], keywords: ["copper sequestrant", "plaster startup", "plaster dust", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Copper control and plaster start-up protection", shortDescription: "The Blue Stuff is a sequestering agent whose blend also removes copper from the water and stays stable at higher chlorine levels.",
@@ -982,7 +982,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "jacks-magic-purple-stuff", name: "The Purple Stuff (Salt Solution)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-purple-stuff", name: "The Purple Stuff (Salt Solution)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Purple Stuff", "Salt Solution", "JMPURPLE032"], keywords: ["salt pool sequestrant", "cell scaling", "silica", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Stain and cell-scale control for salt pools", shortDescription: "The Purple Stuff is a stain preventive made for salt-chlorinated and high-TDS pools, where ordinary sequestrants lose effectiveness.",
@@ -997,7 +997,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "jacks-magic-stain-solution-1", name: "Stain Solution #1 (The Iron, Cobalt & Spot Etching Stuff)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-stain-solution-1", name: "Stain Solution #1 (The Iron, Cobalt & Spot Etching Stuff)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Stain Solution 1", "Iron Cobalt Spot Etching Stuff", "JMIRON1"], keywords: ["iron stain remover", "cobalt stain", "fiberglass spotting", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Remove iron and cobalt stains without draining", shortDescription: "Stain Solution #1 is a non-acidic treatment that removes iron, cobalt and spot-etching stains from any pool surface without draining, usually within 48 hours.",
@@ -1012,7 +1012,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "jacks-magic-after-shock", name: "After Shock (Chlorine Reducer)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-after-shock", name: "After Shock (Chlorine Reducer)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["After Shock", "chlorine neutralizer", "JMAFTER16"], keywords: ["chlorine reducer", "sodium thiosulfate", "lower chlorine", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Bring chlorine back into range on schedule", shortDescription: "After Shock is a granular chlorine reducer used to drop free chlorine below 1 ppm before a Stain Solution #1 treatment, or to bring a pool back into range quickly after superchlorination.",
@@ -1027,7 +1027,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "Active ingredient not stated on page; see SDS.",
   },
   {
-    slug: "jacks-magic-stain-solution-2", name: "Stain Solution #2 (The Copper & Scale Stuff)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-stain-solution-2", name: "Stain Solution #2 (The Copper & Scale Stuff)", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Stain Solution 2", "Copper & Scale Stuff", "Copper and Scale Stuff"], keywords: ["copper stain remover", "scale remover", "no-drain acid wash alternative", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Remove copper stains and scale without an acid wash", shortDescription: "Stain Solution #2 removes copper stains and calcium scale from any pool surface without draining and, per Jack's Magic, often replaces an acid wash.",
@@ -1042,7 +1042,7 @@ export const generatedProducts: Product[] = [
     ownerNotes: "",
   },
   {
-    slug: "jacks-magic-magenta-stuff", name: "The Magenta Stuff", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "request",
+    slug: "jacks-magic-magenta-stuff", name: "The Magenta Stuff", manufacturer: "jacks-magic", category: "specialty-chemicals", status: "published", availability: "confirmed",
     aliases: ["Magenta Stuff"], keywords: ["startup sequestrant", "phosphate-free sequestrant", "salt cell protection", "Jack's Magic"],
     migration: { sourceUrl: "https://aquafinity.com/catalog/specialty-chemicals/stain-removal/", sourceCategory: "specialty-chemicals", family: "Stain Removal" },
     headline: "Concentrated, phosphate-free start-up and stain control", shortDescription: "The Magenta Stuff is Jack's Magic's concentrated start-up and stain-prevention sequestrant; one quart treats 15,000 gallons.",

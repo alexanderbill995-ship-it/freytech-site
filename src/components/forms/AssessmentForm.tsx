@@ -110,7 +110,7 @@ export function AssessmentForm({ defaultRequest, defaultProduct, context = {}, c
         <Field id="current_controller" label="Current chemical controller"><Select id="current_controller" options={o.controllers} /></Field>
         <Field id="current_feed" label="Current chemical-feed system"><Select id="current_feed" options={o.feeders} /></Field>
         {null}
-        <Field id="existing_equipment" label="Existing equipment to replace or match" className={styles.span2} hint="Make, model, and serial number if you have them. A photo of the nameplate can be described here and shared when we reply."><Input id="existing_equipment" defaultValue={context.existing_equipment ?? ""} placeholder="e.g., Strantrol System 5, LMI P-series pump, Paco pump model…" /></Field>
+        <Field id="existing_equipment" label="Existing equipment to replace or match" className={styles.span2} hint="Make, model, and serial number if you have them. A photo of the nameplate can be described here and shared when we reply."><Input id="existing_equipment" defaultValue={context.existing_equipment ?? ""} placeholder="e.g., Strantrol System 5, Stenner pump, Paco pump model…" /></Field>
       </Fieldset>}
 
       <Fieldset legend="Your request">
@@ -119,7 +119,7 @@ export function AssessmentForm({ defaultRequest, defaultProduct, context = {}, c
           <Select id="request_type" options={o.requestTypes} defaultValue={defaultRequest ?? ""} required error={errors.request_type} />
         </Field>
         <Field id="product_interest" label="Product or system of interest"><Input id="product_interest" defaultValue={defaultProduct ?? context.search_query ?? ""} placeholder="e.g., BECSys5, Pulsar Precision 30, filtration" /></Field>
-        {!compact && <Field id="manufacturer" label="Manufacturer, if known"><Input id="manufacturer" defaultValue={context.manufacturer ?? ""} placeholder="e.g., BECS, Pulsar, LMI, Lochinvar" /></Field>}
+        {!compact && <Field id="manufacturer" label="Manufacturer, if known"><Input id="manufacturer" defaultValue={context.manufacturer ?? ""} placeholder="e.g., BECS, Pulsar, Stenner, Lochinvar" /></Field>}
         {(defaultRequest === "document") && <Field id="requested_document" label="Document requested" className={styles.span2}><Input id="requested_document" defaultValue={context.requested_document ?? ""} placeholder="e.g., BECSys5 Technical Data Sheet" /></Field>}
         <Field id="primary_problem" label="Primary problem or goal" required error={errors.primary_problem}><Select id="primary_problem" options={o.primaryProblems} required error={errors.primary_problem} /></Field>
         <Field id="preferred_contact" label="Preferred contact method"><Select id="preferred_contact" options={o.contactMethods} /></Field>

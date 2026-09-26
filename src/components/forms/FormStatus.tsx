@@ -8,6 +8,7 @@ export function FormStatus({ result, formLabel }: { result: SubmitResult | null;
     return (
       <div className={[styles.status, styles.status_success].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">
         <h3>Received. Thank you.</h3>
+        {site.isPreview && <p><strong>This is the review preview:</strong> your submission really was delivered to FreyTech, marked as a preview test.</p>}
         <p>Your {formLabel} was delivered (reference <code>{result.reference}</code>). A commercial aquatic specialist will review the details and follow up with you directly. If your need is urgent, please call{site.phone ? ` ${site.phone}` : " us"}.</p>
       </div>
     );
@@ -20,7 +21,7 @@ export function FormStatus({ result, formLabel }: { result: SubmitResult | null;
       </div>
     );
   }
-  // unconfigured: honest fallback. In the public review preview, delivery is intentionally not connected.
+  // unconfigured (no endpoint at build time): honest fallback. When the review preview is built without an endpoint it says so; when an endpoint is set, submissions are delivered and the subject is prefixed "[Website preview]".
   if (site.isPreview) {
     return (
       <div className={[styles.status, styles.status_info].join(" ")} role="status" aria-live="polite" tabIndex={-1} id="form-status">

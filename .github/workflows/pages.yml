@@ -27,6 +27,8 @@ jobs:
           NEXT_PUBLIC_SHOW_CONFIRM_FLAGS: "true"
           NEXT_PUBLIC_CONFIRM_STYLE: generic
           NEXT_PUBLIC_PREVIEW: "true"
+          # Lead delivery: FormSubmit AJAX relay to the address FreyTech already publishes. See docs/FORM-DELIVERY-DECISION.md.
+          NEXT_PUBLIC_FORM_ENDPOINT: https://formsubmit.co/ajax/info@freytech.org
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

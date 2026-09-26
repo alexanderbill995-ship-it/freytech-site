@@ -33,7 +33,7 @@ export default function Page() {
             <ul style={{ listStyle: "none", padding: 0 }}>
               <li><TrackedLink href={telHref(site.phone)} event="phone_click" payload={{ location: "contact_aside" }} style={{ color: "#fff", fontWeight: 600 }}>{site.phone}</TrackedLink></li>
               <li><TrackedLink href={`mailto:${site.email}`} event="email_click" payload={{ location: "contact_aside" }} style={{ color: "#fff" }}>{site.email}</TrackedLink></li>
-              <li style={{ marginTop: "0.5rem" }}>{site.address.street}<br />{site.address.city}, NY {site.address.postalCode}</li>
+              <li style={{ marginTop: "0.5rem" }}>{site.address.street}<br />{site.address.city}, NY {site.address.postalCode}<br /><span style={{ opacity: 0.85 }}>{`${site.address.county} County`}</span></li>
               <li style={{ marginTop: "0.5rem" }}><span style={{ opacity: 0.85 }}>Remit / bill to:</span><br />{site.remitTo.poBox}<br />{site.remitTo.city}, NY {site.remitTo.postalCode}</li>
               {site.hours ? <li style={{ marginTop: "0.5rem" }}>{site.hours}</li> : <li style={{ marginTop: "0.5rem" }}><Confirm note="Confirm hours">Business hours to be confirmed.</Confirm></li>}
             </ul>

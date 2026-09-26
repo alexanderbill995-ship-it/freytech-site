@@ -138,40 +138,49 @@ which turned out to be showing a competitor's bulkhead on the Stark page too. **
 the preview from 16 September.** That is still the newest version published, so several things you
 asked for may already be done. Getting the current build in front of you should come first.
 
-## Three we need you to settle before we publish them
+## The rest of your list, now done
 
-**WAPOTECH doesn't make a supplemental-treatment product.** No UV, no ozone, no AOP. What they make
-is sand filters, dosing chemicals, a salt system that generates chlorine — that's a *primary*
-sanitiser, not a supplement — and an air-quality monitor that measures chloramine rather than
-treating it. Filing it under "supplemental" is the sort of thing that gets a specification kicked
-back on review. Tell us which part of their line you carry and we'll put it where it belongs.
+**WAPOTECH is listed under supplemental treatment**, as you asked. The WAPOTEC SYSTEM (HydroSan, HydroXan and
+WAPO Floc, dosed alongside chlorine) is the supplemental-treatment entry. WAPOTECH's other lines are on the site
+too, filed where an engineer would look for them: WAPO Chlor on-site chlorine generation under chemical delivery,
+WAPO TEC sand and multimedia filters under filtration, and the ClearAmine air-quality monitor under testing.
 
-**ASC Pumping Equipment is a distributor, not a manufacturer** — their own words: "a sales and
-service organization". They bought the Wisconsin territory from Aurora in 1984, and their published
-territory is Wisconsin, the Michigan UP, Kansas and western Missouri. Not New York. Our guess is ASC
-is who you *buy through*. Aurora itself is a Pentair brand, so Aurora and Pentair are one
-relationship. Worth knowing: the only Aurora brochure written for pools is from 2013 and that pump
-series is discontinued — the current commercial pumps are the 3800 and 410 Series.
+**Aurora, Grundfos and Pentair are listed as manufacturers you represent**, each naming ASC Pumping Equipment as
+the channel. Aurora's 3800 Series end-suction and 410 Series split-case pumps, and Pentair's EQ Series,
+WhisperFloXF, WhisperFloXF VS and C Series commercial pumps, are on the site with Pentair's published figures.
+Grundfos was already there.
 
-**E-Z Clor has a problem we'd rather raise now.** Their lead product is trichlor, and trichlor adds
-cyanuric acid — which your own compliance page correctly says New York prohibits in public pools.
-Listing it would contradict the regulatory position the rest of your site takes, and that position
-is one of the site's strongest selling points with school districts. Separately: E-Z Clor is a
-POOLCORP house brand with no commercial line published, and the brochure you sent isn't from them —
-their site has only safety data sheets. Where did you get it? Our recommendation is to list the
-E-Z Clor supplements — clarifiers, enzymes, phosphate removers, stain and scale — and leave the
-trichlor off.
+**E-Z Clor is on the site** alongside Jack's Magic: sanitizers, oxidizers, algaecides, balancers and the
+supplements line (clarifiers, enzymes, stain and scale, phosphate removers, cleaners), each product described in
+E-Z Clor's own words with its stated active ingredient where the site gives one. One note for your judgment, not
+ours to make: the trichlor tablets and the trichlor algaecide granule are labelled as stabilized products that add
+cyanuric acid, because that is what they are. Your New York pool-chemistry guide says the State prohibits cyanuric
+acid in public pools. Both statements are true; you may want to decide how you present the tablets to a school
+district.
 
-## And one thing to decide
+**Mer-Made and Filtrex are on the site.** Mer-Made's commercial filtration lines, and Filtrex's EC Series
+regenerative media filters (all eighteen models with Filtrex's published sizing data), Trex-Flow VFD packages and
+vacuum transfer system.
 
-Making deck and accessibility Spectrum-only leaves **five types with nothing at all**: movable
-bulkheads, underwater LED lighting, safety pool covers, anti-slip deck grating, and deck furniture.
-Spectrum makes none of them. Their covers are thermal blankets, not weight-rated safety covers, so
-we did not swap one for the other — that's a different safety function.
+**Every line you named now reads "Available through FreyTech."** Until now the site hedged on every brand except
+BECS: "no dealer relationship is implied." That was right when nobody had confirmed anything. Your instructions
+are the confirmation, so Pulsar, Spectrum and the Spectrum-catalogue brands, CGT, Clear Comfort, WAPOTECH,
+Mer-Made, Filtrex, E-Z Clor, Jack's Magic, Aurora, Grundfos and Pentair now show as lines you represent. Brands
+that came across from the old catalogue and that you have not mentioned still say "request availability." If any
+of the named ones is wrong, one word and it flips back.
 
-These are common specification items for schools and municipalities. Either name another line for
-each, or we put a short "we can source these" prompt on those pages. The bulkhead gap is worth a
-second thought, since your Ithaca College job is a bulkhead project and it's still on the site.
+**The contact forms now deliver.** Every form on the site emails the submission to info@freytech.org as a table,
+with Reply going straight to the person who wrote. One thing remains, and it is yours: the first submission
+triggers an "Activate Form" email to that inbox. Click it once and every lead after that arrives. Until then the
+site tells the visitor honestly that delivery is still being set up and gives them your phone number.
+
+## One thing still worth deciding
+
+Making deck and accessibility Spectrum-only leaves **five types with nothing at all**: movable bulkheads,
+underwater LED lighting, safety pool covers, anti-slip deck grating, and deck furniture. Spectrum makes none of
+them. Their covers are thermal blankets, not weight-rated safety covers, so we did not swap one for the other.
+Name another line for each, or we put a short "we can source these" note on those pages. The bulkhead gap is worth
+a second thought, since your Ithaca College job is a bulkhead project and it is still on the site.
 
 ## How to handle the rest of the product changes
 You asked whether to email, call or meet. Our suggestion: we send you **one list of every product on

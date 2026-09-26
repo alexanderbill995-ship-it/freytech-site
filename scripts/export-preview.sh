@@ -7,7 +7,7 @@ DEST="${1:-/private/tmp/claude-501/-Users-abill-Documents-GitHub-freytech-site/f
 rm -rf "$DEST"; mkdir -p "$DEST"
 rsync -a "$SRC/" "$DEST/" \
   --exclude '.git' --exclude 'node_modules' --exclude 'out' --exclude '.next' --exclude 'tsconfig.tsbuildinfo' \
-  --exclude '.env*' --exclude 'screenshots' --exclude 'assets/source' --exclude '.claude' --exclude 'AGENTS.md' --exclude 'CLAUDE.md' \
+  --exclude '.env*' --exclude 'screenshots' --exclude 'assets/source' --exclude '.claude' --exclude '.project' --exclude 'AGENTS.md' --exclude 'CLAUDE.md' \
   --exclude 'docs/research' --exclude 'docs/CONTENT-CONFIRMATION-CHECKLIST.md' --exclude 'docs/OWNER-VERIFICATION-CHECKLIST.md' \
   --exclude 'docs/HOMEPAGE-COPY-AND-APPROVALS.md' --exclude 'docs/PRODUCT-CONTENT-MATRIX.md' --exclude 'docs/CATALOG-MIGRATION-MANIFEST.md' \
   --exclude 'docs/CATALOG-OMISSIONS-REPORT.md' --exclude 'docs/QA-RESULTS-*.md' --exclude 'docs/MISSING-ASSETS.md' --exclude 'docs/htaccess.sample' \

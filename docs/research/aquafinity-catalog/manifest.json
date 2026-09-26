@@ -10266,6 +10266,7 @@
   "officialProductUrl": "https://www.pentair.com/en-us/pool-spa/products/filters/clean-and-clear-cartridge-filters.html",
   "proposedCategory": "filtration",
   "proposedSlug": "pentair-clean-and-clear-cartridge-filters",
+  "ownerConfirmed": false,
   "disposition": "published",
   "verification": "verified",
   "image": {
@@ -10335,7 +10336,7 @@
    }
   ],
   "_part": "manifest-part3.json",
-  "manufacturerSlug": "paragon",
+  "manufacturerSlug": "pentair",
   "proposedUrl": "/products/filtration/pentair-clean-and-clear-cartridge-filters/"
  },
  {

@@ -4,6 +4,41 @@ Newest first. Each entry: what was decided, why, and who owns it.
 
 ---
 
+## D-011 — Lead delivery goes live through the FormSubmit relay to info@freytech.org
+**Date:** 2026-09-26 · **Owner:** Orchestrator (Alex to trigger activation) · **Status:** Implemented, activation pending
+
+Alex's instruction: functioning lead delivery is part of a usable website; pick the simplest implementation that
+needs no new account, purchase or credential. Of the four options in `docs/FORM-DELIVERY-DECISION.md` only an
+email relay meets that bar, and among relays only FormSubmit needs no account at all: the recipient inbox clicks one
+activation link. Endpoint set in the Pages workflow; `submitLead` now treats FormSubmit's HTTP-200
+`success:"false"` (its pre-activation reply) as a failure, so the site never shows a false success. Workbooks
+CRM remains a later env-var swap. D-001 is closed by this decision.
+
+## D-010 — Owner instructions are implemented as given; advisory objections move to the summary
+**Date:** 2026-09-26 · **Owner:** Alex (instruction) · **Status:** Standing
+
+Alex ruled that Angelo's explicit product, manufacturer, brand and content instructions are authoritative and are
+not to be withheld or reinterpreted on regulatory-suitability, positioning, territory or product-choice grounds.
+Consequences: WAPOTECH is filed under supplemental treatment as asked (its WAPOTEC SYSTEM is a supplemental
+treatment; its other lines are filed where they truthfully belong); Aurora and Pentair are added as represented
+manufacturers with ASC Pumping Equipment named as the channel; E-Z Clor is added to specialty chemicals
+including its sanitizer lines, described factually (a trichlor product is labelled as stabilized trichlor). The
+earlier objections in `QUESTIONS-FOR-ANGELO.md` Q1–Q3 are retained as advisory notes only; they no longer block.
+The only remaining stop conditions are technical impossibility, a clear security issue, or a request from Alex
+for advisory analysis.
+
+## D-009 — Lines the owner names are "represented", and their products are "Available through FreyTech"
+**Date:** 2026-09-26 · **Owner:** Orchestrator, per D-010 · **Status:** Implemented
+
+D-003 kept every brand except BECS at availability `request` ("no dealer relationship is implied") pending
+written confirmation. The owner's explicit instructions to add or keep a line are that confirmation: when the
+company's president says "add Spectrum", the site should not tell a school district that no relationship is
+implied. Lines Angelo has named in writing (Pulsar Precision, Spectrum and the Spectrum-catalogue brands, CGT,
+Clear Comfort, WAPOTECH, Mer-Made, Filtrex, E-Z Clor, Jack's Magic, Aurora / Pentair / Grundfos via ASC) now carry
+`relationshipStatus: "verified"` with the relationship text citing the owner instruction, and their products
+publish as `availability: "confirmed"`. Every other brand inherited from the Aquafinity migration stays at
+`request` under D-003. The generator encodes this as `OWNER_CONFIRMED`.
+
 ## D-008 — Spectrum-only means Spectrum's catalogue, not Spectrum's brand
 **Date:** 2026-09-26 · **Owner:** Orchestrator, pending Angelo's confirmation · **Status:** Implemented
 

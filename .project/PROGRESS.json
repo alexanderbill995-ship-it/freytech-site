@@ -7,7 +7,7 @@
   "origin_commit": "313e073",
   "unpushed_commits": 0,
   "working_tree": "clean",
-  "current_milestone": "M1",
+  "current_milestone": "M1b",
   "milestones": [
     {
       "id": "M1",
@@ -54,7 +54,7 @@
     {
       "id": "M1b",
       "name": "Angelo R1/R2 change requests",
-      "state": "in_progress",
+      "state": "complete_pending_alex_review",
       "tasks": [
         {
           "id": "R1-1",
@@ -89,7 +89,7 @@
         {
           "id": "R2-3",
           "name": "Deck/accessibility Spectrum only",
-          "state": "done_with_gap_list"
+          "state": "done"
         },
         {
           "id": "R2-4",
@@ -99,8 +99,8 @@
         {
           "id": "R2-5",
           "name": "Specialty chemicals",
-          "state": "blocked",
-          "blocked_by": "Q3 E-Z Clor has no commercial line and leads with trichlor, which conflicts with the site's NY compliance position"
+          "state": "done",
+          "note": "E-Z Clor added per D-010"
         },
         {
           "id": "R2-6",
@@ -110,14 +110,39 @@
         {
           "id": "R2-7",
           "name": "Manufacturers represented",
-          "state": "blocked",
-          "blocked_by": "Q2 ASC is a distributor whose territory excludes New York"
+          "state": "done",
+          "note": "Aurora + Pentair added; ASC named as channel"
         },
         {
           "id": "R2-8",
           "name": "WAPOTECH under supplemental",
-          "state": "blocked",
-          "blocked_by": "Q1 WAPOTECH makes no supplemental-treatment product"
+          "state": "done",
+          "note": "WAPOTEC SYSTEM under supplemental per D-010"
+        },
+        {
+          "id": "R4-12",
+          "name": "Add Mer-Made products",
+          "state": "done"
+        },
+        {
+          "id": "R4-13",
+          "name": "Add Filtrex",
+          "state": "done"
+        },
+        {
+          "id": "R4-14",
+          "name": "Add Pulsar Precision (aliases)",
+          "state": "done"
+        },
+        {
+          "id": "R4-15",
+          "name": "Add Spectrum (represented)",
+          "state": "done"
+        },
+        {
+          "id": "F-1",
+          "name": "Lead delivery (FormSubmit relay)",
+          "state": "done_activation_pending"
         }
       ]
     },
@@ -145,10 +170,10 @@
   ],
   "baseline_verification": {
     "date": "2026-09-26",
-    "label": "post-R1/R2-review-fixes",
+    "label": "post-Angelo-R1-R4",
     "build": {
       "result": "pass",
-      "pages": 201
+      "pages": 230
     },
     "lint": {
       "result": "pass",
@@ -156,16 +181,16 @@
       "warnings": 0
     },
     "linkcheck": {
-      "pages": 201,
+      "pages": 230,
       "broken_links": 0,
       "missing_anchors": 0,
       "h1_issues": 0,
       "duplicate_titles": 0
     },
     "catalog_regeneration_stable": true,
-    "service_regions": 10,
-    "nyc_exclusion_pages": 0,
-    "subpart_6_1_pages_retaining_phrase": 2
+    "published_products": 121,
+    "manufacturers_with_products": 36,
+    "sitemap_urls": 225
   },
   "confirmed_defects": [
     {
@@ -275,9 +300,9 @@
     },
     {
       "id": "E-3",
-      "severity": "high",
+      "severity": "resolved",
       "owner": "Angelo",
-      "summary": "Form delivery endpoint undecided since 2026-09-15; site cannot capture a lead until chosen"
+      "summary": "RESOLVED 2026-09-26: FormSubmit relay to info@freytech.org set in the Pages build (D-011). One activation click in that inbox remains."
     },
     {
       "id": "E-4",
@@ -287,15 +312,21 @@
     },
     {
       "id": "E-5",
-      "severity": "high",
+      "severity": "resolved",
       "owner": "Angelo",
-      "summary": "Three requested changes conflict with manufacturer reality (WAPOTECH, ASC Pumping, E-Z Clor) \u2014 see .project/QUESTIONS-FOR-ANGELO.md"
+      "summary": "RESOLVED 2026-09-26: WAPOTECH, ASC/Aurora/Pentair and E-Z Clor implemented as Angelo asked (D-010); advisory notes kept in QUESTIONS-FOR-ANGELO.md."
     },
     {
       "id": "E-6",
       "severity": "medium",
       "owner": "Angelo",
       "summary": "Spectrum-only leaves five deck/accessibility product types with no offering: bulkheads, LED lighting, safety covers, deck grating, deck furniture"
+    },
+    {
+      "id": "E-7",
+      "severity": "resolved",
+      "owner": "Alex",
+      "summary": "RESOLVED 2026-09-26: Gmail connected late in the session; the Angelo thread was read and confirms all 19 items (Mer-Made, Filtrex, Spectrum, Pulsar were links in the 2026-09-24 email)."
     }
   ],
   "agents": [

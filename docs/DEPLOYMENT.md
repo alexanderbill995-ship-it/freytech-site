@@ -41,10 +41,7 @@ npm run lint
 **Cloudflare Pages / S3+CloudFront / cPanel:** upload `out/`. Add redirects from `docs/REDIRECT-MAP.md` in the host's rules (Apache sample in `docs/htaccess.sample`). Ensure the host serves `/foo/` → `/foo/index.html` and a custom 404 (`out/404.html`).
 
 ## Forms
-Point `NEXT_PUBLIC_FORM_ENDPOINT` at one of:
-- Workbooks web form / Web Key endpoint (see `docs/WORKBOOKS-CRM-FIELD-MAP.md`)
-- Formspree (`https://formspree.io/f/xxxx`) — accepts JSON; set notification to info@/support@
-- Netlify Forms — requires switching the forms to `data-netlify` HTML posting (small change) or a Netlify Function that relays JSON
+`NEXT_PUBLIC_FORM_ENDPOINT` is set to the FormSubmit AJAX relay (`https://formsubmit.co/ajax/info@freytech.org`) in the Pages workflow; see `docs/FORM-DELIVERY-DECISION.md` for the one-time activation step and the alternatives (Workbooks web-to-lead, a CRM-plus-email relay, other form services). The forms POST JSON and report success only when the service confirms it.
 Test each of the three forms after configuring; the success message includes a reference code only after a 2xx response.
 
 ## DNS cutover checklist

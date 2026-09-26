@@ -1,5 +1,10 @@
 # Questions for Angelo — raised 2026-09-26
 
+> **Status 2026-09-26 (later the same day):** Alex ruled that Angelo's product instructions are authoritative
+> (decision D-010). Q1, Q2 and Q3 are therefore **implemented as Angelo asked** and the text below is kept as
+> advisory background only, for Alex to raise with Angelo if he chooses. Q4 (the five deck/accessibility gaps)
+> and Q5 remain informational. Nothing here blocks the website any longer.
+
 Three of the requested changes conflict with what the manufacturers actually publish. None of
 them is a refusal: each is a case where doing exactly what was asked would put something wrong
 on a site that sells into school districts and municipalities. Each has a recommended answer.

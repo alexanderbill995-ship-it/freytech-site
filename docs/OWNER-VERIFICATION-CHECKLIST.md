@@ -11,7 +11,10 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 | S.R.Smith / Stark Bulkheads | Installed at Ithaca College (current site) | Product facts yes; dealer no | Confirm relationship with S.R.Smith |
 | Aqua Creek | "Listed on FreyTech's current website" | Product facts yes; dealer form only | Confirm current status and series carried |
 | Taylor Technologies | "Listed on FreyTech's current website" | **Retail locator does NOT list FreyTech** | Confirm commercial supply relationship or change wording to "can supply" / remove |
-| Spectrum, Paragon (Pentair), Maytronics | **Published** (re-verified 2026-09-26): Spectrum 14 products, Paragon 9, Maytronics 1, each with a manufacturer page. All carry `availability: request` and "No formal dealer relationship is implied" | Unverified | These are already live — approve the listings or ask for removal. The earlier "draft only" note is out of date |
+| Spectrum (and the Spectrum-catalogue brands AntiWave, Competitor, Duraflex) | **Published, owner-named** (2026-09-24 instruction: deck and accessibility are Spectrum products only) | Owner instruction on file (D-009) | Nothing to do unless the relationship changes |
+| Paragon (Pentair deck line) | Excluded 2026-09-26 at the owner's instruction (Spectrum-only) | n/a | Nothing to do |
+| Maytronics | Published, 1 product, `availability: request` | Unverified | Approve the listing or ask for removal |
+| Pentair Clean & Clear cartridge filters (inherited row) | Published under Pentair, `availability: request` — a residential-series filter, kept out of the owner-confirmed set deliberately | Unverified | Keep, remove, or promote |
 | Slip MD | Excluded (manufacturer site gone) | n/a | Confirm removal |
 
 ## B. Products
@@ -42,7 +45,7 @@ Companion to `CONTENT-CONFIRMATION-CHECKLIST.md` (company facts) and `PRODUCT-CO
 - [ ] Provide the Workbooks web-form endpoint or API path so `NEXT_PUBLIC_FORM_ENDPOINT` can be set (see WORKBOOKS-CRM-FIELD-MAP.md). No integration is live yet.
 
 ## G. Availability language and manufacturer browsing (added 2026-09-15)
-- Every product carries an `availability` state: **confirmed** (only BECS Technology lines today), **request** (all other manufacturers), or **discontinued**. Public wording for "request": "Request availability" / "Contact FreyTech to confirm availability, lead time, and service coverage." Change a manufacturer to "confirmed" only after a dealer agreement or rep confirmation is on file; edit `relationshipStatus` in `src/content/catalog/taxonomy.ts` and `availability` on its products.
+- Every product carries an `availability` state: **confirmed** (BECS Technology, plus every line Angelo named in his September 2026 instructions: Pulsar, Spectrum and the Spectrum-catalogue brands AntiWave/Competitor/Duraflex, CGT, Clear Comfort, WAPOTECH, Mer-Made, Filtrex, E-Z Clor, Jack's Magic, Aurora, Pentair, Grundfos — decision D-009), **request** (brands inherited from the Aquafinity migration that Angelo has not mentioned), or **discontinued**. Public wording for "request": "Request availability" / "Contact FreyTech to confirm availability, lead time, and service coverage." Change a manufacturer to "confirmed" only after a dealer agreement or rep confirmation is on file; edit `relationshipStatus` in `src/content/catalog/taxonomy.ts` and `availability` on its products.
 - Manufacturer pages (`/manufacturers/`) state "no dealer relationship is implied" for unverified brands. Confirm this wording is acceptable.
 - Generated catalog entries (from the competitive-catalog migration) are all `ownerApproved: false`; review `docs/CATALOG-MIGRATION-MANIFEST.md` and mark rows to keep, demote, or exclude.
 - Product images sourced from manufacturer sites are recorded with source URL and status in each record; items marked "permission-required" or "unknown" are listed in `docs/CATALOG-MIGRATION-MANIFEST.md` for approval before launch.

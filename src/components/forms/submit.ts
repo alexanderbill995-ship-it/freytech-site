@@ -1,5 +1,6 @@
 import { readAttribution } from "@/lib/analytics";
 import { nycCounties, regionForCounty } from "@/lib/regions";
+import { site } from "@/lib/site";
 
 export type SubmitResult =
   | { status: "sent"; reference: string; payload: Record<string, string> }
@@ -14,11 +15,33 @@ export function classifyTerritory(state: string, county: string): "primary" | "n
   return regionForCounty(county) ? "primary" : "unknown";
 }
 
+/** Fields understood by the delivery service (FormSubmit AJAX). Ignored by any other JSON endpoint. */
+function deliveryFields(formType: string, data: Record<string, string>): Record<string, string> {
+  const who = [data.organization, data.firm, data.name].filter(Boolean).join(" — ");
+  const label = formType === "service" ? "Service request" : formType === "specification" ? "Specification assistance request" : "Facility assessment request";
+  return {
+    _subject: `${site.isPreview ? "[Website preview] " : ""}Website ${label}: ${who || "new lead"}`,
+    _template: "table",
+    _captcha: "false",
+    ...(data.email && emailRe.test(data.email) ? { _replyto: data.email } : {}),
+  };
+}
+
+/** True when a JSON body from the delivery service reports failure (FormSubmit answers HTTP 200 with success:"false" before the recipient activates the form). */
+function serviceRejected(body: unknown): string | null {
+  if (!body || typeof body !== "object") return null;
+  const b = body as { success?: unknown; message?: unknown };
+  if (b.success === false || b.success === "false") return typeof b.message === "string" ? b.message : "The form service rejected the submission.";
+  return null;
+}
+
 /**
  * Submits a form to the configured endpoint as JSON.
  * - Endpoint empty  -> returns "unconfigured" so the UI can show an honest
  *   development fallback (nothing is pretended to be delivered).
- * - Non-2xx / network error -> "error" with a user-facing message.
+ * - Non-2xx / network error / service-reported failure -> "error" with a
+ *   user-facing message. A submission is reported as sent only when the
+ *   service answered 2xx and did not report a failure in its JSON body.
  * Attribution and territory routing are appended for CRM mapping
  * (see docs/WORKBOOKS-CRM-FIELD-MAP.md).
  */
@@ -42,9 +65,19 @@ export async function submitLead(endpoint: string, formType: string, data: Recor
     const res = await fetch(endpoint, {
       method: "POST",
       headers: { "Content-Type": "application/json", Accept: "application/json" },
-      body: JSON.stringify(payload),
+      body: JSON.stringify({ ...deliveryFields(formType, data), ...payload }),
     });
     if (!res.ok) return { status: "error", message: `The form service responded with status ${res.status}.` };
+    let body: unknown = null;
+    try { body = await res.clone().json(); } catch { body = null; }
+    // FormSubmit always answers JSON; a 2xx without a parseable body is inconclusive, not a delivery.
+    const isFormSubmit = /formsubmit\.co/i.test(endpoint);
+    if (isFormSubmit && (body === null || (body as { success?: unknown }).success === undefined)) return { status: "error", message: "The form service gave an unexpected reply, so we cannot confirm delivery." };
+    const rejected = serviceRejected(body);
+    if (rejected) {
+      const setup = /activat/i.test(rejected);
+      return { status: "error", message: setup ? "Form delivery is still being set up on our side, so your request was not delivered." : `The form service did not accept the submission (${rejected}).` };
+    }
     const reference = `FT-${Date.now().toString(36).toUpperCase()}`;
     return { status: "sent", reference, payload };
   } catch {

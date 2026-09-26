@@ -59,7 +59,7 @@ export default async function Page({ params }: PageProps<"/manufacturers/[slug]"
           </div>
           <div>
             <Callout tone={verified ? "info" : "warn"} title="How FreyTech works with this equipment">
-              <p>{verified ? "FreyTech selects, installs, commissions, trains operators on, and services this manufacturer's equipment for New York facilities." : "FreyTech can help you evaluate this manufacturer's equipment for your facility, confirm availability and lead time, and coordinate installation and support where it is offered. No formal dealer relationship is implied."}</p>
+              <p>{verified ? "FreyTech represents this manufacturer's products for New York facilities: selection and supply, and, where the product calls for it, installation, commissioning, operator training, and service." : "FreyTech can help you evaluate this manufacturer's equipment for your facility, confirm availability and lead time, and coordinate installation and support where it is offered. No formal dealer relationship is implied."}</p>
             </Callout>
           </div>
         </div>

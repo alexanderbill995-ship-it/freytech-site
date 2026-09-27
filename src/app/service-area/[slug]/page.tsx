@@ -5,7 +5,6 @@ import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { Card, Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata } from "@/lib/seo";
@@ -72,11 +71,11 @@ export default async function Page({ params }: PageProps<"/service-area/[slug]">
             {c.references.length ? (
               <>
                 <ul className={p.pillList}>{c.references.map((x) => <li key={x}>{x}</li>)}</ul>
-                <p className={p.small} style={{ marginTop: "var(--sp-4)" }}>Named on FreyTech&apos;s current website. <Confirm note="Confirm each">Each reference is being reconfirmed before launch.</Confirm></p>
+                <p className={p.small} style={{ marginTop: "var(--sp-4)" }}>Facilities FreyTech has served in this region.</p>
               </>
             ) : (
-              <Callout tone="confirm" title="No published references yet">
-                <p>FreyTech has not published customer references in this region. We are glad to provide references from comparable facilities elsewhere in New York on request. <Confirm note="Owner to add references or confirm coverage" /></p>
+              <Callout tone="info" title="References on request">
+                <p>We are glad to provide references from comparable facilities elsewhere in New York on request.</p>
               </Callout>
             )}
           </div>

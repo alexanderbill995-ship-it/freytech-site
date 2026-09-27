@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:prod": "NEXT_PUBLIC_SITE_URL=https://freytech.org NEXT_PUBLIC_BASE_PATH= NEXT_PUBLIC_PREVIEW=false NEXT_PUBLIC_REVIEW_BANNER=false NEXT_PUBLIC_SHOW_CONFIRM_FLAGS=false NEXT_PUBLIC_FORM_ENDPOINT=https://formsubmit.co/ajax/info@freytech.org next build",
     "start": "next start",
     "lint": "eslint",
     "check:links": "node scripts/linkcheck.cjs",

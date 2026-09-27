@@ -98,7 +98,7 @@ export default async function Page({ params }: PageProps<"/products/[category]/[
               ? <>Manufacturer literature for this product has not been obtained yet. FreyTech confirms details before quoting. </>
               : x.claimStatus === "verified"
                 ? <>Facts verified against manufacturer literature {x.lastVerified}. </>
-                : <>Facts checked against manufacturer literature {x.lastVerified}; some details are still being confirmed. </>}
+                : <>Facts summarized from manufacturer literature {x.lastVerified}; confirm details with FreyTech before specifying. </>}
             {x.claimStatus !== "verified" && <Confirm note={x.claimStatus === "partially-verified" ? "Partially verified" : "Pending verification"} />}
           </span>
         </div>

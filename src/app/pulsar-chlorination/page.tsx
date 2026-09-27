@@ -4,7 +4,6 @@ import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { ProductCard } from "@/components/catalog/ProductCard";
 import { ProcessSteps } from "@/components/diagrams/ProcessSteps";
@@ -40,7 +39,7 @@ export default function Page() {
         lede="Pulsar feeders store chlorine as a solid and make chlorine solution only when the controller asks for it. For the right facility that means fewer deliveries, no bulk liquid, and capacity for peak demand. FreyTech evaluates fit by measured demand, installs the loop, trains operators, and services the system across New York State."
         crumbs={[{ name: "Products & Solutions", href: "/products/" }, { name: "Chemical Delivery and Chlorination", href: "/products/chemical-delivery-chlorination/" }, { name: "Pulsar Chlorination", href: "/pulsar-chlorination/" }]}
         actions={<><Button href="/pulsar-precision-feeders/" variant="onDark" size="lg">Pulsar Precision guide</Button><Button href="/contact/?product=Pulsar&category=chemical-delivery-chlorination&intent=assessment" variant="onDarkGhost" size="lg">Request a Facility Assessment</Button></>}
-        aside={<><h2 style={{ fontSize: "var(--text-md)" }}>Two models</h2><ul><li><strong>Pulsar Precision:</strong> very large pools; up to 189 lb/day available chlorine.</li><li><strong>Pulsar Precision 30:</strong> small and mid-size pools; up to 36 lb/day; flow-based.</li></ul><p style={{ marginTop: "0.75rem" }}><Confirm note="Confirm dealer status">FreyTech&apos;s Pulsar dealer status is being confirmed for publication.</Confirm></p></>}
+        aside={<><h2 style={{ fontSize: "var(--text-md)" }}>Two models</h2><ul><li><strong>Pulsar Precision:</strong> very large pools; up to 189 lb/day available chlorine.</li><li><strong>Pulsar Precision 30:</strong> small and mid-size pools; up to 36 lb/day; flow-based.</li></ul><p style={{ marginTop: "0.75rem" }}>FreyTech supplies, installs and services Pulsar systems for facilities across New York State.</p></>}
       />
 
       <Section>

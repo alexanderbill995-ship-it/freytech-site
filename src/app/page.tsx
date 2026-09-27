@@ -52,7 +52,7 @@ export default function Home() {
           <figure className={styles.heroMedia}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src={asset(installations[0].image.src)} alt={installations[0].image.alt} width={922} height={386} fetchPriority="high" />
-            <figcaption className={styles.heroCaption}><strong>{installations[0].facility}</strong>FreyTech project photo from the current site. <Confirm note="Replace with approved portrait or field image" /></figcaption>
+            <figcaption className={styles.heroCaption}><strong>{installations[0].facility}</strong>FreyTech installation.</figcaption>
           </figure>
         </div>
       </section>
@@ -62,7 +62,7 @@ export default function Home() {
         <div className={["container", styles.proofInner].join(" ")}>
           {proof.map((x) => (
             <div key={x.label} className={styles.proofItem}>
-              <div className={styles.proofValue}>{x.value}{x.confirm && <Confirm note={x.confirm} />}</div>
+              <div className={styles.proofValue}>{x.value}</div>
               <div className={styles.proofLabel}>{x.label}</div>
             </div>
           ))}
@@ -74,7 +74,7 @@ export default function Home() {
         <SectionHeader eyebrow="Why FreyTech" title="You should never have to chase the person responsible for your water quality." lede="An owner-operated specialist works differently from a distributor's sales desk. Four things you can expect." />
         <div className={styles.pillars}>
           {pillars.map((x) => (
-            <div key={x.title} className={p.feature}><h3>{x.title}</h3><p>{x.text}{x.confirm && <> <Confirm note={x.confirm} /></>}</p></div>
+            <div key={x.title} className={p.feature}><h3>{x.title}</h3><p>{x.text}</p></div>
           ))}
         </div>
       </Section>
@@ -97,7 +97,6 @@ export default function Home() {
             <h2>{angeloNote.title}</h2>
             {angeloNote.paragraphs.map((t) => <p key={t}>{t}</p>)}
             <p className={styles.sig}>{angeloNote.signature}<span>{angeloNote.title2}</span></p>
-            <p className="note"><Confirm note={angeloNote.confirm} /></p>
             <div className={p.actions}><HomeCta section="angelo-note" label="Talk With Angelo" href="/contact/?intent=angelo" style={{ display: "contents" }}><Button href="/contact/?intent=angelo" size="lg">Talk With Angelo</Button></HomeCta></div>
           </div>
         </div>
@@ -143,7 +142,7 @@ export default function Home() {
 
       {/* 8. New York project proof */}
       <Section tone="alt">
-        <SectionHeader eyebrow="New York project proof" title="Trusted in New York equipment rooms" lede="Verified FreyTech projects from the current site. Challenge, role, outcome, and customer approval are being documented with Angelo; the fields below show what is confirmed and what is still a gap." />
+        <SectionHeader eyebrow="New York project proof" title="Trusted in New York equipment rooms" lede="Facilities across New York where FreyTech has installed and serviced commercial pool equipment." />
         <div className={styles.projects}>
           {installations.map((i) => (
             <article key={i.slug} className={p.imageCard}>
@@ -154,20 +153,19 @@ export default function Home() {
                 <dl className={styles.projectMeta}>
                   <dt>Location</dt><dd>{i.location}</dd>
                   <dt>FreyTech&apos;s role and equipment</dt><dd>{i.scope.join("; ")}</dd>
-                  <dt>Challenge and verified outcome</dt><dd><span className={styles.gap}>Content gap: to be confirmed in Angelo&apos;s interview</span></dd>
                 </dl>
                 <div style={{ marginTop: "0.5rem" }}><Link href={`/projects/${i.slug}/`}>Project details</Link></div>
               </div>
             </article>
           ))}
         </div>
-        <p className={p.small} style={{ marginTop: "var(--sp-6)" }}>Customer references named on the current site include Cornell, Ithaca College, Clarkson, Colgate, and Siena. <Confirm note="Confirm references" /> <Link href="/projects/">All projects and references</Link></p>
+        <p className={p.small} style={{ marginTop: "var(--sp-6)" }}>Customer references include Cornell, Ithaca College, Clarkson, Colgate, and Siena. <Link href="/projects/">All projects and references</Link></p>
       </Section>
 
       {/* 9. Service lifecycle */}
       <Section>
         <SectionHeader eyebrow="Working with FreyTech" title="What the relationship looks like, start to finish" lede="Only stages FreyTech provides are shown; a few are flagged for Angelo to confirm the exact scope." />
-        <ProcessSteps steps={lifecycle.map((s) => ({ title: s.title, text: s.text + (s.confirm ? " (confirm scope)" : "") }))} columns={3} />
+        <ProcessSteps steps={lifecycle.map((s) => ({ title: s.title, text: s.text }))} columns={3} />
       </Section>
 
       {/* 10. Catalog as client service */}

@@ -22,16 +22,22 @@ npm run dev                  # http://localhost:3000
 | `NEXT_PUBLIC_PHONE` | Public phone number | `1-800-724-2770` |
 | `NEXT_PUBLIC_EMAIL` | General email | `info@freytech.org` |
 | `NEXT_PUBLIC_SUPPORT_EMAIL` | Service email | `support@freytech.org` |
-| `NEXT_PUBLIC_HOURS` | Business hours string | empty (shows "to be confirmed" flag) |
-| `NEXT_PUBLIC_SHOW_CONFIRM_FLAGS` | Show amber "Confirm before launch" markers | `true` — **set to `false` for launch** |
+| `NEXT_PUBLIC_HOURS` | Business hours string | empty (no hours line is shown) |
+| `NEXT_PUBLIC_SHOW_CONFIRM_FLAGS` | Internal only: amber markers on facts awaiting owner sign-off | `false` (never `true` on a public build) |
+| `NEXT_PUBLIC_PREVIEW` | github.io review hosting: noindex, "[Website preview]" form subjects | `false` (`true` only in the Pages workflow) |
+| `NEXT_PUBLIC_REVIEW_BANNER` | "website concept — private client review" banner on preview builds | `false` |
+| `NEXT_PUBLIC_BASE_PATH` | Sub-path when hosted under a folder (github.io repo name) | empty (production is served from the domain root) |
 
 No secrets are used anywhere. Everything prefixed `NEXT_PUBLIC_` is embedded in the static build and visible to visitors.
 
 ## Build
 ```bash
-npm run build      # outputs ./out
+npm run build:prod   # production build for https://freytech.org → ./out (canonical URLs, sitemap, robots allow, forms live)
+npm run build        # plain build using whatever env is set (preview/dev)
 npm run lint
+npm run check:links
 ```
+`build:prod` bakes in the production settings: site URL `https://freytech.org`, no base path, preview off, markers off, FormSubmit endpoint on. Upload the resulting `out/` directory to the host as-is.
 
 ## Hosting options
 **Netlify (recommended for simplicity):** connect the repo; `netlify.toml` sets `publish = "out"` and includes the legacy query-string redirects; `public/_redirects` handles path redirects. Set env vars in the Netlify UI.
@@ -45,8 +51,8 @@ npm run lint
 Test each of the three forms after configuring; the success message includes a reference code only after a 2xx response.
 
 ## DNS cutover checklist
-1. Deploy to a preview URL; run through `docs/OWNER-HANDOFF.md` QA list.
-2. Set `NEXT_PUBLIC_SHOW_CONFIRM_FLAGS=false` and rebuild once the confirmation checklist is complete.
+1. Run `npm run build:prod` and upload `out/` to the chosen host (or connect the repo and set the env vars from `build:prod` in the host UI).
+2. Open the host's temporary URL and check the home page, `/products/`, one product page, `/contact/` (submit once; then click "Activate Form" in info@freytech.org), `/sitemap.xml` and `/robots.txt`.
 3. Point DNS (A/CNAME) at the new host; enable HTTPS (the old site had no HTTP→HTTPS redirect).
 4. Choose www vs non-www and redirect the other.
 5. Submit `https://freytech.org/sitemap.xml` in Google Search Console; verify redirects for the top old URLs with `curl -I`.

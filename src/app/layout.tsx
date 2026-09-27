@@ -28,7 +28,7 @@ export const viewport: Viewport = { themeColor: "#0b1f3a", width: "device-width"
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${plexSans.variable} ${plexMono.variable}${site.isPreview ? " has-preview-banner" : ""}`}>
+    <html lang="en" className={`${plexSans.variable} ${plexMono.variable}${site.isPreview && site.showBanner ? " has-preview-banner" : ""}`}>
       <body>
         <JsonLd data={organizationLd()} />
         <Attribution />

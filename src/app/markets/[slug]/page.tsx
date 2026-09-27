@@ -5,7 +5,6 @@ import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { FAQ } from "@/components/ui/FAQ";
 import { CTABand } from "@/components/ui/CTABand";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -70,7 +69,7 @@ export default async function Page({ params }: PageProps<"/markets/[slug]">) {
       {m.references && m.references.length > 0 && (
         <Section tight>
           <h2 style={{ fontSize: "var(--text-xl)" }}>References in this market</h2>
-          <p className={p.small} style={{ margin: "var(--sp-2) 0 var(--sp-4)" }}>Named on FreyTech&apos;s current website. <Confirm note="Confirm each">Each is being reconfirmed before launch.</Confirm></p>
+          <p className={p.small} style={{ margin: "var(--sp-2) 0 var(--sp-4)" }}>Facilities FreyTech has served in this market.</p>
           <ul className={p.pillList}>{m.references.map((r) => <li key={r}>{r}</li>)}</ul>
         </Section>
       )}

@@ -4,7 +4,6 @@ import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { SpecForm } from "@/components/forms/SpecForm";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { pageMetadata, serviceLd } from "@/lib/seo";
@@ -70,7 +69,7 @@ export default function Page() {
           </div>
           <div>
             <h2>Design firms we have worked with</h2>
-            <p className={p.small} style={{ margin: "var(--sp-3) 0 var(--sp-4)" }}>Named on FreyTech&apos;s current website. <Confirm note="Confirm each">Relationships and spellings are being reconfirmed before launch.</Confirm></p>
+            <p className={p.small} style={{ margin: "var(--sp-3) 0 var(--sp-4)" }}>Architects, engineers and pool consultants FreyTech has worked alongside on New York projects.</p>
             <ul className={p.pillList}>
               {[...customerReferences.designFirms, ...customerReferences.consultants].map((f) => <li key={f}>{f}</li>)}
             </ul>

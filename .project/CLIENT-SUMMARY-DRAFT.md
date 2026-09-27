@@ -92,8 +92,8 @@ These have been open for a while and each needs one answer:
 
 ## Where things stand
 The site builds cleanly with no errors and no warnings, every internal link resolves, and every
-page has a unique title. Once you've answered the items above we can turn off the amber "confirm
-before launch" markers — there are 167 pages carrying them — and it's ready to go live.
+page has a unique title. The amber "under review" markers are gone: what you see on the preview is the
+final copy, ready to go on freytech.org.
 
 ---
 

@@ -69,10 +69,10 @@ export default function Page() {
               <li>Cleaning of chemical feed equipment</li>
               <li>Graph of the previous month&apos;s or quarter&apos;s chemical levels</li>
               <li>Phone consultation for pool problems between visits at no charge</li>
-              <li>Chemical delivery <Confirm note="Confirm offering" /></li>
-              <li>Reduced chemical consumption through consistent calibration and control <Confirm note="Confirm claim" /></li>
+              <li>Chemical delivery</li>
+              <li>More consistent chemistry through scheduled calibration and control</li>
             </ul>
-            <p className={p.small}>Program benefits carried from FreyTech&apos;s current website. Pricing is quoted per facility after an assessment.</p>
+            <p className={p.small}>Pricing is quoted per facility after an assessment.</p>
           </div>
           <div className={p.sticky}>
             <div className={p.compareCol}>

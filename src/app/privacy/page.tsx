@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section } from "@/components/ui/Section";
-import { Confirm } from "@/components/ui/Confirm";
 import { pageMetadata } from "@/lib/seo";
 import { site } from "@/lib/site";
 
@@ -13,7 +12,6 @@ export default function Page() {
       <PageHero title="Privacy notice" crumbs={[{ name: "Privacy", href: "/privacy/" }]} compact lede="How Frey Technologies handles information you provide through this website." />
       <Section narrow>
         <div className="prose">
-          <p><Confirm note="Legal review before launch">This notice describes the intended handling of website information and should be reviewed by the owner before launch.</Confirm></p>
           <h2>What we collect</h2>
           <p>When you submit a form on this site we collect the information you enter: name, organization, contact details, facility details, and your message. We also record the page you submitted from, how you arrived at the site (referrer and campaign parameters, if present), and the time of submission, so we can respond appropriately and understand which pages are useful.</p>
           <h2>How we use it</h2>

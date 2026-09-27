@@ -3,8 +3,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section } from "@/components/ui/Section";
-import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { CaseStudyView } from "@/components/ui/CaseStudyView";
 import { pageMetadata } from "@/lib/seo";
@@ -46,9 +44,6 @@ export default async function Page({ params }: PageProps<"/projects/[slug]">) {
             </dl>
           </div>
           <div>
-            <Callout title="About this project record" tone="confirm">
-              <p>This description is limited to what FreyTech&apos;s current website states about the project. Before launch the owner will confirm: {i.confirm.join("; ")}. <Confirm note="Owner review" /></p>
-            </Callout>
             <p style={{ marginTop: "var(--sp-6)" }}>Looking for chemistry-specific detail? Detailed BECSys5 and Pulsar Precision case studies are in preparation. See <Link href="/projects/">projects</Link> or <Link href="/contact/">request a conversation</Link> and we will share references from comparable facilities.</p>
           </div>
         </div>

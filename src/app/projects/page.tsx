@@ -3,7 +3,6 @@ import Link from "next/link";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { pageMetadata } from "@/lib/seo";
 import { installations, publishedCaseStudies, customerReferences } from "@/content/projects";
@@ -19,7 +18,7 @@ export const metadata: Metadata = pageMetadata({
 export default function Page() {
   return (
     <>
-      <PageHero eyebrow="Projects and case studies" title="Work at New York aquatic facilities" lede="Installations described on FreyTech's current website, customer references, and the structure we use for detailed water-chemistry case studies. Nothing here is a composite or a projection; case studies are published only with confirmed facts and the customer's approval." crumbs={[{ name: "Projects", href: "/projects/" }]} compact />
+      <PageHero eyebrow="Projects and case studies" title="Work at New York aquatic facilities" lede="FreyTech installations at New York aquatic facilities, customer references, and the structure we use for detailed water-chemistry case studies. Nothing here is a composite or a projection; case studies are published only with confirmed facts and the customer's approval." crumbs={[{ name: "Projects", href: "/projects/" }]} compact />
 
       <Section>
         <SectionHeader eyebrow="Selected installations" title="Projects with photographs" />
@@ -42,8 +41,8 @@ export default function Page() {
       <Section tone="alt">
         <SectionHeader eyebrow="Water-chemistry case studies" title="Documented modernization projects" lede="Each case study follows the same structure so facilities directors and engineers can compare like with like." />
         {publishedCaseStudies.length === 0 ? (
-          <Callout title="Case studies in preparation" tone="confirm">
-            <p>Detailed BECSys5 and Pulsar Precision case studies with facility type, location, original problem, existing equipment, recommended system, installation scope, commissioning process, measurable result, customer quotation, and related products are being documented from completed FreyTech projects. They will appear here once the facts and the customer&apos;s permission are confirmed. <Confirm note="Owner to supply 3 case studies" /></p>
+          <Callout title="Case studies in preparation" tone="info">
+            <p>Detailed BECSys5 and Pulsar Precision case studies from completed FreyTech projects, each covering the facility, the original problem, the equipment installed, commissioning and the result, are being prepared for publication.</p>
             <p>In the meantime, we are glad to provide references from comparable facilities on request.</p>
           </Callout>
         ) : null}
@@ -60,7 +59,7 @@ export default function Page() {
         <div className={p.split}>
           <div>
             <h2 style={{ fontSize: "var(--text-xl)" }}>Customer facilities</h2>
-            <p className={p.small} style={{ margin: "var(--sp-2) 0 var(--sp-4)" }}>Pools and aquatic centers named on FreyTech&apos;s current website. <Confirm note="Confirm each">Each is being reconfirmed before launch.</Confirm></p>
+            <p className={p.small} style={{ margin: "var(--sp-2) 0 var(--sp-4)" }}>Pools and aquatic centers FreyTech has served.</p>
             <ul className={p.pillList}>{customerReferences.facilities.map((f) => <li key={f}>{f}</li>)}</ul>
             <h2 style={{ fontSize: "var(--text-xl)", marginTop: "var(--sp-8)" }}>Design firms and consultants</h2>
             <ul className={p.pillList} style={{ marginTop: "var(--sp-3)" }}>{[...customerReferences.designFirms, ...customerReferences.consultants].map((f) => <li key={f}>{f}</li>)}</ul>

@@ -1,6 +1,6 @@
 # Catalog Omissions Report
 
-Generated 2026-09-26. Target: zero unresolved omissions.
+Generated 2026-09-27. Target: zero unresolved omissions.
 
 Aquafinity family/product pages: 70. Covered by at least one manifest row: 70. **Unresolved: 0.**
 

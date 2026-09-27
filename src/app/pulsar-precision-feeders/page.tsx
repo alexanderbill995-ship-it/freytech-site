@@ -4,7 +4,6 @@ import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { FAQ } from "@/components/ui/FAQ";
 import { CTABand } from "@/components/ui/CTABand";
 import { TrackedLink } from "@/components/ui/TrackedLink";
@@ -124,7 +123,7 @@ export default function Page() {
           <p>Because New York prohibits cyanuric acid stabilizer in public pools, the manufacturer&apos;s &ldquo;outdoor non-stabilized&rdquo; guidance (up to 90,000 gallons) is the relevant outdoor figure for facilities in our territory.</p>
         </Callout>
         <p className={p.small} style={{ marginTop: "var(--sp-5)" }}>
-          Manufacturer literature: <TrackedLink href={sources.pulsarPrecision.href} event="document_download" payload={{ document: "Pulsar Precision page" }} target="_blank" rel="noopener">{sources.pulsarPrecision.label}</TrackedLink> · <TrackedLink href={sources.pulsarPrecision30Manual.href} event="document_download" payload={{ document: "Precision 30 manual" }} target="_blank" rel="noopener">{sources.pulsarPrecision30Manual.label}</TrackedLink> · <TrackedLink href={sources.pulsarPrecision30Resources.href} event="document_download" payload={{ document: "Precision 30 resources" }} target="_blank" rel="noopener">bid spec, CAD, and schematics</TrackedLink>. <Confirm note="Confirm dealer status">FreyTech&apos;s authorized Pulsar dealer status and county coverage are being confirmed for publication.</Confirm>
+          Manufacturer literature: <TrackedLink href={sources.pulsarPrecision.href} event="document_download" payload={{ document: "Pulsar Precision page" }} target="_blank" rel="noopener">{sources.pulsarPrecision.label}</TrackedLink> · <TrackedLink href={sources.pulsarPrecision30Manual.href} event="document_download" payload={{ document: "Precision 30 manual" }} target="_blank" rel="noopener">{sources.pulsarPrecision30Manual.label}</TrackedLink> · <TrackedLink href={sources.pulsarPrecision30Resources.href} event="document_download" payload={{ document: "Precision 30 resources" }} target="_blank" rel="noopener">bid spec, CAD, and schematics</TrackedLink>. FreyTech supplies, installs and services Pulsar Precision systems across New York State.
         </p>
       </Section>
 

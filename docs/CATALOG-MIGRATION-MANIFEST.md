@@ -1,6 +1,6 @@
 # Catalog Migration Manifest
 
-Generated 2026-09-26 from 4 manifest part files. Machine-readable version: `docs/research/aquafinity-catalog/manifest.json`.
+Generated 2026-09-27 from 4 manifest part files. Machine-readable version: `docs/research/aquafinity-catalog/manifest.json`.
 
 | Metric | Count |
 |---|---|

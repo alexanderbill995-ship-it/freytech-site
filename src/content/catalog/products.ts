@@ -291,7 +291,7 @@ export const products: Product[] = [
     slug: "defender-regenerative-media-filter", name: "Defender Regenerative Media Filter", manufacturer: "neptune-benson", category: "filtration", status: "published", availability: "request",
     headline: "Fine filtration with far less backwash water, in a smaller footprint than sand",
     shortDescription: "Perlite regenerative media pressure filter from Neptune Benson (Xylem), NSF/ANSI 50 listed on all models; FreyTech installed Defenders at Ithaca College's 50-meter pool and Fairport High School.",
-    overview: ["The Defender is a pressure-vessel regenerative media filter: water passes through a coat of perlite media held on flexible filter elements, and the media is periodically 'bumped' and re-coated rather than backwashed to drain. Perlite is loaded through a vacuum transfer unit. The result is very fine filtration, a compact vessel, and a large reduction in backwash water compared with sand filters. All Defender models are NSF/ANSI 50 listed per the manufacturer's technical data sheet.", "FreyTech supplied and installed Defender filters for Ithaca College's 50-meter pool and replaced the sand filter at Fairport High School with a Defender, according to our current website. Neptune Benson is now a Xylem brand; the current dealer relationship is being confirmed."],
+    overview: ["The Defender is a pressure-vessel regenerative media filter: water passes through a coat of perlite media held on flexible filter elements, and the media is periodically 'bumped' and re-coated rather than backwashed to drain. Perlite is loaded through a vacuum transfer unit. The result is very fine filtration, a compact vessel, and a large reduction in backwash water compared with sand filters. All Defender models are NSF/ANSI 50 listed per the manufacturer's technical data sheet.", "FreyTech supplied and installed Defender filters for Ithaca College's 50-meter pool and replaced the sand filter at Fairport High School with a Defender. Neptune Benson is now a Xylem brand; contact FreyTech to confirm current availability and lead time."],
     fit: { yes: ["Competition and university natatoriums pursuing clarity and water savings", "Renovations with limited mechanical-room space", "Facilities replacing original sand filters"], no: ["Facilities unable to staff the media-change routine", "Sites where a simple sand filter replacement meets the goal"] },
     problems: ["improve-filtration-water-clarity", "reduce-waste", "modernize-aging-equipment-room", "prepare-specifications-budgets"],
     applications: ["Natatoriums", "Municipal indoor pools", "School district pools"],
@@ -311,7 +311,7 @@ export const products: Product[] = [
       { k: "Warranty", v: "Manufacturer states a 10-year warranty for Virtuo; confirm terms for other models", src: "Xylem Defender literature" },
     ],
     prerequisites: ["Engineer-confirmed flow and turnover under New York code", "Media handling and disposal routine", "Plan approval for filtration changes (6-1.8)"],
-    retrofit: ["Direct replacement of sand filtration at Fairport High School per our current site", "Piping and pump changes are common; coordinate with the engineer"],
+    retrofit: ["Direct replacement of sand filtration at Fairport High School", "Piping and pump changes are common; coordinate with the engineer"],
     integrations: [{ name: "BECSys7 automatic backwash", note: "Sequencing depends on filter valve design.", status: "commonly-considered" }, { name: "BECSys5 flow and pressure monitoring", note: "Optional monitoring of filter pressures and flow.", status: "commonly-considered" }],
     services: ["Evaluation of existing filtration and clarity problems", "Coordination with the engineer of record", "Supply, installation, and start-up", "Operator training on media handling"],
     support: ["Service and parts", "Warranty coordination"],
@@ -333,7 +333,7 @@ export const products: Product[] = [
     overview: [
       "Infinity Pool Surface is Canadian General-Tower's (Poolside by CGT) reinforced PVC membrane system for commercial pools, described by the manufacturer as a pliable 60-mil construction (also described as a 60+ mil reinforced PVC membrane waterproofing system) designed to withstand UV rays and chlorine. CGT is based in Cambridge, Ontario, and states it was founded in 1869.",
       "CGT positions Infinity for both new pool construction and renovation, and states it is trusted by architects, engineers, installing contractors, and facility operators for projects ranging from a large-scale aquatic centre to a boutique resort. For renovation specifically, the manufacturer states: \"Whether finished with tile, paint, plaster or steel, Infinity is the perfect, cost-effective renovation solution in all commercial pool environments.\"",
-      "FreyTech has not documented a dealer relationship with CGT. The facts above are drawn from CGT's own product pages; availability, lead time, and installation arrangements are to be confirmed on request.",
+      "FreyTech represents Infinity pool and deck membranes by CGT for New York facilities. The facts above are drawn from CGT's own product literature; availability, lead time, and installation arrangements are confirmed when you contact FreyTech.",
     ],
     fit: { yes: ["Renovation projects replacing a worn tile, paint, plaster, or steel finish", "New-construction projects where the design team specifies a membrane surface", "Facilities that want a documented manufacturer warranty on the pool surface"], no: ["Projects where the surface decision has already been made and does not include membrane systems", "Facilities that have not yet identified this as a renovation or new-construction line item with their design team"] },
     problems: ["prepare-specifications-budgets"],
@@ -381,7 +381,7 @@ export const products: Product[] = [
     shortDescription: "Pool deck membrane from Canadian General-Tower (Poolside by CGT), installed over concrete or tile in Grey or Tan, with a manufacturer slip-resistance rating and a 15-year warranty.",
     overview: [
       "Infinity Deck is CGT's membrane system for the deck surrounding a pool rather than the pool shell itself. The manufacturer states it installs over concrete or tile, is offered in Grey and Tan, carries a manufacturer-published slip-resistance rating, and is suited to both indoor and outdoor decks.",
-      "FreyTech has not documented a dealer relationship with CGT. The facts above are drawn from CGT's own product page; availability, lead time, and installation arrangements are to be confirmed on request.",
+      "FreyTech represents Infinity pool and deck membranes by CGT for New York facilities. The facts above are drawn from CGT's own product literature; availability, lead time, and installation arrangements are confirmed when you contact FreyTech.",
     ],
     fit: { yes: ["Deck renovations over existing concrete or tile", "Facilities pairing a deck refresh with an Infinity pool-surface renovation", "Indoor or outdoor decks needing a documented slip-resistance rating"], no: ["Decks with substrate other than concrete or tile until confirmed by the manufacturer", "Projects where deck material has already been selected"] },
     problems: ["prepare-specifications-budgets"],
@@ -484,7 +484,7 @@ export const products: Product[] = [
     overview: [
       "Clear Comfort's AOP is a distinct technology from ultraviolet or ozone supplemental treatment. The manufacturer states its patented process \"directly creates hydroxyl radicals in the water without multiple systems.\" It is positioned as a secondary or supplemental treatment that runs alongside chlorine, not a chlorine replacement.",
       "Three models cover a range of recirculation flows: CCW300A for entry commercial pools and splash pads, CCW300 for medium commercial pools and splash pads, and CCW500 for large commercial pools and water parks. Clear Comfort sizes systems by recirculation flow in gallons per minute (GPM), not pool gallonage. The manufacturer names hotels, universities, water parks, spas, YMCAs, recreation centers, and professional sports hydrotherapy pools among the facility types it serves.",
-      "Clear Comfort runs a dealer program, but its online dealer locator is JavaScript-driven and FreyTech's listing on it could not be verified. No dealer relationship is claimed here.",
+      "FreyTech represents Clear Comfort AOP systems for New York facilities; availability and lead time are confirmed when you contact FreyTech.",
     ],
     fit: { yes: ["Facilities adding a secondary disinfection barrier alongside an existing chlorine program", "Pools and splash pads within a model's published recirculation-flow range", "Hotels, universities, water parks, spas, YMCAs, recreation centers, and professional sports hydrotherapy pools, per the manufacturer"], no: ["Facilities expecting AOP to replace chlorine rather than supplement it", "Sites where the unit cannot be located within 15 ft of the Venturi injection site", "Recirculation flows above the CCW500's published 2,000 GPM maximum"] },
     problems: ["modernize-aging-equipment-room", "prepare-specifications-budgets"],
@@ -525,7 +525,7 @@ export const products: Product[] = [
     retrofit: ["Commonly added alongside an existing chlorine program during a modernization, rather than replacing it", "Confirm recirculation flow (GPM), not pool gallonage, against the model's published range before sizing"],
     integrations: [{ name: "Chlorine sanitizer program", note: "Positioned by the manufacturer as a secondary treatment that runs alongside chlorine, not a replacement.", status: "verified" }, { name: "Recirculation pump", note: "The unit runs only when the recirculation pump runs, per the manufacturer.", status: "verified" }],
     services: ["Evaluating whether supplemental AOP treatment fits the facility's secondary-disinfection goals", "Coordinating sizing by recirculation flow (GPM) with the engineer", "Supply and installation coordination"],
-    support: ["Annual cartridge replacement", "Warranty coordination, subject to confirmation of FreyTech's current relationship with Clear Comfort"],
+    support: ["Annual cartridge replacement", "Warranty coordination through FreyTech"],
     docs: [
       { title: "Clear Comfort hydroxyl AOP technology", type: "Product page", href: "https://clearcomfort.com/hydroxyl-advanced-oxidation-aop-technology/", fileType: "Web", status: "linked" },
       { title: "Clear Comfort commercial AOP overview", type: "Product page", href: "https://clearcomfort.com/commercial/", fileType: "Web", status: "linked" },

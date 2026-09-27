@@ -15,8 +15,8 @@ export const hero = {
 
 export const proof = [
   { value: "Owner-led", label: "more than a decade of commercial aquatic industry and sales experience behind the company" },
-  { value: "Institutional", label: "municipal, school, university, YMCA and healthcare experience", confirm: "Confirm references" },
-  { value: "End to end", label: "equipment selection, installation, commissioning, training and service", confirm: "Confirm each service is offered" },
+  { value: "Institutional", label: "municipal, school, university, YMCA and healthcare experience" },
+  { value: "End to end", label: "equipment selection, installation, commissioning, training and service" },
   { value: "New York", label: "Monroe County office; commercial and institutional focus statewide" },
   { value: "BECS distributor", label: "listed by BECS Technology as its New York distributor" },
 ];
@@ -24,7 +24,7 @@ export const proof = [
 export const pillars = [
   { title: "Personal accountability", text: "The person helping recommend the solution stays connected to the outcome, and the owner is directly involved in the business. You know who to call, and that person knows your equipment room." },
   { title: "Practical expertise", text: "Recommendations are grounded in actual equipment rooms, operating demands and facility constraints, not in a brochure." },
-  { title: "Long-term support", text: "The relationship does not end when equipment arrives. FreyTech can assist with implementation, commissioning, operator training, maintenance and troubleshooting.", confirm: "Confirm scope of ongoing support" },
+  { title: "Long-term support", text: "The relationship does not end when equipment arrives. FreyTech can assist with implementation, commissioning, operator training, maintenance and troubleshooting." },
   { title: "Facility-specific recommendations", text: "The goal is to understand the facility and recommend an appropriate combination of equipment, controls and support, not to push a generic system." },
 ];
 
@@ -40,7 +40,6 @@ export const angeloNote = {
   signature: "Angelo DiCiaccio",
   title2: "President, Frey Technologies",
   portrait: { src: "/images/brand/angelo-diciaccio.webp", alt: "Angelo DiCiaccio, President of Frey Technologies", width: 640, height: 800 },
-  confirm: "Proposed first-person copy: Angelo to approve or edit before it is published as his words.",
 };
 
 export const problems = [
@@ -77,9 +76,9 @@ export const lifecycle = [
   { title: "Initial facility conversation", text: "What is happening, who is involved, what has been tried." },
   { title: "On-site evaluation", text: "The sample loop, controls, feed, filtration, storage and records, documented." },
   { title: "Options and recommendations", text: "Staged or complete, with the reasoning written down." },
-  { title: "Design or specification support", text: "Schedules, submittals and sequence of operation with your engineer.", confirm: true },
-  { title: "Equipment procurement", text: "Selection, lead times and coordination with the manufacturer.", confirm: true },
-  { title: "Installation", text: "By FreyTech technicians, scheduled around the pool calendar.", confirm: true },
+  { title: "Design or specification support", text: "Schedules, submittals and sequence of operation with your engineer." },
+  { title: "Equipment procurement", text: "Selection, lead times and coordination with the manufacturer." },
+  { title: "Installation", text: "By FreyTech technicians, scheduled around the pool calendar." },
   { title: "Commissioning", text: "Calibration, interlock and alarm tests, and a settings record." },
   { title: "Operator training", text: "Hands-on, with written procedures left on site." },
   { title: "Ongoing service and troubleshooting", text: "Phone support, preventive maintenance, parts and warranty coordination." },

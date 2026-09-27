@@ -4,7 +4,6 @@ import Link from "next/link";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section } from "@/components/ui/Section";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { TrackedLink } from "@/components/ui/TrackedLink";
 import { ContactFormClient, ContactHeading } from "./ContactFormClient";
 import { AssessmentForm } from "@/components/forms/AssessmentForm";
@@ -35,7 +34,7 @@ export default function Page() {
               <li><TrackedLink href={`mailto:${site.email}`} event="email_click" payload={{ location: "contact_aside" }} style={{ color: "#fff" }}>{site.email}</TrackedLink></li>
               <li style={{ marginTop: "0.5rem" }}>{site.address.street}<br />{site.address.city}, NY {site.address.postalCode}<br /><span style={{ opacity: 0.85 }}>{`${site.address.county} County`}</span></li>
               <li style={{ marginTop: "0.5rem" }}><span style={{ opacity: 0.85 }}>Remit / bill to:</span><br />{site.remitTo.poBox}<br />{site.remitTo.city}, NY {site.remitTo.postalCode}</li>
-              {site.hours ? <li style={{ marginTop: "0.5rem" }}>{site.hours}</li> : <li style={{ marginTop: "0.5rem" }}><Confirm note="Confirm hours">Business hours to be confirmed.</Confirm></li>}
+              {site.hours && <li style={{ marginTop: "0.5rem" }}>{site.hours}</li>}
             </ul>
             <p style={{ marginTop: "0.75rem" }}>Existing system down? Use the <Link href="/request-service/" style={{ color: "var(--blue-400)" }}>service request</Link> instead.</p>
           </>

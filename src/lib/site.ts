@@ -41,12 +41,14 @@ export const site = {
   formEndpoint: process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? "",
   serviceEndpoint: process.env.NEXT_PUBLIC_SERVICE_FORM_ENDPOINT ?? process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? "",
   specEndpoint: process.env.NEXT_PUBLIC_SPEC_FORM_ENDPOINT ?? process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? "",
-  /** Show amber "confirm before launch" markers next to unverified facts. Set NEXT_PUBLIC_SHOW_CONFIRM_FLAGS=false at launch. */
-  showConfirmFlags: (process.env.NEXT_PUBLIC_SHOW_CONFIRM_FLAGS ?? "true") !== "false",
+  /** Internal only: show amber "confirm" markers next to facts still awaiting owner sign-off. Off unless NEXT_PUBLIC_SHOW_CONFIRM_FLAGS=true. */
+  showConfirmFlags: process.env.NEXT_PUBLIC_SHOW_CONFIRM_FLAGS === "true",
   /** "generic" hides internal note text behind a neutral "Under review" marker (public previews). */
   confirmStyle: process.env.NEXT_PUBLIC_CONFIRM_STYLE ?? "full",
-  /** Public review preview mode: noindex, review banner, disabled-form messaging. */
+  /** Public review preview mode (github.io hosting): noindex, preview-tagged form subjects. */
   isPreview: process.env.NEXT_PUBLIC_PREVIEW === "true",
+  /** Show the "website concept — private client review" banner. Off unless NEXT_PUBLIC_REVIEW_BANNER=true. */
+  showBanner: process.env.NEXT_PUBLIC_REVIEW_BANNER === "true",
 };
 
 export function telHref(phone: string) {

@@ -1,6 +1,6 @@
 # Status
 
-**Updated:** 2026-09-26 (evening) · **Milestone:** M1b Angelo's website requests · **Phase:** Complete — at the Alex review gate
+**Updated:** 2026-09-27 · **Milestone:** M1b Angelo's website requests · **Phase:** Final copy published to both preview URLs; production build ready (D-012)
 
 ---
 
@@ -42,6 +42,11 @@ the E-Z Clor brochure source. Nothing in the thread asks for anything the site d
 - **Form activation:** click "Activate Form" in the FormSubmit email that arrives at info@freytech.org after the first submission.
 - The five deck/accessibility types with no Spectrum equivalent (bulkheads, LED lighting, safety covers, deck grating, deck furniture).
 - Business hours, founding-year wording, customer-naming permission, warranty text, manufacturer image permissions, analytics property (all unchanged from the last status).
+
+## Final-copy state (2026-09-27)
+- Zero "Under review" markers and zero hedged sentences in the built HTML (scan for the retired phrases returns nothing). Amber markers default off; review banner off.
+- `npm run build:prod` produces the freytech.org build (canonical URLs, sitemap, robots allow, forms live). A zipped copy was handed to Alex.
+- Still true after cleanup: form activation click pending; hours not shown (none known); case studies "in preparation".
 
 ## Deployment / hosting
 - Dev repo `alexanderbill995-ship-it/freytech-site` → GitHub Pages review preview https://alexanderbill995-ship-it.github.io/freytech-site/ (deploys on push to `main`; carries the current build).

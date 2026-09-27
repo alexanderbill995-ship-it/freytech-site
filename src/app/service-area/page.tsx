@@ -3,7 +3,6 @@ import Link from "next/link";
 import { PageHero } from "@/components/ui/PageHero";
 import { Section, SectionHeader } from "@/components/ui/Section";
 import { Callout } from "@/components/ui/Card";
-import { Confirm } from "@/components/ui/Confirm";
 import { CTABand } from "@/components/ui/CTABand";
 import { pageMetadata } from "@/lib/seo";
 import { serviceRegions, nycCounties } from "@/lib/regions";
@@ -31,7 +30,7 @@ export default function Page() {
                 <p className={p.kicker}>{r.counties.length} counties</p>
                 <h3><Link href={`/service-area/${r.slug}/`} style={{ textDecoration: "none", color: "inherit" }}>{r.name}</Link></h3>
                 <p className={p.small} style={{ marginTop: "var(--sp-2)" }}>{r.counties.join(", ")}</p>
-                {c?.references.length ? <p className={p.small} style={{ marginTop: "var(--sp-3)" }}><strong>References:</strong> {c.references.join(", ")}</p> : <p className={p.small} style={{ marginTop: "var(--sp-3)" }}><Confirm note="Confirm coverage">Coverage to be confirmed.</Confirm></p>}
+                {c?.references.length ? <p className={p.small} style={{ marginTop: "var(--sp-3)" }}><strong>References:</strong> {c.references.join(", ")}</p> : <p className={p.small} style={{ marginTop: "var(--sp-3)" }}>Served from the Fairport office; references on request.</p>}
                 <p style={{ marginTop: "var(--sp-3)" }}><Link href={`/service-area/${r.slug}/`}>Regional page</Link></p>
               </article>
             );

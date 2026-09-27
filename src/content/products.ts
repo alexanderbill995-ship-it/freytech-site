@@ -134,6 +134,6 @@ export const pulsar = {
     { q: "Can it run with our existing controller?", a: "The feeder's solenoid is driven by the chlorine-demand output of a chemistry controller. It is commonly paired with BECSys5, and it can be driven by other controllers with a suitable output. We confirm compatibility during the assessment." },
     { q: "What are the alternatives?", a: "Liquid sodium hypochlorite with metering pumps, other calcium hypochlorite tablet feeders, trichlor feeders (not appropriate for most New York public pools because of stabilizer), gas chlorine where still permitted, and on-site salt chlorine generation. Each has trade-offs in capacity, handling, storage, and cost; the assessment compares them for your facility." },
     { q: "Does FreyTech supply the briquettes?", a: "FreyTech has offered chemical delivery as part of its service programs. Cal hypo supply arrangements for your location should be confirmed with us." },
-    { q: "Is FreyTech an authorized Pulsar dealer?", a: "FreyTech installs and services Pulsar Precision systems in New York. Authorized-dealer status for your county should be confirmed with FreyTech directly." },
+    { q: "Is FreyTech an authorized Pulsar dealer?", a: "FreyTech supplies, installs and services Pulsar Precision systems for facilities across New York State. Contact us and we will confirm coverage and lead time for your county." },
   ],
 };

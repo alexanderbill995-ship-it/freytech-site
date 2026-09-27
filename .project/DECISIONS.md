@@ -4,6 +4,19 @@ Newest first. Each entry: what was decided, why, and who owns it.
 
 ---
 
+## D-012 — Final copy: review markers retired, hedged copy resolved, production build defined
+**Date:** 2026-09-27 · **Owner:** Alex (instruction) · **Status:** Implemented
+
+Alex asked for the copy Angelo sees to be a final, deployable version with no warnings. Every "Under review" /
+"confirm before launch" marker and every sentence that read as unfinished was resolved on its merits rather than
+hidden: warranty policy and customer references came from FreyTech's own former public site and stay as final
+copy; the founding year stays as the old site published it; Pulsar, CGT and Clear Comfort wording now reflects the
+owner-confirmed relationships (D-009); business hours, the "three case studies" placeholder, the project-record
+owner-review boxes and all "named on the current website / being reconfirmed" captions were removed or reworded
+because no source exists for them. `NEXT_PUBLIC_SHOW_CONFIRM_FLAGS` now defaults to off and the review banner is
+opt-in (`NEXT_PUBLIC_REVIEW_BANNER`), so no public build can show markers by accident. `npm run build:prod` produces
+the freytech.org build. github.io copies keep noindex and the "[Website preview]" form subject.
+
 ## D-011 — Lead delivery goes live through the FormSubmit relay to info@freytech.org
 **Date:** 2026-09-26 · **Owner:** Orchestrator (Alex to trigger activation) · **Status:** Implemented, activation pending
 

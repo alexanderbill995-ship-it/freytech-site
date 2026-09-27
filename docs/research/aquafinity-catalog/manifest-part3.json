@@ -555,7 +555,7 @@
    "RAS filter",
    "koi pond filter"
   ],
-  "notes": "Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.",
   "uncertainties": "No NSF/ANSI 50 listing for swimming pool use was found; per-model flow ratings were not published on the page fetched. Dealer status unverified.",
   "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/aquaculture-systems-technology/",
   "sourceCategory": "mechanical-room-equipment",
@@ -566,7 +566,7 @@
   "officialProductUrl": "https://astfilters.com/aquatic-systems/products/propeller-bead-filters/",
   "proposedCategory": "filtration",
   "proposedSlug": "ast-propeller-bead-filters",
-  "disposition": "published",
+  "disposition": "excluded",
   "verification": "verified",
   "image": {
    "sourceUrl": "https://astfilters.com/aquatic-systems/wp-content/uploads/sites/3/2016/01/propeller-bead-filter2-large-e1502230967617.jpg",

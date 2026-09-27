@@ -75,6 +75,9 @@ text-only record above had lost:
   - "WAPOTECH" → https://wapotech.com/#c562 "- under supplemental"
   - Clear Comfort link: https://clearcomfort.com/commercial/
   So Mer-Made, Filtrex and Spectrum are explicit requests in R2, not additions from Alex's list.
+- **R2 inline screenshots (Remove list):** two images pasted after "Specialty chemicals are TBD" show product cards from the
+  site: AST Propeller Bead filters, and the AquatiControl ELC-800r and ELC-810 water-level controllers. These are
+  removals. The text-only record had no trace of them; Alex spotted them on 2026-09-27.
 - **R3 = 2026-09-25 14:22 ET.** "EZ Clor Chemical Product Brochure" → **https://view.flipdocs.com/ezclor-chemical-products**
   (this answers the earlier question about the brochure's origin); "Jacks Magic" → https://jacksmagic.com/. The rest
   of R3 is about grants and is out of scope for the website milestone.
@@ -110,6 +113,7 @@ This is a process decision for Alex, not an implementation task. Recommendation 
 | R2-9 | Add Mer-Made products (mermade.com/products, R2) | **DONE** | Mer-Made Filter, Inc. added as a represented manufacturer with its commercial filtration lines. |
 | R2-10 | Add Filtrex (filtrexnj.com, R2) | **DONE** | Filtrex, Inc. added: EC-series regenerative media filters (18 models), Trex-Flow VFD package, vacuum transfer system. |
 | R2-11 | Add Pulsar Precision (pulsarpools.com, R2) | **DONE** | Already published and featured; aliases now include "500K to 1M gal" so Angelo's phrasing finds it. |
+| R2-13 | Remove AST Propeller Bead filters and AquatiControl ELC-800r / ELC-810 (screenshots in R2 Remove list) | **DONE** 2026-09-27 | Three rows excluded in the manifest with the reason recorded; AST and AquatiControl manufacturer pages disappear with them. |
 | R2-12 | Add Spectrum (spectrumproducts.com, R2) | **DONE** | Spectrum Aquatics listed as a represented manufacturer (14 Spectrum-branded products plus the Spectrum-catalogue brands). |
 
 ## Judgment call made on R2-5, for Angelo to confirm

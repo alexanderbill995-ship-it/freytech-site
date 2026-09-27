@@ -15,10 +15,10 @@ connected (D-011) and needs one activation click in info@freytech.org.
 ### Verified state (final build, commands actually run)
 | Check | Result |
 |---|---|
-| `npm run build` | PASS — exit 0, 230 pages |
+| `npm run build` | PASS — exit 0, 225 pages (2026-09-27, after the three screenshot removals) |
 | `npm run lint` | PASS — 0 errors, 0 warnings |
-| `npm run check:links` | 230 pages · 0 broken · 0 missing anchors · 0 h1 issues · 0 duplicate titles |
-| Catalog | 121 published products (24 added this session) · 36 manufacturers with products (6 added) · 13 categories |
+| `npm run check:links` | 225 pages · 0 broken · 0 missing anchors · 0 h1 issues · 0 duplicate titles |
+| Catalog | 118 published products · 34 manufacturers with products · 13 categories |
 | Sitemap | 225 URLs |
 | Independent test pass | freytech-tester and freytech-reviewer run on the final build; findings and fixes recorded below |
 

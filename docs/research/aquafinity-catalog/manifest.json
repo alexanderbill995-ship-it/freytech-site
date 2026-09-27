@@ -665,7 +665,7 @@
   "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=1",
   "proposedCategory": "automated-controls",
   "proposedSlug": "aquaticontrol-elc-800r",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -755,11 +755,11 @@
    "water leveler",
    "surge tank level control"
   ],
-  "notes": "Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.",
   "uncertainties": "Electrical rating and solenoid valve sizing to be taken from the data sheet; dealer status unverified.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "aquaticontrol-technology",
-  "proposedUrl": "/products/automated-controls/aquaticontrol-elc-800r/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/automated-controls/automated-water-level-controller/",
@@ -771,7 +771,7 @@
   "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=2",
   "proposedCategory": "automated-controls",
   "proposedSlug": "aquaticontrol-elc-810",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -871,11 +871,11 @@
    "fountain autofill",
    "water level controller"
   ],
-  "notes": "Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.",
   "uncertainties": "Dealer status unverified; no manufacturer image available publicly.",
   "_part": "manifest-part1.json",
   "manufacturerSlug": "aquaticontrol-technology",
-  "proposedUrl": "/products/automated-controls/aquaticontrol-elc-810/"
+  "proposedUrl": ""
  },
  {
   "sourceUrl": "https://aquafinity.com/catalog/chemical-delivery-systems/acid-vapor-recovery-system/",
@@ -8525,7 +8525,7 @@
    "RAS filter",
    "koi pond filter"
   ],
-  "notes": "Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.",
   "uncertainties": "No NSF/ANSI 50 listing for swimming pool use was found; per-model flow ratings were not published on the page fetched. Dealer status unverified.",
   "sourceUrl": "https://aquafinity.com/catalog/mechanical-room-equipment/aquaculture-systems-technology/",
   "sourceCategory": "mechanical-room-equipment",
@@ -8536,7 +8536,7 @@
   "officialProductUrl": "https://astfilters.com/aquatic-systems/products/propeller-bead-filters/",
   "proposedCategory": "filtration",
   "proposedSlug": "ast-propeller-bead-filters",
-  "disposition": "published",
+  "disposition": "excluded",
   "verification": "verified",
   "image": {
    "sourceUrl": "https://astfilters.com/aquatic-systems/wp-content/uploads/sites/3/2016/01/propeller-bead-filter2-large-e1502230967617.jpg",
@@ -8598,7 +8598,7 @@
   ],
   "_part": "manifest-part3.json",
   "manufacturerSlug": "ast",
-  "proposedUrl": "/products/filtration/ast-propeller-bead-filters/"
+  "proposedUrl": ""
  },
  {
   "availability": "request",

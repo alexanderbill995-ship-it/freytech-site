@@ -114,7 +114,7 @@ code. That is a statement about the law, not about your territory.
 including the structured data Google reads. The Macedon PO Box is set up separately as a remit-to
 address and shown as one — it is not presented as your office, because it isn't.
 
-**Products removed.** All LMI. Both ClearWater Tech ozone systems. The chemical brands your
+**Products removed.** All LMI. Both ClearWater Tech ozone systems. The AST Propeller Bead filters and the two AquatiControl water-level controllers you pasted screenshots of. The chemical brands your
 supplier doesn't stock. Everything removed is held rather than deleted, so any of it comes back in
 minutes if you change your mind.
 

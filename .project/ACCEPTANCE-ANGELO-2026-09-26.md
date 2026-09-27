@@ -25,6 +25,7 @@ Built 2026-09-26 from Angelo's emails, read directly from Gmail (thread "Re: Con
 | 17 | Add WAPOTECH under supplemental (R2) | **DONE** | WAPOTEC SYSTEM (HydroSan / HydroXan / WAPO Floc) published under `/products/uv-supplemental-treatment/` as asked; WAPO Chlor, WAPO TEC filters and ClearAmine filed under chlorination, filtration and testing. |
 | 18 | Add E-Z Clor specialty chemicals (R3) | **DONE** | Five E-Z Clor lines (sanitizers, oxidizers, algaecides, balancers, supplements; 43 products as models) under `/products/specialty-chemicals/`, described from ezclorchemicals.com; the brochure Angelo sent (view.flipdocs.com/ezclor-chemical-products) is linked from each record. Trichlor items labelled as stabilized. |
 | 19 | Add Jack's Magic specialty chemicals (R3) | **DONE** | Seven Jack's Magic products published; manufacturer marked as represented. |
+| 20 | Remove AST Propeller Bead filters and AquatiControl ELC-800r / ELC-810 (R2, pasted screenshots in the Remove list) | **DONE** 2026-09-27 | Excluded in the manifest; no page, card, search entry or manufacturer page remains. |
 
 ## Also delivered this session
 - **Lead delivery connected** (D-011): all three forms POST to the FormSubmit relay for info@freytech.org. One

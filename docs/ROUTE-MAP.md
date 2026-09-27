@@ -6,8 +6,8 @@
 | `/` | Home | Relationship-driven: accountability hero, trust bar, Why FreyTech, note from Angelo, problems, system story, featured solutions, NY proof, lifecycle, catalog-as-service search, final conversion with compact form |
 | `/products/` | Product library | Search + filters (q, category, facility, manufacturer, project); URL state |
 | `/products/[category]/` (13) | Category template | automated-controls, chemical-delivery-chlorination, filtration, pool-surfaces-membranes, pumps-circulation-flow, uv-supplemental-treatment, heating-energy, deck-equipment, accessibility-safety, water-testing-monitoring, vacuums-cleaning, specialty-chemicals, parts-accessories-replacement |
-| `/products/[category]/[slug]/` (121) | Product detail template | Sticky section nav (desktop) / jump menu (mobile); Product + FAQ schema |
-| `/manufacturers/` + `/manufacturers/[slug]/` (36) | Manufacturer template | Overview, categories, products, resources, availability language, CTA |
+| `/products/[category]/[slug]/` (118) | Product detail template | Sticky section nav (desktop) / jump menu (mobile); Product + FAQ schema |
+| `/manufacturers/` + `/manufacturers/[slug]/` (34) | Manufacturer template | Overview, categories, products, resources, availability language, CTA |
 | `/solutions/` + `/solutions/[problem]/` (11) | Solution template | Browse-by-problem route into the same product data |
 | `/becsys5-controls/` | Flagship | BECSys5 decision guide |
 | `/pulsar-precision-feeders/` | Flagship | Pulsar Precision + Precision 30 guide with model comparison |
@@ -22,7 +22,7 @@
 | `/about/`, `/contact/`, `/privacy/`, `/accessibility/` | Pages | Contact reads `?intent=` and context params |
 | `/sitemap.xml`, `/robots.txt` | Generated | |
 
-Total: 230 HTML pages as of 2026-09-26 (121 product pages, 36 manufacturer pages, 13 categories, 10 regions; 225 sitemap URLs — `/404/`, `/_not-found/`, `/privacy/` and `/accessibility/` are deliberately not in the sitemap). Draft/excluded products and unpublished categories are not routed.
+Total: 225 HTML pages as of 2026-09-27 (118 product pages, 34 manufacturer pages, 13 categories, 10 regions; 220 sitemap URLs — `/404/`, `/_not-found/`, `/privacy/` and `/accessibility/` are deliberately not in the sitemap). Draft/excluded products and unpublished categories are not routed.
 
 ## Discovery paths (all resolve into `src/content/catalog/`)
 - Mega menu → Featured (4) · By system (6 categories) · By facility (9 → `/products/?facility=…`) · By problem (10 → `/solutions/…`)

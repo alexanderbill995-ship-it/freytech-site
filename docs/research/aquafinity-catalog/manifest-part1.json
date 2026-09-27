@@ -632,7 +632,7 @@
   "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=1",
   "proposedCategory": "automated-controls",
   "proposedSlug": "aquaticontrol-elc-800r",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -722,7 +722,7 @@
    "water leveler",
    "surge tank level control"
   ],
-  "notes": "Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.",
   "uncertainties": "Electrical rating and solenoid valve sizing to be taken from the data sheet; dealer status unverified."
  },
  {
@@ -735,7 +735,7 @@
   "officialProductUrl": "http://www.aquaticontrol.com/product_detail.cfm?CatID=1&PID=2",
   "proposedCategory": "automated-controls",
   "proposedSlug": "aquaticontrol-elc-810",
-  "disposition": "published",
+  "disposition": "excluded",
   "availability": "request",
   "verification": "verified",
   "image": {
@@ -835,7 +835,7 @@
    "fountain autofill",
    "water level controller"
   ],
-  "notes": "Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.",
+  "notes": "Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.",
   "uncertainties": "Dealer status unverified; no manufacturer image available publicly."
  },
  {
@@ -1772,7 +1772,7 @@
    "Mechanically actuated diaphragm; no hydraulic oil contact with process liquid (LMI literature)",
    "Variable eccentric drive for smooth output (LMI literature)",
    "Stroke adjustment while running or stopped (LMI literature)",
-   "Steady-state accuracy \u00b11% over 10:1 turndown (LMI literature)",
+   "Steady-state accuracy ±1% over 10:1 turndown (LMI literature)",
    "UL, cUL, ETL to ANSI/NSF 50, CE (LMI literature)"
   ],
   "specs": [
@@ -1783,7 +1783,7 @@
    },
    {
     "k": "Accuracy",
-    "v": "\u00b11% of full capacity over 10:1 turndown",
+    "v": "±1% of full capacity over 10:1 turndown",
     "src": "LMI Series G brochure"
    }
   ],
@@ -2497,12 +2497,12 @@
    },
    {
     "k": "Reproducibility",
-    "v": "\u00b12%",
+    "v": "±2%",
     "src": "FSPECCSHA"
    },
    {
     "k": "Maximum operating temperature",
-    "v": "125\u00b0F (52\u00b0C)",
+    "v": "125°F (52°C)",
     "src": "FSPECCSHA"
    },
    {

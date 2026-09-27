@@ -7,16 +7,18 @@ Aquafinity family/product pages: 70. Covered by at least one manifest row: 70. *
 All family pages are accounted for.
 
 ## Rows by disposition
-- published: 83
+- published: 80
 - family (inside a family page): 42
 - duplicate: 14
 - discontinued: 10
-- excluded: 75
+- excluded: 78
 
 ## Excluded rows (with reasons)
 - Precision Control MCC-VFD Motor Control Center: Excluded: Aquafinity/CES house-brand VFD package ('Precision Control' brand, 'connects to your CES controller'); the drive OEM is not named. FreyTech equivalent path: BECSys7 flow/VFD control with a drive from an electrical supplier, or a manufacturer-branded pump VFD package.
 - Precision Control PFDx pump and VFD package: Excluded: Aquafinity/CES house-brand package (NEMA 4X VFD panel plus a composite 3-phase pump); pump and drive OEMs not named. No manufacturer literature exists outside Aquafinity.
 - Smart Pump Control System (SPCS): Excluded: Knorr Systems (an Aquafinity company) house-brand VFD package; its 2014 brochure and 2017 'SPCS BC' data sheet are Knorr documents and knorrsystems.com is redirecting to aquafinity.com. Drive OEM not disclosed. FreyTech equivalent: BECSys7 flow control with a commercial VFD.
+- ELC-800r Dual-Sensing Water Level Controller: Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Sold through distributors (poolweb, Recreation Supply list it as AquatiControl). No public product image found on aquaticontrol.com (the site's product photos are behind a login), so no image is used.
+- ELC-810 Tri-Sensing Water Level Controller: Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Mounting-variant suffixes (SG sight glass, B bracket, ST surge tank, WW wet well, DW deck well) come from distributor listings and the manufacturer's ordering guide.
 - EKO3 Acid Vapor Recovery System (AVRS): Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. Category gap for FreyTech: bulk-acid vapor neutralization for double-wall tanks; candidate manufacturer-branded alternatives include ProMinent's Acid Fume Scrubber (see the ProMinent entries in other manifest parts).
 - Eko3 CO2 Feeder: Excluded: EKO3 Systems appears to be an Aquafinity (Knorr Systems) house brand. Evidence: eko3.com redirects to knorrsystems.com; the EKO3 CO2 feeder brochure carries a Standard Avenue, Santa Ana, CA address (Knorr Systems' address); Aquafinity's web store lists the product under the 'Eko3' brand. FreyTech cannot resell a competitor's house brand. FreyTech alternative: BECSys CO2 Feed System (slug becs-co2-ph-control).
 - Eko3 thermostatic CO2 heater (accessory): Excluded: generic CO2 gas accessory resold under the Aquafinity/EKO3 house brand; original manufacturer not identified. Only Aquafinity-hosted images exist (not used). Comparable accessories are available from CO2 regulator suppliers when FreyTech specifies a CO2 feed system.
@@ -68,6 +70,7 @@ All family pages are accounted for.
 - S.R.Smith Velocity starting blocks: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - S.R.Smith Legacy starting blocks: Removed at the client's instruction 2026-09-26: deck equipment and accessibility pages are Spectrum products only.
 - Apex Series packaged ozone systems: Aquafinity lists Apex I, II, III, IV, VI plus an Apex Ae paragraph; ClearWater Tech's current page also lists Apex VII and VIII. Ozone is proposed under uv-supplemental-treatment because that category holds supplemental oxidizers. Aquafinity's per-model images are Aquafinity-hosted copies of CWT renders; the downloaded image is the manufacturer's own CDN copy. Removed at the client's instruction 2026-09-26: ClearWater Tech is replaced by Clear Comfort AOP.
+- Propeller Bead filters: Removed at the client's instruction 2026-09-24 (screenshot in the Remove list of Angelo's email). Aquafinity's page embeds AST's own image from astfilters.com; the downloaded copy is that manufacturer-hosted asset. Model numbers come from AST project captions on the product page.
 - Eko3 GEN2 hi-rate permanent media filter: Excluded: Aquafinity/Knorr Systems (KSI) house brand. The EKO3 SYSTEMS trademark (USPTO reg. 5543947) is registered to Knorr Systems, Inc., Santa Ana CA, and eko3.com redirects to knorrsystems.com. Aquafinity page sub-headings 'Product Features', 'Filter Tanks', 'Internal Components of Filter Tanks', and 'Control Valves' are sections of this single product and are covered by this object.
 - Precision Control AMF advanced media filter: Excluded: Aquafinity/CES house brand (Aquafinity's own page says Aquafinity has provided these filters since 1985 and the data sheet is Aquafinity-branded; ceswaterquality.com published 'Precision AMF Filters: First 8 Years'). Aquafinity sub-tabs 'Valves', 'Lid', 'Internals', and 'Controls' are sections of this single product and are covered by this object.
 - Precision Control AMF strainers (Composite, Composite IWF, Stainless Steel): Excluded: Aquafinity/CES house brand; images are served from Aquafinity's own shop API (CES FRP AMF Strainer). All three Aquafinity tabs are covered as models of this one object.

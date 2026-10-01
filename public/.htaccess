@@ -34,7 +34,7 @@ RedirectMatch 301 ^/about/history-leadership/?$ /about/
 RedirectMatch 301 ^/about/news/20-have-you-checked-your-alkalinity-today/?$ /resources/total-alkalinity-and-controllers/
 RedirectMatch 301 ^/about/news/?$ /resources/
 RedirectMatch 301 ^/about/resources/?$ /resources/
-RedirectMatch 301 ^/service-and-support/warranties/?$ /service-support/#warranty
+RewriteRule ^service-and-support/warranties/?$ /service-support/#warranty [L,R=301,NE]
 RedirectMatch 301 ^/service-and-support/request-a-quote/?$ /contact/
 RedirectMatch 301 ^/service-and-support(/.*)?$ /service-support/
 RedirectMatch 301 ^/project-showcase(/.*)?$ /projects/

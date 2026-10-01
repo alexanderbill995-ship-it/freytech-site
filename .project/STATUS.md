@@ -1,6 +1,6 @@
 # Status
 
-**Updated:** 2026-09-27 · **Milestone:** M1b Angelo's website requests · **Phase:** Final copy published to both preview URLs; production build ready (D-012)
+**Updated:** 2026-09-27 · **Milestone:** M1b Angelo's website requests · **Phase:** Angelo approved the final copy (2026-10-01). Hosting on Hostinger: placeholder today, freytech.org tomorrow when the domain unlocks
 
 ---
 
@@ -42,6 +42,11 @@ the E-Z Clor brochure source. Nothing in the thread asks for anything the site d
 - **Form activation:** click "Activate Form" in the FormSubmit email that arrives at info@freytech.org after the first submission.
 - The five deck/accessibility types with no Spectrum equivalent (bulkheads, LED lighting, safety covers, deck grating, deck furniture).
 - Business hours, founding-year wording, customer-naming permission, warranty text, manufacturer image permissions, analytics property (all unchanged from the last status).
+
+## Hosting (2026-10-01)
+- Angelo approved the final copy. Alex is hosting on Hostinger: a temporary-domain placeholder today, domain switch when freytech.org unlocks (expected 2026-10-02).
+- `public/.htaccess` added to the build: HTTPS redirect, custom 404, all legacy Joomla redirects, caching headers. Hostinger-ready zip of `out/` handed to Alex.
+- Still pending after go-live: FormSubmit activation click in info@freytech.org; invoice.
 
 ## Final-copy state (2026-09-27)
 - Zero "Under review" markers and zero hedged sentences in the built HTML (scan for the retired phrases returns nothing). Amber markers default off; review banner off.

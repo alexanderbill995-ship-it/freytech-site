@@ -44,7 +44,9 @@ npm run check:links
 
 **Vercel:** import the repo; framework preset Next.js; output is static. `vercel.json` carries redirects and headers. 
 
-**Cloudflare Pages / S3+CloudFront / cPanel:** upload `out/`. Add redirects from `docs/REDIRECT-MAP.md` in the host's rules (Apache sample in `docs/htaccess.sample`). Ensure the host serves `/foo/` → `/foo/index.html` and a custom 404 (`out/404.html`).
+**Hostinger (chosen 2026-10-01) / any Apache or LiteSpeed host:** `public/.htaccess` ships in the build and handles HTTPS redirect, the custom 404, every legacy Joomla redirect from `docs/REDIRECT-MAP.md`, and caching. Upload the *contents* of `out/` into `public_html` (so `index.html` and `.htaccess` sit directly in `public_html`). Hostinger: hPanel → Websites → Add website → Empty website on a temporary domain → File Manager → public_html → upload the zip → Extract → delete the zip and the default placeholder file. When the domain is ready: Websites → the site → Domain → change to freytech.org, then point freytech.org at Hostinger (nameservers or A record from hPanel) and enable the free SSL.
+
+**Cloudflare Pages / S3+CloudFront:** upload `out/` and add the redirects from `docs/REDIRECT-MAP.md` in the host's rules.
 
 ## Forms
 `NEXT_PUBLIC_FORM_ENDPOINT` is set to the FormSubmit AJAX relay (`https://formsubmit.co/ajax/info@freytech.org`) in the Pages workflow; see `docs/FORM-DELIVERY-DECISION.md` for the one-time activation step and the alternatives (Workbooks web-to-lead, a CRM-plus-email relay, other form services). The forms POST JSON and report success only when the service confirms it.

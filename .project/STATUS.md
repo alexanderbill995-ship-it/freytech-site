@@ -48,7 +48,7 @@ the E-Z Clor brochure source. Nothing in the thread asks for anything the site d
 - Optional follow-up: www → bare-domain redirect added to public/.htaccess (not yet uploaded to Hostinger; canonical tags already point at the bare domain).
 - Search Console: freytech.org domain property verified (alex@betterwithrook.com, DNS TXT at Bluehost) and sitemap submitted 2026-10-02.
 - Form relay activated 2026-10-02 (Deb clicked the FormSubmit link). Leads deliver to info@freytech.org.
-- Old Joomla site: public snapshot (21 pages + assets) saved to Alex's Downloads as freytech-joomla-archive-2026-10-02.zip. Remaining: cancel only the Bluehost web hosting plan (keep the domain registration and DNS zone; Microsoft 365 mail records live there).
+- Old Joomla site: public snapshot (21 pages + assets) saved to Alex's Downloads as freytech-joomla-archive-2026-10-02.zip. Bluehost hosting and the .org registration are prepaid to Sep 2028 (order 1837519262, Sep 2025), so nothing is cancelled: domain, DNS zone and Microsoft 365 mail records stay as they are. Renewal decision due before Sep 2028.
 
 ## Hosting (2026-10-01)
 - Angelo approved the final copy. Alex is hosting on Hostinger: a temporary-domain placeholder today, domain switch when freytech.org unlocks (expected 2026-10-02).

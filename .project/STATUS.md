@@ -1,6 +1,6 @@
 # Status
 
-**Updated:** 2026-09-27 · **Milestone:** M1b Angelo's website requests · **Phase:** Angelo approved the final copy (2026-10-01). Hosting on Hostinger: placeholder today, freytech.org tomorrow when the domain unlocks
+**Updated:** 2026-09-27 · **Milestone:** M1b Angelo's website requests · **Phase:** LIVE on freytech.org (2026-10-02, Hostinger). Website milestone closed.
 
 ---
 
@@ -42,6 +42,11 @@ the E-Z Clor brochure source. Nothing in the thread asks for anything the site d
 - **Form activation:** click "Activate Form" in the FormSubmit email that arrives at info@freytech.org after the first submission.
 - The five deck/accessibility types with no Spectrum equivalent (bulkheads, LED lighting, safety covers, deck grating, deck furniture).
 - Business hours, founding-year wording, customer-naming permission, warranty text, manufacturer image permissions, analytics property (all unchanged from the last status).
+
+## Go-live (2026-10-02)
+- freytech.org A record moved at Bluehost to Hostinger 157.173.209.185 (nameservers unchanged, Microsoft 365 mail records untouched and re-verified). Let's Encrypt certificate issued for freytech.org + www. Verified live: all pages 200, branded 404, legacy Joomla redirects, HTTP→HTTPS, assets, sitemap (220 URLs), form endpoint in bundle.
+- Optional follow-up: www → bare-domain redirect added to public/.htaccess (not yet uploaded to Hostinger; canonical tags already point at the bare domain).
+- Remaining: FormSubmit activation click in info@freytech.org; submit sitemap in Search Console; back up and retire the old Joomla hosting (keep the Bluehost domain registration and DNS zone).
 
 ## Hosting (2026-10-01)
 - Angelo approved the final copy. Alex is hosting on Hostinger: a temporary-domain placeholder today, domain switch when freytech.org unlocks (expected 2026-10-02).

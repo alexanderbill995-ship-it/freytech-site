@@ -6,9 +6,10 @@ AddDefaultCharset UTF-8
 
 RewriteEngine On
 
-# HTTPS everywhere
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# HTTPS everywhere, and www -> bare domain (canonical is https://freytech.org)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://freytech.org%{REQUEST_URI} [L,R=301]
 
 # Legacy Joomla query-string URLs (old freytech.org)
 RewriteCond %{QUERY_STRING} option=com_content.*id=20 [NC]

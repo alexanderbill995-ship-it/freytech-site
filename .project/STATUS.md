@@ -46,7 +46,8 @@ the E-Z Clor brochure source. Nothing in the thread asks for anything the site d
 ## Go-live (2026-10-02)
 - freytech.org A record moved at Bluehost to Hostinger 157.173.209.185 (nameservers unchanged, Microsoft 365 mail records untouched and re-verified). Let's Encrypt certificate issued for freytech.org + www. Verified live: all pages 200, branded 404, legacy Joomla redirects, HTTP→HTTPS, assets, sitemap (220 URLs), form endpoint in bundle.
 - Optional follow-up: www → bare-domain redirect added to public/.htaccess (not yet uploaded to Hostinger; canonical tags already point at the bare domain).
-- Remaining: FormSubmit activation click in info@freytech.org; submit sitemap in Search Console; back up and retire the old Joomla hosting (keep the Bluehost domain registration and DNS zone).
+- Search Console: freytech.org domain property verified (alex@betterwithrook.com, DNS TXT at Bluehost) and sitemap submitted 2026-10-02.
+- Remaining: FormSubmit activation click in info@freytech.org (first submission sent 2026-10-02); back up and retire the old Joomla hosting (keep the Bluehost domain registration and DNS zone).
 
 ## Hosting (2026-10-01)
 - Angelo approved the final copy. Alex is hosting on Hostinger: a temporary-domain placeholder today, domain switch when freytech.org unlocks (expected 2026-10-02).
